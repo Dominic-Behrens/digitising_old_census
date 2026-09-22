@@ -1,0 +1,1 @@
+doc_id,pdf_page,page_index,image_path,original_page_role,candidate_table_numbers,original_matched_table_numbers,qa_decision,final_page_role,final_table_numbers,candidate_set_complete,visible_table_numbers,visible_title_snippet,printed_page,issue_type,confidence,needs_human_review,qa_notes,model,cost,error

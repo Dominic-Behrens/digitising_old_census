@@ -1,0 +1,2917 @@
+source_page_index,source_pdf_page,source_row_number,source_row_y,source_lga_name,field,raw_value,automatic_value,final_value,image_corrected
+182,183,1,199.44,Aberdeen,lga_name,Aberdeen,Aberdeen,Aberdeen,False
+182,183,1,199.44,Aberdeen,area,"1,491",1491,1491,False
+182,183,1,199.44,Aberdeen,males,379,379,379,False
+182,183,1,199.44,Aberdeen,females,355,355,355,False
+182,183,1,199.44,Aberdeen,persons,734,734,734,False
+182,183,1,199.44,Aberdeen,persons_per_area,.49,0.49,0.49,False
+182,183,1,199.44,Aberdeen,occupied_dwellings,142,142,142,False
+182,183,1,199.44,Aberdeen,dwellings_per_area,.095,0.095,0.095,False
+182,183,1,199.44,Aberdeen,population_per_dwelling,5.17,5.17,5.17,False
+182,183,2,207.6,Adamstown,lga_name,Adamstown,Adamstown,Adamstown,False
+182,183,2,207.6,Adamstown,area,973,973,973,False
+182,183,2,207.6,Adamstown,males,"1,347",1347,1347,False
+182,183,2,207.6,Adamstown,females,"1,313",1313,1313,False
+182,183,2,207.6,Adamstown,persons,"2,660",2660,2660,False
+182,183,2,207.6,Adamstown,persons_per_area,2.73,2.73,2.73,False
+182,183,2,207.6,Adamstown,occupied_dwellings,597,597,597,False
+182,183,2,207.6,Adamstown,dwellings_per_area,.614,0.614,0.614,False
+182,183,2,207.6,Adamstown,population_per_dwelling,4.46,4.46,4.46,False
+182,183,3,215.52,Albury,lga_name,Albury,Albury,Albury,False
+182,183,3,215.52,Albury,area,"18,460",18460,18460,False
+182,183,3,215.52,Albury,males,"3,052",3052,3052,False
+182,183,3,215.52,Albury,females,"3,257",3257,3257,False
+182,183,3,215.52,Albury,persons,"6,309",6309,6309,False
+182,183,3,215.52,Albury,persons_per_area,.34,0.34,0.34,False
+182,183,3,215.52,Albury,occupied_dwellings,"1,328",1328,1328,False
+182,183,3,215.52,Albury,dwellings_per_area,.072,0.072,0.072,False
+182,183,3,215.52,Albury,population_per_dwelling,4.75,4.75,4.75,False
+182,183,4,223.44,Alexandria,lga_name,Alexandria,Alexandria,Alexandria,False
+182,183,4,223.44,Alexandria,area,"1,024",1024,1024,False
+182,183,4,223.44,Alexandria,males,"5,260",5260,5260,False
+182,183,4,223.44,Alexandria,females,"4,863",4863,4863,False
+182,183,4,223.44,Alexandria,persons,"10,123",10123,10123,False
+182,183,4,223.44,Alexandria,persons_per_area,9.89,9.89,9.89,False
+182,183,4,223.44,Alexandria,occupied_dwellings,"2,244",2244,2244,False
+182,183,4,223.44,Alexandria,dwellings_per_area,2.191,2.191,2.191,False
+182,183,4,223.44,Alexandria,population_per_dwelling,4.51,4.51,4.51,False
+182,183,5,231.6,Annandale,lga_name,Annandale,Annandale,Annandale,False
+182,183,5,231.6,Annandale,area,360,360,360,False
+182,183,5,231.6,Annandale,males,"5,413",5413,5413,False
+182,183,5,231.6,Annandale,females,"5,827",5827,5827,False
+182,183,5,231.6,Annandale,persons,"11,240",11240,11240,False
+182,183,5,231.6,Annandale,persons_per_area,31.22,31.22,31.22,False
+182,183,5,231.6,Annandale,occupied_dwellings,"2,363",2363,2363,False
+182,183,5,231.6,Annandale,dwellings_per_area,6.564,6.564,6.564,False
+182,183,5,231.6,Annandale,population_per_dwelling,4.76,4.76,4.76,False
+182,183,6,247.69,Armidale,lga_name,Armidale,Armidale,Armidale,False
+182,183,6,247.69,Armidale,area,"2,080",2080,2080,False
+182,183,6,247.69,Armidale,males,"2,290",2290,2290,False
+182,183,6,247.69,Armidale,females,"2,448",2448,2448,False
+182,183,6,247.69,Armidale,persons,"4,738",4738,4738,False
+182,183,6,247.69,Armidale,persons_per_area,2.28,2.28,2.28,False
+182,183,6,247.69,Armidale,occupied_dwellings,853,853,853,False
+182,183,6,247.69,Armidale,dwellings_per_area,.410,0.410,0.410,False
+182,183,6,247.69,Armidale,population_per_dwelling,5.55,5.55,5.55,False
+182,183,7,255.6,Ashfield,lga_name,Ashfield,Ashfield,Ashfield,False
+182,183,7,255.6,Ashfield,area,"2,081",2081,2081,False
+182,183,7,255.6,Ashfield,males,"9,212",9212,9212,False
+182,183,7,255.6,Ashfield,females,"11,219",11219,11219,False
+182,183,7,255.6,Ashfield,persons,"20,431",20431,20431,False
+182,183,7,255.6,Ashfield,persons_per_area,9.82,9.82,9.82,False
+182,183,7,255.6,Ashfield,occupied_dwellings,"4,189",4189,4189,False
+182,183,7,255.6,Ashfield,dwellings_per_area,2.013,2.013,2.013,False
+182,183,7,255.6,Ashfield,population_per_dwelling,4.88,4.88,4.88,False
+182,183,8,263.76,Auburn,lga_name,Auburn,Auburn,Auburn,False
+182,183,8,263.76,Auburn,area,"2,688",2688,2688,False
+182,183,8,263.76,Auburn,males,"2,757",2757,2757,False
+182,183,8,263.76,Auburn,females,"2,802",2802,2802,False
+182,183,8,263.76,Auburn,persons,"5,559",5559,5559,False
+182,183,8,263.76,Auburn,persons_per_area,2.07,2.07,2.07,False
+182,183,8,263.76,Auburn,occupied_dwellings,"1,161",1161,1161,False
+182,183,8,263.76,Auburn,dwellings_per_area,.432,0.432,0.432,False
+182,183,8,263.76,Auburn,population_per_dwelling,4.79,4.79,4.79,False
+182,183,9,271.69,Ballina,lga_name,Ballina,Ballina,Ballina,False
+182,183,9,271.69,Ballina,area,"5,760",5760,5760,False
+182,183,9,271.69,Ballina,males,"1,022",1022,1022,False
+182,183,9,271.69,Ballina,females,"1,039",1039,1039,False
+182,183,9,271.69,Ballina,persons,"2,061",2061,2061,False
+182,183,9,271.69,Ballina,persons_per_area,.36,0.36,0.36,False
+182,183,9,271.69,Ballina,occupied_dwellings,402,402,402,False
+182,183,9,271.69,Ballina,dwellings_per_area,.070,0.070,0.070,False
+182,183,9,271.69,Ballina,population_per_dwelling,5.13,5.13,5.13,False
+182,183,10,279.84,Balmain,lga_name,Balmain,Balmain,Balmain,False
+182,183,10,279.84,Balmain,area,932,932,932,False
+182,183,10,279.84,Balmain,males,"15,907",15907,15907,False
+182,183,10,279.84,Balmain,females,"16,131",16131,16131,False
+182,183,10,279.84,Balmain,persons,"32,038",32038,32038,False
+182,183,10,279.84,Balmain,persons_per_area,34.38,34.38,34.38,False
+182,183,10,279.84,Balmain,occupied_dwellings,"6,464",6464,6464,False
+182,183,10,279.84,Balmain,dwellings_per_area,6.936,6.936,6.936,False
+182,183,10,279.84,Balmain,population_per_dwelling,4.96,4.96,4.96,False
+182,183,11,295.93,Balranald,lga_name,Balranald,Balranald,Balranald,False
+182,183,11,295.93,Balranald,area,"30,720",30720,30720,False
+182,183,11,295.93,Balranald,males,364,364,364,False
+182,183,11,295.93,Balranald,females,356,356,356,False
+182,183,11,295.93,Balranald,persons,720,720,720,False
+182,183,11,295.93,Balranald,persons_per_area,.02,0.02,0.02,False
+182,183,11,295.93,Balranald,occupied_dwellings,163,163,163,False
+182,183,11,295.93,Balranald,dwellings_per_area,.005,0.005,0.005,False
+182,183,11,295.93,Balranald,population_per_dwelling,4.42,4.42,4.42,False
+182,183,12,303.84,Bankstown,lga_name,Bankstown,Bankstown,Bankstown,False
+182,183,12,303.84,Bankstown,area,"19,393",19393,19393,False
+182,183,12,303.84,Bankstown,males,"1,060",1060,1060,False
+182,183,12,303.84,Bankstown,females,979,979,979,False
+182,183,12,303.84,Bankstown,persons,"2,039",2039,2039,False
+182,183,12,303.84,Bankstown,persons_per_area,.11,0.11,0.11,False
+182,183,12,303.84,Bankstown,occupied_dwellings,465,465,465,False
+182,183,12,303.84,Bankstown,dwellings_per_area,.024,0.024,0.024,False
+182,183,12,303.84,Bankstown,population_per_dwelling,4.38,4.38,4.38,False
+182,183,13,311.76,Barraba,lga_name,Barraba,Barraba,Barraba,False
+182,183,13,311.76,Barraba,area,840,840,840,False
+182,183,13,311.76,Barraba,males,554,554,554,False
+182,183,13,311.76,Barraba,females,571,571,571,False
+182,183,13,311.76,Barraba,persons,"1,125",1125,1125,False
+182,183,13,311.76,Barraba,persons_per_area,1.34,1.34,1.34,False
+182,183,13,311.76,Barraba,occupied_dwellings,223,223,223,False
+182,183,13,311.76,Barraba,dwellings_per_area,.265,0.265,0.265,False
+182,183,13,311.76,Barraba,population_per_dwelling,5.04,5.04,5.04,False
+182,183,14,319.93,Bathurst,lga_name,Bathurst,Bathurst,Bathurst,False
+182,183,14,319.93,Bathurst,area,"2,560",2560,2560,False
+182,183,14,319.93,Bathurst,males,"4,194",4194,4194,False
+182,183,14,319.93,Bathurst,females,"4,381",4381,4381,False
+182,183,14,319.93,Bathurst,persons,"8,575",8575,8575,False
+182,183,14,319.93,Bathurst,persons_per_area,3.35,3.35,3.35,False
+182,183,14,319.93,Bathurst,occupied_dwellings,"1,711",1711,1711,False
+182,183,14,319.93,Bathurst,dwellings_per_area,.668,0.668,0.668,False
+182,183,14,319.93,Bathurst,population_per_dwelling,5.01,5.01,5.01,False
+182,183,15,327.84,Bega,lga_name,Bega,Bega,Bega,False
+182,183,15,327.84,Bega,area,"2,300",2300,2300,False
+182,183,15,327.84,Bega,males,912,912,912,False
+182,183,15,327.84,Bega,females,"1,057",1057,1057,False
+182,183,15,327.84,Bega,persons,"1,969",1969,1969,False
+182,183,15,327.84,Bega,persons_per_area,.86,0.86,0.86,False
+182,183,15,327.84,Bega,occupied_dwellings,415,415,415,False
+182,183,15,327.84,Bega,dwellings_per_area,.180,0.180,0.180,False
+182,183,15,327.84,Bega,population_per_dwelling,4.74,4.74,4.74,False
+182,183,16,343.93,Berry,lga_name,Berry,Berry,Berry,False
+182,183,16,343.93,Berry,area,"21,574",21574,21574,False
+182,183,16,343.93,Berry,males,804,804,804,False
+182,183,16,343.93,Berry,females,817,817,817,False
+182,183,16,343.93,Berry,persons,"1,621",1621,1621,False
+182,183,16,343.93,Berry,persons_per_area,.08,0.08,0.08,False
+182,183,16,343.93,Berry,occupied_dwellings,310,310,310,False
+182,183,16,343.93,Berry,dwellings_per_area,.014,0.014,0.014,False
+182,183,16,343.93,Berry,population_per_dwelling,5.23,5.23,5.23,False
+182,183,17,351.84,Bexley,lga_name,Bexley,Bexley,Bexley,False
+182,183,17,351.84,Bexley,area,"1,920",1920,1920,False
+182,183,17,351.84,Bexley,males,"3,096",3096,3096,False
+182,183,17,351.84,Bexley,females,"3,421",3421,3421,False
+182,183,17,351.84,Bexley,persons,"6,517",6517,6517,False
+182,183,17,351.84,Bexley,persons_per_area,3.39,3.39,3.39,False
+182,183,17,351.84,Bexley,occupied_dwellings,"1,405",1405,1405,False
+182,183,17,351.84,Bexley,dwellings_per_area,.732,0.732,0.732,False
+182,183,17,351.84,Bexley,population_per_dwelling,4.64,4.64,4.64,False
+182,183,18,360.01,Bingara,lga_name,Bingara,Bingara,Bingara,False
+182,183,18,360.01,Bingara,area,"3,072",3072,3072,False
+182,183,18,360.01,Bingara,males,613,613,613,False
+182,183,18,360.01,Bingara,females,600,600,600,False
+182,183,18,360.01,Bingara,persons,"1,213",1213,1213,False
+182,183,18,360.01,Bingara,persons_per_area,.39,0.39,0.39,False
+182,183,18,360.01,Bingara,occupied_dwellings,237,237,237,False
+182,183,18,360.01,Bingara,dwellings_per_area,.077,0.077,0.077,False
+182,183,18,360.01,Bingara,population_per_dwelling,5.12,5.12,5.12,False
+182,183,19,367.93,Blayney,lga_name,Blayney,Blayney,Blayney,False
+182,183,19,367.93,Blayney,area,"3,040",3040,3040,False
+182,183,19,367.93,Blayney,males,710,710,710,False
+182,183,19,367.93,Blayney,females,725,725,725,False
+182,183,19,367.93,Blayney,persons,"1,435",1435,1435,False
+182,183,19,367.93,Blayney,persons_per_area,.47,0.47,0.47,False
+182,183,19,367.93,Blayney,occupied_dwellings,300,300,300,False
+182,183,19,367.93,Blayney,dwellings_per_area,.099,0.099,0.099,False
+182,183,19,367.93,Blayney,population_per_dwelling,4.78,4.78,4.78,False
+182,183,20,375.84,Bombala,lga_name,Bombala,Bombala,Bombala,False
+182,183,20,375.84,Bombala,area,"1,299",1299,1299,False
+182,183,20,375.84,Bombala,males,404,404,404,False
+182,183,20,375.84,Bombala,females,423,423,423,False
+182,183,20,375.84,Bombala,persons,827,827,827,False
+182,183,20,375.84,Bombala,persons_per_area,.64,0.64,0.64,False
+182,183,20,375.84,Bombala,occupied_dwellings,173,173,173,False
+182,183,20,375.84,Bombala,dwellings_per_area,.133,0.133,0.133,False
+182,183,20,375.84,Bombala,population_per_dwelling,4.78,4.78,4.78,False
+182,183,21,392.4,Botany,lga_name,Botany,Botany,Botany,False
+182,183,21,392.4,Botany,area,"2,163",2163,2163,False
+182,183,21,392.4,Botany,males,"2,355",2355,2355,False
+182,183,21,392.4,Botany,females,"2,054",2054,2054,False
+182,183,21,392.4,Botany,persons,"4,409",4409,4409,False
+182,183,21,392.4,Botany,persons_per_area,2.04,2.04,2.04,False
+182,183,21,392.4,Botany,occupied_dwellings,896,896,896,False
+182,183,21,392.4,Botany,dwellings_per_area,.414,0.414,0.414,False
+182,183,21,392.4,Botany,population_per_dwelling,4.92,4.92,4.92,False
+182,183,22,400.08,"Botany, North",lga_name,"Botany, North","Botany, North","Botany, North",False
+182,183,22,400.08,"Botany, North",area,"2,256",2256,2256,False
+182,183,22,400.08,"Botany, North",males,"3,083",3083,3083,False
+182,183,22,400.08,"Botany, North",females,"2,753",2753,2753,False
+182,183,22,400.08,"Botany, North",persons,"5,836",5836,5836,False
+182,183,22,400.08,"Botany, North",persons_per_area,2.59,2.59,2.59,False
+182,183,22,400.08,"Botany, North",occupied_dwellings,"1,271",1271,1271,False
+182,183,22,400.08,"Botany, North",dwellings_per_area,.563,0.563,0.563,False
+182,183,22,400.08,"Botany, North",population_per_dwelling,4.59,4.59,4.59,False
+182,183,23,408.0,Bourke,lga_name,Bourke,Bourke,Bourke,False
+182,183,23,408.0,Bourke,area,"28,160",28160,28160,False
+182,183,23,408.0,Bourke,males,846,846,846,False
+182,183,23,408.0,Bourke,females,747,747,747,False
+182,183,23,408.0,Bourke,persons,"1,593",1593,1593,False
+182,183,23,408.0,Bourke,persons_per_area,.06,0.06,0.06,False
+182,183,23,408.0,Bourke,occupied_dwellings,417,417,417,False
+182,183,23,408.0,Bourke,dwellings_per_area,.015,0.015,0.015,False
+182,183,23,408.0,Bourke,population_per_dwelling,3.82,3.82,3.82,False
+182,183,24,415.93,Bowral,lga_name,Bowral,Bowral,Bowral,False
+182,183,24,415.93,Bowral,area,"3,315",3315,3315,False
+182,183,24,415.93,Bowral,males,735,735,735,False
+182,183,24,415.93,Bowral,females,"1,016",1016,1016,False
+182,183,24,415.93,Bowral,persons,"1,751",1751,1751,False
+182,183,24,415.93,Bowral,persons_per_area,.53,0.53,0.53,False
+182,183,24,415.93,Bowral,occupied_dwellings,364,364,364,False
+182,183,24,415.93,Bowral,dwellings_per_area,.no,0.no,0.110,True
+182,183,24,415.93,Bowral,population_per_dwelling,4.81,4.81,4.81,False
+182,183,25,424.08,Braidwood,lga_name,Braidwood,Braidwood,Braidwood,False
+182,183,25,424.08,Braidwood,area,"5,760",5760,5760,False
+182,183,25,424.08,Braidwood,males,577,577,577,False
+182,183,25,424.08,Braidwood,females,656,656,656,False
+182,183,25,424.08,Braidwood,persons,"1,233",1233,1233,False
+182,183,25,424.08,Braidwood,persons_per_area,.21,0.21,0.21,False
+182,183,25,424.08,Braidwood,occupied_dwellings,271,271,271,False
+182,183,25,424.08,Braidwood,dwellings_per_area,.047,0.047,0.047,False
+182,183,25,424.08,Braidwood,population_per_dwelling,4.55,4.55,4.55,False
+182,183,26,440.16,Brewarrina,lga_name,Brewarrina,Brewarrina,Brewarrina,False
+182,183,26,440.16,Brewarrina,area,"16,000",16000,16000,False
+182,183,26,440.16,Brewarrina,males,412,412,412,False
+182,183,26,440.16,Brewarrina,females,386,386,386,False
+182,183,26,440.16,Brewarrina,persons,798,798,798,False
+182,183,26,440.16,Brewarrina,persons_per_area,.05,0.05,0.05,False
+182,183,26,440.16,Brewarrina,occupied_dwellings,175,175,175,False
+182,183,26,440.16,Brewarrina,dwellings_per_area,.Oll,0.Oll,0.011,True
+182,183,26,440.16,Brewarrina,population_per_dwelling,4.56,4.56,4.56,False
+182,183,27,448.08,Broken Hill,lga_name,Broken Hill,Broken Hill,Broken Hill,False
+182,183,27,448.08,Broken Hill,area,"16,640",16640,16640,False
+182,183,27,448.08,Broken Hill,males,"16,921",16921,16921,False
+182,183,27,448.08,Broken Hill,females,"14,051",14051,14051,False
+182,183,27,448.08,Broken Hill,persons,"30,972",30972,30972,False
+182,183,27,448.08,Broken Hill,persons_per_area,1.86,1.86,1.86,False
+182,183,27,448.08,Broken Hill,occupied_dwellings,"6,688",6688,6688,False
+182,183,27,448.08,Broken Hill,dwellings_per_area,.402,0.402,0.402,False
+182,183,27,448.08,Broken Hill,population_per_dwelling,4.63,4.63,4.63,False
+182,183,28,456.24,Broughton Vale,lga_name,Broughton Vale,Broughton Vale,Broughton Vale,False
+182,183,28,456.24,Broughton Vale,area,"15,040",15040,15040,False
+182,183,28,456.24,Broughton Vale,males,131,131,131,False
+182,183,28,456.24,Broughton Vale,females,105,105,105,False
+182,183,28,456.24,Broughton Vale,persons,236,236,236,False
+182,183,28,456.24,Broughton Vale,persons_per_area,.02,0.02,0.02,False
+182,183,28,456.24,Broughton Vale,occupied_dwellings,59,59,59,False
+182,183,28,456.24,Broughton Vale,dwellings_per_area,.004,0.004,0.004,False
+182,183,28,456.24,Broughton Vale,population_per_dwelling,4.00,4.00,4.00,False
+182,183,29,464.4,Burrowa,lga_name,Burrowa,Burrowa,Burrowa,False
+182,183,29,464.4,Burrowa,area,"21,760",21760,21760,False
+182,183,29,464.4,Burrowa,males,461,461,461,False
+182,183,29,464.4,Burrowa,females,430,430,430,False
+182,183,29,464.4,Burrowa,persons,891,891,891,False
+182,183,29,464.4,Burrowa,persons_per_area,.04,0.04,0.04,False
+182,183,29,464.4,Burrowa,occupied_dwellings,182,182,182,False
+182,183,29,464.4,Burrowa,dwellings_per_area,.008,0.008,0.008,False
+182,183,29,464.4,Burrowa,population_per_dwelling,4.90,4.90,4.90,False
+182,183,30,472.33,Burwood,lga_name,Burwood,Burwood,Burwood,False
+182,183,30,472.33,Burwood,area,"1,050",1050,1050,False
+182,183,30,472.33,Burwood,males,"4,001",4001,4001,False
+182,183,30,472.33,Burwood,females,"5,379",5379,5379,False
+182,183,30,472.33,Burwood,persons,"9,380",9380,9380,False
+182,183,30,472.33,Burwood,persons_per_area,8.93,8.93,8.93,False
+182,183,30,472.33,Burwood,occupied_dwellings,"1,843",1843,1843,False
+182,183,30,472.33,Burwood,dwellings_per_area,1.755,1.755,1.755,False
+182,183,30,472.33,Burwood,population_per_dwelling,5.09,5.09,5.09,False
+182,183,31,488.4,Cabramatta and Canley Vale,lga_name,Cabramatta and Canley Vale,Cabramatta and Canley Vale,Cabramatta and Canley Vale,False
+182,183,31,488.4,Cabramatta and Canley Vale,area,"7,272",7272,7272,False
+182,183,31,488.4,Cabramatta and Canley Vale,males,617,617,617,False
+182,183,31,488.4,Cabramatta and Canley Vale,females,564,564,564,False
+182,183,31,488.4,Cabramatta and Canley Vale,persons,"1,181",1181,1181,False
+182,183,31,488.4,Cabramatta and Canley Vale,persons_per_area,.16,0.16,0.16,False
+182,183,31,488.4,Cabramatta and Canley Vale,occupied_dwellings,262,262,262,False
+182,183,31,488.4,Cabramatta and Canley Vale,dwellings_per_area,.036,0.036,0.036,False
+182,183,31,488.4,Cabramatta and Canley Vale,population_per_dwelling,"4,51",451,4.51,True
+182,183,32,496.33,Camden,lga_name,Camden,Camden,Camden,False
+182,183,32,496.33,Camden,area,"7,680",7680,7680,False
+182,183,32,496.33,Camden,males,872,872,872,False
+182,183,32,496.33,Camden,females,925,925,925,False
+182,183,32,496.33,Camden,persons,"1,797",1797,1797,False
+182,183,32,496.33,Camden,persons_per_area,.23,0.23,0.23,False
+182,183,32,496.33,Camden,occupied_dwellings,326,326,326,False
+182,183,32,496.33,Camden,dwellings_per_area,.042,0.042,0.042,False
+182,183,32,496.33,Camden,population_per_dwelling,5.51,5.51,5.51,False
+182,183,33,504.24,Campbelltown,lga_name,Campbelltown,Campbelltown,Campbelltown,False
+182,183,33,504.24,Campbelltown,area,"64,640",64640,64640,False
+182,183,33,504.24,Campbelltown,males,868,868,868,False
+182,183,33,504.24,Campbelltown,females,957,957,957,False
+182,183,33,504.24,Campbelltown,persons,"1,825",1825,1825,False
+182,183,33,504.24,Campbelltown,persons_per_area,.03,0.03,0.03,False
+182,183,33,504.24,Campbelltown,occupied_dwellings,394,394,394,False
+182,183,33,504.24,Campbelltown,dwellings_per_area,.006,0.006,0.006,False
+182,183,33,504.24,Campbelltown,population_per_dwelling,4.63,4.63,4.63,False
+182,183,34,512.16,Canterbury,lga_name,Canterbury,Canterbury,Canterbury,False
+182,183,34,512.16,Canterbury,area,"8,384",8384,8384,False
+182,183,34,512.16,Canterbury,males,"5,628",5628,5628,False
+182,183,34,512.16,Canterbury,females,"5,707",5707,5707,False
+182,183,34,512.16,Canterbury,persons,"11,335",11335,11335,False
+182,183,34,512.16,Canterbury,persons_per_area,1.35,1.35,1.35,False
+182,183,34,512.16,Canterbury,occupied_dwellings,"2,329",2329,2329,False
+182,183,34,512.16,Canterbury,dwellings_per_area,.278,0.278,0.278,False
+182,183,34,512.16,Canterbury,population_per_dwelling,4.87,4.87,4.87,False
+182,183,35,520.33,Carcoar,lga_name,Carcoar,Carcoar,Carcoar,False
+182,183,35,520.33,Carcoar,area,429,429,429,False
+182,183,35,520.33,Carcoar,males,245,245,245,False
+182,183,35,520.33,Carcoar,females,290,290,290,False
+182,183,35,520.33,Carcoar,persons,535,535,535,False
+182,183,35,520.33,Carcoar,persons_per_area,1.25,1.25,1.25,False
+182,183,35,520.33,Carcoar,occupied_dwellings,104,104,104,False
+182,183,35,520.33,Carcoar,dwellings_per_area,.242,0.242,0.242,False
+182,183,35,520.33,Carcoar,population_per_dwelling,5.14,5.14,5.14,False
+182,183,36,536.4,Carrington,lga_name,Carrington,Carrington,Carrington,False
+182,183,36,536.4,Carrington,area,435,435,435,False
+182,183,36,536.4,Carrington,males,"1,366",1366,1366,False
+182,183,36,536.4,Carrington,females,"1,319",1319,1319,False
+182,183,36,536.4,Carrington,persons,"2,685",2685,2685,False
+182,183,36,536.4,Carrington,persons_per_area,6.17,6.17,6.17,False
+182,183,36,536.4,Carrington,occupied_dwellings,568,568,568,False
+182,183,36,536.4,Carrington,dwellings_per_area,1.306,1.306,1.306,False
+182,183,36,536.4,Carrington,population_per_dwelling,4.73,4.73,4.73,False
+182,183,37,544.33,Casino,lga_name,Casino,Casino,Casino,False
+182,183,37,544.33,Casino,area,"21,500",21500,21500,False
+182,183,37,544.33,Casino,males,"1,734",1734,1734,False
+182,183,37,544.33,Casino,females,"1,686",1686,1686,False
+182,183,37,544.33,Casino,persons,"3,420",3420,3420,False
+182,183,37,544.33,Casino,persons_per_area,.16,0.16,0.16,False
+182,183,37,544.33,Casino,occupied_dwellings,643,643,643,False
+182,183,37,544.33,Casino,dwellings_per_area,.030,0.030,0.030,False
+182,183,37,544.33,Casino,population_per_dwelling,5.32,5.32,5.32,False
+182,183,38,552.49,Castlereagh,lga_name,Castlereagh,Castlereagh,Castlereagh,False
+182,183,38,552.49,Castlereagh,area,"30,426",30426,30426,False
+182,183,38,552.49,Castlereagh,males,285,285,285,False
+182,183,38,552.49,Castlereagh,females,235,235,235,False
+182,183,38,552.49,Castlereagh,persons,520,520,520,False
+182,183,38,552.49,Castlereagh,persons_per_area,.02,0.02,0.02,False
+182,183,38,552.49,Castlereagh,occupied_dwellings,119,119,119,False
+182,183,38,552.49,Castlereagh,dwellings_per_area,.004,0.004,0.004,False
+182,183,38,552.49,Castlereagh,population_per_dwelling,4.37,4.37,4.37,False
+182,183,39,560.4,Cobar,lga_name,Cobar,Cobar,Cobar,False
+182,183,39,560.4,Cobar,area,"22,048",22048,22048,False
+182,183,39,560.4,Cobar,males,"2,632",2632,2632,False
+182,183,39,560.4,Cobar,females,"1,798",1798,1798,False
+182,183,39,560.4,Cobar,persons,"4,430",4430,4430,False
+182,183,39,560.4,Cobar,persons_per_area,.20,0.20,0.20,False
+182,183,39,560.4,Cobar,occupied_dwellings,850,850,850,False
+182,183,39,560.4,Cobar,dwellings_per_area,.039,0.039,0.039,False
+182,183,39,560.4,Cobar,population_per_dwelling,5.21,5.21,5.21,False
+182,183,40,568.56,Concord,lga_name,Concord,Concord,Concord,False
+182,183,40,568.56,Concord,area,"2,666",2666,2666,False
+182,183,40,568.56,Concord,males,"2,009",2009,2009,False
+182,183,40,568.56,Concord,females,"2,067",2067,2067,False
+182,183,40,568.56,Concord,persons,"4,076",4076,4076,False
+182,183,40,568.56,Concord,persons_per_area,1.53,1.53,1.53,False
+182,183,40,568.56,Concord,occupied_dwellings,844,844,844,False
+182,183,40,568.56,Concord,dwellings_per_area,.317,0.317,0.317,False
+182,183,40,568.56,Concord,population_per_dwelling,4.83,4.83,4.83,False
+182,183,41,584.65,Condobolin,lga_name,Condobolin,Condobolin,Condobolin,False
+182,183,41,584.65,Condobolin,area,"29,888",29888,29888,False
+182,183,41,584.65,Condobolin,males,615,615,615,False
+182,183,41,584.65,Condobolin,females,615,615,615,False
+182,183,41,584.65,Condobolin,persons,"1,230",1230,1230,False
+182,183,41,584.65,Condobolin,persons_per_area,.04,0.04,0.04,False
+182,183,41,584.65,Condobolin,occupied_dwellings,242,242,242,False
+182,183,41,584.65,Condobolin,dwellings_per_area,.008,0.008,0.008,False
+182,183,41,584.65,Condobolin,population_per_dwelling,5.08,5.08,5.08,False
+182,183,42,592.56,Cooma,lga_name,Cooma,Cooma,Cooma,False
+182,183,42,592.56,Cooma,area,"17,664",17664,17664,False
+182,183,42,592.56,Cooma,males,"1,034",1034,1034,False
+182,183,42,592.56,Cooma,females,"1,029",1029,1029,False
+182,183,42,592.56,Cooma,persons,"2,063",2063,2063,False
+182,183,42,592.56,Cooma,persons_per_area,.12,0.12,0.12,False
+182,183,42,592.56,Cooma,occupied_dwellings,376,376,376,False
+182,183,42,592.56,Cooma,dwellings_per_area,.021,0.021,0.021,False
+182,183,42,592.56,Cooma,population_per_dwelling,5.49,5.49,5.49,False
+182,183,43,600.49,Coonamble,lga_name,Coonamble,Coonamble,Coonamble,False
+182,183,43,600.49,Coonamble,area,"15,040",15040,15040,False
+182,183,43,600.49,Coonamble,males,"1,182",1182,1182,False
+182,183,43,600.49,Coonamble,females,"1,080",1080,1080,False
+182,183,43,600.49,Coonamble,persons,"2,262",2262,2262,False
+182,183,43,600.49,Coonamble,persons_per_area,.15,0.15,0.15,False
+182,183,43,600.49,Coonamble,occupied_dwellings,460,460,460,False
+182,183,43,600.49,Coonamble,dwellings_per_area,.031,0.031,0.031,False
+182,183,43,600.49,Coonamble,population_per_dwelling,4.92,4.92,4.92,False
+182,183,44,608.65,Cootamundra,lga_name,Cootamundra,Cootamundra,Cootamundra,False
+182,183,44,608.65,Cootamundra,area,"6,080",6080,6080,False
+182,183,44,608.65,Cootamundra,males,"1,517",1517,1517,False
+182,183,44,608.65,Cootamundra,females,"1,450",1450,1450,False
+182,183,44,608.65,Cootamundra,persons,"2,967",2967,2967,False
+182,183,44,608.65,Cootamundra,persons_per_area,.49,0.49,0.49,False
+182,183,44,608.65,Cootamundra,occupied_dwellings,553,553,553,False
+182,183,44,608.65,Cootamundra,dwellings_per_area,.091,0.091,0.091,False
+182,183,44,608.65,Cootamundra,population_per_dwelling,5.37,5.37,5.37,False
+182,183,45,616.56,Coraki,lga_name,Coraki,Coraki,Coraki,False
+182,183,45,616.56,Coraki,area,"2,560",2560,2560,False
+182,183,45,616.56,Coraki,males,623,623,623,False
+182,183,45,616.56,Coraki,females,515,515,515,False
+182,183,45,616.56,Coraki,persons,"1,138",1138,1138,False
+182,183,45,616.56,Coraki,persons_per_area,.44,0.44,0.44,False
+182,183,45,616.56,Coraki,occupied_dwellings,209,209,209,False
+182,183,45,616.56,Coraki,dwellings_per_area,.082,0.082,0.082,False
+182,183,45,616.56,Coraki,population_per_dwelling,5.44,5.44,5.44,False
+182,183,46,632.65,Corowa,lga_name,Corowa,Corowa,Corowa,False
+182,183,46,632.65,Corowa,area,"8,040",8040,8040,False
+182,183,46,632.65,Corowa,males,"1,049",1049,1049,False
+182,183,46,632.65,Corowa,females,"1,014",1014,1014,False
+182,183,46,632.65,Corowa,persons,"2,063",2063,2063,False
+182,183,46,632.65,Corowa,persons_per_area,.26,0.26,0.26,False
+182,183,46,632.65,Corowa,occupied_dwellings,421,421,421,False
+182,183,46,632.65,Corowa,dwellings_per_area,.052,0.052,0.052,False
+182,183,46,632.65,Corowa,population_per_dwelling,4.90,4.90,4.90,False
+182,183,47,640.56,Cowra,lga_name,Cowra,Cowra,Cowra,False
+182,183,47,640.56,Cowra,area,"5,677",5677,5677,False
+182,183,47,640.56,Cowra,males,"1,692",1692,1692,False
+182,183,47,640.56,Cowra,females,"1,579",1579,1579,False
+182,183,47,640.56,Cowra,persons,"3,271",3271,3271,False
+182,183,47,640.56,Cowra,persons_per_area,.58,0.58,0.58,False
+182,183,47,640.56,Cowra,occupied_dwellings,646,646,646,False
+182,183,47,640.56,Cowra,dwellings_per_area,.1l4,0.1l4,0.114,True
+182,183,47,640.56,Cowra,population_per_dwelling,5.06,5.06,5.06,False
+182,183,48,648.49,Cudal,lga_name,Cudal,Cudal,Cudal,False
+182,183,48,648.49,Cudal,area,"25,600",25600,25600,False
+182,183,48,648.49,Cudal,males,304,304,304,False
+182,183,48,648.49,Cudal,females,270,270,270,False
+182,183,48,648.49,Cudal,persons,574,574,574,False
+182,183,48,648.49,Cudal,persons_per_area,.02,0.02,0.02,False
+182,183,48,648.49,Cudal,occupied_dwellings,120,120,120,False
+182,183,48,648.49,Cudal,dwellings_per_area,.005,0.005,0.005,False
+182,183,48,648.49,Cudal,population_per_dwelling,4.78,4.78,4.78,False
+182,183,49,656.65,Cudgegong,lga_name,Cudgegong,Cudgegong,Cudgegong,False
+182,183,49,656.65,Cudgegong,area,"122,880",122880,122880,False
+182,183,49,656.65,Cudgegong,males,"1,431",1431,1431,False
+182,183,49,656.65,Cudgegong,females,"1,247",1247,1247,False
+182,183,49,656.65,Cudgegong,persons,"2,678",2678,2678,False
+182,183,49,656.65,Cudgegong,persons_per_area,.02,0.02,0.02,False
+182,183,49,656.65,Cudgegong,occupied_dwellings,511,511,511,False
+182,183,49,656.65,Cudgegong,dwellings_per_area,.004,0.004,0.004,False
+182,183,49,656.65,Cudgegong,population_per_dwelling,5.24,5.24,5.24,False
+182,183,50,664.56,Darlington,lga_name,Darlington,Darlington,Darlington,False
+182,183,50,664.56,Darlington,area,44,44,44,False
+182,183,50,664.56,Darlington,males,"1,863",1863,1863,False
+182,183,50,664.56,Darlington,females,"1,953",1953,1953,False
+182,183,50,664.56,Darlington,persons,"3,816",3816,3816,False
+182,183,50,664.56,Darlington,persons_per_area,86.73,86.73,86.73,False
+182,183,50,664.56,Darlington,occupied_dwellings,745,745,745,False
+182,183,50,664.56,Darlington,dwellings_per_area,16.932,16.932,16.932,False
+182,183,50,664.56,Darlington,population_per_dwelling,5.12,5.12,5.12,False
+182,183,51,680.88,Deniliquin,lga_name,Deniliquin,Deniliquin,Deniliquin,False
+182,183,51,680.88,Deniliquin,area,"32,000",32000,32000,False
+182,183,51,680.88,Deniliquin,males,"1,246",1246,1246,False
+182,183,51,680.88,Deniliquin,females,"1,248",1248,1248,False
+182,183,51,680.88,Deniliquin,persons,"2,494",2494,2494,False
+182,183,51,680.88,Deniliquin,persons_per_area,.08,0.08,0.08,False
+182,183,51,680.88,Deniliquin,occupied_dwellings,591,591,591,False
+182,183,51,680.88,Deniliquin,dwellings_per_area,.018,0.018,0.018,False
+182,183,51,680.88,Deniliquin,population_per_dwelling,4.22,4.22,4.22,False
+182,183,52,688.8,Drummoyne,lga_name,Drummoyne,Drummoyne,Drummoyne,False
+182,183,52,688.8,Drummoyne,area,"1,920",1920,1920,False
+182,183,52,688.8,Drummoyne,males,"4,182",4182,4182,False
+182,183,52,688.8,Drummoyne,females,"4,496",4496,4496,False
+182,183,52,688.8,Drummoyne,persons,"8,678",8678,8678,False
+182,183,52,688.8,Drummoyne,persons_per_area,4.52,4.52,4.52,False
+182,183,52,688.8,Drummoyne,occupied_dwellings,"1,902",1902,1902,False
+182,183,52,688.8,Drummoyne,dwellings_per_area,.991,0.991,0.991,False
+182,183,52,688.8,Drummoyne,population_per_dwelling,4.56,4.56,4.56,False
+182,183,53,696.97,Dubbo,lga_name,Dubbo,Dubbo,Dubbo,False
+182,183,53,696.97,Dubbo,area,"2,671",2671,2671,False
+182,183,53,696.97,Dubbo,males,"2,210",2210,2210,False
+182,183,53,696.97,Dubbo,females,"2,242",2242,2242,False
+182,183,53,696.97,Dubbo,persons,"4,452",4452,4452,False
+182,183,53,696.97,Dubbo,persons_per_area,1.67,1.67,1.67,False
+182,183,53,696.97,Dubbo,occupied_dwellings,845,845,845,False
+182,183,53,696.97,Dubbo,dwellings_per_area,.316,0.316,0.316,False
+182,183,53,696.97,Dubbo,population_per_dwelling,5.27,5.27,5.27,False
+182,183,54,704.88,Dundas,lga_name,Dundas,Dundas,Dundas,False
+182,183,54,704.88,Dundas,area,"2,688",2688,2688,False
+182,183,54,704.88,Dundas,males,576,576,576,False
+182,183,54,704.88,Dundas,females,560,560,560,False
+182,183,54,704.88,Dundas,persons,"1,136",1136,1136,False
+182,183,54,704.88,Dundas,persons_per_area,.42,0.42,0.42,False
+182,183,54,704.88,Dundas,occupied_dwellings,216,216,216,False
+182,183,54,704.88,Dundas,dwellings_per_area,.080,0.080,0.080,False
+182,183,54,704.88,Dundas,population_per_dwelling,5.26,5.26,5.26,False
+182,183,55,713.05,Dungog,lga_name,Dungog,Dungog,Dungog,False
+182,183,55,713.05,Dungog,area,"2,701",2701,2701,False
+182,183,55,713.05,Dungog,males,820,820,820,False
+182,183,55,713.05,Dungog,females,703,703,703,False
+182,183,55,713.05,Dungog,persons,"1,523",1523,1523,False
+182,183,55,713.05,Dungog,persons_per_area,.56,0.56,0.56,False
+182,183,55,713.05,Dungog,occupied_dwellings,458,458,458,False
+182,183,55,713.05,Dungog,dwellings_per_area,.170,0.170,0.170,False
+182,183,55,713.05,Dungog,population_per_dwelling,3.33,3.33,3.33,False
+182,183,56,728.88,Eastwood,lga_name,Eastwood,Eastwood,Eastwood,False
+182,183,56,728.88,Eastwood,area,"2,931",2931,2931,False
+182,183,56,728.88,Eastwood,males,521,521,521,False
+182,183,56,728.88,Eastwood,females,447,447,447,False
+182,183,56,728.88,Eastwood,persons,968,968,968,False
+182,183,56,728.88,Eastwood,persons_per_area,.33,0.33,0.33,False
+182,183,56,728.88,Eastwood,occupied_dwellings,219,219,219,False
+182,183,56,728.88,Eastwood,dwellings_per_area,.075,0.075,0.075,False
+182,183,56,728.88,Eastwood,population_per_dwelling,4.42,4.42,4.42,False
+182,183,57,736.8,Enfield,lga_name,Enfield,Enfield,Enfield,False
+182,183,57,736.8,Enfield,area,"1,696",1696,1696,False
+182,183,57,736.8,Enfield,males,"1,695",1695,1695,False
+182,183,57,736.8,Enfield,females,"1,749",1749,1749,False
+182,183,57,736.8,Enfield,persons,"3,444",3444,3444,False
+182,183,57,736.8,Enfield,persons_per_area,2.03,2.03,2.03,False
+182,183,57,736.8,Enfield,occupied_dwellings,718,718,718,False
+182,183,57,736.8,Enfield,dwellings_per_area,.423,0.423,0.423,False
+182,183,57,736.8,Enfield,population_per_dwelling,4.80,4.80,4.80,False
+182,183,58,744.89,Ermington and Rydalme~~,lga_name,Ermington and Rydalme~~,Ermington and Rydalme~~,Ermington and Rydalmere,True
+182,183,58,744.89,Ermington and Rydalme~~,area,"2,048",2048,2048,False
+182,183,58,744.89,Ermington and Rydalme~~,males,909,909,909,False
+182,183,58,744.89,Ermington and Rydalme~~,females,807,807,807,False
+182,183,58,744.89,Ermington and Rydalme~~,persons,"1,716",1716,1716,False
+182,183,58,744.89,Ermington and Rydalme~~,persons_per_area,.84,0.84,0.84,False
+182,183,58,744.89,Ermington and Rydalme~~,occupied_dwellings,138,138,138,False
+182,183,58,744.89,Ermington and Rydalme~~,dwellings_per_area,.067,0.067,0.067,False
+182,183,58,744.89,Ermington and Rydalme~~,population_per_dwelling,12.43,12.43,12.43,False
+182,183,59,752.88,Erskineville,lga_name,Erskineville,Erskineville,Erskineville,False
+182,183,59,752.88,Erskineville,area,166,166,166,False
+182,183,59,752.88,Erskineville,males,"3,583",3583,3583,False
+182,183,59,752.88,Erskineville,females,"3,716",3716,3716,False
+182,183,59,752.88,Erskineville,persons,"7,299",7299,7299,False
+182,183,59,752.88,Erskineville,persons_per_area,43.97,43.97,43.97,False
+182,183,59,752.88,Erskineville,occupied_dwellings,"1,551",1551,1551,False
+182,183,59,752.88,Erskineville,dwellings_per_area,9.343,9.343,9.343,False
+182,183,59,752.88,Erskineville,population_per_dwelling,4.71,4.71,4.71,False
+182,183,60,760.8,Forbes,lga_name,Forbes,Forbes,Forbes,False
+182,183,60,760.8,Forbes,area,"32,000",32000,32000,False
+182,183,60,760.8,Forbes,males,"2,192",2192,2192,False
+182,183,60,760.8,Forbes,females,"2,244",2244,2244,False
+182,183,60,760.8,Forbes,persons,"4,436",4436,4436,False
+182,183,60,760.8,Forbes,persons_per_area,.14,0.14,0.14,False
+182,183,60,760.8,Forbes,occupied_dwellings,904,904,904,False
+182,183,60,760.8,Forbes,dwellings_per_area,.028,0.028,0.028,False
+182,183,60,760.8,Forbes,population_per_dwelling,4.91,4.91,4.91,False
+182,183,61,776.88,Gerringong,lga_name,Gerringong,Gerringong,Gerringong,False
+182,183,61,776.88,Gerringong,area,"27,360",27360,27360,False
+182,183,61,776.88,Gerringong,males,417,417,417,False
+182,183,61,776.88,Gerringong,females,377,377,377,False
+182,183,61,776.88,Gerringong,persons,794,794,794,False
+182,183,61,776.88,Gerringong,persons_per_area,.03,0.03,0.03,False
+182,183,61,776.88,Gerringong,occupied_dwellings,162,162,162,False
+182,183,61,776.88,Gerringong,dwellings_per_area,.006,0.006,0.006,False
+182,183,61,776.88,Gerringong,population_per_dwelling,4.90,4.90,4.90,False
+182,183,62,784.81,Glebe,lga_name,Glebe,Glebe,Glebe,False
+182,183,62,784.81,Glebe,area,5!!1,5!!1,521,True
+182,183,62,784.81,Glebe,males,"10,450",10450,10450,False
+182,183,62,784.81,Glebe,females,"11,493",11493,11493,False
+182,183,62,784.81,Glebe,persons,"21,943",21943,21943,False
+182,183,62,784.81,Glebe,persons_per_area,42.12,42.12,42.12,False
+182,183,62,784.81,Glebe,occupied_dwellings,"4,202",4202,4202,False
+182,183,62,784.81,Glebe,dwellings_per_area,8.065,8.065,8.065,False
+182,183,62,784.81,Glebe,population_per_dwelling,5.22,5.22,5.22,False
+182,183,63,792.97,Glen InllEls,lga_name,Glen InllEls,Glen InllEls,Glen Innes,True
+182,183,63,792.97,Glen InllEls,area,"25,600",25600,25600,False
+182,183,63,792.97,Glen InllEls,males,"2,013",2013,2013,False
+182,183,63,792.97,Glen InllEls,females,"2,076",2076,2076,False
+182,183,63,792.97,Glen InllEls,persons,"4,089",4089,4089,False
+182,183,63,792.97,Glen InllEls,persons_per_area,.16,0.16,0.16,False
+182,183,63,792.97,Glen InllEls,occupied_dwellings,762,762,762,False
+182,183,63,792.97,Glen InllEls,dwellings_per_area,.030,0.030,0.030,False
+182,183,63,792.97,Glen InllEls,population_per_dwelling,5.37,5.37,5.37,False
+182,183,64,800.89,Goulburn,lga_name,Goulburn,Goulburn,Goulburn,False
+182,183,64,800.89,Goulburn,area,"8,320",8320,8320,False
+182,183,64,800.89,Goulburn,males,"4,831",4831,4831,False
+182,183,64,800.89,Goulburn,females,"5,192",5192,5192,False
+182,183,64,800.89,Goulburn,persons,"10,023",10023,10023,False
+182,183,64,800.89,Goulburn,persons_per_area,1.20,1.20,1.20,False
+182,183,64,800.89,Goulburn,occupied_dwellings,"1,985",1985,1985,False
+182,183,64,800.89,Goulburn,dwellings_per_area,.239,0.239,0.239,False
+182,183,64,800.89,Goulburn,population_per_dwelling,5.05,5.05,5.05,False
+182,183,65,808.81,Grafton,lga_name,Grafton,Grafton,Grafton,False
+182,183,65,808.81,Grafton,area,"2,520",2520,2520,False
+182,183,65,808.81,Grafton,males,"2,288",2288,2288,False
+182,183,65,808.81,Grafton,females,"2,393",2393,2393,False
+182,183,65,808.81,Grafton,persons,"4,681",4681,4681,False
+182,183,65,808.81,Grafton,persons_per_area,1.86,1.86,1.86,False
+182,183,65,808.81,Grafton,occupied_dwellings,947,947,947,False
+182,183,65,808.81,Grafton,dwellings_per_area,.376,0.376,0.376,False
+182,183,65,808.81,Grafton,population_per_dwelling,4.94,4.94,4.94,False
+183,184,1,187.76,"Grafton, South",lga_name,"Grafton, South","Grafton, South","Grafton, South",False
+183,184,1,187.76,"Grafton, South",area,"1,552",1552,1552,False
+183,184,1,187.76,"Grafton, South",males,1510,1510,610,True
+183,184,1,187.76,"Grafton, South",females,597,597,597,False
+183,184,1,187.76,"Grafton, South",persons,"1,207",1207,1207,False
+183,184,1,187.76,"Grafton, South",persons_per_area,.78,0.78,0.78,False
+183,184,1,187.76,"Grafton, South",occupied_dwellings,224,224,224,False
+183,184,1,187.76,"Grafton, South",dwellings_per_area,.144,0.144,0.144,False
+183,184,1,187.76,"Grafton, South",population_per_dwelling,5.39,5.39,5.39,False
+183,184,2,195.96,GranvilIe,lga_name,GranvilIe,GranvilIe,Granville,True
+183,184,2,195.96,GranvilIe,area,"4,109",4109,4109,False
+183,184,2,195.96,GranvilIe,males,"3,547",3547,3547,False
+183,184,2,195.96,GranvilIe,females,"3,684",3684,3684,False
+183,184,2,195.96,GranvilIe,persons,"7,231",7231,7231,False
+183,184,2,195.96,GranvilIe,persons_per_area,1.76,1.76,1.76,False
+183,184,2,195.96,GranvilIe,occupied_dwellings,"1,485",1485,1485,False
+183,184,2,195.96,GranvilIe,dwellings_per_area,.361,0.361,0.361,False
+183,184,2,195.96,GranvilIe,population_per_dwelling,4.87,4.87,4.87,False
+183,184,3,204.0,Grenfell,lga_name,Grenfell,Grenfell,Grenfell,False
+183,184,3,204.0,Grenfell,area,346,346,346,False
+183,184,3,204.0,Grenfell,males,599,599,599,False
+183,184,3,204.0,Grenfell,females,546,546,546,False
+183,184,3,204.0,Grenfell,persons,"1,145",1145,1145,False
+183,184,3,204.0,Grenfell,persons_per_area,3.31,3.31,3.31,False
+183,184,3,204.0,Grenfell,occupied_dwellings,237,237,237,False
+183,184,3,204.0,Grenfell,dwellings_per_area,.685,0.685,0.685,False
+183,184,3,204.0,Grenfell,population_per_dwelling,4.83,4.83,4.83,False
+183,184,4,212.16,Greta,lga_name,Greta,Greta,Greta,False
+183,184,4,212.16,Greta,area,"3,072",3072,3072,False
+183,184,4,212.16,Greta,males,468,468,468,False
+183,184,4,212.16,Greta,females,390,390,390,False
+183,184,4,212.16,Greta,persons,858,858,858,False
+183,184,4,212.16,Greta,persons_per_area,.28,0.28,0.28,False
+183,184,4,212.16,Greta,occupied_dwellings,196,196,196,False
+183,184,4,212.16,Greta,dwellings_per_area,.064,0.064,0.064,False
+183,184,4,212.16,Greta,population_per_dwelling,4.38,4.38,4.38,False
+183,184,5,220.2,Gulgong,lga_name,Gulgong,Gulgong,Gulgong,False
+183,184,5,220.2,Gulgong,area,"20,480",20480,20480,False
+183,184,5,220.2,Gulgong,males,876,876,876,False
+183,184,5,220.2,Gulgong,females,860,860,860,False
+183,184,5,220.2,Gulgong,persons,"1,736",1736,1736,False
+183,184,5,220.2,Gulgong,persons_per_area,.08,0.08,0.08,False
+183,184,5,220.2,Gulgong,occupied_dwellings,383,383,383,False
+183,184,5,220.2,Gulgong,dwellings_per_area,.019,0.019,0.019,False
+183,184,5,220.2,Gulgong,population_per_dwelling,4.53,4.53,4.53,False
+183,184,6,236.28,Gundagai,lga_name,Gundagai,Gundagai,Gundagai,False
+183,184,6,236.28,Gundagai,area,"2,080",2080,2080,False
+183,184,6,236.28,Gundagai,males,592,592,592,False
+183,184,6,236.28,Gundagai,females,589,589,589,False
+183,184,6,236.28,Gundagai,persons,"1,181",1181,1181,False
+183,184,6,236.28,Gundagai,persons_per_area,.57,0.57,0.57,False
+183,184,6,236.28,Gundagai,occupied_dwellings,246,246,246,False
+183,184,6,236.28,Gundagai,dwellings_per_area,.118,0.118,0.118,False
+183,184,6,236.28,Gundagai,population_per_dwelling,4.80,4.80,4.80,False
+183,184,7,244.33,Gunnedah,lga_name,Gunnedah,Gunnedah,Gunnedah,False
+183,184,7,244.33,Gunnedah,area,"2,656",2656,2656,False
+183,184,7,244.33,Gunnedah,males,"1,513",1513,1513,False
+183,184,7,244.33,Gunnedah,females,"1,492",1492,1492,False
+183,184,7,244.33,Gunnedah,persons,"3,005",3005,3005,False
+183,184,7,244.33,Gunnedah,persons_per_area,1.13,1.13,1.13,False
+183,184,7,244.33,Gunnedah,occupied_dwellings,578,578,578,False
+183,184,7,244.33,Gunnedah,dwellings_per_area,.218,0.218,0.218,False
+183,184,7,244.33,Gunnedah,population_per_dwelling,5.20,5.20,5.20,False
+183,184,8,252.25,Hamilton,lga_name,Hamilton,Hamilton,Hamilton,False
+183,184,8,252.25,Hamilton,area,"1,664",1664,1664,False
+183,184,8,252.25,Hamilton,males,"3,904",3904,3904,False
+183,184,8,252.25,Hamilton,females,"4,004",4004,4004,False
+183,184,8,252.25,Hamilton,persons,"7,908",7908,7908,False
+183,184,8,252.25,Hamilton,persons_per_area,4.75,4.75,4.75,False
+183,184,8,252.25,Hamilton,occupied_dwellings,"1,721",1721,1721,False
+183,184,8,252.25,Hamilton,dwellings_per_area,1.034,1.034,1.034,False
+183,184,8,252.25,Hamilton,population_per_dwelling,4.60,4.60,4.60,False
+183,184,9,260.4,Hay,lga_name,Hay,Hay,Hay,False
+183,184,9,260.4,Hay,area,"32,000",32000,32000,False
+183,184,9,260.4,Hay,males,"1,165",1165,1165,False
+183,184,9,260.4,Hay,females,"1,296",1296,1296,False
+183,184,9,260.4,Hay,persons,"2,461",2461,2461,False
+183,184,9,260.4,Hay,persons_per_area,.08,0.08,0.08,False
+183,184,9,260.4,Hay,occupied_dwellings,561,561,561,False
+183,184,9,260.4,Hay,dwellings_per_area,.018,0.018,0.018,False
+183,184,9,260.4,Hay,population_per_dwelling,4.39,4.39,4.39,False
+183,184,10,268.2,Hillgrove,lga_name,Hillgrove,Hillgrove,Hillgrove,False
+183,184,10,268.2,Hillgrove,area,"2,240",2240,2240,False
+183,184,10,268.2,Hillgrove,males,796,796,796,False
+183,184,10,268.2,Hillgrove,females,785,785,785,False
+183,184,10,268.2,Hillgrove,persons,"1,581",1581,1581,False
+183,184,10,268.2,Hillgrove,persons_per_area,.71,0.71,0.71,False
+183,184,10,268.2,Hillgrove,occupied_dwellings,332,332,332,False
+183,184,10,268.2,Hillgrove,dwellings_per_area,.148,0.148,0.148,False
+183,184,10,268.2,Hillgrove,population_per_dwelling,4.76,4.76,4.76,False
+183,184,11,284.28,HilIston,lga_name,HilIston,HilIston,Hillston,True
+183,184,11,284.28,HilIston,area,"32,000",32000,32000,False
+183,184,11,284.28,HilIston,males,334,334,334,False
+183,184,11,284.28,HilIston,females,310,310,310,False
+183,184,11,284.28,HilIston,persons,644,644,644,False
+183,184,11,284.28,HilIston,persons_per_area,.02,0.02,0.02,False
+183,184,11,284.28,HilIston,occupied_dwellings,141,141,141,False
+183,184,11,284.28,HilIston,dwellings_per_area,.004,0.004,0.004,False
+183,184,11,284.28,HilIston,population_per_dwelling,4.57,4.57,4.57,False
+183,184,12,292.33,Homebush,lga_name,Homebush,Homebush,Homebush,False
+183,184,12,292.33,Homebush,area,640,640,640,False
+183,184,12,292.33,Homebush,males,355,355,355,False
+183,184,12,292.33,Homebush,females,321,321,321,False
+183,184,12,292.33,Homebush,persons,676,676,676,False
+183,184,12,292.33,Homebush,persons_per_area,1.06,1.06,1.06,False
+183,184,12,292.33,Homebush,occupied_dwellings,137,137,137,False
+183,184,12,292.33,Homebush,dwellings_per_area,.214,0.214,0.214,False
+183,184,12,292.33,Homebush,population_per_dwelling,4.93,4.93,4.93,False
+183,184,13,300.09,Hunters' Hill,lga_name,Hunters' Hill,Hunters' Hill,Hunters' Hill,False
+183,184,13,300.09,Hunters' Hill,area,"1,325",1325,1325,False
+183,184,13,300.09,Hunters' Hill,males,"2,605",2605,2605,False
+183,184,13,300.09,Hunters' Hill,females,"2,408",2408,2408,False
+183,184,13,300.09,Hunters' Hill,persons,"5,013",5013,5013,False
+183,184,13,300.09,Hunters' Hill,persons_per_area,3.78,3.78,3.78,False
+183,184,13,300.09,Hunters' Hill,occupied_dwellings,693,693,693,False
+183,184,13,300.09,Hunters' Hill,dwellings_per_area,.523,0.523,0.523,False
+183,184,13,300.09,Hunters' Hill,population_per_dwelling,7.23,7.23,7.23,False
+183,184,14,308.28,Hurstville,lga_name,Hurstville,Hurstville,Hurstville,False
+183,184,14,308.28,Hurstville,area,"6,750",6750,6750,False
+183,184,14,308.28,Hurstville,males,"3,187",3187,3187,False
+183,184,14,308.28,Hurstville,females,"3,346",3346,3346,False
+183,184,14,308.28,Hurstville,persons,"6,533",6533,6533,False
+183,184,14,308.28,Hurstville,persons_per_area,.97,0.97,0.97,False
+183,184,14,308.28,Hurstville,occupied_dwellings,"1,434",1434,1434,False
+183,184,14,308.28,Hurstville,dwellings_per_area,.212,0.212,0.212,False
+183,184,14,308.28,Hurstville,population_per_dwelling,4.56,4.56,4.56,False
+183,184,15,316.16,"Illawarra, Central",lga_name,"Illawarra, Central","Illawarra, Central","Illawarra, Central",False
+183,184,15,316.16,"Illawarra, Central",area,"75,776",75776,75776,False
+183,184,15,316.16,"Illawarra, Central",males,"2,766",2766,2766,False
+183,184,15,316.16,"Illawarra, Central",females,"2,234",2234,2234,False
+183,184,15,316.16,"Illawarra, Central",persons,"5,000",5000,5000,False
+183,184,15,316.16,"Illawarra, Central",persons_per_area,.07,0.07,0.07,False
+183,184,15,316.16,"Illawarra, Central",occupied_dwellings,"1,043",1043,1043,False
+183,184,15,316.16,"Illawarra, Central",dwellings_per_area,.014,0.014,0.014,False
+183,184,15,316.16,"Illawarra, Central",population_per_dwelling,4.79,4.79,4.79,False
+183,184,16,332.32,"Illawarra, North",lga_name,"Illawarra, North","Illawarra, North","Illawarra, North",False
+183,184,16,332.32,"Illawarra, North",area,"7,360",7360,7360,False
+183,184,16,332.32,"Illawarra, North",males,"2,765",2765,2765,False
+183,184,16,332.32,"Illawarra, North",females,"2,392",2392,2392,False
+183,184,16,332.32,"Illawarra, North",persons,"5,157",5157,5157,False
+183,184,16,332.32,"Illawarra, North",persons_per_area,.70,0.70,0.70,False
+183,184,16,332.32,"Illawarra, North",occupied_dwellings,"1,058",1058,1058,False
+183,184,16,332.32,"Illawarra, North",dwellings_per_area,.144,0.144,0.144,False
+183,184,16,332.32,"Illawarra, North",population_per_dwelling,4.87,4.87,4.87,False
+183,184,17,340.45,Ingleburn,lga_name,Ingleburn,Ingleburn,Ingleburn,False
+183,184,17,340.45,Ingleburn,area,"6,592",6592,6592,False
+183,184,17,340.45,Ingleburn,males,167,167,167,False
+183,184,17,340.45,Ingleburn,females,212,212,212,False
+183,184,17,340.45,Ingleburn,persons,379,379,379,False
+183,184,17,340.45,Ingleburn,persons_per_area,.06,0.06,0.06,False
+183,184,17,340.45,Ingleburn,occupied_dwellings,87,87,87,False
+183,184,17,340.45,Ingleburn,dwellings_per_area,.013,0.013,0.013,False
+183,184,17,340.45,Ingleburn,population_per_dwelling,4.36,4.36,4.36,False
+183,184,18,348.48,Inverell,lga_name,Inverell,Inverell,Inverell,False
+183,184,18,348.48,Inverell,area,"10,370",10370,10370,False
+183,184,18,348.48,Inverell,males,"2,247",2247,2247,False
+183,184,18,348.48,Inverell,females,"2,302",2302,2302,False
+183,184,18,348.48,Inverell,persons,"4,549",4549,4549,False
+183,184,18,348.48,Inverell,persons_per_area,.44,0.44,0.44,False
+183,184,18,348.48,Inverell,occupied_dwellings,833,833,833,False
+183,184,18,348.48,Inverell,dwellings_per_area,.080,0.080,0.080,False
+183,184,18,348.48,Inverell,population_per_dwelling,5.46,5.46,5.46,False
+183,184,19,356.64,Jamberoo,lga_name,Jamberoo,Jamberoo,Jamberoo,False
+183,184,19,356.64,Jamberoo,area,"40,640",40640,40640,False
+183,184,19,356.64,Jamberoo,males,575,575,575,False
+183,184,19,356.64,Jamberoo,females,525,525,525,False
+183,184,19,356.64,Jamberoo,persons,"1,100",1100,1100,False
+183,184,19,356.64,Jamberoo,persons_per_area,.03,0.03,0.03,False
+183,184,19,356.64,Jamberoo,occupied_dwellings,233,233,233,False
+183,184,19,356.64,Jamberoo,dwellings_per_area,.006,0.006,0.006,False
+183,184,19,356.64,Jamberoo,population_per_dwelling,4.72,4.72,4.72,False
+183,184,20,364.69,Jerilderie,lga_name,Jerilderie,Jerilderie,Jerilderie,False
+183,184,20,364.69,Jerilderie,area,"32,000",32000,32000,False
+183,184,20,364.69,Jerilderie,males,385,385,385,False
+183,184,20,364.69,Jerilderie,females,333,333,333,False
+183,184,20,364.69,Jerilderie,persons,718,718,718,False
+183,184,20,364.69,Jerilderie,persons_per_area,.02,0.02,0.02,False
+183,184,20,364.69,Jerilderie,occupied_dwellings,149,149,149,False
+183,184,20,364.69,Jerilderie,dwellings_per_area,.005,0.005,0.005,False
+183,184,20,364.69,Jerilderie,population_per_dwelling,4.82,4.82,4.82,False
+183,184,21,380.64,Junee,lga_name,Junee,Junee,Junee,False
+183,184,21,380.64,Junee,area,"5,517",5517,5517,False
+183,184,21,380.64,Junee,males,"1,296",1296,1296,False
+183,184,21,380.64,Junee,females,"1,235",1235,1235,False
+183,184,21,380.64,Junee,persons,"2,531",2531,2531,False
+183,184,21,380.64,Junee,persons_per_area,.46,0.46,0.46,False
+183,184,21,380.64,Junee,occupied_dwellings,480,480,480,False
+183,184,21,380.64,Junee,dwellings_per_area,.087,0.087,0.087,False
+183,184,21,380.64,Junee,population_per_dwelling,5.27,5.27,5.27,False
+183,184,22,388.57,Katoomba,lga_name,Katoomba,Katoomba,Katoomba,False
+183,184,22,388.57,Katoomba,area,"7,424",7424,7424,False
+183,184,22,388.57,Katoomba,males,"1,955",1955,1955,False
+183,184,22,388.57,Katoomba,females,"2,968",2968,2968,False
+183,184,22,388.57,Katoomba,persons,"4,923",4923,4923,False
+183,184,22,388.57,Katoomba,persons_per_area,.66,0.66,0.66,False
+183,184,22,388.57,Katoomba,occupied_dwellings,778,778,778,False
+183,184,22,388.57,Katoomba,dwellings_per_area,.105,0.105,0.105,False
+183,184,22,388.57,Katoomba,population_per_dwelling,6.33,6.33,6.33,False
+183,184,23,396.6,Kempsey,lga_name,Kempsey,Kempsey,Kempsey,False
+183,184,23,396.6,Kempsey,area,"4,051",4051,4051,False
+183,184,23,396.6,Kempsey,males,"1,382",1382,1382,False
+183,184,23,396.6,Kempsey,females,"1,480",1480,1480,False
+183,184,23,396.6,Kempsey,persons,"2,862",2862,2862,False
+183,184,23,396.6,Kempsey,persons_per_area,.71,0.71,0.71,False
+183,184,23,396.6,Kempsey,occupied_dwellings,568,568,568,False
+183,184,23,396.6,Kempsey,dwellings_per_area,.140,0.140,0.140,False
+183,184,23,396.6,Kempsey,population_per_dwelling,5.(14,5.(14,5.04,True
+183,184,24,404.65,Kiama,lga_name,Kiama,Kiama,Kiama,False
+183,184,24,404.65,Kiama,area,"2,304",2304,2304,False
+183,184,24,404.65,Kiama,males,793,793,793,False
+183,184,24,404.65,Kiama,females,808,808,808,False
+183,184,24,404.65,Kiama,persons,"1,601",1601,1601,False
+183,184,24,404.65,Kiama,persons_per_area,.69,0.69,0.69,False
+183,184,24,404.65,Kiama,occupied_dwellings,353,353,353,False
+183,184,24,404.65,Kiama,dwellings_per_area,.153,0.153,0.153,False
+183,184,24,404.65,Kiama,population_per_dwelling,4.54,4.54,4.54,False
+183,184,25,412.68,Kogarah,lga_name,Kogarah,Kogarah,Kogarah,False
+183,184,25,412.68,Kogarah,area,"4,448",4448,4448,False
+183,184,25,412.68,Kogarah,males,"3,429",3429,3429,False
+183,184,25,412.68,Kogarah,females,"3,524",3524,3524,False
+183,184,25,412.68,Kogarah,persons,"6,953",6953,6953,False
+183,184,25,412.68,Kogarah,persons_per_area,1.56,1.56,1.56,False
+183,184,25,412.68,Kogarah,occupied_dwellings,"1,524",1524,1524,False
+183,184,25,412.68,Kogarah,dwellings_per_area,.343,0.343,0.343,False
+183,184,25,412.68,Kogarah,population_per_dwelling,4.56,4.56,4.56,False
+183,184,26,420.72,Lambton,lga_name,Lambton,Lambton,Lambton,False
+183,184,26,420.72,Lambton,area,807,807,807,False
+183,184,26,420.72,Lambton,males,"1,376",1376,1376,False
+183,184,26,420.72,Lambton,females,"1,420",1420,1420,False
+183,184,26,420.72,Lambton,persons,"2,796",2796,2796,False
+183,184,26,420.72,Lambton,persons_per_area,3.46,3.46,3.46,False
+183,184,26,420.72,Lambton,occupied_dwellings,649,649,649,False
+183,184,26,420.72,Lambton,dwellings_per_area,.804,0.804,0.804,False
+183,184,26,420.72,Lambton,population_per_dwelling,4.31,4.31,4.31,False
+183,184,27,428.48,"Lambton, New",lga_name,"Lambton, New","Lambton, New","Lambton, New",False
+183,184,27,428.48,"Lambton, New",area,"2,560",2560,2560,False
+183,184,27,428.48,"Lambton, New",males,933,933,933,False
+183,184,27,428.48,"Lambton, New",females,891,891,894,True
+183,184,27,428.48,"Lambton, New",persons,"1,827",1827,1827,False
+183,184,27,428.48,"Lambton, New",persons_per_area,.71,0.71,0.71,False
+183,184,27,428.48,"Lambton, New",occupied_dwellings,421,421,421,False
+183,184,27,428.48,"Lambton, New",dwellings_per_area,.164,0.164,0.164,False
+183,184,27,428.48,"Lambton, New",population_per_dwelling,4.34,4.34,4.34,False
+183,184,28,436.68,Lane Cove,lga_name,Lane Cove,Lane Cove,Lane Cove,False
+183,184,28,436.68,Lane Cove,area,"2,496",2496,2496,False
+183,184,28,436.68,Lane Cove,males,"1,639",1639,1639,False
+183,184,28,436.68,Lane Cove,females,"),667",)667,1667,True
+183,184,28,436.68,Lane Cove,persons,"3,306",3306,3306,False
+183,184,28,436.68,Lane Cove,persons_per_area,1.32,1.32,1.32,False
+183,184,28,436.68,Lane Cove,occupied_dwellings,656,656,656,False
+183,184,28,436.68,Lane Cove,dwellings_per_area,.263,0.263,0.263,False
+183,184,28,436.68,Lane Cove,population_per_dwelling,5.04,5.04,5.04,False
+183,184,29,444.6,Leichhardt,lga_name,Leichhardt,Leichhardt,Leichhardt,False
+183,184,29,444.6,Leichhardt,area,"1,170",1170,1170,False
+183,184,29,444.6,Leichhardt,males,"11,828",11828,11828,False
+183,184,29,444.6,Leichhardt,females,"12,426",12426,12426,False
+183,184,29,444.6,Leichhardt,persons,"24,254",24254,24254,False
+183,184,29,444.6,Leichhardt,persons_per_area,20.73,20.73,20.73,False
+183,184,29,444.6,Leichhardt,occupied_dwellings,"4,909.",4909,4909,False
+183,184,29,444.6,Leichhardt,dwellings_per_area,4.196,4.196,4.196,False
+183,184,29,444.6,Leichhardt,population_per_dwelling,4.94,4.94,4.94,False
+183,184,30,452.65,Lismore,lga_name,Lismore,Lismore,Lismore,False
+183,184,30,452.65,Lismore,area,"14,061",14061,14061,False
+183,184,30,452.65,Lismore,males,"3,824",3824,3824,False
+183,184,30,452.65,Lismore,females,"3,557",3557,3557,False
+183,184,30,452.65,Lismore,persons,"7,381",7381,7381,False
+183,184,30,452.65,Lismore,persons_per_area,.52,0.52,0.52,False
+183,184,30,452.65,Lismore,occupied_dwellings,"1,394",1394,1394,False
+183,184,30,452.65,Lismore,dwellings_per_area,.099,0.099,0.099,False
+183,184,30,452.65,Lismore,population_per_dwelling,5.29,5.29,5.29,False
+183,184,31,468.72,Lithgow,lga_name,Lithgow,Lithgow,Lithgow,False
+183,184,31,468.72,Lithgow,area,"4,192",4192,4192,False
+183,184,31,468.72,Lithgow,males,"4,302",4302,4302,False
+183,184,31,468.72,Lithgow,females,"3,894",3894,3894,False
+183,184,31,468.72,Lithgow,persons,"8,196",8196,8196,False
+183,184,31,468.72,Lithgow,persons_per_area,1.96,1.96,1.96,False
+183,184,31,468.72,Lithgow,occupied_dwellings,"1,644",1644,1644,False
+183,184,31,468.72,Lithgow,dwellings_per_area,.392,0.392,0.392,False
+183,184,31,468.72,Lithgow,population_per_dwelling,4.99,4.99,4.99,False
+183,184,32,476.65,Liverpool,lga_name,Liverpool,Liverpool,Liverpool,False
+183,184,32,476.65,Liverpool,area,"43,008",43008,43008,False
+183,184,32,476.65,Liverpool,males,"2,206",2206,2206,False
+183,184,32,476.65,Liverpool,females,"1,732",1732,1732,False
+183,184,32,476.65,Liverpool,persons,"3,938",3938,3938,False
+183,184,32,476.65,Liverpool,persons_per_area,.09,0.09,0.09,False
+183,184,32,476.65,Liverpool,occupied_dwellings,718,718,718,False
+183,184,32,476.65,Liverpool,dwellings_per_area,.017,0.017,0.017,False
+183,184,32,476.65,Liverpool,population_per_dwelling,5.48,5.48,5.48,False
+183,184,33,484.81,Maclean,lga_name,Maclean,Maclean,Maclean,False
+183,184,33,484.81,Maclean,area,"1,184",1184,1184,False
+183,184,33,484.81,Maclean,males,726,726,726,False
+183,184,33,484.81,Maclean,females,780,780,780,False
+183,184,33,484.81,Maclean,persons,"1,506",1506,1506,False
+183,184,33,484.81,Maclean,persons_per_area,1.27,1.27,1.27,False
+183,184,33,484.81,Maclean,occupied_dwellings,308,308,308,False
+183,184,33,484.81,Maclean,dwellings_per_area,.260,0.260,0.260,False
+183,184,33,484.81,Maclean,population_per_dwelling,4.89,4.89,4.89,False
+183,184,34,492.56,"Maitland, East",lga_name,"Maitland, East","Maitland, East","Maitland, East",False
+183,184,34,492.56,"Maitland, East",area,"4,538",4538,4538,False
+183,184,34,492.56,"Maitland, East",males,"1,474",1474,1474,False
+183,184,34,492.56,"Maitland, East",females,"1,629",1629,1629,False
+183,184,34,492.56,"Maitland, East",persons,"3,103",3103,3103,False
+183,184,34,492.56,"Maitland, East",persons_per_area,.68,0.68,0.68,False
+183,184,34,492.56,"Maitland, East",occupied_dwellings,637,637,637,False
+183,184,34,492.56,"Maitland, East",dwellings_per_area,.140,0.140,0.140,False
+183,184,34,492.56,"Maitland, East",population_per_dwelling,4.87,4.87,4.87,False
+183,184,35,500.65,"Maitland, West",lga_name,"Maitland, West","Maitland, West","Maitland, West",False
+183,184,35,500.65,"Maitland, West",area,"9,901",9901,9901,False
+183,184,35,500.65,"Maitland, West",males,"3,998",3998,3998,False
+183,184,35,500.65,"Maitland, West",females,"4,212",4212,4212,False
+183,184,35,500.65,"Maitland, West",persons,"8,210",8210,8210,False
+183,184,35,500.65,"Maitland, West",persons_per_area,.83,0.83,0.83,False
+183,184,35,500.65,"Maitland, West",occupied_dwellings,"1,600",1600,1600,False
+183,184,35,500.65,"Maitland, West",dwellings_per_area,.162,0.162,0.162,False
+183,184,35,500.65,"Maitland, West",population_per_dwelling,5.13,5.13,5.13,False
+183,184,36,508.81,Manilla,lga_name,Manilla,Manilla,Manilla,False
+183,184,36,508.81,Manilla,area,640,640,640,False
+183,184,36,508.81,Manilla,males,706,706,706,False
+183,184,36,508.81,Manilla,females,684,684,684,False
+183,184,36,508.81,Manilla,persons,"1,390",1390,1390,False
+183,184,36,508.81,Manilla,persons_per_area,2.17,2.17,2.17,False
+183,184,36,508.81,Manilla,occupied_dwellings,254,254,254,False
+183,184,36,508.81,Manilla,dwellings_per_area,.397,0.397,0.397,False
+183,184,36,508.81,Manilla,population_per_dwelling,5.47,5.47,5.47,False
+183,184,37,516.97,Manly,lga_name,Manly,Manly,Manly,False
+183,184,37,516.97,Manly,area,"2,426",2426,2426,False
+183,184,37,516.97,Manly,males,"4,716",4716,4716,False
+183,184,37,516.97,Manly,females,"5,749",5749,5749,False
+183,184,37,516.97,Manly,persons,"10,465",10465,10465,False
+183,184,37,516.97,Manly,persons_per_area,4.31,4.31,4.31,False
+183,184,37,516.97,Manly,occupied_dwellings,"1,853",1853,1853,False
+183,184,37,516.97,Manly,dwellings_per_area,.764,0.764,0.764,False
+183,184,37,516.97,Manly,population_per_dwelling,5.65,5.65,5.65,False
+183,184,38,524.76,Marrickville,lga_name,Marrickville,Marrickville,Marrickville,False
+183,184,38,524.76,Marrickville,area,"2,016",2016,2016,False
+183,184,38,524.76,Marrickville,males,"14,338",14338,14338,False
+183,184,38,524.76,Marrickville,females,"16,315",16315,16315,False
+183,184,38,524.76,Marrickville,persons,"30,653",30653,30653,False
+183,184,38,524.76,Marrickville,persons_per_area,15.20,15.20,15.20,False
+183,184,38,524.76,Marrickville,occupied_dwellings,"6,514",6514,6514,False
+183,184,38,524.76,Marrickville,dwellings_per_area,3.231,3.231,3.231,False
+183,184,38,524.76,Marrickville,population_per_dwelling,4.71,4.71,4.71,False
+183,184,39,532.8,Merewether,lga_name,Merewether,Merewether,Merewether,False
+183,184,39,532.8,Merewether,area,"1,114",1114,1114,False
+183,184,39,532.8,Merewether,males,"2,082",2082,2082,False
+183,184,39,532.8,Merewether,females,"2,069",2069,2069,False
+183,184,39,532.8,Merewether,persons,"4,151",4151,4151,False
+183,184,39,532.8,Merewether,persons_per_area,3.73,3.73,3.73,False
+183,184,39,532.8,Merewether,occupied_dwellings,904,904,904,False
+183,184,39,532.8,Merewether,dwellings_per_area,.811,0.811,0.811,False
+183,184,39,532.8,Merewether,population_per_dwelling,4.59,4.59,4.59,False
+183,184,40,540.97,Mittagong,lga_name,Mittagong,Mittagong,Mittagong,False
+183,184,40,540.97,Mittagong,area,"2,304",2304,2304,False
+183,184,40,540.97,Mittagong,males,441,441,441,False
+183,184,40,540.97,Mittagong,females,535,535,535,False
+183,184,40,540.97,Mittagong,persons,976,976,976,False
+183,184,40,540.97,Mittagong,persons_per_area,.42,0.42,0.42,False
+183,184,40,540.97,Mittagong,occupied_dwellings,205,205,205,False
+183,184,40,540.97,Mittagong,dwellings_per_area,.089,0.089,0.089,False
+183,184,40,540.97,Mittagong,population_per_dwelling,4.76,4.76,4.76,False
+183,184,41,556.81,Moama,lga_name,Moama,Moama,Moama,False
+183,184,41,556.81,Moama,area,"32,180",32180,32180,False
+183,184,41,556.81,Moama,males,427,427,427,False
+183,184,41,556.81,Moama,females,414,414,414,False
+183,184,41,556.81,Moama,persons,841,841,841,False
+183,184,41,556.81,Moama,persons_per_area,.03,0.03,0.03,False
+183,184,41,556.81,Moama,occupied_dwellings,189,189,189,False
+183,184,41,556.81,Moama,dwellings_per_area,.006,0.006,0.006,False
+183,184,41,556.81,Moama,population_per_dwelling,4.45,4.45,4.45,False
+183,184,42,564.72,Molong,lga_name,Molong,Molong,Molong,False
+183,184,42,564.72,Molong,area,"14,720",14720,14720,False
+183,184,42,564.72,Molong,males,684,684,684,False
+183,184,42,564.72,Molong,females,687,687,687,False
+183,184,42,564.72,Molong,persons,"1,371",1371,1371,False
+183,184,42,564.72,Molong,persons_per_area,.09,0.09,0.09,False
+183,184,42,564.72,Molong,occupied_dwellings,278,278,278,False
+183,184,42,564.72,Molong,dwellings_per_area,.019,0.019,0.019,False
+183,184,42,564.72,Molong,population_per_dwelling,4.93,4.93,4.93,False
+183,184,43,572.88,Moree,lga_name,Moree,Moree,Moree,False
+183,184,43,572.88,Moree,area,"8,000",8000,8000,False
+183,184,43,572.88,Moree,males,"1,545",1545,1545,False
+183,184,43,572.88,Moree,females,"1,386",1386,1386,False
+183,184,43,572.88,Moree,persons,"2,931",2931,2931,False
+183,184,43,572.88,Moree,persons_per_area,.37,0.37,0.37,False
+183,184,43,572.88,Moree,occupied_dwellings,540,540,540,False
+183,184,43,572.88,Moree,dwellings_per_area,.068,0.068,0.068,False
+183,184,43,572.88,Moree,population_per_dwelling,5.43,5.43,5.43,False
+183,184,44,580.68,Morpeth,lga_name,Morpeth,Morpeth,Morpeth,False
+183,184,44,580.68,Morpeth,area,666,666,666,False
+183,184,44,580.68,Morpeth,males,518,518,518,False
+183,184,44,580.68,Morpeth,females,546,546,546,False
+183,184,44,580.68,Morpeth,persons,"1,064",1064,1064,False
+183,184,44,580.68,Morpeth,persons_per_area,1.60,1.60,1.60,False
+183,184,44,580.68,Morpeth,occupied_dwellings,239,239,239,False
+183,184,44,580.68,Morpeth,dwellings_per_area,.359,0.359,0.359,False
+183,184,44,580.68,Morpeth,population_per_dwelling,4.45,4.45,4.45,False
+183,184,45,588.97,Moruya,lga_name,Moruya,Moruya,Moruya,False
+183,184,45,588.97,Moruya,area,"12,160",12160,12160,False
+183,184,45,588.97,Moruya,males,475,475,475,False
+183,184,45,588.97,Moruya,females,470,470,470,False
+183,184,45,588.97,Moruya,persons,945,945,945,False
+183,184,45,588.97,Moruya,persons_per_area,.08,0.08,0.08,False
+183,184,45,588.97,Moruya,occupied_dwellings,216,216,216,False
+183,184,45,588.97,Moruya,dwellings_per_area,.018,0.018,0.018,False
+183,184,45,588.97,Moruya,population_per_dwelling,4.38,4.38,4.38,False
+183,184,46,596.88,Mosman,lga_name,Mosman,Mosman,Mosman,False
+183,184,46,596.88,Mosman,area,"2,067",2067,2067,False
+183,184,46,596.88,Mosman,males,"6,836",6836,5836,True
+183,184,46,596.88,Mosman,females,"7,407",7407,7407,False
+183,184,46,596.88,Mosman,persons,"13,243",13243,13243,False
+183,184,46,596.88,Mosman,persons_per_area,6.41,6.41,6.41,False
+183,184,46,596.88,Mosman,occupied_dwellings,"2,687",2687,2687,False
+183,184,46,596.88,Mosman,dwellings_per_area,1.300,1.300,1.300,False
+183,184,46,596.88,Mosman,population_per_dwelling,4.93,4.93,4.93,False
+183,184,47,604.81,Mossvale,lga_name,Mossvale,Mossvale,Mossvale,False
+183,184,47,604.81,Mossvale,area,"18,240",18240,18240,False
+183,184,47,604.81,Mossvale,males,668,668,668,False
+183,184,47,604.81,Mossvale,females,806,806,806,False
+183,184,47,604.81,Mossvale,persons,"1,474",1474,1474,False
+183,184,47,604.81,Mossvale,persons_per_area,.08,0.08,0.08,False
+183,184,47,604.81,Mossvale,occupied_dwellings,281,281,281,False
+183,184,47,604.81,Mossvale,dwellings_per_area,.015,0.015,0.015,False
+183,184,47,604.81,Mossvale,population_per_dwelling,5.25,5.25,5.25,False
+183,184,48,612.72,Mudgee,lga_name,Mudgee,Mudgee,Mudgee,False
+183,184,48,612.72,Mudgee,area,749,749,749,False
+183,184,48,612.72,Mudgee,males,"1,381",1381,1381,False
+183,184,48,612.72,Mudgee,females,"1,561",1561,1561,False
+183,184,48,612.72,Mudgee,persons,"2,942",2942,2942,False
+183,184,48,612.72,Mudgee,persons_per_area,3.93,3.93,3.93,False
+183,184,48,612.72,Mudgee,occupied_dwellings,621,621,621,False
+183,184,48,612.72,Mudgee,dwellings_per_area,.829,0.829,0.829,False
+183,184,48,612.72,Mudgee,population_per_dwelling,4.74,4.74,4.74,False
+183,184,49,620.76,Mulgoa,lga_name,Mulgoa,Mulgoa,Mulgoa,False
+183,184,49,620.76,Mulgoa,area,"18,880",18880,18880,False
+183,184,49,620.76,Mulgoa,males,219,219,219,False
+183,184,49,620.76,Mulgoa,females,232,232,232,False
+183,184,49,620.76,Mulgoa,persons,451,451,451,False
+183,184,49,620.76,Mulgoa,persons_per_area,.02,0.02,0.02,False
+183,184,49,620.76,Mulgoa,occupied_dwellings,86,86,86,False
+183,184,49,620.76,Mulgoa,dwellings_per_area,.005,0.005,0.005,False
+183,184,49,620.76,Mulgoa,population_per_dwelling,5.24,5.24,5.24,False
+183,184,50,628.81,Mullumbimby,lga_name,Mullumbimby,Mullumbimby,Mullumbimby,False
+183,184,50,628.81,Mullumbimby,area,"1,120",1120,1120,False
+183,184,50,628.81,Mullumbimby,males,496,496,496,False
+183,184,50,628.81,Mullumbimby,females,455,455,455,False
+183,184,50,628.81,Mullumbimby,persons,951,951,951,False
+183,184,50,628.81,Mullumbimby,persons_per_area,.85,0.85,0.85,False
+183,184,50,628.81,Mullumbimby,occupied_dwellings,188,188,188,False
+183,184,50,628.81,Mullumbimby,dwellings_per_area,.168,0.168,0.168,False
+183,184,50,628.81,Mullumbimby,population_per_dwelling,5.06,5.06,5.06,False
+183,184,51,644.88,Murrumburrah,lga_name,Murrumburrah,Murrumburrah,Murrumburrah,False
+183,184,51,644.88,Murrumburrah,area,"5,120",5120,5120,False
+183,184,51,644.88,Murrumburrah,males,"1,095",1095,1095,False
+183,184,51,644.88,Murrumburrah,females,"1,041",1041,1041,False
+183,184,51,644.88,Murrumburrah,persons,"2,136",2136,2136,False
+183,184,51,644.88,Murrumburrah,persons_per_area,.42,0.42,0.42,False
+183,184,51,644.88,Murrumburrah,occupied_dwellings,409,409,409,False
+183,184,51,644.88,Murrumburrah,dwellings_per_area,.080,0.080,0.080,False
+183,184,51,644.88,Murrumburrah,population_per_dwelling,5.22,5.22,5.22,False
+183,184,52,652.93,Murrurundi,lga_name,Murrurundi,Murrurundi,Murrurundi,False
+183,184,52,652.93,Murrurundi,area,"1,280",1280,1280,False
+183,184,52,652.93,Murrurundi,males,862,862,862,False
+183,184,52,652.93,Murrurundi,females,830,830,830,False
+183,184,52,652.93,Murrurundi,persons,"1,692",1692,1692,False
+183,184,52,652.93,Murrurundi,persons_per_area,1.32,1.32,1.32,False
+183,184,52,652.93,Murrurundi,occupied_dwellings,320,320,320,False
+183,184,52,652.93,Murrurundi,dwellings_per_area,.250,0.250,0.250,False
+183,184,52,652.93,Murrurundi,population_per_dwelling,5.29,5.29,5.29,False
+183,184,53,660.84,MurWl'llumbah,lga_name,MurWl'llumbah,MurWl'llumbah,Murwillumbah,True
+183,184,53,660.84,MurWl'llumbah,area,700,700,700,False
+183,184,53,660.84,MurWl'llumbah,males,"1,144",1144,1144,False
+183,184,53,660.84,MurWl'llumbah,females,"1,062",1062,1062,False
+183,184,53,660.84,MurWl'llumbah,persons,"2,206",2206,2206,False
+183,184,53,660.84,MurWl'llumbah,persons_per_area,3.15,3.15,3.15,False
+183,184,53,660.84,MurWl'llumbah,occupied_dwellings,394,394,394,False
+183,184,53,660.84,MurWl'llumbah,dwellings_per_area,.563,0.563,0.563,False
+183,184,53,660.84,MurWl'llumbah,population_per_dwelling,5.60,5.60,5.60,False
+183,184,54,668.88,Muswellbrook,lga_name,Muswellbrook,Muswellbrook,Muswellbrook,False
+183,184,54,668.88,Muswellbrook,area,"1,120",1120,1120,False
+183,184,54,668.88,Muswellbrook,males,885,885,885,False
+183,184,54,668.88,Muswellbrook,females,976,976,976,False
+183,184,54,668.88,Muswellbrook,persons,"1,861",1861,1861,False
+183,184,54,668.88,Muswellbrook,persons_per_area,1.66,1.66,1.66,False
+183,184,54,668.88,Muswellbrook,occupied_dwellings,360,360,360,False
+183,184,54,668.88,Muswellbrook,dwellings_per_area,.321,0.321,0.321,False
+183,184,54,668.88,Muswellbrook,population_per_dwelling,5.17,5.17,5.17,False
+183,184,55,676.8,Narrabri,lga_name,Narrabri,Narrabri,Narrabri,False
+183,184,55,676.8,Narrabri,area,"2,560",2560,2560,False
+183,184,55,676.8,Narrabri,males,"1,307",1307,1307,False
+183,184,55,676.8,Narrabri,females,"1,207",1207,1207,False
+183,184,55,676.8,Narrabri,persons,"2,514",2514,2514,False
+183,184,55,676.8,Narrabri,persons_per_area,.98,0.98,0.98,False
+183,184,55,676.8,Narrabri,occupied_dwellings,474,474,474,False
+183,184,55,676.8,Narrabri,dwellings_per_area,.185,0.185,0.185,False
+183,184,55,676.8,Narrabri,population_per_dwelling,5.30,5.30,5.30,False
+183,184,56,684.71,"Narrabri, West",lga_name,"Narrabri, West","Narrabri, West","Narrabri, West",False
+183,184,56,684.71,"Narrabri, West",area,"1,459",1459,1459,False
+183,184,56,684.71,"Narrabri, West",males,434,434,434,False
+183,184,56,684.71,"Narrabri, West",females,372,372,372,False
+183,184,56,684.71,"Narrabri, West",persons,806,806,806,False
+183,184,56,684.71,"Narrabri, West",persons_per_area,.55,0.55,0.55,False
+183,184,56,684.71,"Narrabri, West",occupied_dwellings,143,143,143,False
+183,184,56,684.71,"Narrabri, West",dwellings_per_area,.098,0.098,0.098,False
+183,184,56,684.71,"Narrabri, West",population_per_dwelling,5.64,5.64,5.64,False
+183,184,57,692.87,Narrandera,lga_name,Narrandera,Narrandera,Narrandera,False
+183,184,57,692.87,Narrandera,area,"1,550",1550,1550,False
+183,184,57,692.87,Narrandera,males,"1,211",1211,1211,False
+183,184,57,692.87,Narrandera,females,163,163,1163,True
+183,184,57,692.87,Narrandera,persons,"2,374",2374,2374,False
+183,184,57,692.87,Narrandera,persons_per_area,1.53,1.53,1.53,False
+183,184,57,692.87,Narrandera,occupied_dwellings,474,474,474,False
+183,184,57,692.87,Narrandera,dwellings_per_area,.306',0.306,0.306,False
+183,184,57,692.87,Narrandera,population_per_dwelling,5.01,5.01,5.01,False
+183,184,58,700.88,Narromine,lga_name,Narromine,Narromine,Narromine,False
+183,184,58,700.88,Narromine,area,755,755,755,False
+183,184,58,700.88,Narromine,males,641,641,641,False
+183,184,58,700.88,Narromine,females,"1,628",1628,628,True
+183,184,58,700.88,Narromine,persons,"1,269",1269,1269,False
+183,184,58,700.88,Narromine,persons_per_area,1.68,1.68,1.68,False
+183,184,58,700.88,Narromine,occupied_dwellings,255,255,255,False
+183,184,58,700.88,Narromine,dwellings_per_area,.338,0.338,0.338,False
+183,184,58,700.88,Narromine,population_per_dwelling,4.98,4.98,4.98,False
+183,184,59,708.72,Newcastle City,lga_name,Newcastle City,Newcastle City,Newcastle City,False
+183,184,59,708.72,Newcastle City,area,"1,060",1060,1060,False
+183,184,59,708.72,Newcastle City,males,"5,898",5898,5898,False
+183,184,59,708.72,Newcastle City,females,"5,712",5712,5712,False
+183,184,59,708.72,Newcastle City,persons,"11,610",11610,11610,False
+183,184,59,708.72,Newcastle City,persons_per_area,10.95,10.95,10.95,False
+183,184,59,708.72,Newcastle City,occupied_dwellings,"2,269",2269,2269,False
+183,184,59,708.72,Newcastle City,dwellings_per_area,2.141,2.141,2.141,False
+183,184,59,708.72,Newcastle City,population_per_dwelling,5.12,5.12,5.12,False
+183,184,60,716.76,Newtown,lga_name,Newtown,Newtown,Newtown,False
+183,184,60,716.76,Newtown,area,442,442,442,False
+183,184,60,716.76,Newtown,males,"12,887",12887,12887,False
+183,184,60,716.76,Newtown,females,"13,611",13611,13611,False
+183,184,60,716.76,Newtown,persons,"26,498",26498,26498,False
+183,184,60,716.76,Newtown,persons_per_area,59.95,59.95,59.95,False
+183,184,60,716.76,Newtown,occupied_dwellings,"5,377",5377,5377,False
+183,184,60,716.76,Newtown,dwellings_per_area,12.165,12.165,12.165,False
+183,184,60,716.76,Newtown,population_per_dwelling,4.93,4.93,4.93,False
+183,184,61,732.72,Nowra,lga_name,Nowra,Nowra,Nowra,False
+183,184,61,732.72,Nowra,area,"15,552",15552,15552,False
+183,184,61,732.72,Nowra,males,911,911,911,False
+183,184,61,732.72,Nowra,females,973,973,973,False
+183,184,61,732.72,Nowra,persons,"1,884",1884,1884,False
+183,184,61,732.72,Nowra,persons_per_area,.12,0.12,0.12,False
+183,184,61,732.72,Nowra,occupied_dwellings,412,412,412,False
+183,184,61,732.72,Nowra,dwellings_per_area,.026,0.026,0.026,False
+183,184,61,732.72,Nowra,population_per_dwelling,4.57,4.57,4.57,False
+183,184,62,740.88,Nyngan,lga_name,Nyngan,Nyngan,Nyngan,False
+183,184,62,740.88,Nyngan,area,"2,970",2970,2970,False
+183,184,62,740.88,Nyngan,males,636,636,636,False
+183,184,62,740.88,Nyngan,females,564,564,564,False
+183,184,62,740.88,Nyngan,persons,"1,200",1200,1200,False
+183,184,62,740.88,Nyngan,persons_per_area,.40,0.40,0.40,False
+183,184,62,740.88,Nyngan,occupied_dwellings,295,295,295,False
+183,184,62,740.88,Nyngan,dwellings_per_area,.099,0.099,0.099,False
+183,184,62,740.88,Nyngan,population_per_dwelling,4.07,4.07,4.07,False
+183,184,63,748.8,Orange,lga_name,Orange,Orange,Orange,False
+183,184,63,748.8,Orange,area,640 I,640,640,False
+183,184,63,748.8,Orange,males,"2,040",2040,2040,False
+183,184,63,748.8,Orange,females,"2,180",2180,2180,False
+183,184,63,748.8,Orange,persons,"4,220",4220,4220,False
+183,184,63,748.8,Orange,persons_per_area,6.59,6.59,6.59,False
+183,184,63,748.8,Orange,occupied_dwellings,774,774,774,False
+183,184,63,748.8,Orange,dwellings_per_area,1.209,1.209,1.209,False
+183,184,63,748.8,Orange,population_per_dwelling,5.45,5.45,5.45,False
+183,184,64,756.71,"Orange, East",lga_name,"Orange, East","Orange, East","Orange, East",False
+183,184,64,756.71,"Orange, East",area,"685 ,",685,685,False
+183,184,64,756.71,"Orange, East",males,"1,227",1227,1227,False
+183,184,64,756.71,"Orange, East",females,"1,274",1274,1274,False
+183,184,64,756.71,"Orange, East",persons,"2,501",2501,2501,False
+183,184,64,756.71,"Orange, East",persons_per_area,3.65,3.65,3.65,False
+183,184,64,756.71,"Orange, East",occupied_dwellings,500,500,500,False
+183,184,64,756.71,"Orange, East",dwellings_per_area,.730,0.730,0.730,False
+183,184,64,756.71,"Orange, East",population_per_dwelling,5.00,5.00,5.00,False
+183,184,65,764.88,Paddington,lga_name,Paddington,Paddington,Paddington,False
+183,184,65,764.88,Paddington,area,403,403,403,False
+183,184,65,764.88,Paddington,males,"11,494",11494,11494,False
+183,184,65,764.88,Paddington,females,"12,823",12823,12823,False
+183,184,65,764.88,Paddington,persons,"24,317",24317,24317,False
+183,184,65,764.88,Paddington,persons_per_area,60.34,60.34,60.34,False
+183,184,65,764.88,Paddington,occupied_dwellings,"4,666",4666,4666,False
+183,184,65,764.88,Paddington,dwellings_per_area,11.578,11.578,11.578,False
+183,184,65,764.88,Paddington,population_per_dwelling,5.21,5.21,5.21,False
+183,184,66,772.8,Parkes,lga_name,Parkes,Parkes,Parkes,False
+183,184,66,772.8,Parkes,area,"10,080",10080,10080,False
+183,184,66,772.8,Parkes,males,"1,437",1437,1437,False
+183,184,66,772.8,Parkes,females,"1,498",1498,1498,False
+183,184,66,772.8,Parkes,persons,"2,935",2935,2935,False
+183,184,66,772.8,Parkes,persons_per_area,.29,0.29,0.29,False
+183,184,66,772.8,Parkes,occupied_dwellings,619,619,619,False
+183,184,66,772.8,Parkes,dwellings_per_area,.061,0.061,0.061,False
+183,184,66,772.8,Parkes,population_per_dwelling,4.74,4.74,4.74,False
+183,184,67,780.84,Parramatta,lga_name,Parramatta,Parramatta,Parramatta,False
+183,184,67,780.84,Parramatta,area,"2,176",2176,2176,False
+183,184,67,780.84,Parramatta,males,"6,500",6500,6500,False
+183,184,67,780.84,Parramatta,females,"5,965",5965,5965,False
+183,184,67,780.84,Parramatta,persons,"12,465",12465,12465,False
+183,184,67,780.84,Parramatta,persons_per_area,5.73,5.73,5.73,False
+183,184,67,780.84,Parramatta,occupied_dwellings,"2,039",2039,2039,False
+183,184,67,780.84,Parramatta,dwellings_per_area,.937,0.937,0.937,False
+183,184,67,780.84,Parramatta,population_per_dwelling,6.11,6.11,6.11,False
+183,184,68,788.96,Peak H ill,lga_name,Peak H ill,Peak H ill,Peak Hill,True
+183,184,68,788.96,Peak H ill,area,"18,560",18560,18560,False
+183,184,68,788.96,Peak H ill,males,739,739,739,False
+183,184,68,788.96,Peak H ill,females,623,623,623,False
+183,184,68,788.96,Peak H ill,persons,"1,362",1362,1362,False
+183,184,68,788.96,Peak H ill,persons_per_area,.07,0.07,0.07,False
+183,184,68,788.96,Peak H ill,occupied_dwellings,294,294,294,False
+183,184,68,788.96,Peak H ill,dwellings_per_area,.016,0.016,0.016,False
+183,184,68,788.96,Peak H ill,population_per_dwelling,4.63,4.63,4.63,False
+183,184,69,797.05,Penrith,lga_name,Penrith,Penrith,Penrith,False
+183,184,69,797.05,Penrith,area,"8,678",8678,8678,False
+183,184,69,797.05,Penrith,males,"1,788",1788,1788,False
+183,184,69,797.05,Penrith,females,"1,894",1894,1894,False
+183,184,69,797.05,Penrith,persons,"3,682",3682,3682,False
+183,184,69,797.05,Penrith,persons_per_area,.42,0.42,0.42,False
+183,184,69,797.05,Penrith,occupied_dwellings,772,772,772,False
+183,184,69,797.05,Penrith,dwellings_per_area,.089,0.089,0.089,False
+183,184,69,797.05,Penrith,population_per_dwelling,4.77,4.77,4.77,False
+184,185,1,190.53,Petersham,lga_name,Petersham,Petersham,Petersham,False
+184,185,1,190.53,Petersham,area,"1,254",1254,1254,False
+184,185,1,190.53,Petersham,males,"9,846",9846,9846,False
+184,185,1,190.53,Petersham,females,"11,866",11866,11866,False
+184,185,1,190.53,Petersham,persons,"21,712",21712,21712,False
+184,185,1,190.53,Petersham,persons_per_area,17.31,17.31,17.31,False
+184,185,1,190.53,Petersham,occupied_dwellings,"4,479",4479,4479,False
+184,185,1,190.53,Petersham,dwellings_per_area,3.572,3.572,3.572,False
+184,185,1,190.53,Petersham,population_per_dwelling,4.85,4.85,4.85,False
+184,185,2,198.73,Picton,lga_name,Picton,Picton,Picton,False
+184,185,2,198.73,Picton,area,"2,317",2317,2317,False
+184,185,2,198.73,Picton,males,476,476,476,False
+184,185,2,198.73,Picton,females,478,478,478,False
+184,185,2,198.73,Picton,persons,954,954,954,False
+184,185,2,198.73,Picton,persons_per_area,.41,0.41,0.41,False
+184,185,2,198.73,Picton,occupied_dwellings,200,200,200,False
+184,185,2,198.73,Picton,dwellings_per_area,.086,0.086,0.086,False
+184,185,2,198.73,Picton,population_per_dwelling,4.77,4.77,4.77,False
+184,185,3,206.84,Plattsburgh,lga_name,Plattsburgh,Plattsburgh,Plattsburgh,False
+184,185,3,206.84,Plattsburgh,area,"2,566",2566,2566,False
+184,185,3,206.84,Plattsburgh,males,"1,353",1353,1353,False
+184,185,3,206.84,Plattsburgh,females,"1,308",1308,1308,False
+184,185,3,206.84,Plattsburgh,persons,"2,661",2661,2661,False
+184,185,3,206.84,Plattsburgh,persons_per_area,1.04,1.04,1.04,False
+184,185,3,206.84,Plattsburgh,occupied_dwellings,616,616,616,False
+184,185,3,206.84,Plattsburgh,dwellings_per_area,.240,0.240,0.240,False
+184,185,3,206.84,Plattsburgh,population_per_dwelling,4.32,4.32,4.32,False
+184,185,4,214.74,Port Macquarie,lga_name,Port Macquarie,Port Macquarie,Port Macquarie,False
+184,185,4,214.74,Port Macquarie,area,"3,520",3520,3520,False
+184,185,4,214.74,Port Macquarie,males,571,571,571,False
+184,185,4,214.74,Port Macquarie,females,548,548,548,False
+184,185,4,214.74,Port Macquarie,persons,"1,119",1119,1119,False
+184,185,4,214.74,Port Macquarie,persons_per_area,.32,0.32,0.32,False
+184,185,4,214.74,Port Macquarie,occupied_dwellings,240,240,240,False
+184,185,4,214.74,Port Macquarie,dwellings_per_area,.068,0.068,0.068,False
+184,185,4,214.74,Port Macquarie,population_per_dwelling,4.66,4.66,4.66,False
+184,185,5,223.03,Prospect and Sherwood,lga_name,Prospect and Sherwood,Prospect and Sherwood,Prospect and Sherwood,False
+184,185,5,223.03,Prospect and Sherwood,area,"7,680",7680,7680,False
+184,185,5,223.03,Prospect and Sherwood,males,"2,026",2026,2026,False
+184,185,5,223.03,Prospect and Sherwood,females,"1,906",1906,1906,False
+184,185,5,223.03,Prospect and Sherwood,persons,"3,932",3932,3932,False
+184,185,5,223.03,Prospect and Sherwood,persons_per_area,.51,0.51,0.51,False
+184,185,5,223.03,Prospect and Sherwood,occupied_dwellings,853,853,853,False
+184,185,5,223.03,Prospect and Sherwood,dwellings_per_area,.111,0.111,0.111,False
+184,185,5,223.03,Prospect and Sherwood,population_per_dwelling,4.61,4.61,4.61,False
+184,185,6,238.99,Queanbeyan,lga_name,Queanbeyan,Queanbeyan,Queanbeyan,False
+184,185,6,238.99,Queanbeyan,area,"4,416*",4416,4416,False
+184,185,6,238.99,Queanbeyan,males,624,624,624,False
+184,185,6,238.99,Queanbeyan,females,649,649,649,False
+184,185,6,238.99,Queanbeyan,persons,"1,273",1273,1273,False
+184,185,6,238.99,Queanbeyan,persons_per_area,.29,0.29,0.29,False
+184,185,6,238.99,Queanbeyan,occupied_dwellings,263,263,263,False
+184,185,6,238.99,Queanbeyan,dwellings_per_area,.060,0.060,0.060,False
+184,185,6,238.99,Queanbeyan,population_per_dwelling,4.84,4.84,4.84,False
+184,185,7,246.97,Quirindi,lga_name,Quirindi,Quirindi,Quirindi,False
+184,185,7,246.97,Quirindi,area,"1,498",1498,1498,False
+184,185,7,246.97,Quirindi,males,"1,101",1101,1101,False
+184,185,7,246.97,Quirindi,females,"1,139",1139,1139,False
+184,185,7,246.97,Quirindi,persons,"2,240",2240,2240,False
+184,185,7,246.97,Quirindi,persons_per_area,1.50,1.50,1.50,False
+184,185,7,246.97,Quirindi,occupied_dwellings,447,447,447,False
+184,185,7,246.97,Quirindi,dwellings_per_area,.298,0.298,0.298,False
+184,185,7,246.97,Quirindi,population_per_dwelling,5.01,5.01,5.01,False
+184,185,8,255.11,Randwick,lga_name,Randwick,Randwick,Randwick,False
+184,185,8,255.11,Randwick,area,"8,064",8064,8064,False
+184,185,8,255.11,Randwick,males,"9,294",9294,9294,False
+184,185,8,255.11,Randwick,females,"10,169",10169,10169,False
+184,185,8,255.11,Randwick,persons,"19,463",19463,19463,False
+184,185,8,255.11,Randwick,persons_per_area,2.41,2.41,2.41,False
+184,185,8,255.11,Randwick,occupied_dwellings,"3,913",3913,3913,False
+184,185,8,255.11,Randwick,dwellings_per_area,.485,0.485,0.485,False
+184,185,8,255.11,Randwick,population_per_dwelling,4.97,4.97,4.97,False
+184,185,9,263.4,Raymond Terrace,lga_name,Raymond Terrace,Raymond Terrace,Raymond Terrace,False
+184,185,9,263.4,Raymond Terrace,area,384,384,384,False
+184,185,9,263.4,Raymond Terrace,males,414,414,414,False
+184,185,9,263.4,Raymond Terrace,females,497,497,497,False
+184,185,9,263.4,Raymond Terrace,persons,911,911,911,False
+184,185,9,263.4,Raymond Terrace,persons_per_area,2.37,2.37,2.37,False
+184,185,9,263.4,Raymond Terrace,occupied_dwellings,194,194,194,False
+184,185,9,263.4,Raymond Terrace,dwellings_per_area,.505,0.505,0.505,False
+184,185,9,263.4,Raymond Terrace,population_per_dwelling,4.70,4.70,4.70,False
+184,185,10,271.45,Redfern,lga_name,Redfern,Redfern,Redfern,False
+184,185,10,271.45,Redfern,area,435,435,435,False
+184,185,10,271.45,Redfern,males,"12,422",12422,12422,False
+184,185,10,271.45,Redfern,females,"12,005",12005,12005,False
+184,185,10,271.45,Redfern,persons,"24,427",24427,24427,False
+184,185,10,271.45,Redfern,persons_per_area,56.15,56.15,56.15,False
+184,185,10,271.45,Redfern,occupied_dwellings,"4,436",4436,4436,False
+184,185,10,271.45,Redfern,dwellings_per_area,10.198,10.198,10.198,False
+184,185,10,271.45,Redfern,population_per_dwelling,5.51,5.51,5.51,False
+184,185,11,287.25,Richmond,lga_name,Richmond,Richmond,Richmond,False
+184,185,11,287.25,Richmond,area,"13,197",13197,13197,False
+184,185,11,287.25,Richmond,males,"1,015",1015,1015,False
+184,185,11,287.25,Richmond,females,842,842,842,False
+184,185,11,287.25,Richmond,persons,"1,857",1857,1857,False
+184,185,11,287.25,Richmond,persons_per_area,.14,0.14,0.14,False
+184,185,11,287.25,Richmond,occupied_dwellings,459,459,459,False
+184,185,11,287.25,Richmond,dwellings_per_area,.035,0.035,0.035,False
+184,185,11,287.25,Richmond,population_per_dwelling,4.05,4.05,4.05,False
+184,185,12,295.43,Rockdale,lga_name,Rockdale,Rockdale,Rockdale,False
+184,185,12,295.43,Rockdale,area,"5,022",5022,5022,False
+184,185,12,295.43,Rockdale,males,"6,739",6739,6739,False
+184,185,12,295.43,Rockdale,females,"7,356",7356,7356,False
+184,185,12,295.43,Rockdale,persons,"14,095",14095,14095,False
+184,185,12,295.43,Rockdale,persons_per_area,2.81,2.81,2.81,False
+184,185,12,295.43,Rockdale,occupied_dwellings,"2,931",2931,2931,False
+184,185,12,295.43,Rockdale,dwellings_per_area,.584,0.584,0.584,False
+184,185,12,295.43,Rockdale,population_per_dwelling,4.81,4.81,4.81,False
+184,185,13,303.33,Rookwood,lga_name,Rookwood,Rookwood,Rookwood,False
+184,185,13,303.33,Rookwood,area,"5,376",5376,5376,False
+184,185,13,303.33,Rookwood,males,"3,040",3040,3040,False
+184,185,13,303.33,Rookwood,females,"2,378",2378,2378,False
+184,185,13,303.33,Rookwood,persons,"5,418",5418,5418,False
+184,185,13,303.33,Rookwood,persons_per_area,1.01,1.01,1.01,False
+184,185,13,303.33,Rookwood,occupied_dwellings,772,772,772,False
+184,185,13,303.33,Rookwood,dwellings_per_area,.144,0.144,0.144,False
+184,185,13,303.33,Rookwood,population_per_dwelling,7.02,7.02,7.02,False
+184,185,14,311.31,Ryde,lga_name,Ryde,Ryde,Ryde,False
+184,185,14,311.31,Ryde,area,"7,110",7110,7110,False
+184,185,14,311.31,Ryde,males,"2,562",2562,2562,False
+184,185,14,311.31,Ryde,females,"2,719",2719,2719,False
+184,185,14,311.31,Ryde,persons,"5,281",5281,5281,False
+184,185,14,311.31,Ryde,persons_per_area,.74,0.74,0.74,False
+184,185,14,311.31,Ryde,occupied_dwellings,"1,151",1151,1151,False
+184,185,14,311.31,Ryde,dwellings_per_area,.162,0.162,0.162,False
+184,185,14,311.31,Ryde,population_per_dwelling,4.59,4.59,4.59,False
+184,185,15,319.44,St. Marys,lga_name,St. Marys,St. Marys,St. Marys,False
+184,185,15,319.44,St. Marys,area,"37,760",37760,37760,False
+184,185,15,319.44,St. Marys,males,889,889,889,False
+184,185,15,319.44,St. Marys,females,905,905,905,False
+184,185,15,319.44,St. Marys,persons,"1,794",1794,1794,False
+184,185,15,319.44,St. Marys,persons_per_area,.05,0.05,0.05,False
+184,185,15,319.44,St. Marys,occupied_dwellings,389,389,389,False
+184,185,15,319.44,St. Marys,dwellings_per_area,.010,0.010,0.010,False
+184,185,15,319.44,St. Marys,population_per_dwelling,4.61,4.61,4.61,False
+184,185,16,335.52,St. Peters,lga_name,St. Peters,St. Peters,St. Peters,False
+184,185,16,335.52,St. Peters,area,896,896,896,False
+184,185,16,335.52,St. Peters,males,"4,220",4220,4220,False
+184,185,16,335.52,St. Peters,females,"4,190",4190,4190,False
+184,185,16,335.52,St. Peters,persons,"8,410",8410,8410,False
+184,185,16,335.52,St. Peters,persons_per_area,9.39,9.39,9.39,False
+184,185,16,335.52,St. Peters,occupied_dwellings,"1,678",1678,1678,False
+184,185,16,335.52,St. Peters,dwellings_per_area,1.873,1.873,1.873,False
+184,185,16,335.52,St. Peters,population_per_dwelling,5.01,5.01,5.01,False
+184,185,17,343.47,Scone,lga_name,Scone,Scone,Scone,False
+184,185,17,343.47,Scone,area,794,794,794,False
+184,185,17,343.47,Scone,males,595,595,595,False
+184,185,17,343.47,Scone,females,561,561,561,False
+184,185,17,343.47,Scone,persons,"1,156",1156,1156,False
+184,185,17,343.47,Scone,persons_per_area,1.46,1.46,1.46,False
+184,185,17,343.47,Scone,occupied_dwellings,235,235,235,False
+184,185,17,343.47,Scone,dwellings_per_area,.296,0.296,0.296,False
+184,185,17,343.47,Scone,population_per_dwelling,4.92,4.92,4.92,False
+184,185,18,351.55,Shell Harbour,lga_name,Shell Harbour,Shell Harbour,Shell Harbour,False
+184,185,18,351.55,Shell Harbour,area,"38,720",38720,38720,False
+184,185,18,351.55,Shell Harbour,males,788,788,788,False
+184,185,18,351.55,Shell Harbour,females,724,724,724,False
+184,185,18,351.55,Shell Harbour,persons,"1,512",1512,1512,False
+184,185,18,351.55,Shell Harbour,persons_per_area,.04,0.04,0.04,False
+184,185,18,351.55,Shell Harbour,occupied_dwellings,308,308,308,False
+184,185,18,351.55,Shell Harbour,dwellings_per_area,.008,0.008,0.008,False
+184,185,18,351.55,Shell Harbour,population_per_dwelling,4.91,4.91,4.91,False
+184,185,19,359.61,"Shoalhaven, South",lga_name,"Shoalhaven, South","Shoalhaven, South","Shoalhaven, South",False
+184,185,19,359.61,"Shoalhaven, South",area,"25,920",25920,25920,False
+184,185,19,359.61,"Shoalhaven, South",males,382,382,382,False
+184,185,19,359.61,"Shoalhaven, South",females,339,339,339,False
+184,185,19,359.61,"Shoalhaven, South",persons,721,721,721,False
+184,185,19,359.61,"Shoalhaven, South",persons_per_area,.03,0.03,0.03,False
+184,185,19,359.61,"Shoalhaven, South",occupied_dwellings,146,146,146,False
+184,185,19,359.61,"Shoalhaven, South",dwellings_per_area,.006,0.006,0.006,False
+184,185,19,359.61,"Shoalhaven, South",population_per_dwelling,4.94,4.94,4.94,False
+184,185,20,367.66,Singleton,lga_name,Singleton,Singleton,Singleton,False
+184,185,20,367.66,Singleton,area,621,621,621,False
+184,185,20,367.66,Singleton,males,"1,461",1461,1461,False
+184,185,20,367.66,Singleton,females,"1,535",1535,1535,False
+184,185,20,367.66,Singleton,persons,"2,996",2996,2996,False
+184,185,20,367.66,Singleton,persons_per_area,4.82,4.82,4.82,False
+184,185,20,367.66,Singleton,occupied_dwellings,614,614,614,False
+184,185,20,367.66,Singleton,dwellings_per_area,.989,0.989,0.989,False
+184,185,20,367.66,Singleton,population_per_dwelling,4.88,4.88,4.88,False
+184,185,21,383.84,Smithfield and Fairfield,lga_name,Smithfield and Fairfield,Smithfield and Fairfield,Smithfield and Fairfield,False
+184,185,21,383.84,Smithfield and Fairfield,area,"15,360",15360,15360,False
+184,185,21,383.84,Smithfield and Fairfield,males,"1,142",1142,1142,False
+184,185,21,383.84,Smithfield and Fairfield,females,"1,084",1084,1084,False
+184,185,21,383.84,Smithfield and Fairfield,persons,"2,226",2226,2226,False
+184,185,21,383.84,Smithfield and Fairfield,persons_per_area,.14,0.14,0.14,False
+184,185,21,383.84,Smithfield and Fairfield,occupied_dwellings,493,493,493,False
+184,185,21,383.84,Smithfield and Fairfield,dwellings_per_area,.032,0.032,0.032,False
+184,185,21,383.84,Smithfield and Fairfield,population_per_dwelling,4.52,4.52,4.52,False
+184,185,22,391.67,Stockton,lga_name,Stockton,Stockton,Stockton,False
+184,185,22,391.67,Stockton,area,768,768,768,False
+184,185,22,391.67,Stockton,males,964,964,964,False
+184,185,22,391.67,Stockton,females,"1,142",1142,1142,False
+184,185,22,391.67,Stockton,persons,"2,106",2106,2106,False
+184,185,22,391.67,Stockton,persons_per_area,2.74,2.74,2.74,False
+184,185,22,391.67,Stockton,occupied_dwellings,428,428,428,False
+184,185,22,391.67,Stockton,dwellings_per_area,.557,0.557,0.557,False
+184,185,22,391.67,Stockton,population_per_dwelling,4.92,4.92,4.92,False
+184,185,23,400.06,Strathfield,lga_name,Strathfield,Strathfield,Strathfield,False
+184,185,23,400.06,Strathfield,area,"1,792",1792,1792,False
+184,185,23,400.06,Strathfield,males,"1,709",1709,1709,False
+184,185,23,400.06,Strathfield,females,"2,337",2337,2337,False
+184,185,23,400.06,Strathfield,persons,"4,046",4046,4046,False
+184,185,23,400.06,Strathfield,persons_per_area,2.26,2.26,2.26,False
+184,185,23,400.06,Strathfield,occupied_dwellings,809,809,809,False
+184,185,23,400.06,Strathfield,dwellings_per_area,.451,0.451,0.451,False
+184,185,23,400.06,Strathfield,population_per_dwelling,5.00,5.00,5.00,False
+184,185,24,407.77,Sydney,lga_name,Sydney,Sydney,Sydney,False
+184,185,24,407.77,Sydney,area,"3,327",3327,3327,False
+184,185,24,407.77,Sydney,males,"59,685",59685,59685,False
+184,185,24,407.77,Sydney,females,"53,236",53236,53236,False
+184,185,24,407.77,Sydney,persons,"112,921",112921,112921,False
+184,185,24,407.77,Sydney,persons_per_area,33.94,33.94,33.94,False
+184,185,24,407.77,Sydney,occupied_dwellings,18;463,18;463,18463,True
+184,185,24,407.77,Sydney,dwellings_per_area,5.549,5.549,5.549,False
+184,185,24,407.77,Sydney,population_per_dwelling,6.12,6.12,6.12,False
+184,185,25,416.08,"Sydney, North",lga_name,"Sydney, North","Sydney, North","Sydney, North",False
+184,185,25,416.08,"Sydney, North",area,"2,067",2067,2067,False
+184,185,25,416.08,"Sydney, North",males,"15,625",15625,15625,False
+184,185,25,416.08,"Sydney, North",females,"19,021",19021,19021,False
+184,185,25,416.08,"Sydney, North",persons,"34,646",34646,34646,False
+184,185,25,416.08,"Sydney, North",persons_per_area,16.76,16.76,16.76,False
+184,185,25,416.08,"Sydney, North",occupied_dwellings,"7,200",7200,7200,False
+184,185,25,416.08,"Sydney, North",dwellings_per_area,3.483,3.483,3.483,False
+184,185,25,416.08,"Sydney, North",population_per_dwelling,4.81,4.81,4.81,False
+184,185,26,431.97,Tamworth,lga_name,Tamworth,Tamworth,Tamworth,False
+184,185,26,431.97,Tamworth,area,"5,274",5274,5274,False
+184,185,26,431.97,Tamworth,males,"3,592",3592,3592,False
+184,185,26,431.97,Tamworth,females,"3,553",3553,3553,False
+184,185,26,431.97,Tamworth,persons,"7,145",7145,7145,False
+184,185,26,431.97,Tamworth,persons_per_area,1.35,1.35,1.35,False
+184,185,26,431.97,Tamworth,occupied_dwellings,"1,378",1378,1378,False
+184,185,26,431.97,Tamworth,dwellings_per_area,.261,0.261,0.261,False
+184,185,26,431.97,Tamworth,population_per_dwelling,5.19,5.19,5.19,False
+184,185,27,439.94,Taree,lga_name,Taree,Taree,Taree,False
+184,185,27,439.94,Taree,area,294,294,294,False
+184,185,27,439.94,Taree,males,612,612,612,False
+184,185,27,439.94,Taree,females,593,593,593,False
+184,185,27,439.94,Taree,persons,"1,205",1205,1205,False
+184,185,27,439.94,Taree,persons_per_area,4.10,4.10,4.10,False
+184,185,27,439.94,Taree,occupied_dwellings,235,235,235,False
+184,185,27,439.94,Taree,dwellings_per_area,.799,0.799,0.799,False
+184,185,27,439.94,Taree,population_per_dwelling,5.13,5.13,5.13,False
+184,185,28,447.84,Temora,lga_name,Temora,Temora,Temora,False
+184,185,28,447.84,Temora,area,"5,760",5760,5760,False
+184,185,28,447.84,Temora,males,"1,459",1459,1459,False
+184,185,28,447.84,Temora,females,"1,325",1325,1325,False
+184,185,28,447.84,Temora,persons,"2,784",2784,2784,False
+184,185,28,447.84,Temora,persons_per_area,.48,0.48,0.48,False
+184,185,28,447.84,Temora,occupied_dwellings,594,594,594,False
+184,185,28,447.84,Temora,dwellings_per_area,.103,0.103,0.103,False
+184,185,28,447.84,Temora,population_per_dwelling,4.69,4.69,4.69,False
+184,185,29,455.97,Tenterfield,lga_name,Tenterfield,Tenterfield,Tenterfield,False
+184,185,29,455.97,Tenterfield,area,"29,440",29440,29440,False
+184,185,29,455.97,Tenterfield,males,"1,328",1328,1328,False
+184,185,29,455.97,Tenterfield,females,"1,464",1464,1464,False
+184,185,29,455.97,Tenterfield,persons,"2,792",2792,2792,False
+184,185,29,455.97,Tenterfield,persons_per_area,.09,0.09,0.09,False
+184,185,29,455.97,Tenterfield,occupied_dwellings,539,539,539,False
+184,185,29,455.97,Tenterfield,dwellings_per_area,.018,0.018,0.018,False
+184,185,29,455.97,Tenterfield,population_per_dwelling,5.18,5.18,5.18,False
+184,185,30,463.93,Tumut,lga_name,Tumut,Tumut,Tumut,False
+184,185,30,463.93,Tumut,area,"1,120",1120,1120,False
+184,185,30,463.93,Tumut,males,762,762,762,False
+184,185,30,463.93,Tumut,females,755,755,755,False
+184,185,30,463.93,Tumut,persons,"1,517",1517,1517,False
+184,185,30,463.93,Tumut,persons_per_area,1.35,1.35,1.35,False
+184,185,30,463.93,Tumut,occupied_dwellings,300,300,300,False
+184,185,30,463.93,Tumut,dwellings_per_area,.268,0.268,0.268,False
+184,185,30,463.93,Tumut,population_per_dwelling,5.06,5.06,5.06,False
+184,185,31,472.06,Ulladulla.,lga_name,Ulladulla.,Ulladulla,Ulladulla,False
+184,185,31,472.06,Ulladulla.,area,"28,160",28160,28160,False
+184,185,31,472.06,Ulladulla.,males,773,773,773,False
+184,185,31,472.06,Ulladulla.,females,729,729,729,False
+184,185,31,472.06,Ulladulla.,persons,"1,502",1502,1502,False
+184,185,31,472.06,Ulladulla.,persons_per_area,.05,0.05,0.05,False
+184,185,31,472.06,Ulladulla.,occupied_dwellings,303,303,303,False
+184,185,31,472.06,Ulladulla.,dwellings_per_area,.ou,0.ou,0.011,True
+184,185,31,472.06,Ulladulla.,population_per_dwelling,4.96,4.96,4.96,False
+184,185,32,479.99,Ulmarra,lga_name,Ulmarra,Ulmarra,Ulmarra,False
+184,185,32,479.99,Ulmarra,area,"28,000",28000,28000,False
+184,185,32,479.99,Ulmarra,males,958,958,958,False
+184,185,32,479.99,Ulmarra,females,874,874,874,False
+184,185,32,479.99,Ulmarra,persons,"1,832",1832,1832,False
+184,185,32,479.99,Ulmarra,persons_per_area,.07,0.07,0.07,False
+184,185,32,479.99,Ulmarra,occupied_dwellings,346,346,346,False
+184,185,32,479.99,Ulmarra,dwellings_per_area,.012,0.012,0.012,False
+184,185,32,479.99,Ulmarra,population_per_dwelling,5.29,5.29,5.29,False
+184,185,33,487.94,Uralla,lga_name,Uralla,Uralla,Uralla,False
+184,185,33,487.94,Uralla,area,320,320,320,False
+184,185,33,487.94,Uralla,males,497,497,497,False
+184,185,33,487.94,Uralla,females,522,522,522,False
+184,185,33,487.94,Uralla,persons,"1,019",1019,1019,False
+184,185,33,487.94,Uralla,persons_per_area,3.18,3.18,3.18,False
+184,185,33,487.94,Uralla,occupied_dwellings,186,186,186,False
+184,185,33,487.94,Uralla,dwellings_per_area,.581,0.581,0.581,False
+184,185,33,487.94,Uralla,population_per_dwelling,5.48,5.48,5.48,False
+184,185,34,495.83,Vaucluse,lga_name,Vaucluse,Vaucluse,Vaucluse,False
+184,185,34,495.83,Vaucluse,area,768,768,768,False
+184,185,34,495.83,Vaucluse,males,768,768,768,False
+184,185,34,495.83,Vaucluse,females,904,904,904,False
+184,185,34,495.83,Vaucluse,persons,"1,672",1672,1672,False
+184,185,34,495.83,Vaucluse,persons_per_area,2.18,2.18,2.18,False
+184,185,34,495.83,Vaucluse,occupied_dwellings,324,324,324,False
+184,185,34,495.83,Vaucluse,dwellings_per_area,.422,0.422,0.422,False
+184,185,34,495.83,Vaucluse,population_per_dwelling,5.16,5.16,5.16,False
+184,185,35,504.16,Wagga Wagga.,lga_name,Wagga Wagga.,Wagga Wagga,Wagga Wagga,False
+184,185,35,504.16,Wagga Wagga.,area,"5,766",5766,5766,False
+184,185,35,504.16,Wagga Wagga.,males,"3,238",3238,3238,False
+184,185,35,504.16,Wagga Wagga.,females,"3,181",3181,3181,False
+184,185,35,504.16,Wagga Wagga.,persons,"6,419",6419,6419,False
+184,185,35,504.16,Wagga Wagga.,persons_per_area,1.11,1.11,1.11,False
+184,185,35,504.16,Wagga Wagga.,occupied_dwellings,"1,230",1230,1230,False
+184,185,35,504.16,Wagga Wagga.,dwellings_per_area,.213,0.213,0.213,False
+184,185,35,504.16,Wagga Wagga.,population_per_dwelling,5.22,5.22,5.22,False
+184,185,36,512.17,Walcha,lga_name,Walcha,Walcha,Walcha,False
+184,185,36,512.17,Walcha,area,"18,880",18880,18880,False
+184,185,36,512.17,Walcha,males,664,664,664,False
+184,185,36,512.17,Walcha,females,670,670,670,False
+184,185,36,512.17,Walcha,persons,"1,334",1334,1334,False
+184,185,36,512.17,Walcha,persons_per_area,.07,0.07,0.07,False
+184,185,36,512.17,Walcha,occupied_dwellings,238,238,238,False
+184,185,36,512.17,Walcha,dwellings_per_area,.013,0.013,0.013,False
+184,185,36,512.17,Walcha,population_per_dwelling,5.61,5.61,5.61,False
+184,185,37,528.18,Wallendbeen,lga_name,Wallendbeen,Wallendbeen,Wallendbeen,False
+184,185,37,528.18,Wallendbeen,area,"63,360",63360,63360,False
+184,185,37,528.18,Wallendbeen,males,578,578,578,False
+184,185,37,528.18,Wallendbeen,females,441,441,441,False
+184,185,37,528.18,Wallendbeen,persons,"1,019",1019,1019,False
+184,185,37,528.18,Wallendbeen,persons_per_area,.02,0.02,0.02,False
+184,185,37,528.18,Wallendbeen,occupied_dwellings,197,197,197,False
+184,185,37,528.18,Wallendbeen,dwellings_per_area,.003,0.003,0.003,False
+184,185,37,528.18,Wallendbeen,population_per_dwelling,5.17,5.17,5.17,False
+184,185,38,536.15,Wallsend,lga_name,Wallsend,Wallsend,Wallsend,False
+184,185,38,536.15,Wallsend,area,"3,206",3206,3206,False
+184,185,38,536.15,Wallsend,males,"1,693",1693,1693,False
+184,185,38,536.15,Wallsend,females,"1,653",1653,1653,False
+184,185,38,536.15,Wallsend,persons,"3,346",3346,3346,False
+184,185,38,536.15,Wallsend,persons_per_area,1.04,1.04,1.04,False
+184,185,38,536.15,Wallsend,occupied_dwellings,700,700,700,False
+184,185,38,536.15,Wallsend,dwellings_per_area,.218,0.218,0.218,False
+184,185,38,536.15,Wallsend,population_per_dwelling,4.78,4.78,4.78,False
+184,185,39,544.32,Waratah,lga_name,Waratah,Waratah,Waratah,False
+184,185,39,544.32,Waratah,area,"2,860",2860,2860,False
+184,185,39,544.32,Waratah,males,"2,138",2138,2138,False
+184,185,39,544.32,Waratah,females,"2,281",2281,2281,False
+184,185,39,544.32,Waratah,persons,"4,419",4419,4419,False
+184,185,39,544.32,Waratah,persons_per_area,1.55,1.55,1.55,False
+184,185,39,544.32,Waratah,occupied_dwellings,893,893,893,False
+184,185,39,544.32,Waratah,dwellings_per_area,.312,0.312,0.312,False
+184,185,39,544.32,Waratah,population_per_dwelling,4.95,4.95,4.95,False
+184,185,40,552.22,Warialda,lga_name,Warialda,Warialda,Warialda,False
+184,185,40,552.22,Warialda,area,"5,248",5248,5248,False
+184,185,40,552.22,Warialda,males,383,383,383,False
+184,185,40,552.22,Warialda,females,399,399,399,False
+184,185,40,552.22,Warialda,persons,782,782,782,False
+184,185,40,552.22,Warialda,persons_per_area,.15,0.15,0.15,False
+184,185,40,552.22,Warialda,occupied_dwellings,192,192,192,False
+184,185,40,552.22,Warialda,dwellings_per_area,.037,0.037,0.037,False
+184,185,40,552.22,Warialda,population_per_dwelling,4.07,4.07,4.07,False
+184,185,41,560.4,Warren,lga_name,Warren,Warren,Warren,False
+184,185,41,560.4,Warren,area,"14,592",14592,14592,False
+184,185,41,560.4,Warren,males,581,581,581,False
+184,185,41,560.4,Warren,females,561,561,561,False
+184,185,41,560.4,Warren,persons,"1,142",1142,1142,False
+184,185,41,560.4,Warren,persons_per_area,.08,0.08,0.08,False
+184,185,41,560.4,Warren,occupied_dwellings,227,227,227,False
+184,185,41,560.4,Warren,dwellings_per_area,.016,0.016,0.016,False
+184,185,41,560.4,Warren,population_per_dwelling,5.03,5.03,5.03,False
+184,185,42,568.31,Waterloo,lga_name,Waterloo,Waterloo,Waterloo,False
+184,185,42,568.31,Waterloo,area,806,806,806,False
+184,185,42,568.31,Waterloo,males,"5,206",5206,5206,False
+184,185,42,568.31,Waterloo,females,"4,866",4866,4866,False
+184,185,42,568.31,Waterloo,persons,"10,072",10072,10072,False
+184,185,42,568.31,Waterloo,persons_per_area,12.50,12.50,12.50,False
+184,185,42,568.31,Waterloo,occupied_dwellings,"2,073",2073,2073,False
+184,185,42,568.31,Waterloo,dwellings_per_area,2.572,2.572,2.572,False
+184,185,42,568.31,Waterloo,population_per_dwelling,4.86,4.86,4.86,False
+184,185,43,576.22,Waverley,lga_name,Waverley,Waverley,Waverley,False
+184,185,43,576.22,Waverley,area,"1,965",1965,1965,False
+184,185,43,576.22,Waverley,males,"9,107",9107,9107,False
+184,185,43,576.22,Waverley,females,"10,724",10724,10724,False
+184,185,43,576.22,Waverley,persons,"19,831",19831,19831,False
+184,185,43,576.22,Waverley,persons_per_area,10.09,10.09,10.09,False
+184,185,43,576.22,Waverley,occupied_dwellings,"4,211",4211,4211,False
+184,185,43,576.22,Waverley,dwellings_per_area,2.143,2.143,2.143,False
+184,185,43,576.22,Waverley,population_per_dwelling,4.71,4.71,4.71,False
+184,185,44,584.36,Wellington,lga_name,Wellington,Wellington,Wellington,False
+184,185,44,584.36,Wellington,area,"4,480",4480,4480,False
+184,185,44,584.36,Wellington,males,"1,922",1922,1922,False
+184,185,44,584.36,Wellington,females,"2,036",2036,2036,False
+184,185,44,584.36,Wellington,persons,"3,958",3958,3958,False
+184,185,44,584.36,Wellington,persons_per_area,.88,0.88,0.88,False
+184,185,44,584.36,Wellington,occupied_dwellings,809,809,809,False
+184,185,44,584.36,Wellington,dwellings_per_area,.181,0.181,0.181,False
+184,185,44,584.36,Wellington,population_per_dwelling,4.89,4.89,4.89,False
+184,185,45,592.29,Wentworth,lga_name,Wentworth,Wentworth,Wentworth,False
+184,185,45,592.29,Wentworth,area,"21,939",21939,21939,False
+184,185,45,592.29,Wentworth,males,287,287,287,False
+184,185,45,592.29,Wentworth,females,271,271,271,False
+184,185,45,592.29,Wentworth,persons,558,558,558,False
+184,185,45,592.29,Wentworth,persons_per_area,.03,0.03,0.03,False
+184,185,45,592.29,Wentworth,occupied_dwellings,157,157,157,False
+184,185,45,592.29,Wentworth,dwellings_per_area,.007,0.007,0.007,False
+184,185,45,592.29,Wentworth,population_per_dwelling,3.55,3.55,3.55,False
+184,185,46,600.22,Wickham,lga_name,Wickham,Wickham,Wickham,False
+184,185,46,600.22,Wickham,area,966,966,966,False
+184,185,46,600.22,Wickham,males,"4,260",4260,4260,False
+184,185,46,600.22,Wickham,females,"4,174",4174,4174,False
+184,185,46,600.22,Wickham,persons,"8,434",8434,8434,False
+184,185,46,600.22,Wickham,persons_per_area,8.73,8.73,8.73,False
+184,185,46,600.22,Wickham,occupied_dwellings,"1,760",1760,1760,False
+184,185,46,600.22,Wickham,dwellings_per_area,1.822,1.822,1.822,False
+184,185,46,600.22,Wickham,population_per_dwelling,t.79,t.79,4.79,True
+184,185,47,616.3,Wilcannia,lga_name,Wilcannia,Wilcannia,Wilcannia,False
+184,185,47,616.3,Wilcannia,area,"13,440",13440,13440,False
+184,185,47,616.3,Wilcannia,males,328,328,328,False
+184,185,47,616.3,Wilcannia,females,342,342,342,False
+184,185,47,616.3,Wilcannia,persons,670,670,670,False
+184,185,47,616.3,Wilcannia,persons_per_area,.05,0.05,0.05,False
+184,185,47,616.3,Wilcannia,occupied_dwellings,156,156,156,False
+184,185,47,616.3,Wilcannia,dwellings_per_area,.012,0.012,0.012,False
+184,185,47,616.3,Wilcannia,population_per_dwelling,4.29,4.29,4.29,False
+184,185,48,624.44,Willoughby,lga_name,Willoughby,Willoughby,Willoughby,False
+184,185,48,624.44,Willoughby,area,"5,530",5530,5530,False
+184,185,48,624.44,Willoughby,males,"6,211",6211,6211,False
+184,185,48,624.44,Willoughby,females,"6,825",6825,6825,False
+184,185,48,624.44,Willoughby,persons,"13,036",13036,13036,False
+184,185,48,624.44,Willoughby,persons_per_area,2.36,2.36,2.36,False
+184,185,48,624.44,Willoughby,occupied_dwellings,"2,623",2623,2623,False
+184,185,48,624.44,Willoughby,dwellings_per_area,.474,0.474,0.474,False
+184,185,48,624.44,Willoughby,population_per_dwelling,4.97,4.97,4.97,False
+184,185,49,632.39,Windsor,lga_name,Windsor,Windsor,Windsor,False
+184,185,49,632.39,Windsor,area,"24,896",24896,24896,False
+184,185,49,632.39,Windsor,males,"1,792",1792,1792,False
+184,185,49,632.39,Windsor,females,"1,674",1674,1674,False
+184,185,49,632.39,Windsor,persons,"3,466",3466,3466,False
+184,185,49,632.39,Windsor,persons_per_area,.14,0.14,0.14,False
+184,185,49,632.39,Windsor,occupied_dwellings,754,754,754,False
+184,185,49,632.39,Windsor,dwellings_per_area,.030,0.030,0.030,False
+184,185,49,632.39,Windsor,population_per_dwelling,4.60,4.60,4.60,False
+184,185,50,640.54,Wingham,lga_name,Wingham,Wingham,Wingham,False
+184,185,50,640.54,Wingham,area,"2,029",2029,2029,False
+184,185,50,640.54,Wingham,males,531,531,531,False
+184,185,50,640.54,Wingham,females,439,439,439,False
+184,185,50,640.54,Wingham,persons,970,970,970,False
+184,185,50,640.54,Wingham,persons_per_area,.48,0.48,0.48,False
+184,185,50,640.54,Wingham,occupied_dwellings,204,204,204,False
+184,185,50,640.54,Wingham,dwellings_per_area,.101,0.101,0.101,False
+184,185,50,640.54,Wingham,population_per_dwelling,4.75,4.75,4.75,False
+184,185,51,648.43,Wollongong,lga_name,Wollongong,Wollongong,Wollongong,False
+184,185,51,648.43,Wollongong,area,"1,920",1920,1920,False
+184,185,51,648.43,Wollongong,males,"2,246",2246,2246,False
+184,185,51,648.43,Wollongong,females,"2,414",2414,2414,False
+184,185,51,648.43,Wollongong,persons,"4,660",4660,4660,False
+184,185,51,648.43,Wollongong,persons_per_area,2.43,2.43,2.43,False
+184,185,51,648.43,Wollongong,occupied_dwellings,939,939,939,False
+184,185,51,648.43,Wollongong,dwellings_per_area,.489,0.489,0.489,False
+184,185,51,648.43,Wollongong,population_per_dwelling,4.96,4.96,4.96,False
+184,185,52,656.61,Woollahra,lga_name,Woollahra,Woollahra,Woollahra,False
+184,185,52,656.61,Woollahra,area,"1,926",1926,1926,False
+184,185,52,656.61,Woollahra,males,"7,415",7415,7415,False
+184,185,52,656.61,Woollahra,females,"9,574",9574,9574,False
+184,185,52,656.61,Woollahra,persons,"16,989",16989,16989,False
+184,185,52,656.61,Woollahra,persons_per_area,8.82,8.82,8.82,False
+184,185,52,656.61,Woollahra,occupied_dwellings,"3,424",3424,3424,False
+184,185,52,656.61,Woollahra,dwellings_per_area,1. 778,1.778,1.778,False
+184,185,52,656.61,Woollahra,population_per_dwelling,4.96,4.96,4.96,False
+184,185,53,664.52,Wrightville,lga_name,Wrightville,Wrightville,Wrightville,False
+184,185,53,664.52,Wrightville,area,"5,600",5600,5600,False
+184,185,53,664.52,Wrightville,males,872,872,872,False
+184,185,53,664.52,Wrightville,females,696,696,696,False
+184,185,53,664.52,Wrightville,persons,"1,568",1568,1568,False
+184,185,53,664.52,Wrightville,persons_per_area,.28,0.28,0.28,False
+184,185,53,664.52,Wrightville,occupied_dwellings,354,354,354,False
+184,185,53,664.52,Wrightville,dwellings_per_area,.063,0.063,0.063,False
+184,185,53,664.52,Wrightville,population_per_dwelling,4.43,4.43,4.43,False
+184,185,54,672.72,Wyalong,lga_name,Wyalong,Wyalong,Wyalong,False
+184,185,54,672.72,Wyalong,area,"32,000",32000,32000,False
+184,185,54,672.72,Wyalong,males,547,547,547,False
+184,185,54,672.72,Wyalong,females,495,495,495,False
+184,185,54,672.72,Wyalong,persons,"1,042",1042,1042,False
+184,185,54,672.72,Wyalong,persons_per_area,.03,0.03,0.03,False
+184,185,54,672.72,Wyalong,occupied_dwellings,238,238,238,False
+184,185,54,672.72,Wyalong,dwellings_per_area,.007,0.007,0.007,False
+184,185,54,672.72,Wyalong,population_per_dwelling,4.38,4.38,4.38,False
+184,185,55,680.67,Yass,lga_name,Yass,Yass,Yass,False
+184,185,55,680.67,Yass,area,"28,800",28800,28800,False
+184,185,55,680.67,Yass,males,"1,027",1027,1027,False
+184,185,55,680.67,Yass,females,"1,109",1109,1109,False
+184,185,55,680.67,Yass,persons,"2,136",2136,2136,False
+184,185,55,680.67,Yass,persons_per_area,.07,0.07,0.07,False
+184,185,55,680.67,Yass,occupied_dwellings,416,416,416,False
+184,185,55,680.67,Yass,dwellings_per_area,.014,0.014,0.014,False
+184,185,55,680.67,Yass,population_per_dwelling,5.13,5.13,5.13,False
+184,185,56,688.81,Young,lga_name,Young,Young,Young,False
+184,185,56,688.81,Young,area,"3,400",3400,3400,False
+184,185,56,688.81,Young,males,"1,499",1499,1499,False
+184,185,56,688.81,Young,females,"1,640",1640,1640,False
+184,185,56,688.81,Young,persons,"3,139",3139,3139,False
+184,185,56,688.81,Young,persons_per_area,.92,0.92,0.92,False
+184,185,56,688.81,Young,occupied_dwellings,651,651,651,False
+184,185,56,688.81,Young,dwellings_per_area,.191,0.191,0.191,False
+184,185,56,688.81,Young,population_per_dwelling,4.82,4.82,4.82,False
+184,185,57,728.82,Abercrombie,lga_name,Abercrombie,Abercrombie,Abercrombie,False
+184,185,57,728.82,Abercrombie,area,918,918,918,False
+184,185,57,728.82,Abercrombie,males,"2,475",2475,2475,False
+184,185,57,728.82,Abercrombie,females,"2,248",2248,2248,False
+184,185,57,728.82,Abercrombie,persons,"4,723",4723,4723,False
+184,185,57,728.82,Abercrombie,persons_per_area,5.14,5.14,5.14,False
+184,185,57,728.82,Abercrombie,occupied_dwellings,"1,033",1033,1033,False
+184,185,57,728.82,Abercrombie,dwellings_per_area,1.125,1.125,1.125,False
+184,185,57,728.82,Abercrombie,population_per_dwelling,4.57,4.57,4.57,False
+184,185,58,736.99,Adjungbilly,lga_name,Adjungbilly,Adjungbilly,Adjungbilly,False
+184,185,58,736.99,Adjungbilly,area,957,957,957,False
+184,185,58,736.99,Adjungbilly,males,"1,869",1869,1869,False
+184,185,58,736.99,Adjungbilly,females,"1,553",1553,1553,False
+184,185,58,736.99,Adjungbilly,persons,"3,422",3422,3422,False
+184,185,58,736.99,Adjungbilly,persons_per_area,3.58,3.58,3.58,False
+184,185,58,736.99,Adjungbilly,occupied_dwellings,736,736,736,False
+184,185,58,736.99,Adjungbilly,dwellings_per_area,.769,0.769,0.769,False
+184,185,58,736.99,Adjungbilly,population_per_dwelling,4.65,4.65,4.65,False
+184,185,59,744.95,Amaroo,lga_name,Amaroo,Amaroo,Amaroo,False
+184,185,59,744.95,Amaroo,area,771,771,771,False
+184,185,59,744.95,Amaroo,males,"1,435",1435,1435,False
+184,185,59,744.95,Amaroo,females,"1,028",1028,1028,False
+184,185,59,744.95,Amaroo,persons,"2,463",2463,2463,False
+184,185,59,744.95,Amaroo,persons_per_area,3.19,3.19,3.19,False
+184,185,59,744.95,Amaroo,occupied_dwellings,521,521,521,False
+184,185,59,744.95,Amaroo,dwellings_per_area,.676,0.676,0.676,False
+184,185,59,744.95,Amaroo,population_per_dwelling,4.73,4.73,4.73,False
+184,185,60,753.14,Apsley,lga_name,Apsley,Apsley,Apsley,False
+184,185,60,753.14,Apsley,area,"2,501",2501,2501,False
+184,185,60,753.14,Apsley,males,"1,243",1243,1243,False
+184,185,60,753.14,Apsley,females,966,966,966,False
+184,185,60,753.14,Apsley,persons,"2,209",2209,2209,False
+184,185,60,753.14,Apsley,persons_per_area,.88,0.88,0.88,False
+184,185,60,753.14,Apsley,occupied_dwellings,443,443,443,False
+184,185,60,753.14,Apsley,dwellings_per_area,.177,0.177,0.177,False
+184,185,60,753.14,Apsley,population_per_dwelling,4.99,4.99,4.99,False
+184,185,61,761.03,Ashford,lga_name,Ashford,Ashford,Ashford,False
+184,185,61,761.03,Ashford,area,"2,100",2100,2100,False
+184,185,61,761.03,Ashford,males,"1,455",1455,1455,False
+184,185,61,761.03,Ashford,females,"1,035",1035,1035,False
+184,185,61,761.03,Ashford,persons,"2,490",2490,2490,False
+184,185,61,761.03,Ashford,persons_per_area,1.19,1.19,1.19,False
+184,185,61,761.03,Ashford,occupied_dwellings,536,536,536,False
+184,185,61,761.03,Ashford,dwellings_per_area,255,255,0.255,True
+184,185,61,761.03,Ashford,population_per_dwelling,4.65,4.65,4.65,False
+184,185,62,769.13,Bannockburn,lga_name,Bannockburn,Bannockburn,Bannockburn,False
+184,185,62,769.13,Bannockburn,area,576,576,576,False
+184,185,62,769.13,Bannockburn,males,"2,356",2356,2356,False
+184,185,62,769.13,Bannockburn,females,"1,821",1821,1821,False
+184,185,62,769.13,Bannockburn,persons,"4,177",4177,4177,False
+184,185,62,769.13,Bannockburn,persons_per_area,7.25,7.25,7.25,False
+184,185,62,769.13,Bannockburn,occupied_dwellings,846,846,846,False
+184,185,62,769.13,Bannockburn,dwellings_per_area,1.469,1.469,1.469,False
+184,185,62,769.13,Bannockburn,population_per_dwelling,4.94,4.94,4.94,False
+184,185,63,777.12,Barraba,lga_name,Barraba,Barraba,Barraba,False
+184,185,63,777.12,Barraba,area,"1,104",1104,1104,False
+184,185,63,777.12,Barraba,males,"1,378",1378,1378,False
+184,185,63,777.12,Barraba,females,"1,049",1049,1049,False
+184,185,63,777.12,Barraba,persons,"2,427",2427,2427,False
+184,185,63,777.12,Barraba,persons_per_area,2.20,2.20,2.20,False
+184,185,63,777.12,Barraba,occupied_dwellings,429,429,429,False
+184,185,63,777.12,Barraba,dwellings_per_area,.389,0.389,0.389,False
+184,185,63,777.12,Barraba,population_per_dwelling,5.66,5.66,5.66,False
+184,185,64,785.15,Baulkham Hills,lga_name,Baulkham Hills,Baulkham Hills,Baulkham Hills,False
+184,185,64,785.15,Baulkham Hills,area,159,159,159,False
+184,185,64,785.15,Baulkham Hills,males,"1,816",1816,1816,False
+184,185,64,785.15,Baulkham Hills,females,"1,667",1667,1667,False
+184,185,64,785.15,Baulkham Hills,persons,"3,483",3483,3483,False
+184,185,64,785.15,Baulkham Hills,persons_per_area,21.91,21.91,21.91,False
+184,185,64,785.15,Baulkham Hills,occupied_dwellings,775,775,775,False
+184,185,64,785.15,Baulkham Hills,dwellings_per_area,4.874,4.874,4.874,False
+184,185,64,785.15,Baulkham Hills,population_per_dwelling,4.49,4.49,4.49,False
+184,185,65,793.19,Bellingen,lga_name,Bellingen,Bellingen,Bellingen,False
+184,185,65,793.19,Bellingen,area,"1,052",1052,1052,False
+184,185,65,793.19,Bellingen,males,"5,107",5107,5107,False
+184,185,65,793.19,Bellingen,females,"4,017",4017,4017,False
+184,185,65,793.19,Bellingen,persons,"9,124",9124,9124,False
+184,185,65,793.19,Bellingen,persons_per_area,8.67,8.67,8.67,False
+184,185,65,793.19,Bellingen,occupied_dwellings,"1,832",1832,1832,False
+184,185,65,793.19,Bellingen,dwellings_per_area,1.741,1.741,1.741,False
+184,185,65,793.19,Bellingen,population_per_dwelling,4.98,4.98,4.98,False
+184,185,66,801.35,Berrigan,lga_name,Berrigan,Berrigan,Berrigan,False
+184,185,66,801.35,Berrigan,area,808,808,808,False
+184,185,66,801.35,Berrigan,males,"1,983",1983,1983,False
+184,185,66,801.35,Berrigan,females,"1,413",1413,1413,False
+184,185,66,801.35,Berrigan,persons,"3,396",3396,3396,False
+184,185,66,801.35,Berrigan,persons_per_area,4.20,4.20,4.20,False
+184,185,66,801.35,Berrigan,occupied_dwellings,664,664,664,False
+184,185,66,801.35,Berrigan,dwellings_per_area,.822,0.822,0.822,False
+184,185,66,801.35,Berrigan,population_per_dwelling,5.11,5.11,5.11,False
+185,186,1,189.15,Bibbenluke,lga_name,Bibbenluke,Bibbenluke,Bibbenluke,False
+185,186,1,189.15,Bibbenluke,area,"1,422",1422,1422,False
+185,186,1,189.15,Bibbenluke,males,"1,589",1589,1589,False
+185,186,1,189.15,Bibbenluke,females,"1,350",1350,1350,False
+185,186,1,189.15,Bibbenluke,persons,"2,939",2939,2939,False
+185,186,1,189.15,Bibbenluke,persons_per_area,2.07,2.07,2.07,False
+185,186,1,189.15,Bibbenluke,occupied_dwellings,667,667,667,False
+185,186,1,189.15,Bibbenluke,dwellings_per_area,.469,0.469,0.469,False
+185,186,1,189.15,Bibbenluke,population_per_dwelling,4.41,4.41,4.41,False
+185,186,2,197.31,Blacktown,lga_name,Blacktown,Blacktown,Blacktown,False
+185,186,2,197.31,Blacktown,area,102,102,102,False
+185,186,2,197.31,Blacktown,males,"2,018",2018,2018,False
+185,186,2,197.31,Blacktown,females,"1,829",1829,1829,False
+185,186,2,197.31,Blacktown,persons,"3,847",3847,3847,False
+185,186,2,197.31,Blacktown,persons_per_area,37.72,37.72,37.72,False
+185,186,2,197.31,Blacktown,occupied_dwellings,841,841,841,False
+185,186,2,197.31,Blacktown,dwellings_per_area,8.245,8.245,8.245,False
+185,186,2,197.31,Blacktown,population_per_dwelling,4.57,4.57,4.57,False
+185,186,3,205.5,Bland,lga_name,Bland,Bland,Bland,False
+185,186,3,205.5,Bland,area,"3,164",3164,3164,False
+185,186,3,205.5,Bland,males,"3,299",3299,3299,False
+185,186,3,205.5,Bland,females,"2,223",2223,2223,False
+185,186,3,205.5,Bland,persons,"5,522",5522,5522,False
+185,186,3,205.5,Bland,persons_per_area,1.75,1.75,1.75,False
+185,186,3,205.5,Bland,occupied_dwellings,"1,123",1123,1123,False
+185,186,3,205.5,Bland,dwellings_per_area,.355,0.355,0.355,False
+185,186,3,205.5,Bland,population_per_dwelling,4.92,4.92,4.92,False
+185,186,4,213.64,Blaxland,lga_name,Blaxland,Blaxland,Blaxland,False
+185,186,4,213.64,Blaxland,area,"1,340",1340,1340,False
+185,186,4,213.64,Blaxland,males,"5,438",5438,5438,False
+185,186,4,213.64,Blaxland,females,"4,223",4223,4223,False
+185,186,4,213.64,Blaxland,persons,"9,661",9661,9661,False
+185,186,4,213.64,Blaxland,persons_per_area,7.21,7.21,7.21,False
+185,186,4,213.64,Blaxland,occupied_dwellings,"2,240",2240,2240,False
+185,186,4,213.64,Blaxland,dwellings_per_area,1.672,1.672,1.672,False
+185,186,4,213.64,Blaxland,population_per_dwelling,4.31,4.31,4.31,False
+185,186,5,221.78,Blue Mountains,lga_name,Blue Mountains,Blue Mountains,Blue Mountains,False
+185,186,5,221.78,Blue Mountains,area,549,549,549,False
+185,186,5,221.78,Blue Mountains,males,"3,464",3464,3464,False
+185,186,5,221.78,Blue Mountains,females,"3,438",3438,3438,False
+185,186,5,221.78,Blue Mountains,persons,"6,902",6902,6902,False
+185,186,5,221.78,Blue Mountains,persons_per_area,12.57,12.57,12.57,False
+185,186,5,221.78,Blue Mountains,occupied_dwellings,"1,702",1702,1702,False
+185,186,5,221.78,Blue Mountains,dwellings_per_area,3.100,3.100,3.100,False
+185,186,5,221.78,Blue Mountains,population_per_dwelling,4.06,4.06,4.06,False
+185,186,6,237.65,Bogan,lga_name,Bogan,Bogan,Bogan,False
+185,186,6,237.65,Bogan,area,"4,525",4525,4525,False
+185,186,6,237.65,Bogan,males,"1,117",1117,1117,False
+185,186,6,237.65,Bogan,females,657,657,657,False
+185,186,6,237.65,Bogan,persons,"1,774",1774,1774,False
+185,186,6,237.65,Bogan,persons_per_area,.39,0.39,0.39,False
+185,186,6,237.65,Bogan,occupied_dwellings,359,359,359,False
+185,186,6,237.65,Bogan,dwellings_per_area,.079,0.079,0.079,False
+185,186,6,237.65,Bogan,population_per_dwelling,4.94,4.94,4.94,False
+185,186,7,245.57,Bolwarra,lga_name,Bolwarra,Bolwarra,Bolwarra,False
+185,186,7,245.57,Bolwarra,area,75,75,75,False
+185,186,7,245.57,Bolwarra,males,"1,412",1412,1412,False
+185,186,7,245.57,Bolwarra,females,"1,487",1487,1487,False
+185,186,7,245.57,Bolwarra,persons,"2,899",2899,2899,False
+185,186,7,245.57,Bolwarra,persons_per_area,38.65,38.65,38.65,False
+185,186,7,245.57,Bolwarra,occupied_dwellings,563,563,563,False
+185,186,7,245.57,Bolwarra,dwellings_per_area,7.507,7.507,7.507,False
+185,186,7,245.57,Bolwarra,population_per_dwelling,5.15,5.15,5.15,False
+185,186,8,253.71,Boolooroo,lga_name,Boolooroo,Boolooroo,Boolooroo,False
+185,186,8,253.71,Boolooroo,area,"3,232",3232,3232,False
+185,186,8,253.71,Boolooroo,males,"1,749",1749,1749,False
+185,186,8,253.71,Boolooroo,females,971,971,971,False
+185,186,8,253.71,Boolooroo,persons,"2,720",2720,2720,False
+185,186,8,253.71,Boolooroo,persons_per_area,.84,0.84,0.84,False
+185,186,8,253.71,Boolooroo,occupied_dwellings,569,569,569,False
+185,186,8,253.71,Boolooroo,dwellings_per_area,.176,0.176,0.176,False
+185,186,8,253.71,Boolooroo,population_per_dwelling,4.78,4.78,4.78,False
+185,186,9,261.89,Boomi,lga_name,Boomi,Boomi,Boomi,False
+185,186,9,261.89,Boomi,area,"3,638",3638,3638,False
+185,186,9,261.89,Boomi,males,"1,832",1832,1832,False
+185,186,9,261.89,Boomi,females,"1,021",1021,1021,False
+185,186,9,261.89,Boomi,persons,"2,853",2853,2853,False
+185,186,9,261.89,Boomi,persons_per_area,.78,0.78,0.78,False
+185,186,9,261.89,Boomi,occupied_dwellings,517,517,517,False
+185,186,9,261.89,Boomi,dwellings_per_area,.142,0.142,0.142,False
+185,186,9,261.89,Boomi,population_per_dwelling,5.52,5.52,5.52,False
+185,186,10,270.07,Boree,lga_name,Boree,Boree,Boree,False
+185,186,10,270.07,Boree,area,827,827,827,False
+185,186,10,270.07,Boree,males,"2,783",2783,2783,False
+185,186,10,270.07,Boree,females,"2,328",2328,2328,False
+185,186,10,270.07,Boree,persons,"5,111",5111,5111,False
+185,186,10,270.07,Boree,persons_per_area,6.18,6.18,6.18,False
+185,186,10,270.07,Boree,occupied_dwellings,977,977,977,False
+185,186,10,270.07,Boree,dwellings_per_area,1.181,1.181,1.181,False
+185,186,10,270.07,Boree,population_per_dwelling,5.23,5.23,5.23,False
+185,186,11,285.9,Bulli,lga_name,Bulli,Bulli,Bulli,False
+185,186,11,285.9,Bulli,area,136,136,136,False
+185,186,11,285.9,Bulli,males,"5,453",5453,5453,False
+185,186,11,285.9,Bulli,females,"4,670",4670,4670,False
+185,186,11,285.9,Bulli,persons,"10,123",10123,10123,False
+185,186,11,285.9,Bulli,persons_per_area,74.43,74.43,74.43,False
+185,186,11,285.9,Bulli,occupied_dwellings,"2,081",2081,2081,False
+185,186,11,285.9,Bulli,dwellings_per_area,15.301,15.301,15.301,False
+185,186,11,285.9,Bulli,population_per_dwelling,4.86,4.86,4.86,False
+185,186,12,294.27,Burrangong,lga_name,Burrangong,Burrangong,Burrangong,False
+185,186,12,294.27,Burrangong,area,"1,041",1041,1041,False
+185,186,12,294.27,Burrangong,males,"2,700",2700,2700,False
+185,186,12,294.27,Burrangong,females,"2,130",2130,2130,False
+185,186,12,294.27,Burrangong,persons,"4,830",4830,4830,False
+185,186,12,294.27,Burrangong,persons_per_area,4.64,4.64,4.64,False
+185,186,12,294.27,Burrangong,occupied_dwellings,"1,084",1084,1084,False
+185,186,12,294.27,Burrangong,dwellings_per_area,1.041,1.041,1.041,False
+185,186,12,294.27,Burrangong,population_per_dwelling,4.46,4.46,4.46,False
+185,186,13,302.21,Byron,lga_name,Byron,Byron,Byron,False
+185,186,13,302.21,Byron,area,218,218,218,False
+185,186,13,302.21,Byron,males,"3,653",3653,3653,False
+185,186,13,302.21,Byron,females,"2,900",2900,2900,False
+185,186,13,302.21,Byron,persons,"6,553",6553,6553,False
+185,186,13,302.21,Byron,persons_per_area,30.06,30.06,30.06,False
+185,186,13,302.21,Byron,occupied_dwellings,"1,258",1258,1258,False
+185,186,13,302.21,Byron,dwellings_per_area,5.771,5.771,5.771,False
+185,186,13,302.21,Byron,population_per_dwelling,5.21,5.21,5.21,False
+185,186,14,310.35,Cambewarra,lga_name,Cambewarra,Cambewarra,Cambewarra,False
+185,186,14,310.35,Cambewarra,area,196,196,196,False
+185,186,14,310.35,Cambewarra,males,"1,063",1063,1063,False
+185,186,14,310.35,Cambewarra,females,932,932,932,False
+185,186,14,310.35,Cambewarra,persons,"1,995",1995,1995,False
+185,186,14,310.35,Cambewarra,persons_per_area,10.18,10.18,10.18,False
+185,186,14,310.35,Cambewarra,occupied_dwellings,396,396,396,False
+185,186,14,310.35,Cambewarra,dwellings_per_area,2.020,2.020,2.020,False
+185,186,14,310.35,Cambewarra,population_per_dwelling,5.04,5.04,5.04,False
+185,186,15,318.51,Canobolas,lga_name,Canobolas,Canobolas,Canobolas,False
+185,186,15,318.51,Canobolas,area,657,657,657,False
+185,186,15,318.51,Canobolas,males,"2,777",2777,2777,False
+185,186,15,318.51,Canobolas,females,"2,363",2363,2363,False
+185,186,15,318.51,Canobolas,persons,"5,140",5140,5140,False
+185,186,15,318.51,Canobolas,persons_per_area,7.82,7.82,7.82,False
+185,186,15,318.51,Canobolas,occupied_dwellings,"1,058",1058,1058,False
+185,186,15,318.51,Canobolas,dwellings_per_area,1.610,1.610,1.610,False
+185,186,15,318.51,Canobolas,population_per_dwelling,4.86,4.86,4.86,False
+185,186,16,326.43,Carrathool,lga_name,Carrathool,Carrathool,Carrathool,False
+185,186,16,326.43,Carrathool,area,"4,572",4572,4572,False
+185,186,16,326.43,Carrathool,males,"1,493",1493,1493,False
+185,186,16,326.43,Carrathool,females,835,835,835,False
+185,186,16,326.43,Carrathool,persons,"2,328",2328,2328,False
+185,186,16,326.43,Carrathool,persons_per_area,.51,0.51,0.51,False
+185,186,16,326.43,Carrathool,occupied_dwellings,511,511,511,False
+185,186,16,326.43,Carrathool,dwellings_per_area,.112,0.112,0.112,False
+185,186,16,326.43,Carrathool,population_per_dwelling,4.56,4.56,4.56,False
+185,186,17,334.61,Cessnock,lga_name,Cessnock,Cessnock,Cessnock,False
+185,186,17,334.61,Cessnock,area,763,763,763,False
+185,186,17,334.61,Cessnock,males,"11,483",11483,11483,False
+185,186,17,334.61,Cessnock,females,"9,535",9535,9535,False
+185,186,17,334.61,Cessnock,persons,"21,018",21018,21018,False
+185,186,17,334.61,Cessnock,persons_per_area,27.55,27.55,27.55,False
+185,186,17,334.61,Cessnock,occupied_dwellings,4.312,4.312,4312,True
+185,186,17,334.61,Cessnock,dwellings_per_area,5.651,5.651,5.651,False
+185,186,17,334.61,Cessnock,population_per_dwelling,4.87,4.87,4.87,False
+185,186,18,342.54,Clyde,lga_name,Clyde,Clyde,Clyde,False
+185,186,18,342.54,Clyde,area,"1,367",1367,1367,False
+185,186,18,342.54,Clyde,males,"1,090",1090,1090,False
+185,186,18,342.54,Clyde,females,859,859,859,False
+185,186,18,342.54,Clyde,persons,"1,949",1949,1949,False
+185,186,18,342.54,Clyde,persons_per_area,1.43,1.43,1.43,False
+185,186,18,342.54,Clyde,occupied_dwellings,414,414,414,False
+185,186,18,342.54,Clyde,dwellings_per_area,.303,0.303,0.303,False
+185,186,18,342.54,Clyde,population_per_dwelling,4.71,4.71,4.71,False
+185,186,19,350.69,Cobbora,lga_name,Cobbora,Cobbora,Cobbora,False
+185,186,19,350.69,Cobbora,area,"1,297",1297,1297,False
+185,186,19,350.69,Cobbora,males,"2,586",2586,2586,False
+185,186,19,350.69,Cobbora,females,"2,052",2052,2052,False
+185,186,19,350.69,Cobbora,persons,"4,638",4638,4638,False
+185,186,19,350.69,Cobbora,persons_per_area,3.58,3.58,3.58,False
+185,186,19,350.69,Cobbora,occupied_dwellings,"1,001",1001,1001,False
+185,186,19,350.69,Cobbora,dwellings_per_area,.772,0.772,0.772,False
+185,186,19,350.69,Cobbora,population_per_dwelling,4.63,4.63,4.63,False
+185,186,20,358.84,Cockburn,lga_name,Cockburn,Cockburn,Cockburn,False
+185,186,20,358.84,Cockburn,area,"1,140",1140,1140,False
+185,186,20,358.84,Cockburn,males,"2,476",2476,2476,False
+185,186,20,358.84,Cockburn,females,"2,021",2021,2021,False
+185,186,20,358.84,Cockburn,persons,"4,497",4497,4497,False
+185,186,20,358.84,Cockburn,persons_per_area,3.94,3.94,3.94,False
+185,186,20,358.84,Cockburn,occupied_dwellings,884,884,884,False
+185,186,20,358.84,Cockburn,dwellings_per_area,.775,0.775,0.775,False
+185,186,20,358.84,Cockburn,population_per_dwelling,5.09,5.09,5.09,False
+185,186,21,374.72,Colo,lga_name,Colo,Colo,Colo,False
+185,186,21,374.72,Colo,area,"1,237",1237,1237,False
+185,186,21,374.72,Colo,males,"2,277",2277,2277,False
+185,186,21,374.72,Colo,females,"2,009",2009,2009,False
+185,186,21,374.72,Colo,persons,"4,286",4286,4286,False
+185,186,21,374.72,Colo,persons_per_area,3:46,3:46,3.46,True
+185,186,21,374.72,Colo,occupied_dwellings,968,968,968,False
+185,186,21,374.72,Colo,dwellings_per_area,.783,0.783,0.783,False
+185,186,21,374.72,Colo,population_per_dwelling,4.43,4.43,4.43,False
+185,186,22,382.84,Conargo,lga_name,Conargo,Conargo,Conargo,False
+185,186,22,382.84,Conargo,area,"1,441",1441,1441,False
+185,186,22,382.84,Conargo,males,507,507,507,False
+185,186,22,382.84,Conargo,females,199,199,199,False
+185,186,22,382.84,Conargo,persons,706,706,706,False
+185,186,22,382.84,Conargo,persons_per_area,.49,0.49,0.49,False
+185,186,22,382.84,Conargo,occupied_dwellings,183,183,183,False
+185,186,22,382.84,Conargo,dwellings_per_area,.127,0.127,0.127,False
+185,186,22,382.84,Conargo,population_per_dwelling,3.86,3.86,3.86,False
+185,186,23,391.01,Coolah,lga_name,Coolah,Coolah,Coolah,False
+185,186,23,391.01,Coolah,area,991,991,991,False
+185,186,23,391.01,Coolah,males,834,834,834,False
+185,186,23,391.01,Coolah,females,532,532,532,False
+185,186,23,391.01,Coolah,persons,"1,366",1366,1366,False
+185,186,23,391.01,Coolah,persons_per_area,1.38,1.38,1.38,False
+185,186,23,391.01,Coolah,occupied_dwellings,288,288,288,False
+185,186,23,391.01,Coolah,dwellings_per_area,.291,0.291,0.291,False
+185,186,23,391.01,Coolah,population_per_dwelling,4.74,4.74,4.74,False
+185,186,24,398.93,Coolamon,lga_name,Coolamon,Coolamon,Coolamon,False
+185,186,24,398.93,Coolamon,area,984,984,984,False
+185,186,24,398.93,Coolamon,males,"3,280",3280,3280,False
+185,186,24,398.93,Coolamon,females,"2,320",2320,2320,False
+185,186,24,398.93,Coolamon,persons,"5,600",5600,5600,False
+185,186,24,398.93,Coolamon,persons_per_area,5.69,5.69,5.69,False
+185,186,24,398.93,Coolamon,occupied_dwellings,"1,137",1137,1137,False
+185,186,24,398.93,Coolamon,dwellings_per_area,1.155,1.155,1.155,False
+185,186,24,398.93,Coolamon,population_per_dwelling,4.93,4.93,4.93,False
+185,186,25,407.05,Coonabarabran,lga_name,Coonabarabran,Coonabarabran,Coonabarabran,False
+185,186,25,407.05,Coonabarabran,area,"2,772",2772,2772,False
+185,186,25,407.05,Coonabarabran,males,"1,679",1679,1679,False
+185,186,25,407.05,Coonabarabran,females,"1,399",1399,1399,False
+185,186,25,407.05,Coonabarabran,persons,"3,078",3078,3078,False
+185,186,25,407.05,Coonabarabran,persons_per_area,1.11,1.11,1.11,False
+185,186,25,407.05,Coonabarabran,occupied_dwellings,571,571,571,False
+185,186,25,407.05,Coonabarabran,dwellings_per_area,.206,0.206,0.206,False
+185,186,25,407.05,Coonabarabran,population_per_dwelling,5.39,5.39,5.39,False
+185,186,26,415.22,Copmanhurst,lga_name,Copmanhurst,Copmanhurst,Copmanhurst,False
+185,186,26,415.22,Copmanhurst,area,"1,143",1143,1143,False
+185,186,26,415.22,Copmanhurst,males,"1,469",1469,1469,False
+185,186,26,415.22,Copmanhurst,females,"1,132",1132,1132,False
+185,186,26,415.22,Copmanhurst,persons,"2,601",2601,2601,False
+185,186,26,415.22,Copmanhurst,persons_per_area,2.28,2.28,2.28,False
+185,186,26,415.22,Copmanhurst,occupied_dwellings,553,553,553,False
+185,186,26,415.22,Copmanhurst,dwellings_per_area,.484,0.484,0.484,False
+185,186,26,415.22,Copmanhurst,population_per_dwelling,4.70,4.70,4.70,False
+185,186,27,423.17,Coreen,lga_name,Coreen,Coreen,Coreen,False
+185,186,27,423.17,Coreen,area,838,838,838,False
+185,186,27,423.17,Coreen,males,"2,161",2161,2161,False
+185,186,27,423.17,Coreen,females,"1,319",1319,1319,False
+185,186,27,423.17,Coreen,persons,"3,480",3480,3480,False
+185,186,27,423.17,Coreen,persons_per_area,4.15,4.15,4.15,False
+185,186,27,423.17,Coreen,occupied_dwellings,722,722,722,False
+185,186,27,423.17,Coreen,dwellings_per_area,.862,0.862,0.862,False
+185,186,27,423.17,Coreen,population_per_dwelling,4.82,4.82,4.82,False
+185,186,28,431.08,Crookwell,lga_name,Crookwell,Crookwell,Crookwell,False
+185,186,28,431.08,Crookwell,area,"1,401",1401,1401,False
+185,186,28,431.08,Crookwell,males,"3,376",3376,3376,False
+185,186,28,431.08,Crookwell,females,"2,847",2847,2847,False
+185,186,28,431.08,Crookwell,persons,"6,223",6223,6223,False
+185,186,28,431.08,Crookwell,persons_per_area,4.44,4.44,4.44,False
+185,186,28,431.08,Crookwell,occupied_dwellings,"1,223",1223,1223,False
+185,186,28,431.08,Crookwell,dwellings_per_area,.873,0.873,0.873,False
+185,186,28,431.08,Crookwell,population_per_dwelling,5.09,5.09,5.09,False
+185,186,29,439.24,Culcairn,lga_name,Culcairn,Culcairn,Culcairn,False
+185,186,29,439.24,Culcairn,area,624,624,624,False
+185,186,29,439.24,Culcairn,males,"2,097",2097,2097,False
+185,186,29,439.24,Culcairn,females,"1,341",1341,1341,False
+185,186,29,439.24,Culcairn,persons,"3,438",3438,3438,False
+185,186,29,439.24,Culcairn,persons_per_area,5.51,5.51,5.51,False
+185,186,29,439.24,Culcairn,occupied_dwellings,670,670,670,False
+185,186,29,439.24,Culcairn,dwellings_per_area,1.074,1.074,1.074,False
+185,186,29,439.24,Culcairn,population_per_dwelling,5.13,5.13,5.13,False
+185,186,30,447.41,Dalgety,lga_name,Dalgety,Dalgety,Dalgety,False
+185,186,30,447.41,Dalgety,area,"2,301",2301,2301,False
+185,186,30,447.41,Dalgety,males,"2,379",2379,2379,False
+185,186,30,447.41,Dalgety,females,"1,930",1930,1930,False
+185,186,30,447.41,Dalgety,persons,"4,309",4309,4309,False
+185,186,30,447.41,Dalgety,persons_per_area,1.87,1.87,1.87,False
+185,186,30,447.41,Dalgety,occupied_dwellings,818,818,818,False
+185,186,30,447.41,Dalgety,dwellings_per_area,.355,0.355,0.355,False
+185,186,30,447.41,Dalgety,population_per_dwelling,5.27,5.27,5.27,False
+185,186,31,463.47,Demondrille,lga_name,Demondrille,Demondrille,Demondrille,False
+185,186,31,463.47,Demondrille,area,688,688,688,False
+185,186,31,463.47,Demondrille,males,"1,719",1719,1719,False
+185,186,31,463.47,Demondrille,females,"1,316",1316,1316,False
+185,186,31,463.47,Demondrille,persons,"3,035",3035,3035,False
+185,186,31,463.47,Demondrille,persons_per_area,4.41,4.41,4.41,False
+185,186,31,463.47,Demondrille,occupied_dwellings,665,665,665,False
+185,186,31,463.47,Demondrille,dwellings_per_area,.967,0.967,0.967,False
+185,186,31,463.47,Demondrille,population_per_dwelling,4.56,4.56,4.56,False
+185,186,32,471.41,Dorrigo,lga_name,Dorrigo,Dorrigo,Dorrigo,False
+185,186,32,471.41,Dorrigo,area,"2,445",2445,2445,False
+185,186,32,471.41,Dorrigo,males,"4,586",4586,4586,False
+185,186,32,471.41,Dorrigo,females,"3,398",3398,3398,False
+185,186,32,471.41,Dorrigo,persons,"7,984",7984,7984,False
+185,186,32,471.41,Dorrigo,persons_per_area,3.27,3.27,3.27,False
+185,186,32,471.41,Dorrigo,occupied_dwellings,"1,752",1752,1752,False
+185,186,32,471.41,Dorrigo,dwellings_per_area,.717,0.717,0.717,False
+185,186,32,471.41,Dorrigo,population_per_dwelling,4.56,4.56,4.56,False
+185,186,33,479.55,Dumaresq,lga_name,Dumaresq,Dumaresq,Dumaresq,False
+185,186,33,479.55,Dumaresq,area,"1,497",1497,1497,False
+185,186,33,479.55,Dumaresq,males,"2,568",2568,2568,False
+185,186,33,479.55,Dumaresq,females,"2,324",2324,2324,False
+185,186,33,479.55,Dumaresq,persons,"4,892",4892,4892,False
+185,186,33,479.55,Dumaresq,persons_per_area,3.27,3.27,3.27,False
+185,186,33,479.55,Dumaresq,occupied_dwellings,946,946,946,False
+185,186,33,479.55,Dumaresq,dwellings_per_area,.632,0.632,0.632,False
+185,186,33,479.55,Dumaresq,population_per_dwelling,5.17,5.17,5.17,False
+185,186,34,487.51,Erina,lga_name,Erina,Erina,Erina,False
+185,186,34,487.51,Erina,area,721,721,721,False
+185,186,34,487.51,Erina,males,"5,089",5089,5089,False
+185,186,34,487.51,Erina,females,"4,087",4087,4087,False
+185,186,34,487.51,Erina,persons,"9,176",9176,9176,False
+185,186,34,487.51,Erina,persons_per_area,12.73,12.73,12.73,False
+185,186,34,487.51,Erina,occupied_dwellings,"2,049",2049,2049,False
+185,186,34,487.51,Erina,dwellings_per_area,2.842,2.842,2.842,False
+185,186,34,487.51,Erina,population_per_dwelling,4.48,4.48,4.48,False
+185,186,35,495.62,Eurobadalla,lga_name,Eurobadalla,Eurobadalla,Eurobadalla,False
+185,186,35,495.62,Eurobadalla,area,"1,621",1621,1621,False
+185,186,35,495.62,Eurobadalla,males,"2,291",2291,2291,False
+185,186,35,495.62,Eurobadalla,females,"1,935",1935,1935,False
+185,186,35,495.62,Eurobadalla,persons,"4,226",4226,4226,False
+185,186,35,495.62,Eurobadalla,persons_per_area,2.61,2.61,2.61,False
+185,186,35,495.62,Eurobadalla,occupied_dwellings,933,933,933,False
+185,186,35,495.62,Eurobadalla,dwellings_per_area,.576,0.576,0.576,False
+185,186,35,495.62,Eurobadalla,population_per_dwelling,4.53,4.53,4.53,False
+185,186,36,503.81,Gadara,lga_name,Gadara,Gadara,Gadara,False
+185,186,36,503.81,Gadara,area,"1,270",1270,1270,False
+185,186,36,503.81,Gadara,males,"3,553",3553,3553,False
+185,186,36,503.81,Gadara,females,"2,997",2997,2997,False
+185,186,36,503.81,Gadara,persons,"6,550",6550,6550,False
+185,186,36,503.81,Gadara,persons_per_area,5.16,5.16,5.16,False
+185,186,36,503.81,Gadara,occupied_dwellings,"1,371",1371,1371,False
+185,186,36,503.81,Gadara,dwellings_per_area,1.080,1.080,1.080,False
+185,186,36,503.81,Gadara,population_per_dwelling,4.78,4.78,4.78,False
+185,186,37,511.71,Germanton,lga_name,Germanton,Germanton,Germanton,False
+185,186,37,511.71,Germanton,area,"1,007",1007,1007,False
+185,186,37,511.71,Germanton,males,"1,484",1484,1484,False
+185,186,37,511.71,Germanton,females,"1,031",1031,1031,False
+185,186,37,511.71,Germanton,persons,"2,515",2515,2515,False
+185,186,37,511.71,Germanton,persons_per_area,2.50,2.50,2.50,False
+185,186,37,511.71,Germanton,occupied_dwellings,504,504,504,False
+185,186,37,511.71,Germanton,dwellings_per_area,.500,0.500,0.500,False
+185,186,37,511.71,Germanton,population_per_dwelling,4.99,4.99,4.99,False
+185,186,38,519.63,Gilgandra,lga_name,Gilgandra,Gilgandra,Gilgandra,False
+185,186,38,519.63,Gilgandra,area,"1,720",1720,1720,False
+185,186,38,519.63,Gilgandra,males,"2,570",2570,2570,False
+185,186,38,519.63,Gilgandra,females,"1,736",1736,1736,False
+185,186,38,519.63,Gilgandra,persons,"4,306",4306,4306,False
+185,186,38,519.63,Gilgandra,persons_per_area,2.50,2.50,2.50,False
+185,186,38,519.63,Gilgandra,occupied_dwellings,964,964,964,False
+185,186,38,519.63,Gilgandra,dwellings_per_area,.560,0.560,0.560,False
+185,186,38,519.63,Gilgandra,population_per_dwelling,4.47,4.47,4.47,False
+185,186,39,527.79,Gloucester,lga_name,Gloucester,Gloucester,Gloucester,False
+185,186,39,527.79,Gloucester,area,"1,062",1062,1062,False
+185,186,39,527.79,Gloucester,males,"2,189",2189,2189,False
+185,186,39,527.79,Gloucester,females,"1,191",1191,1191,False
+185,186,39,527.79,Gloucester,persons,"3,380",3380,3380,False
+185,186,39,527.79,Gloucester,persons_per_area,3.18,3.18,3.18,False
+185,186,39,527.79,Gloucester,occupied_dwellings,654,654,654,False
+185,186,39,527.79,Gloucester,dwellings_per_area,.616,0.616,0.616,False
+185,186,39,527.79,Gloucester,population_per_dwelling,5.17,5.17,5.17,False
+185,186,40,535.96,Goobang,lga_name,Goobang,Goobang,Goobang,False
+185,186,40,535.96,Goobang,area,"2,258",2258,2258,False
+185,186,40,535.96,Goobang,males,"3,167",3167,3167,False
+185,186,40,535.96,Goobang,females,"2,159",2159,2159,False
+185,186,40,535.96,Goobang,persons,"5,326",5326,5326,False
+185,186,40,535.96,Goobang,persons_per_area,2.36,2.36,2.36,False
+185,186,40,535.96,Goobang,occupied_dwellings,"1,043",1043,1043,False
+185,186,40,535.96,Goobang,dwellings_per_area,.462,0.462,0.462,False
+185,186,40,535.96,Goobang,population_per_dwelling,5.11,5.11,5.11,False
+185,186,41,552.02,Goodradigbee,lga_name,Goodradigbee,Goodradigbee,Goodradigbee,False
+185,186,41,552.02,Goodradigbee,area,"1,237",1237,1237,False
+185,186,41,552.02,Goodradigbee,males,"2,639",2639,2639,False
+185,186,41,552.02,Goodradigbee,females,"2,095",2095,2095,False
+185,186,41,552.02,Goodradigbee,persons,"4,734",4734,4734,False
+185,186,41,552.02,Goodradigbee,persons_per_area,3.83,3.83,3.83,False
+185,186,41,552.02,Goodradigbee,occupied_dwellings,943,943,943,False
+185,186,41,552.02,Goodradigbee,dwellings_per_area,.762,0.762,0.762,False
+185,186,41,552.02,Goodradigbee,population_per_dwelling,5.02,5.02,5.02,False
+185,186,42,560.2,Gostwyck,lga_name,Gostwyck,Gostwyck,Gostwyck,False
+185,186,42,560.2,Gostwyck,area,"1,186",1186,1186,False
+185,186,42,560.2,Gostwyck,males,"1,953",1953,1953,False
+185,186,42,560.2,Gostwyck,females,"1,734",1734,1734,False
+185,186,42,560.2,Gostwyck,persons,"3,687",3687,3687,False
+185,186,42,560.2,Gostwyck,persons_per_area,3.11,3.11,3.11,False
+185,186,42,560.2,Gostwyck,occupied_dwellings,697,697,697,False
+185,186,42,560.2,Gostwyck,dwellings_per_area,.588,0.588,0.588,False
+185,186,42,560.2,Gostwyck,population_per_dwelling,5.29,5.29,5.29,False
+185,186,43,568.1,Gundarimba,lga_name,Gundarimba,Gundarimba,Gundarimba,False
+185,186,43,568.1,Gundarimba,area,189,189,189,False
+185,186,43,568.1,Gundarimba,males,"2,311",2311,2311,False
+185,186,43,568.1,Gundarimba,females,"1,970",1970,1970,False
+185,186,43,568.1,Gundarimba,persons,"4,281",4281,4281,False
+185,186,43,568.1,Gundarimba,persons_per_area,22.65,22.65,22.65,False
+185,186,43,568.1,Gundarimba,occupied_dwellings,795,795,795,False
+185,186,43,568.1,Gundarimba,dwellings_per_area,4.206,4.206,4.206,False
+185,186,43,568.1,Gundarimba,population_per_dwelling,5.38,5.38,5.38,False
+185,186,44,576.29,Gunning,lga_name,Gunning,Gunning,Gunning,False
+185,186,44,576.29,Gunning,area,871,871,871,False
+185,186,44,576.29,Gunning,males,"1,722",1722,1722,False
+185,186,44,576.29,Gunning,females,"1,576",1576,1576,False
+185,186,44,576.29,Gunning,persons,"3,298",3298,3298,False
+185,186,44,576.29,Gunning,persons_per_area,3.79,3.79,3.79,False
+185,186,44,576.29,Gunning,occupied_dwellings,691,691,691,False
+185,186,44,576.29,Gunning,dwellings_per_area,.793,0.793,0.793,False
+185,186,44,576.29,Gunning,population_per_dwelling,4.77,4.77,4.77,False
+185,186,45,584.22,Guyra,lga_name,Guyra,Guyra,Guyra,False
+185,186,45,584.22,Guyra,area,"1,889",1889,1889,False
+185,186,45,584.22,Guyra,males,"3,603",3603,3603,False
+185,186,45,584.22,Guyra,females,"2,931",2931,2931,False
+185,186,45,584.22,Guyra,persons,"6,534",6534,6534,False
+185,186,45,584.22,Guyra,persons_per_area,3.46,3.46,3.46,False
+185,186,45,584.22,Guyra,occupied_dwellings,"1,454",1454,1454,False
+185,186,45,584.22,Guyra,dwellings_per_area,.770,0.770,0.770,False
+185,186,45,584.22,Guyra,population_per_dwelling,4.49,4.49,4.49,False
+185,186,46,592.37,Gwydir,lga_name,Gwydir,Gwydir,Gwydir,False
+185,186,46,592.37,Gwydir,area,"1,118",1118,1118,False
+185,186,46,592.37,Gwydir,males,"1,103",1103,1103,False
+185,186,46,592.37,Gwydir,females,828,828,828,False
+185,186,46,592.37,Gwydir,persons,"1,931",1931,1931,False
+185,186,46,592.37,Gwydir,persons_per_area,1.73,1.73,1.73,False
+185,186,46,592.37,Gwydir,occupied_dwellings,388,388,388,False
+185,186,46,592.37,Gwydir,dwellings_per_area,.347,0.347,0.347,False
+185,186,46,592.37,Gwydir,population_per_dwelling,4.98,4.98,4.98,False
+185,186,47,600.29,Harwood,lga_name,Harwood,Harwood,Harwood,False
+185,186,47,600.29,Harwood,area,365,365,365,False
+185,186,47,600.29,Harwood,males,"2,581",2581,2581,False
+185,186,47,600.29,Harwood,females,"2,333",2333,2333,False
+185,186,47,600.29,Harwood,persons,"4,914",4914,4914,False
+185,186,47,600.29,Harwood,persons_per_area,13.46,13.46,13.46,False
+185,186,47,600.29,Harwood,occupied_dwellings,965,965,965,False
+185,186,47,600.29,Harwood,dwellings_per_area,2.644,2.644,2.644,False
+185,186,47,600.29,Harwood,population_per_dwelling,5.09,5.09,5.09,False
+185,186,48,608.44,Hastings,lga_name,Hastings,Hastings,Hastings,False
+185,186,48,608.44,Hastings,area,"1,452",1452,1452,False
+185,186,48,608.44,Hastings,males,"3,186",3186,3186,False
+185,186,48,608.44,Hastings,females,"2,560",2560,2560,False
+185,186,48,608.44,Hastings,persons,"5,746",5746,5746,False
+185,186,48,608.44,Hastings,persons_per_area,3.96,3.96,3.96,False
+185,186,48,608.44,Hastings,occupied_dwellings,"1,214",1214,1214,False
+185,186,48,608.44,Hastings,dwellings_per_area,.836,0.836,0.836,False
+185,186,48,608.44,Hastings,population_per_dwelling,4.73,4.73,4.73,False
+185,186,49,616.36,Hornsby,lga_name,Hornsby,Hornsby,Hornsby,False
+185,186,49,616.36,Hornsby,area,203,203,203,False
+185,186,49,616.36,Hornsby,males,"4,409",4409,4409,False
+185,186,49,616.36,Hornsby,females,"4,492",4492,4492,False
+185,186,49,616.36,Hornsby,persons,"8,901",8901,8901,False
+185,186,49,616.36,Hornsby,persons_per_area,43.85,43.85,43.85,False
+185,186,49,616.36,Hornsby,occupied_dwellings,"1,834",1834,1834,False
+185,186,49,616.36,Hornsby,dwellings_per_area,9.034,9.034,9.034,False
+185,186,49,616.36,Hornsby,population_per_dwelling,4.85,4.85,4.85,False
+185,186,50,624.54,Hume,lga_name,Hume,Hume,Hume,False
+185,186,50,624.54,Hume,area,765,765,765,False
+185,186,50,624.54,Hume,males,"2,203",2203,2203,False
+185,186,50,624.54,Hume,females,"1,846",1846,1846,False
+185,186,50,624.54,Hume,persons,"4,049",4049,4049,False
+185,186,50,624.54,Hume,persons_per_area,5.29,5.29,5.29,False
+185,186,50,624.54,Hume,occupied_dwellings,804,804,804,False
+185,186,50,624.54,Hume,dwellings_per_area,1.051,1.051,1.051,False
+185,186,50,624.54,Hume,population_per_dwelling,5.04,5.04,5.04,False
+185,186,51,640.63,Illabo,lga_name,Illabo,Illabo,Illabo,False
+185,186,51,640.63,Illabo,area,777,777,777,False
+185,186,51,640.63,Illabo,males,"1,774",1774,1774,False
+185,186,51,640.63,Illabo,females,"1,199",1199,1199,False
+185,186,51,640.63,Illabo,persons,"2,973",2973,2973,False
+185,186,51,640.63,Illabo,persons_per_area,3.83,3.83,3.83,False
+185,186,51,640.63,Illabo,occupied_dwellings,598,598,598,False
+185,186,51,640.63,Illabo,dwellings_per_area,.770,0.770,0.770,False
+185,186,51,640.63,Illabo,population_per_dwelling,4.97,4.97,4.97,False
+185,186,52,648.79,Imlay,lga_name,Imlay,Imlay,Imlay,False
+185,186,52,648.79,Imlay,area,"1,519",1519,1519,False
+185,186,52,648.79,Imlay,males,"2,987",2987,2987,False
+185,186,52,648.79,Imlay,females,"2,577",2577,2577,False
+185,186,52,648.79,Imlay,persons,"5,564",5564,5564,False
+185,186,52,648.79,Imlay,persons_per_area,3.66,3.66,3.66,False
+185,186,52,648.79,Imlay,occupied_dwellings,"1,137",1137,1137,False
+185,186,52,648.79,Imlay,dwellings_per_area,.749,0.749,0.749,False
+185,186,52,648.79,Imlay,population_per_dwelling,4.89,4.89,4.89,False
+185,186,53,656.68,Jemalong,lga_name,Jemalong,Jemalong,Jemalong,False
+185,186,53,656.68,Jemalong,area,"1,804",1804,1804,False
+185,186,53,656.68,Jemalong,males,"1,993",1993,1993,False
+185,186,53,656.68,Jemalong,females,"1,286",1286,1286,False
+185,186,53,656.68,Jemalong,persons,"3,279",3279,3279,False
+185,186,53,656.68,Jemalong,persons_per_area,1.82,1.82,1.82,False
+185,186,53,656.68,Jemalong,occupied_dwellings,728,728,728,False
+185,186,53,656.68,Jemalong,dwellings_per_area,.404,0.404,0.404,False
+185,186,53,656.68,Jemalong,population_per_dwelling,4.50,4.50,4.50,False
+185,186,54,664.62,Jindalee,lga_name,Jindalee,Jindalee,Jindalee,False
+185,186,54,664.62,Jindalee,area,531,531,531,False
+185,186,54,664.62,Jindalee,males,"1,050",1050,1050,False
+185,186,54,664.62,Jindalee,females,766,766,766,False
+185,186,54,664.62,Jindalee,persons,"1,816",1816,1816,False
+185,186,54,664.62,Jindalee,persons_per_area,3.42,3.42,3.42,False
+185,186,54,664.62,Jindalee,occupied_dwellings,359,359,359,False
+185,186,54,664.62,Jindalee,dwellings_per_area,.676,0.676,0.676,False
+185,186,54,664.62,Jindalee,population_per_dwelling,5.06,5.06,5.06,False
+185,186,55,672.76,Kuringai,lga_name,Kuringai,Kuringai,Kuringai,False
+185,186,55,672.76,Kuringai,area,36,36,36,False
+185,186,55,672.76,Kuringai,males,"4,347",4347,4347,False
+185,186,55,672.76,Kuringai,females,"5,111",5111,5111,False
+185,186,55,672.76,Kuringai,persons,"9,458",9458,9458,False
+185,186,55,672.76,Kuringai,persons_per_area,262.72,262.72,262.72,False
+185,186,55,672.76,Kuringai,occupied_dwellings,"1,884",1884,1884,False
+185,186,55,672.76,Kuringai,dwellings_per_area,52.333,52.333,52.333,False
+185,186,55,672.76,Kuringai,population_per_dwelling,5.02,5.02,5.02,False
+185,186,56,680.68,Kyeamba,lga_name,Kyeamba,Kyeamba,Kyeamba,False
+185,186,56,680.68,Kyeamba,area,"1,030",1030,1030,False
+185,186,56,680.68,Kyeamba,males,"2,041",2041,2041,False
+185,186,56,680.68,Kyeamba,females,"1,452",1452,1452,False
+185,186,56,680.68,Kyeamba,persons,"3,493",3493,3493,False
+185,186,56,680.68,Kyeamba,persons_per_area,3.39,3.39,3.39,False
+185,186,56,680.68,Kyeamba,occupied_dwellings,711,711,711,False
+185,186,56,680.68,Kyeamba,dwellings_per_area,.690,0.690,0.690,False
+185,186,56,680.68,Kyeamba,population_per_dwelling,4.91,4.91,4.91,False
+185,186,57,688.62,Kyogle,lga_name,Kyogle,Kyogle,Kyogle,False
+185,186,57,688.62,Kyogle,area,"1,321",1321,1321,False
+185,186,57,688.62,Kyogle,males,"2,287",2287,2287,False
+185,186,57,688.62,Kyogle,females,"1,552",1552,1552,False
+185,186,57,688.62,Kyogle,persons,"3,839",3839,3839,False
+185,186,57,688.62,Kyogle,persons_per_area,2.91,2.91,2.91,False
+185,186,57,688.62,Kyogle,occupied_dwellings,842,842,842,False
+185,186,57,688.62,Kyogle,dwellings_per_area,.637,0.637,0.637,False
+185,186,57,688.62,Kyogle,population_per_dwelling,4.56,4.56,4.56,False
+185,186,58,696.77,Lachlan,lga_name,Lachlan,Lachlan,Lachlan,False
+185,186,58,696.77,Lachlan,area,"5,745",5745,5745,False
+185,186,58,696.77,Lachlan,males,"2,099",2099,2099,False
+185,186,58,696.77,Lachlan,females,"1,226",1226,1226,False
+185,186,58,696.77,Lachlan,persons,"3,325",3325,3325,False
+185,186,58,696.77,Lachlan,persons_per_area,.58,0.58,0.58,False
+185,186,58,696.77,Lachlan,occupied_dwellings,799,799,799,False
+185,186,58,696.77,Lachlan,dwellings_per_area,.139,0.139,0.139,False
+185,186,58,696.77,Lachlan,population_per_dwelling,4.16,4.16,4.16,False
+185,186,59,704.89,Lake Macquarie,lga_name,Lake Macquarie,Lake Macquarie,Lake Macquarie,False
+185,186,59,704.89,Lake Macquarie,area,301,301,301,False
+185,186,59,704.89,Lake Macquarie,males,"8,050",8050,8050,False
+185,186,59,704.89,Lake Macquarie,females,"6,560",6560,6560,False
+185,186,59,704.89,Lake Macquarie,persons,"14,610",14610,14610,False
+185,186,59,704.89,Lake Macquarie,persons_per_area,48.54,48.54,48.54,False
+185,186,59,704.89,Lake Macquarie,occupied_dwellings,"3,302",3302,3302,False
+185,186,59,704.89,Lake Macquarie,dwellings_per_area,10.970,10.970,10.970,False
+185,186,59,704.89,Lake Macquarie,population_per_dwelling,4.42,4.42,4.42,False
+185,186,60,712.79,Liverpool Plains,lga_name,Liverpool Plains,Liverpool Plains,Liverpool Plains,False
+185,186,60,712.79,Liverpool Plains,area,"1,961",1961,1961,False
+185,186,60,712.79,Liverpool Plains,males,"3,346",3346,3346,False
+185,186,60,712.79,Liverpool Plains,females,"2,305",2305,2305,False
+185,186,60,712.79,Liverpool Plains,persons,"5,651",5651,5651,False
+185,186,60,712.79,Liverpool Plains,persons_per_area,2.88,2.88,2.88,False
+185,186,60,712.79,Liverpool Plains,occupied_dwellings,"1,127",1127,1127,False
+185,186,60,712.79,Liverpool Plains,dwellings_per_area,.575,0.575,0.575,False
+185,186,60,712.79,Liverpool Plains,population_per_dwelling,5.01,5.01,5.01,False
+185,186,61,728.92,Lockhart,lga_name,Lockhart,Lockhart,Lockhart,False
+185,186,61,728.92,Lockhart,area,"1,134",1134,1134,False
+185,186,61,728.92,Lockhart,males,"2,836",2836,2836,False
+185,186,61,728.92,Lockhart,females,"1,848",1848,1848,False
+185,186,61,728.92,Lockhart,persons,"4,684",4684,4684,False
+185,186,61,728.92,Lockhart,persons_per_area,4.13,4.13,4.13,False
+185,186,61,728.92,Lockhart,occupied_dwellings,927,927,927,False
+185,186,61,728.92,Lockhart,dwellings_per_area,.817,0.817,0.817,False
+185,186,61,728.92,Lockhart,population_per_dwelling,5.05,5.05,5.05,False
+185,186,62,737.07,Lyndhurst,lga_name,Lyndhurst,Lyndhurst,Lyndhurst,False
+185,186,62,737.07,Lyndhurst,area,584,584,584,False
+185,186,62,737.07,Lyndhurst,males,"3,714",3714,3714,False
+185,186,62,737.07,Lyndhurst,females,"3,026",3026,3026,False
+185,186,62,737.07,Lyndhurst,persons,"6,740",6740,6740,False
+185,186,62,737.07,Lyndhurst,persons_per_area,11.54,11.54,11.54,False
+185,186,62,737.07,Lyndhurst,occupied_dwellings,"1,372",1372,1372,False
+185,186,62,737.07,Lyndhurst,dwellings_per_area,2.349,2.349,2.349,False
+185,186,62,737.07,Lyndhurst,population_per_dwelling,4.91,4.91,4.91,False
+185,186,63,744.99,Macintyre,lga_name,Macintyre,Macintyre,Macintyre,False
+185,186,63,744.99,Macintyre,area,535,535,535,False
+185,186,63,744.99,Macintyre,males,"1,342",1342,1342,False
+185,186,63,744.99,Macintyre,females,965,965,965,False
+185,186,63,744.99,Macintyre,persons,"2,307",2307,2307,False
+185,186,63,744.99,Macintyre,persons_per_area,4.31,4.31,4.31,False
+185,186,63,744.99,Macintyre,occupied_dwellings,465,465,465,False
+185,186,63,744.99,Macintyre,dwellings_per_area,.869,0.869,0.869,False
+185,186,63,744.99,Macintyre,population_per_dwelling,4.96,4.96,4.96,False
+185,186,64,753.16,Macleay,lga_name,Macleay,Macleay,Macleay,False
+185,186,64,753.16,Macleay,area,"1,267",1267,1267,False
+185,186,64,753.16,Macleay,males,"3,609",3609,3609,False
+185,186,64,753.16,Macleay,females,"3,070",3070,3070,False
+185,186,64,753.16,Macleay,persons,". 6,679",0.6679,6679,True
+185,186,64,753.16,Macleay,persons_per_area,5.27,5.27,5.27,False
+185,186,64,753.16,Macleay,occupied_dwellings,"1,290",1290,1290,False
+185,186,64,753.16,Macleay,dwellings_per_area,1.018,1.018,1.018,False
+185,186,64,753.16,Macleay,population_per_dwelling,5.18,5.18,5.18,False
+185,186,65,761.31,Macquarie,lga_name,Macquarie,Macquarie,Macquarie,False
+185,186,65,761.31,Macquarie,area,"1,185",1185,1185,False
+185,186,65,761.31,Macquarie,males,"2,722",2722,2722,False
+185,186,65,761.31,Macquarie,females,"2,060",2060,2060,False
+185,186,65,761.31,Macquarie,persons,"4,782",4782,4782,False
+185,186,65,761.31,Macquarie,persons_per_area,4.04,4.04,4.04,False
+185,186,65,761.31,Macquarie,occupied_dwellings,"1,091",1091,1091,False
+185,186,65,761.31,Macquarie,dwellings_per_area,.921,0.921,0.921,False
+185,186,65,761.31,Macquarie,population_per_dwelling,4.38,4.38,4.38,False
+185,186,66,769.48,Mandowa,lga_name,Mandowa,Mandowa,Mandowa,False
+185,186,66,769.48,Mandowa,area,800,800,800,False
+185,186,66,769.48,Mandowa,males,996,996,996,False
+185,186,66,769.48,Mandowa,females,743,743,743,False
+185,186,66,769.48,Mandowa,persons,"1,739",1739,1739,False
+185,186,66,769.48,Mandowa,persons_per_area,2.17,2.17,2.17,False
+185,186,66,769.48,Mandowa,occupied_dwellings,313,313,313,False
+185,186,66,769.48,Mandowa,dwellings_per_area,.391,0.391,0.391,False
+185,186,66,769.48,Mandowa,population_per_dwelling,5.56,5.56,5.56,False
+185,186,67,777.64,Manning,lga_name,Manning,Manning,Manning,False
+185,186,67,777.64,Manning,area,"1,504",1504,1504,False
+185,186,67,777.64,Manning,males,"5,961",5961,5961,False
+185,186,67,777.64,Manning,females,"5,176",5176,5176,False
+185,186,67,777.64,Manning,persons,"11,137",11137,11137,False
+185,186,67,777.64,Manning,persons_per_area,7.40,7.40,7.40,False
+185,186,67,777.64,Manning,occupied_dwellings,"2,270",2270,2270,False
+185,186,67,777.64,Manning,dwellings_per_area,1.509,1.509,1.509,False
+185,186,67,777.64,Manning,population_per_dwelling,4.91,4.91,4.91,False
+185,186,68,785.56,Marthaguy,lga_name,Marthaguy,Marthaguy,Marthaguy,False
+185,186,68,785.56,Marthaguy,area,"4,108",4108,4108,False
+185,186,68,785.56,Marthaguy,males,"1,579",1579,1579,False
+185,186,68,785.56,Marthaguy,females,886,886,886,False
+185,186,68,785.56,Marthaguy,persons,"2,465",2465,2465,False
+185,186,68,785.56,Marthaguy,persons_per_area,.60,0.60,0.60,False
+185,186,68,785.56,Marthaguy,occupied_dwellings,517,517,517,False
+185,186,68,785.56,Marthaguy,dwellings_per_area,.126,0.126,0.126,False
+185,186,68,785.56,Marthaguy,population_per_dwelling,4.77,4.77,4.77,False
+185,186,69,793.75,Meroo,lga_name,Meroo,Meroo,Meroo,False
+185,186,69,793.75,Meroo,area,"1,176",1176,1176,False
+185,186,69,793.75,Meroo,males,"2,064",2064,2064,False
+185,186,69,793.75,Meroo,females,"1,653",1653,1653,False
+185,186,69,793.75,Meroo,persons,"3,717",3717,3717,False
+185,186,69,793.75,Meroo,persons_per_area,3.16,3.16,3.16,False
+185,186,69,793.75,Meroo,occupied_dwellings,915,915,915,False
+185,186,69,793.75,Meroo,dwellings_per_area,.778,0.778,0.778,False
+185,186,69,793.75,Meroo,population_per_dwelling,4.06,4.06,4.06,False
+185,186,70,801.65,Merriwa,lga_name,Merriwa,Merriwa,Merriwa,False
+185,186,70,801.65,Merriwa,area,"1,358",1358,1358,False
+185,186,70,801.65,Merriwa,males,"1,433",1433,1433,False
+185,186,70,801.65,Merriwa,females,"1,177",1177,1177,False
+185,186,70,801.65,Merriwa,persons,"2,610",2610,2610,False
+185,186,70,801.65,Merriwa,persons_per_area,1.92,1.92,1.92,False
+185,186,70,801.65,Merriwa,occupied_dwellings,479,479,479,False
+185,186,70,801.65,Merriwa,dwellings_per_area,.353,0.353,0.353,False
+185,186,70,801.65,Merriwa,population_per_dwelling,5.45,5.45,5.45,False
+186,187,1,178.83,Mitchell,lga_name,Mitchell,Mitchell,Mitchell,False
+186,187,1,178.83,Mitchell,area,832,832,832,False
+186,187,1,178.83,Mitchell,males,"2,293",2293,2293,False
+186,187,1,178.83,Mitchell,females,"1,562",1562,1562,False
+186,187,1,178.83,Mitchell,persons,"3,855",3855,3855,False
+186,187,1,178.83,Mitchell,persons_per_area,4.63,4.63,4.63,False
+186,187,1,178.83,Mitchell,occupied_dwellings,712,712,712,False
+186,187,1,178.83,Mitchell,dwellings_per_area,.856,0.856,0.856,False
+186,187,1,178.83,Mitchell,population_per_dwelling,5.41,5.41,5.41,False
+186,187,2,186.98,Monaro,lga_name,Monaro,Monaro,Monaro,False
+186,187,2,186.98,Monaro,area,"1,769",1769,1769,False
+186,187,2,186.98,Monaro,males,"1,814",1814,1814,False
+186,187,2,186.98,Monaro,females,"1,367",1367,1367,False
+186,187,2,186.98,Monaro,persons,"3,181",3181,3181,False
+186,187,2,186.98,Monaro,persons_per_area,1.80,1.80,1.80,False
+186,187,2,186.98,Monaro,occupied_dwellings,632,632,632,False
+186,187,2,186.98,Monaro,dwellings_per_area,.357,0.357,0.357,False
+186,187,2,186.98,Monaro,population_per_dwelling,5.03,5.03,5.03,False
+186,187,3,194.9,Mulwaree,lga_name,Mulwaree,Mulwaree,Mulwaree,False
+186,187,3,194.9,Mulwaree,area,"1,949",1949,1949,False
+186,187,3,194.9,Mulwaree,males,"3,730",3730,3730,False
+186,187,3,194.9,Mulwaree,females,"3,279",3279,3279,False
+186,187,3,194.9,Mulwaree,persons,"7,009",7009,7009,False
+186,187,3,194.9,Mulwaree,persons_per_area,3.60,3.60,3.60,False
+186,187,3,194.9,Mulwaree,occupied_dwellings,"1,210",1210,1210,False
+186,187,3,194.9,Mulwaree,dwellings_per_area,.621,0.621,0.621,False
+186,187,3,194.9,Mulwaree,population_per_dwelling,5.79,5.79,5.79,False
+186,187,4,203.08,Mumbulla,lga_name,Mumbulla,Mumbulla,Mumbulla,False
+186,187,4,203.08,Mumbulla,area,845,845,845,False
+186,187,4,203.08,Mumbulla,males,"2,427",2427,2427,False
+186,187,4,203.08,Mumbulla,females,"2,086",2086,2086,False
+186,187,4,203.08,Mumbulla,persons,"4,513",4513,4513,False
+186,187,4,203.08,Mumbulla,persons_per_area,5.34,5.34,5.34,False
+186,187,4,203.08,Mumbulla,occupied_dwellings,841,841,841,False
+186,187,4,203.08,Mumbulla,dwellings_per_area,.995,0.995,0.995,False
+186,187,4,203.08,Mumbulla,population_per_dwelling,5.37,5.37,5.37,False
+186,187,5,211.22,Murray,lga_name,Murray,Murray,Murray,False
+186,187,5,211.22,Murray,area,"1,627",1627,1627,False
+186,187,5,211.22,Murray,males,"1,359",1359,1359,False
+186,187,5,211.22,Murray,females,999,999,999,False
+186,187,5,211.22,Murray,persons,"2,358",2358,2358,False
+186,187,5,211.22,Murray,persons_per_area,1.45,1.45,1.45,False
+186,187,5,211.22,Murray,occupied_dwellings,467,467,467,False
+186,187,5,211.22,Murray,dwellings_per_area,.287,0.287,0.287,False
+186,187,5,211.22,Murray,population_per_dwelling,5.05,5.05,5.05,False
+186,187,6,227.33,Murrumbidgee,lga_name,Murrumbidgee,Murrumbidgee,Murrumbidgee,False
+186,187,6,227.33,Murrumbidgee,area,"1,357",1357,1357,False
+186,187,6,227.33,Murrumbidgee,males,457,457,457,False
+186,187,6,227.33,Murrumbidgee,females,269,269,269,False
+186,187,6,227.33,Murrumbidgee,persons,726,726,726,False
+186,187,6,227.33,Murrumbidgee,persons_per_area,.54,0.54,0.54,False
+186,187,6,227.33,Murrumbidgee,occupied_dwellings,165,165,165,False
+186,187,6,227.33,Murrumbidgee,dwellings_per_area,.122,0.122,0.122,False
+186,187,6,227.33,Murrumbidgee,population_per_dwelling,4.40,4.40,4.40,False
+186,187,7,235.47,MurrmIgal,lga_name,MurrmIgal,MurrmIgal,Murrungal,True
+186,187,7,235.47,MurrmIgal,area,958,958,958,False
+186,187,7,235.47,MurrmIgal,males,"1,282",1282,1282,False
+186,187,7,235.47,MurrmIgal,females,"1,041",1041,1041,False
+186,187,7,235.47,MurrmIgal,persons,"2,323",2323,2323,False
+186,187,7,235.47,MurrmIgal,persons_per_area,2.42,2.42,2.42,False
+186,187,7,235.47,MurrmIgal,occupied_dwellings,423,423,423,False
+186,187,7,235.47,MurrmIgal,dwellings_per_area,.442,0.442,0.442,False
+186,187,7,235.47,MurrmIgal,population_per_dwelling,5.49,5.49,5.49,False
+186,187,8,243.65,Muswellbrook,lga_name,Muswellbrook,Muswellbrook,Muswellbrook,False
+186,187,8,243.65,Muswellbrook,area,"1,098",1098,1098,False
+186,187,8,243.65,Muswellbrook,males,"1,582",1582,1582,False
+186,187,8,243.65,Muswellbrook,females,"1,339",1339,1339,False
+186,187,8,243.65,Muswellbrook,persons,"2,921",2921,2921,False
+186,187,8,243.65,Muswellbrook,persons_per_area,2.66,2.66,2.66,False
+186,187,8,243.65,Muswellbrook,occupied_dwellings,506,506,506,False
+186,187,8,243.65,Muswellbrook,dwellings_per_area,.461,0.461,0.461,False
+186,187,8,243.65,Muswellbrook,population_per_dwelling,5.77,5.77,5.77,False
+186,187,9,251.78,Namoi,lga_name,Namoi,Namoi,Namoi,False
+186,187,9,251.78,Namoi,area,"5,042",5042,5042,False
+186,187,9,251.78,Namoi,males,"4,949",4949,4949,False
+186,187,9,251.78,Namoi,females,"3,143",3143,3143,False
+186,187,9,251.78,Namoi,persons,"8,092",8092,8092,False
+186,187,9,251.78,Namoi,persons_per_area,1.60,1.60,1.60,False
+186,187,9,251.78,Namoi,occupied_dwellings,"1,774",1774,1774,False
+186,187,9,251.78,Namoi,dwellings_per_area,.352,0.352,0.352,False
+186,187,9,251.78,Namoi,population_per_dwelling,4.56,4.56,4.56,False
+186,187,10,259.71,Narraburra,lga_name,Narraburra,Narraburra,Narraburra,False
+186,187,10,259.71,Narraburra,area,"1,096",1096,1096,False
+186,187,10,259.71,Narraburra,males,"2,487",2487,2487,False
+186,187,10,259.71,Narraburra,females,"1,684",1684,1684,False
+186,187,10,259.71,Narraburra,persons,"4,171",4171,4171,False
+186,187,10,259.71,Narraburra,persons_per_area,3.81,3.81,3.81,False
+186,187,10,259.71,Narraburra,occupied_dwellings,812,812,812,False
+186,187,10,259.71,Narraburra,dwellings_per_area,.741,0.741,0.741,False
+186,187,10,259.71,Narraburra,population_per_dwelling,5.14,5.14,5.14,False
+186,187,11,275.78,Nattai,lga_name,Nattai,Nattai,Nattai,False
+186,187,11,275.78,Nattai,area,577,577,577,False
+186,187,11,275.78,Nattai,males,"1,270",1270,1270,False
+186,187,11,275.78,Nattai,females,"1,073",1073,1073,False
+186,187,11,275.78,Nattai,persons,"2,343",2343,2343,False
+186,187,11,275.78,Nattai,persons_per_area,4.06,4.06,4.06,False
+186,187,11,275.78,Nattai,occupied_dwellings,465,465,465,False
+186,187,11,275.78,Nattai,dwellings_per_area,.806,0.806,0.806,False
+186,187,11,275.78,Nattai,population_per_dwelling,5.04,5.04,5.04,False
+186,187,12,283.95,Nepean,lga_name,Nepean,Nepean,Nepean,False
+186,187,12,283.95,Nepean,area,126,126,126,False
+186,187,12,283.95,Nepean,males,759,759,759,False
+186,187,12,283.95,Nepean,females,725,725,725,False
+186,187,12,283.95,Nepean,persons,"1,484",1484,1484,False
+186,187,12,283.95,Nepean,persons_per_area,11.78,11.78,11.78,False
+186,187,12,283.95,Nepean,occupied_dwellings,338,338,338,False
+186,187,12,283.95,Nepean,dwellings_per_area,2.683,2.683,2.683,False
+186,187,12,283.95,Nepean,population_per_dwelling,4.39,4.39,4.39,False
+186,187,13,291.87,Nundle,lga_name,Nundle,Nundle,Nundle,False
+186,187,13,291.87,Nundle,area,622,622,622,False
+186,187,13,291.87,Nundle,males,902,902,902,False
+186,187,13,291.87,Nundle,females,788,788,788,False
+186,187,13,291.87,Nundle,persons,"1,690",1690,1690,False
+186,187,13,291.87,Nundle,persons_per_area,2.72,2.72,2.72,False
+186,187,13,291.87,Nundle,occupied_dwellings,361,361,361,False
+186,187,13,291.87,Nundle,dwellings_per_area,.580,0.580,0.580,False
+186,187,13,291.87,Nundle,population_per_dwelling,4.68,4.68,4.68,False
+186,187,14,299.78,Oberon,lga_name,Oberon,Oberon,Oberon,False
+186,187,14,299.78,Oberon,area,"1,136",1136,1136,False
+186,187,14,299.78,Oberon,males,"1,504",1504,1504,False
+186,187,14,299.78,Oberon,females,"1,276",1276,1276,False
+186,187,14,299.78,Oberon,persons,"2,780",2780,2780,False
+186,187,14,299.78,Oberon,persons_per_area,2.45,2.45,2.45,False
+186,187,14,299.78,Oberon,occupied_dwellings,573,573,573,False
+186,187,14,299.78,Oberon,dwellings_per_area,.504,0.504,0.504,False
+186,187,14,299.78,Oberon,population_per_dwelling,4.85,4.85,4.85,False
+186,187,15,307.69,Orara,lga_name,Orara,Orara,Orara,False
+186,187,15,307.69,Orara,area,528,528,528,False
+186,187,15,307.69,Orara,males,920,920,920,False
+186,187,15,307.69,Orara,females,778,778,778,False
+186,187,15,307.69,Orara,persons,"1,698",1698,1698,False
+186,187,15,307.69,Orara,persons_per_area,3.22,3.22,3.22,False
+186,187,15,307.69,Orara,occupied_dwellings,353,353,353,False
+186,187,15,307.69,Orara,dwellings_per_area,.669,0.669,0.669,False
+186,187,15,307.69,Orara,population_per_dwelling,4.81,4.81,4.81,False
+186,187,16,324.05,Patrick Plains,lga_name,Patrick Plains,Patrick Plains,Patrick Plains,False
+186,187,16,324.05,Patrick Plains,area,"1,768",1768,1768,False
+186,187,16,324.05,Patrick Plains,males,"3,643",3643,3643,False
+186,187,16,324.05,Patrick Plains,females,"3,251",3251,3251,False
+186,187,16,324.05,Patrick Plains,persons,"6,894",6894,6894,False
+186,187,16,324.05,Patrick Plains,persons_per_area,3.90,3.90,3.90,False
+186,187,16,324.05,Patrick Plains,occupied_dwellings,"1,302",1302,1302,False
+186,187,16,324.05,Patrick Plains,dwellings_per_area,.736,0.736,0.736,False
+186,187,16,324.05,Patrick Plains,population_per_dwelling,5.29,5.29,5.29,False
+186,187,17,331.94,Peel,lga_name,Peel,Peel,Peel,False
+186,187,17,331.94,Peel,area,674,674,674,False
+186,187,17,331.94,Peel,males,"2,524",2524,2524,False
+186,187,17,331.94,Peel,females,"1,698",1698,1698,False
+186,187,17,331.94,Peel,persons,"4,222",4222,4222,False
+186,187,17,331.94,Peel,persons_per_area,6.26,6.26,6.26,False
+186,187,17,331.94,Peel,occupied_dwellings,883,883,883,False
+186,187,17,331.94,Peel,dwellings_per_area,1.310,1.310,1.310,False
+186,187,17,331.94,Peel,population_per_dwelling,4.78,4.78,4.78,False
+186,187,18,340.12,Port Stephens,lga_name,Port Stephens,Port Stephens,Port Stephens,False
+186,187,18,340.12,Port Stephens,area,401,401,401,False
+186,187,18,340.12,Port Stephens,males,"2,065",2065,2065,False
+186,187,18,340.12,Port Stephens,females,"1,817",1817,1817,False
+186,187,18,340.12,Port Stephens,persons,"3,882",3882,3882,False
+186,187,18,340.12,Port Stephens,persons_per_area,9.68,9.68,9.68,False
+186,187,18,340.12,Port Stephens,occupied_dwellings,851,851,851,False
+186,187,18,340.12,Port Stephens,dwellings_per_area,2.122,2.122,2.122,False
+186,187,18,340.12,Port Stephens,population_per_dwelling,4.56,4.56,4.56,False
+186,187,19,348.02,Rylstone,lga_name,Rylstone,Rylstone,Rylstone,False
+186,187,19,348.02,Rylstone,area,"1,615",1615,1615,False
+186,187,19,348.02,Rylstone,males,"1,457",1457,1457,False
+186,187,19,348.02,Rylstone,females,"1,226",1226,1226,False
+186,187,19,348.02,Rylstone,persons,"2,683",2683,2683,False
+186,187,19,348.02,Rylstone,persons_per_area,1.66,1.66,1.66,False
+186,187,19,348.02,Rylstone,occupied_dwellings,541,541,541,False
+186,187,19,348.02,Rylstone,dwellings_per_area,.335,0.335,0.335,False
+186,187,19,348.02,Rylstone,population_per_dwelling,4.96,4.96,4.96,False
+186,187,20,356.19,Severn,lga_name,Severn,Severn,Severn,False
+186,187,20,356.19,Severn,area,"2,302",2302,2302,False
+186,187,20,356.19,Severn,males,"3,809",3809,3809,False
+186,187,20,356.19,Severn,females,"3,076",3076,3076,False
+186,187,20,356.19,Severn,persons,"6,885",6885,6885,False
+186,187,20,356.19,Severn,persons_per_area,2.99,2.99,2.99,False
+186,187,20,356.19,Severn,occupied_dwellings,"1,564",1564,1564,False
+186,187,20,356.19,Severn,dwellings_per_area,.679,0.679,0.679,False
+186,187,20,356.19,Severn,population_per_dwelling,4.40,4.40,4.40,False
+186,187,21,372.26,Stroud,lga_name,Stroud,Stroud,Stroud,False
+186,187,21,372.26,Stroud,area,"1,186",1186,1186,False
+186,187,21,372.26,Stroud,males,"2,913",2913,2913,False
+186,187,21,372.26,Stroud,females,"2,204",2204,2204,False
+186,187,21,372.26,Stroud,persons,"5,117",5117,5117,False
+186,187,21,372.26,Stroud,persons_per_area,4.31,4.31,4.31,False
+186,187,21,372.26,Stroud,occupied_dwellings,"1,361",1361,1361,False
+186,187,21,372.26,Stroud,dwellings_per_area,1.148,1.148,1.148,False
+186,187,21,372.26,Stroud,population_per_dwelling,3.76,3.76,3.76,False
+186,187,22,380.43,Sutherland,lga_name,Sutherland,Sutherland,Sutherland,False
+186,187,22,380.43,Sutherland,area,144,144,144,False
+186,187,22,380.43,Sutherland,males,"1,448",1448,1448,False
+186,187,22,380.43,Sutherland,females,"1,448",1448,1448,False
+186,187,22,380.43,Sutherland,persons,"2,896",2896,2896,False
+186,187,22,380.43,Sutherland,persons_per_area,20.11,20.11,20.11,False
+186,187,22,380.43,Sutherland,occupied_dwellings,653,653,653,False
+186,187,22,380.43,Sutherland,dwellings_per_area,4.535 .,4.535,4.535,False
+186,187,22,380.43,Sutherland,population_per_dwelling,4.43,4.43,4.43,False
+186,187,23,388.59,Talbragar,lga_name,Talbragar,Talbragar,Talbragar,False
+186,187,23,388.59,Talbragar,area,"1,337",1337,1337,False
+186,187,23,388.59,Talbragar,males,"2,069",2069,2069,False
+186,187,23,388.59,Talbragar,females,"1,538",1538,1538,False
+186,187,23,388.59,Talbragar,persons,"3,607",3607,3607,False
+186,187,23,388.59,Talbragar,persons_per_area,2.70,2.70,2.70,False
+186,187,23,388.59,Talbragar,occupied_dwellings,745,745,745,False
+186,187,23,388.59,Talbragar,dwellings_per_area,.557,0.557,0.557,False
+186,187,23,388.59,Talbragar,population_per_dwelling,4.84,4.84,4.84,False
+186,187,24,396.76,Tallaganda,lga_name,Tallaganda,Tallaganda,Tallaganda,False
+186,187,24,396.76,Tallaganda,area,"1,296",1296,1296,False
+186,187,24,396.76,Tallaganda,males,"2,064",2064,2064,False
+186,187,24,396.76,Tallaganda,females,"1,686",1686,1686,False
+186,187,24,396.76,Tallaganda,persons,"3,750",3750,3750,False
+186,187,24,396.76,Tallaganda,persons_per_area,2.89,2.89,2.89,False
+186,187,24,396.76,Tallaganda,occupied_dwellings,864,864,864,False
+186,187,24,396.76,Tallaganda,dwellings_per_area,.667,0.667,0.667,False
+186,187,24,396.76,Tallaganda,population_per_dwelling,4.34,4.34,4.34,False
+186,187,25,404.67,Tamarang,lga_name,Tamarang,Tamarang,Tamarang,False
+186,187,25,404.67,Tamarang,area,"1,173",1173,1173,False
+186,187,25,404.67,Tamarang,males,"2,284",2284,2284,False
+186,187,25,404.67,Tamarang,females,"1,714",1714,1714,False
+186,187,25,404.67,Tamarang,persons,"3,998",3998,3998,False
+186,187,25,404.67,Tamarang,persons_per_area,3.41,3.41,3.41,False
+186,187,25,404.67,Tamarang,occupied_dwellings,734,734,734,False
+186,187,25,404.67,Tamarang,dwellings_per_area,.626,0.626,0.626,False
+186,187,25,404.67,Tamarang,population_per_dwelling,5.45,5.45,5.45,False
+186,187,26,420.74,Tarro,lga_name,Tarro,Tarro,Tarro,False
+186,187,26,420.74,Tarro,area,184,184,184,False
+186,187,26,420.74,Tarro,males,"3,521",3521,3521,False
+186,187,26,420.74,Tarro,females,"2,971",2971,2971,False
+186,187,26,420.74,Tarro,persons,"6,492",6492,6492,False
+186,187,26,420.74,Tarro,persons_per_area,35.28,35.28,35.28,False
+186,187,26,420.74,Tarro,occupied_dwellings,"1,341",1341,1341,False
+186,187,26,420.74,Tarro,dwellings_per_area,7.288,7.288,7.288,False
+186,187,26,420.74,Tarro,population_per_dwelling,4.84,4.84,4.84,False
+186,187,27,428.91,Tenterfield,lga_name,Tenterfield,Tenterfield,Tenterfield,False
+186,187,27,428.91,Tenterfield,area,"2,777",2777,2777,False
+186,187,27,428.91,Tenterfield,males,"2,923",2923,2923,False
+186,187,27,428.91,Tenterfield,females,,,2230,True
+186,187,27,428.91,Tenterfield,persons,"5,153",5153,5153,False
+186,187,27,428.91,Tenterfield,persons_per_area,1.86,1.86,1.86,False
+186,187,27,428.91,Tenterfield,occupied_dwellings,"1,230",1230,1230,False
+186,187,27,428.91,Tenterfield,dwellings_per_area,.443,0.443,0.443,False
+186,187,27,428.91,Tenterfield,population_per_dwelling,4.19,4.19,4.19,False
+186,187,28,436.82,Terania,lga_name,Terania,Terania,Terania,False
+186,187,28,436.82,Terania,area,", 347",347,347,False
+186,187,28,436.82,Terania,males,"3,200",3200,3200,False
+186,187,28,436.82,Terania,females,"22,,422310",22422310,2421,True
+186,187,28,436.82,Terania,persons,"5,621",5621,5621,False
+186,187,28,436.82,Terania,persons_per_area,16.20,16.20,16.20,False
+186,187,28,436.82,Terania,occupied_dwellings,"1,131",1131,1131,False
+186,187,28,436.82,Terania,dwellings_per_area,3.259,3.259,3.259,False
+186,187,28,436.82,Terania,population_per_dwelling,4.97,4.97,4.97,False
+186,187,29,445.0,Timbrebungie,lga_name,Timbrebungie,Timbrebungie,Timbrebungie,False
+186,187,29,445.0,Timbrebungie,area,"2,178",2178,2178,False
+186,187,29,445.0,Timbrebungie,males,"2,429",2429,2429,False
+186,187,29,445.0,Timbrebungie,females,"1,677",1677,1677,False
+186,187,29,445.0,Timbrebungie,persons,"4,106",4106,4106,False
+186,187,29,445.0,Timbrebungie,persons_per_area,1.89,1.89,1.89,False
+186,187,29,445.0,Timbrebungie,occupied_dwellings,756,756,756,False
+186,187,29,445.0,Timbrebungie,dwellings_per_area,.347,0.347,0.347,False
+186,187,29,445.0,Timbrebungie,population_per_dwelling,5.43,5.43,5.43,False
+186,187,30,452.91,Tintenbar,lga_name,Tintenbar,Tintenbar,Tintenbar,False
+186,187,30,452.91,Tintenbar,area,193,193,193,False
+186,187,30,452.91,Tintenbar,males,"3,161",3161,3161,False
+186,187,30,452.91,Tintenbar,females,"2,704",2704,2704,False
+186,187,30,452.91,Tintenbar,persons,"5,865",5865,5865,False
+186,187,30,452.91,Tintenbar,persons_per_area,30.39,30.39,30.39,False
+186,187,30,452.91,Tintenbar,occupied_dwellings,"1,105",1105,1105,False
+186,187,30,452.91,Tintenbar,dwellings_per_area,5.725·,5.725,5.725,False
+186,187,30,452.91,Tintenbar,population_per_dwelling,5.31,5.31,5.31,False
+186,187,31,468.98,Tomki,lga_name,Tomki,Tomki,Tomki,False
+186,187,31,468.98,Tomki,area,431,431,431,False
+186,187,31,468.98,Tomki,males,"1,657",1657,1657,False
+186,187,31,468.98,Tomki,females,"1,349",1349,1349,False
+186,187,31,468.98,Tomki,persons,"3,006",3006,3006,False
+186,187,31,468.98,Tomki,persons_per_area,6.97,6.97,6.97,False
+186,187,31,468.98,Tomki,occupied_dwellings,644,644,644,False
+186,187,31,468.98,Tomki,dwellings_per_area,1.494,1.494,1.494,False
+186,187,31,468.98,Tomki,population_per_dwelling,4.67,4.67,4.67,False
+186,187,32,477.17,Tumbarumba,lga_name,Tumbarumba,Tumbarumba,Tumbarumba,False
+186,187,32,477.17,Tumbarumba,area,"1,796",1796,1796,False
+186,187,32,477.17,Tumbarumba,males,"1,446",1446,1446,False
+186,187,32,477.17,Tumbarumba,females,"1,120",1120,1120,False
+186,187,32,477.17,Tumbarumba,persons,"2,566",2566,2566,False
+186,187,32,477.17,Tumbarumba,persons_per_area,1.43,1.43,1.43,False
+186,187,32,477.17,Tumbarumba,occupied_dwellings,579,579,579,False
+186,187,32,477.17,Tumbarumba,dwellings_per_area,.322,0.322,0.322,False
+186,187,32,477.17,Tumbarumba,population_per_dwelling,4.43,4.43,4.43,False
+186,187,33,485.3,Turon,lga_name,Turon,Turon,Turon,False
+186,187,33,485.3,Turon,area,877,877,877,False
+186,187,33,485.3,Turon,males,"2,420",2420,2420,False
+186,187,33,485.3,Turon,females,"2,026",2026,2026,False
+186,187,33,485.3,Turon,persons,"4,446",4446,4446,False
+186,187,33,485.3,Turon,persons_per_area,5.07,5.07,5.07,False
+186,187,33,485.3,Turon,occupied_dwellings,"1,100",1100,1100,False
+186,187,33,485.3,Turon,dwellings_per_area,1.254,1.254,1.254,False
+186,187,33,485.3,Turon,population_per_dwelling,4.04,4.04,4.04,False
+186,187,34,493.22,Tweed,lga_name,Tweed,Tweed,Tweed,False
+186,187,34,493.22,Tweed,area,511,511,511,False
+186,187,34,493.22,Tweed,males,"4,223",4223,4223,False
+186,187,34,493.22,Tweed,females,"3,085",3085,3085,False
+186,187,34,493.22,Tweed,persons,"7,308",7308,7308,False
+186,187,34,493.22,Tweed,persons_per_area,14.30,14.30,14.30,False
+186,187,34,493.22,Tweed,occupied_dwellings,"1,534",1534,1534,False
+186,187,34,493.22,Tweed,dwellings_per_area,3.002,3.002,3.002,False
+186,187,34,493.22,Tweed,population_per_dwelling,4.76,4.76,4.76,False
+186,187,35,501.37,Urana,lga_name,Urana,Urana,Urana,False
+186,187,35,501.37,Urana,area,"1,278",1278,1278,False
+186,187,35,501.37,Urana,males,"1,439",1439,1439,False
+186,187,35,501.37,Urana,females,822,822,822,False
+186,187,35,501.37,Urana,persons,"2,261",2261,2261,False
+186,187,35,501.37,Urana,persons_per_area,1.77,1.77,1.77,False
+186,187,35,501.37,Urana,occupied_dwellings,507,507,507,False
+186,187,35,501.37,Urana,dwellings_per_area,.397,0.397,0.397,False
+186,187,35,501.37,Urana,population_per_dwelling,4.46,4.46,4.46,False
+186,187,36,517.47,Wakool,lga_name,Wakool,Wakool,Wakool,False
+186,187,36,517.47,Wakool,area,"2,912",2912,2912,False
+186,187,36,517.47,Wakool,males,"1,498",1498,1498,False
+186,187,36,517.47,Wakool,females,825,825,825,False
+186,187,36,517.47,Wakool,persons,"2,323",2323,2323,False
+186,187,36,517.47,Wakool,persons_per_area,.80,0.80,0.80,False
+186,187,36,517.47,Wakool,occupied_dwellings,452,452,452,False
+186,187,36,517.47,Wakool,dwellings_per_area,.155,0.155,0.155,False
+186,187,36,517.47,Wakool,population_per_dwelling,5.14,5.14,5.14,False
+186,187,37,525.62,Walgett,lga_name,Walgett,Walgett,Walgett,False
+186,187,37,525.62,Walgett,area,"4,348",4348,4348,False
+186,187,37,525.62,Walgett,males,"1,983",1983,1983,False
+186,187,37,525.62,Walgett,females,"1,217",1217,1217,False
+186,187,37,525.62,Walgett,persons,"3,200",3200,3200,False
+186,187,37,525.62,Walgett,persons_per_area,.74,0.74,0.74,False
+186,187,37,525.62,Walgett,occupied_dwellings,648,648,648,False
+186,187,37,525.62,Walgett,dwellings_per_area,.149,0.149,0.149,False
+186,187,37,525.62,Walgett,population_per_dwelling,4.94,4.94,4.94,False
+186,187,38,533.56,Wallarobba,lga_name,Wallarobba,Wallarobba,Wallarobba,False
+186,187,38,533.56,Wallarobba,area,820,820,820,False
+186,187,38,533.56,Wallarobba,males,"3,159",3159,3159,False
+186,187,38,533.56,Wallarobba,females,"2,460",2460,2460,False
+186,187,38,533.56,Wallarobba,persons,"5,619",5619,5619,False
+186,187,38,533.56,Wallarobba,persons_per_area,6.85,6.85,6.85,False
+186,187,38,533.56,Wallarobba,occupied_dwellings,"1,296",1296,1296,False
+186,187,38,533.56,Wallarobba,dwellings_per_area,1.580,1.580,1.580,False
+186,187,38,533.56,Wallarobba,population_per_dwelling,4.34,4.34,4.34,False
+186,187,39,541.71,Vlaradgery,lga_name,Vlaradgery,Vlaradgery,Waradgery,True
+186,187,39,541.71,Vlaradgery,area,"3,617",3617,3617,False
+186,187,39,541.71,Vlaradgery,males,616,616,616,False
+186,187,39,541.71,Vlaradgery,females,319,319,319,False
+186,187,39,541.71,Vlaradgery,persons,935,935,935,False
+186,187,39,541.71,Vlaradgery,persons_per_area,.26,0.26,0.26,False
+186,187,39,541.71,Vlaradgery,occupied_dwellings,216,216,216,False
+186,187,39,541.71,Vlaradgery,dwellings_per_area,.060,0.060,0.060,False
+186,187,39,541.71,Vlaradgery,population_per_dwelling,4.33,4.33,4.33,False
+186,187,40,549.62,Warrah,lga_name,Warrah,Warrah,Warrah,False
+186,187,40,549.62,Warrah,area,949,949,949,False
+186,187,40,549.62,Warrah,males,957,957,957,False
+186,187,40,549.62,Warrah,females,643,643,643,False
+186,187,40,549.62,Warrah,persons,"1,600",1600,1600,False
+186,187,40,549.62,Warrah,persons_per_area,1.69,1.69,1.69,False
+186,187,40,549.62,Warrah,occupied_dwellings,344,344,344,False
+186,187,40,549.62,Warrah,dwellings_per_area,.362,0.362,0.362,False
+186,187,40,549.62,Warrah,population_per_dwelling,4.65,4.65,4.65,False
+186,187,41,565.71,Warringah,lga_name,Warringah,Warringah,Warringah,False
+186,187,41,565.71,Warringah,area,108,108,108,False
+186,187,41,565.71,Warringah,males,"1,575",1575,1575,False
+186,187,41,565.71,Warringah,females,"1,248",1248,1248,False
+186,187,41,565.71,Warringah,persons,"2,823",2823,2823,False
+186,187,41,565.71,Warringah,persons_per_area,26.14,26.14,26.14,False
+186,187,41,565.71,Warringah,occupied_dwellings,700,700,700,False
+186,187,41,565.71,Warringah,dwellings_per_area,6.481,6.481,6.481,False
+186,187,41,565.71,Warringah,population_per_dwelling,4.03,4.03,4.03,False
+186,187,42,573.88,Waugoola,lga_name,Waugoola,Waugoola,Waugoola,False
+186,187,42,573.88,Waugoola,area,"1,084",1084,1084,False
+186,187,42,573.88,Waugoola,males,"2,928",2928,2928,False
+186,187,42,573.88,Waugoola,females,"2,334",2334,2334,False
+186,187,42,573.88,Waugoola,persons,"5,262",5262,5262,False
+186,187,42,573.88,Waugoola,persons_per_area,4.85,4.85,4.85,False
+186,187,42,573.88,Waugoola,occupied_dwellings,"1,068",1068,1068,False
+186,187,42,573.88,Waugoola,dwellings_per_area,.985,0.985,0.985,False
+186,187,42,573.88,Waugoola,population_per_dwelling,4.93,4.93,4.93,False
+186,187,43,581.78,Weddin,lga_name,Weddin,Weddin,Weddin,False
+186,187,43,581.78,Weddin,area,"1,318",1318,1318,False
+186,187,43,581.78,Weddin,males,"2,792",2792,2792,False
+186,187,43,581.78,Weddin,females,"1,948",1948,1948,False
+186,187,43,581.78,Weddin,persons,"4,740",4740,4740,False
+186,187,43,581.78,Weddin,persons_per_area,3.60,3.60,3.60,False
+186,187,43,581.78,Weddin,occupied_dwellings,906,906,906,False
+186,187,43,581.78,Weddin,dwellings_per_area,.687,0.687,0.687,False
+186,187,43,581.78,Weddin,population_per_dwelling,5.23,5.23,5.23,False
+186,187,44,589.95,Windouran,lga_name,Windouran,Windouran,Windouran,False
+186,187,44,589.95,Windouran,area,"1,972",1972,1972,False
+186,187,44,589.95,Windouran,males,510,510,510,False
+186,187,44,589.95,Windouran,females,311,311,311,False
+186,187,44,589.95,Windouran,persons,821,821,821,False
+186,187,44,589.95,Windouran,persons_per_area,.42,0.42,0.42,False
+186,187,44,589.95,Windouran,occupied_dwellings,132,132,132,False
+186,187,44,589.95,Windouran,dwellings_per_area,.067,0.067,0.067,False
+186,187,44,589.95,Windouran,population_per_dwelling,6.22,6.22,6.22,False
+186,187,45,598.11,Wingadee,lga_name,Wingadee,Wingadee,Wingadee,False
+186,187,45,598.11,Wingadee,area,"4,092",4092,4092,False
+186,187,45,598.11,Wingadee,males,"2,118",2118,2118,False
+186,187,45,598.11,Wingadee,females,"1,357",1357,1357,False
+186,187,45,598.11,Wingadee,persons,"3,475",3475,3475,False
+186,187,45,598.11,Wingadee,persons_per_area,.85,0.85,0.85,False
+186,187,45,598.11,Wingadee,occupied_dwellings,671,671,671,False
+186,187,45,598.11,Wingadee,dwellings_per_area,.164,0.164,0.164,False
+186,187,45,598.11,Wingadee,population_per_dwelling,5.18,5.18,5.18,False
+186,187,46,614.21,Wingecarribee,lga_name,Wingecarribee,Wingecarribee,Wingecarribee,False
+186,187,46,614.21,Wingecarribee,area,520,520,520,False
+186,187,46,614.21,Wingecarribee,males,"1,649",1649,1649,False
+186,187,46,614.21,Wingecarribee,females,"1,564",1564,1564,False
+186,187,46,614.21,Wingecarribee,persons,"3,213",3213,3213,False
+186,187,46,614.21,Wingecarribee,persons_per_area,6.18,6.18,6.18,False
+186,187,46,614.21,Wingecarribee,occupied_dwellings,644,644,644,False
+186,187,46,614.21,Wingecarribee,dwellings_per_area,1.238,1.238,1.238,False
+186,187,46,614.21,Wingecarribee,population_per_dwelling,4.99,4.99,4.99,False
+186,187,47,622.1,W ollondilly,lga_name,W ollondilly,W ollondilly,Wollondilly,True
+186,187,47,622.1,W ollondilly,area,931,931,931,False
+186,187,47,622.1,W ollondilly,males,"2,561",2561,2561,False
+186,187,47,622.1,W ollondilly,females,"2,288",2288,2288,False
+186,187,47,622.1,W ollondilly,persons,"4,849",4849,4849,False
+186,187,47,622.1,W ollondilly,persons_per_area,5.21,5.21,5.21,False
+186,187,47,622.1,W ollondilly,occupied_dwellings,"1,028",1028,1028,False
+186,187,47,622.1,W ollondilly,dwellings_per_area,1.104,1.104,1.104,False
+186,187,47,622.1,W ollondilly,population_per_dwelling,4.72,4.72,4.72,False
+186,187,48,630.27,Woodburn,lga_name,Woodburn,Woodburn,Woodburn,False
+186,187,48,630.27,Woodburn,area,564,564,564,False
+186,187,48,630.27,Woodburn,males,"1,602",1602,1602,False
+186,187,48,630.27,Woodburn,females,"1,336",1336,1336,False
+186,187,48,630.27,Woodburn,persons,"2,938",2938,2938,False
+186,187,48,630.27,Woodburn,persons_per_area,5.21,5.21,5.21,False
+186,187,48,630.27,Woodburn,occupied_dwellings,571,571,571,False
+186,187,48,630.27,Woodburn,dwellings_per_area,1.012,1.012,1.012,False
+186,187,48,630.27,Woodburn,population_per_dwelling,5.15,5.15,5.15,False
+186,187,49,638.43,Woolooma,lga_name,Woolooma,Woolooma,Woolooma,False
+186,187,49,638.43,Woolooma,area,"1,568",1568,1568,False
+186,187,49,638.43,Woolooma,males,"2,488",2488,2488,False
+186,187,49,638.43,Woolooma,females,"2,118",2118,2118,False
+186,187,49,638.43,Woolooma,persons,"4,606",4606,4606,False
+186,187,49,638.43,Woolooma,persons_per_area,2.94,2.94,2.94,False
+186,187,49,638.43,Woolooma,occupied_dwellings,867,867,867,False
+186,187,49,638.43,Woolooma,dwellings_per_area,.553,0.553,0.553,False
+186,187,49,638.43,Woolooma,population_per_dwelling,5.31,5.31,5.31,False
+186,187,50,646.36,Wunnamurra,lga_name,Wunnamurra,Wunnamurra,Wunnamurra,False
+186,187,50,646.36,Wunnamurra,area,"1,247",1247,1247,False
+186,187,50,646.36,Wunnamurra,males,472,472,472,False
+186,187,50,646.36,Wunnamurra,females,261,261,261,False
+186,187,50,646.36,Wunnamurra,persons,733,733,733,False
+186,187,50,646.36,Wunnamurra,persons_per_area,.59,0.59,0.59,False
+186,187,50,646.36,Wunnamurra,occupied_dwellings,149,149,149,False
+186,187,50,646.36,Wunnamurra,dwellings_per_area,.119,0.119,0.119,False
+186,187,50,646.36,Wunnamurra,population_per_dwelling,4.92,4.92,4.92,False
+186,187,51,662.42,Wyaldra,lga_name,Wyaldra,Wyaldra,Wyaldra,False
+186,187,51,662.42,Wyaldra,area,720,720,720,False
+186,187,51,662.42,Wyaldra,males,"1,566",1566,1566,False
+186,187,51,662.42,Wyaldra,females,"1,286",1286,1286,False
+186,187,51,662.42,Wyaldra,persons,"2,852",2852,2852,False
+186,187,51,662.42,Wyaldra,persons_per_area,3.96,3.96,3.96,False
+186,187,51,662.42,Wyaldra,occupied_dwellings,633,633,633,False
+186,187,51,662.42,Wyaldra,dwellings_per_area,.879,0.879,0.879,False
+186,187,51,662.42,Wyaldra,population_per_dwelling,4.51,4.51,4.51,False
+186,187,52,670.58,Yallaroi,lga_name,Yallaroi,Yallaroi,Yallaroi,False
+186,187,52,670.58,Yallaroi,area,"2,136",2136,2136,False
+186,187,52,670.58,Yallaroi,males,"1,548",1548,1548,False
+186,187,52,670.58,Yallaroi,females,981,981,981,False
+186,187,52,670.58,Yallaroi,persons,"2,529",2529,2529,False
+186,187,52,670.58,Yallaroi,persons_per_area,1.18,1.18,1.18,False
+186,187,52,670.58,Yallaroi,occupied_dwellings,429,429,429,False
+186,187,52,670.58,Yallaroi,dwellings_per_area,.201,0.201,0.201,False
+186,187,52,670.58,Yallaroi,population_per_dwelling,5.90,5.90,5.90,False
+186,187,53,678.73,Yanko,lga_name,Yanko,Yanko,Yanko,False
+186,187,53,678.73,Yanko,area,"1,901",1901,1901,False
+186,187,53,678.73,Yanko,males,"2,210",2210,2210,False
+186,187,53,678.73,Yanko,females,"1,291",1291,1291,False
+186,187,53,678.73,Yanko,persons,"3,501",3501,3501,False
+186,187,53,678.73,Yanko,persons_per_area,1.84,1.84,1.84,False
+186,187,53,678.73,Yanko,occupied_dwellings,883,883,883,False
+186,187,53,678.73,Yanko,dwellings_per_area,.464,0.464,0.464,False
+186,187,53,678.73,Yanko,population_per_dwelling,3.96,3.96,3.96,False
+186,187,54,686.92,Yarrowlumla,lga_name,Yarrowlumla,Yarrowlumla,Yarrowlumla,False
+186,187,54,686.92,Yarrowlumla,area,"1,185",1185,1185,False
+186,187,54,686.92,Yarrowlumla,males,"1,290",1290,1290,False
+186,187,54,686.92,Yarrowlumla,females,"1,119",1119,1119,False
+186,187,54,686.92,Yarrowlumla,persons,"2,409",2409,2409,False
+186,187,54,686.92,Yarrowlumla,persons_per_area,2.03,2.03,2.03,False
+186,187,54,686.92,Yarrowlumla,occupied_dwellings,526,526,526,False
+186,187,54,686.92,Yarrowlumla,dwellings_per_area,.444,0.444,0.444,False
+186,187,54,686.92,Yarrowlumla,population_per_dwelling,4.58,4.58,4.58,False

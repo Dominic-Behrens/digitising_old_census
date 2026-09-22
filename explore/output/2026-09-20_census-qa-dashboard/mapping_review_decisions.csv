@@ -1,0 +1,58 @@
+doc_id,pdf_page,decision,table_numbers,notes,updated_at
+1911_census_volume_iii_part_xiv_summary,33,correct_match,27,,2026-09-22T05:33:43+00:00
+1911_census_volume_iii_part_xiv_summary,167,correct_match,137,,2026-09-22T05:33:46+00:00
+1911_census_volume_ii_part_i_ages,60,correct_match,33 | 34,,2026-09-22T05:33:56+00:00
+1911_census_volume_ii_part_i_ages,61,correct_match,33,,2026-09-22T05:34:06+00:00
+1911_census_volume_ii_part_i_ages,62,correct_match,34 | 35,,2026-09-22T05:34:11+00:00
+1911_census_volume_ii_part_ii_birthplaces,154,correct_match,75,,2026-09-22T05:34:15+00:00
+1911_census_volume_ii_part_ii_birthplaces,155,correct_match,75,,2026-09-22T05:34:23+00:00
+1911_census_volume_ii_part_ii_birthplaces,156,correct_match,76,,2026-09-22T05:34:29+00:00
+1911_census_volume_ii_part_ii_birthplaces,157,correct_match,76,,2026-09-22T05:34:35+00:00
+1911_census_volume_ii_part_iii_length_of_residence,19,correct_match,6,,2026-09-22T05:34:38+00:00
+1911_census_volume_ii_part_iii_length_of_residence,20,correct_match,6 | 7,,2026-09-22T05:34:46+00:00
+1911_census_volume_ii_part_iii_length_of_residence,21,correct_match,6 | 7,,2026-09-22T05:35:01+00:00
+1911_census_volume_ii_part_iii_length_of_residence,25,correct_match,8,,2026-09-22T05:35:06+00:00
+1911_census_volume_ii_part_iii_length_of_residence,26,correct_match,8 | 9,,2026-09-22T05:35:16+00:00
+1911_census_volume_ii_part_iii_length_of_residence,27,correct_match,8 | 9,,2026-09-22T05:35:23+00:00
+1911_census_volume_ii_part_vi_religions,94,correct_match,38 | 39,,2026-09-22T05:35:27+00:00
+1911_census_volume_ii_part_vi_religions,95,correct_match,38 | 39,,2026-09-22T05:35:37+00:00
+1911_census_volume_ii_part_vi_religions,96,correct_match,39 | 40,,2026-09-22T05:35:40+00:00
+1911_census_volume_ii_part_vi_religions,104,correct_match,44 | 45,,2026-09-22T05:35:45+00:00
+1911_census_volume_ii_part_vi_religions,105,correct_match,44 | 45,,2026-09-22T05:35:54+00:00
+1911_census_volume_ii_part_vi_religions,106,correct_match,45 | 46,,2026-09-22T05:35:57+00:00
+1911_census_volume_ii_part_viii_non_european_races,50,correct_match,40 | 41,,2026-09-22T05:36:02+00:00
+1911_census_volume_ii_part_viii_non_european_races,51,correct_match,40 | 41,,2026-09-22T05:40:49+00:00
+1911_census_volume_ii_part_viii_non_european_races,52,correct_match,41 | 42,,2026-09-22T05:41:05+00:00
+1911_census_volume_ii_part_viii_non_european_races,54,correct_match,43 | 44,,2026-09-22T05:41:08+00:00
+1911_census_volume_ii_part_viii_non_european_races,55,correct_match,43 | 44,,2026-09-22T05:41:40+00:00
+1911_census_volume_ii_part_viii_non_european_races,56,correct_match,44 | 45,,2026-09-22T05:41:45+00:00
+1911_census_volume_ii_part_viii_non_european_races,58,correct_match,46 | 47,,2026-09-22T05:42:07+00:00
+1911_census_volume_ii_part_viii_non_european_races,59,correct_match,46 | 47,,2026-09-22T05:42:16+00:00
+1911_census_volume_ii_part_viii_non_european_races,60,correct_match,47 | 48,,2026-09-22T05:42:21+00:00
+1911_census_volume_ii_part_viii_non_european_races,62,correct_match,49 | 50,,2026-09-22T05:42:24+00:00
+1911_census_volume_ii_part_viii_non_european_races,63,correct_match,49 | 50,,2026-09-22T05:42:35+00:00
+1911_census_volume_ii_part_viii_non_european_races,64,correct_match,50 | 51,,2026-09-22T05:42:37+00:00
+1911_census_volume_ii_part_viii_non_european_races,66,correct_match,52 | 53,,2026-09-22T05:42:40+00:00
+1911_census_volume_ii_part_viii_non_european_races,67,correct_match,52 | 53,,2026-09-22T05:42:49+00:00
+1911_census_volume_ii_part_viii_non_european_races,68,correct_match,53 | 54,,2026-09-22T05:42:53+00:00
+1911_census_volume_ii_part_viii_non_european_races,107,correct_match,80,,2026-09-22T05:43:04+00:00
+1911_census_volume_ii_part_viii_non_european_races,108,correct_match,81,,2026-09-22T05:43:08+00:00
+1911_census_volume_ii_part_viii_non_european_races,109,correct_match,81,,2026-09-22T05:43:12+00:00
+1911_census_volume_ii_part_viii_non_european_races,110,correct_match,82,,2026-09-22T05:43:15+00:00
+1911_census_volume_ii_part_viii_non_european_races,111,correct_match,82,,2026-09-22T05:43:23+00:00
+1911_census_volume_ii_part_viii_non_european_races,112,correct_match,83 | 84,,2026-09-22T05:43:25+00:00
+1911_census_volume_ii_part_viii_non_european_races,130,correct_match,89,,2026-09-22T05:43:28+00:00
+1911_census_volume_ii_part_viii_non_european_races,131,correct_match,89,,2026-09-22T05:43:44+00:00
+1911_census_volume_ii_part_viii_non_european_races,132,correct_match,89 | 90,,2026-09-22T05:43:47+00:00
+1911_census_volume_iii_part_x_families,58,correct_match,16,,2026-09-22T05:43:50+00:00
+1911_census_volume_iii_part_x_families,59,correct_match,16,,2026-09-22T05:43:59+00:00
+1911_census_volume_iii_part_x_families,60,correct_match,16 | 17,,2026-09-22T05:44:04+00:00
+1911_census_volume_iii_part_xiii_dwellings,17,correct_match,10 | 11,,2026-09-22T05:44:11+00:00
+1911_census_volume_iii_part_xiii_dwellings,18,correct_match,11,,2026-09-22T05:44:14+00:00
+1911_census_volume_iii_part_xiii_dwellings,19,correct_match,11,,2026-09-22T05:44:19+00:00
+1911_census_volume_iii_part_xiii_dwellings,20,correct_match,11,,2026-09-22T05:44:22+00:00
+1911_census_volume_iii_part_xiii_dwellings,21,correct_match,11,,2026-09-22T05:44:37+00:00
+1911_census_volume_iii_part_xiv_summary,178,correct_match,150,,2026-09-22T05:44:42+00:00
+1911_census_volume_iii_part_xiv_summary,179,correct_match,150,,2026-09-22T05:45:06+00:00
+1911_census_volume_iii_part_xiv_summary,180,correct_match,151 | 152 | 153,,2026-09-22T05:45:10+00:00
+1911_census_volume_iii_part_xiv_summary,181,correct_match,151 | 152 | 153,,2026-09-22T05:45:27+00:00

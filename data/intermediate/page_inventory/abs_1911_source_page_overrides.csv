@@ -1,0 +1,2 @@
+doc_id,pdf_page,decision,table_numbers,notes,updated_at,confirmed_page_title,confirmation_source
+1911_census_volume_iii_part_xiv_summary,168,correct_match,138,"Visible heading on physical page 168 (index 167; printed 2216) is Table 138, TOTAL POPULATION OF THE NORTHERN TERRITORY. Previous guided assignment 139 described the following page instead.",2026-09-22,138.-TOTAL POPULATION OF THE NORTHERN TERRITORY,"Assistant source inspection: data/raw/abs_1911_census/1911 Census - Volume III - Part XIV Summary.pdf; page 168 text and rendered heading; 2026-09-22"

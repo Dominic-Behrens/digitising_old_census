@@ -1,0 +1,3 @@
+doc_id,pdf_page,table_number,issue,details,requires_review
+1911_census_volume_iii_part_xiii_dwellings,186,69,printed_number_differs_from_contents,Page prints 69 as confirmed by the user. Same continuing NSW LGA sequence: contents lists Table 68; physical pages 183-185 and 187 print 68; Victoria starts physical page 188. Preserve printed 69 without treating this continuation as a separate analytical table.,False
+1911_census_volume_ii_part_i_ages,60 | 62,34,confirmed_non_contiguous_assignment,All gap pages and both boundaries have confirmed page assignments. Retain exact membership; do not fill the gap.,False

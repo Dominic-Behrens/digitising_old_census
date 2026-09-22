@@ -1,0 +1,14 @@
+{
+  "status": "pass",
+  "rows": 324,
+  "municipalities": 190,
+  "shires": 134,
+  "checks": 2981,
+  "failed_checks": 0,
+  "independent_published_rows": 8,
+  "confirmed_numerical_publication_inconsistencies": 0,
+  "printed_heading_discrepancies": 1,
+  "data": "data/intermediate/nsw_1911_lga_dwellings.csv",
+  "checks_file": "output/validate/validation_checks.csv",
+  "errors": []
+}

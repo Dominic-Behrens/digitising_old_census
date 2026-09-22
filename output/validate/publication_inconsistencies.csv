@@ -1,0 +1,2 @@
+kind,numeric,source_page_index,source_pdf_page,source_printed_page,observed,comparison,action
+printed_table_number_discrepancy,False,185,186,2034,69,68 in contents and adjacent NSW continuation headings,Retain the printed 69 and the same NSW analytical table; do not alter any numeric data.

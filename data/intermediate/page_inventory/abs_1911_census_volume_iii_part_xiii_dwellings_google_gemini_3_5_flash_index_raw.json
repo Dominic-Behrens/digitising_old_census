@@ -1,0 +1,735 @@
+{
+  "response": {
+    "id": "gen-1782273231-Ceiq3pcIu6HMMDB8Yo2b",
+    "object": "chat.completion",
+    "created": 1782273231,
+    "model": "google/gemini-3.5-flash-20260519",
+    "provider": "Google",
+    "system_fingerprint": null,
+    "service_tier": "provisioned",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "STOP",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"doc_title\": \"CENSUS OF THE COMMONWEALTH OF AUSTRALIA, 1911.--DWELLINGS.\",\n  \"contents_printed_pages\": [\n    \"1850\",\n    \"1851\",\n    \"1852\"\n  ],\n  \"tables\": [\n    {\n      \"table_number\": 1,\n      \"title\": \"Dwellings Occupied, Unoccupied and Being Built in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1853,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 2,\n      \"title\": \"Metropolitan and Extra-Metropolitan Area, Population, Density, etc., in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1853,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 3,\n      \"title\": \"Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Nature of Dwelling\",\n      \"start_printed_page\": 1854,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 4,\n      \"title\": \"Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms\",\n      \"start_printed_page\": 1854,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 5,\n      \"title\": \"Occupied Dwellings of 20 rooms and upwards in the several States and Territories of the Commonwealth of Australia at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1856,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 6,\n      \"title\": \"Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built\",\n      \"start_printed_page\": 1857,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 7,\n      \"title\": \"Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value\",\n      \"start_printed_page\": 1858,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 8,\n      \"title\": \"Inmates of Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1861,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 9,\n      \"title\": \"Inmates of Dwellings (classified according to Materials of which outer walls were built) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1862,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 10,\n      \"title\": \"Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Nature of Dwelling and Number of Rooms\",\n      \"start_printed_page\": 1864,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 11,\n      \"title\": \"Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Nature of Dwelling and Number of Rooms--\",\n      \"start_printed_page\": 1864,\n      \"subentries\": [\n        {\"label\": \"I.--New South Wales\", \"printed_page\": 1864},\n        {\"label\": \"II.--Victoria\", \"printed_page\": 1866},\n        {\"label\": \"III.--Queensland\", \"printed_page\": 1866},\n        {\"label\": \"IV.--South Australia\", \"printed_page\": 1866},\n        {\"label\": \"V.--Western Australia\", \"printed_page\": 1868},\n        {\"label\": \"VI.--Tasmania\", \"printed_page\": 1868},\n        {\"label\": \"VII.--Northern Territory\", \"printed_page\": 1868},\n        {\"label\": \"VIII.--Federal Territory\", \"printed_page\": 1868}\n      ],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 12,\n      \"title\": \"Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms\",\n      \"start_printed_page\": 1870,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 13,\n      \"title\": \"Occupied Dwellings in the State of New South Wales, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms\",\n      \"start_printed_page\": 1872,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 14,\n      \"title\": \"Occupied Dwellings in the State of Victoria, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms\",\n      \"start_printed_page\": 1874,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 15,\n      \"title\": \"Occupied Dwellings in the State of Queensland, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms\",\n      \"start_printed_page\": 1876,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 16,\n      \"title\": \"Occupied Dwellings in the State of South Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built, and Number of Rooms\",\n      \"start_printed_page\": 1878,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 17,\n      \"title\": \"Occupied Dwellings in the State of Western Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms\",\n      \"start_printed_page\": 1880,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 18,\n      \"title\": \"Occupied Dwellings in the State of Tasmania, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms\",\n      \"start_printed_page\": 1882,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 19,\n      \"title\": \"Occupied Dwellings in the Northern Territory, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms\",\n      \"start_printed_page\": 1882,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 20,\n      \"title\": \"Occupied Dwellings in the Federal Territory, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms\",\n      \"start_printed_page\": 1884,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 21,\n      \"title\": \"Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates\",\n      \"start_printed_page\": 1886,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 22,\n      \"title\": \"Occupied Dwellings in the State of New South Wales, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates\",\n      \"start_printed_page\": 1888,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 23,\n      \"title\": \"Occupied Dwellings in the State of Victoria, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates\",\n      \"start_printed_page\": 1890,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 24,\n      \"title\": \"Occupied Dwellings in the State of Queensland, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates\",\n      \"start_printed_page\": 1892,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 25,\n      \"title\": \"Occupied Dwellings in the State of South Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates\",\n      \"start_printed_page\": 1894,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 26,\n      \"title\": \"Occupied Dwellings in the State of Western Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates\",\n      \"start_printed_page\": 1896,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 27,\n      \"title\": \"Occupied Dwellings in the State of Tasmania, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates\",\n      \"start_printed_page\": 1898,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 28,\n      \"title\": \"Occupied Dwellings in the Northern Territory, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates\",\n      \"start_printed_page\": 1898,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 29,\n      \"title\": \"Occupied Dwellings in the Federal Territory, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates\",\n      \"start_printed_page\": 1900,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 30,\n      \"title\": \"Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates\",\n      \"start_printed_page\": 1902,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 31,\n      \"title\": \"Occupied Dwellings in the State of New South Wales, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates\",\n      \"start_printed_page\": 1904,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 32,\n      \"title\": \"Occupied Dwellings in the State of Victoria, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates\",\n      \"start_printed_page\": 1906,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 33,\n      \"title\": \"Occupied Dwellings in the State of Queensland, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates\",\n      \"start_printed_page\": 1908,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 34,\n      \"title\": \"Occupied Dwellings in the State of South Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates\",\n      \"start_printed_page\": 1910,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 35,\n      \"title\": \"Occupied Dwellings in the State of Western Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates\",\n      \"start_printed_page\": 1912,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 36,\n      \"title\": \"Occupied Dwellings in the State of Tasmania, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates\",\n      \"start_printed_page\": 1914,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 37,\n      \"title\": \"Occupied Dwellings in the Northern Territory, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates\",\n      \"start_printed_page\": 1916,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 38,\n      \"title\": \"Occupied Dwellings in the Federal Territory, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates\",\n      \"start_printed_page\": 1918,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 39,\n      \"title\": \"Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms\",\n      \"start_printed_page\": 1920,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 40,\n      \"title\": \"Occupied Dwellings in the State of New South Wales, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms\",\n      \"start_printed_page\": 1924,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 41,\n      \"title\": \"Occupied Dwellings in the State of Victoria, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms\",\n      \"start_printed_page\": 1928,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 42,\n      \"title\": \"Occupied Dwellings in the State of Queensland, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms\",\n      \"start_printed_page\": 1932,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 43,\n      \"title\": \"Occupied Dwellings in the State of South Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms\",\n      \"start_printed_page\": 1936,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 44,\n      \"title\": \"Occupied Dwellings in the State of Western Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms\",\n      \"start_printed_page\": 1940,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 45,\n      \"title\": \"Occupied Dwellings in the State of Tasmania, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms\",\n      \"start_printed_page\": 1944,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 46,\n      \"title\": \"Occupied Dwellings in the Northern Territory, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms\",\n      \"start_printed_page\": 1948,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 47,\n      \"title\": \"Occupied Dwellings in the Federal Territory, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms\",\n      \"start_printed_page\": 1948,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 48,\n      \"title\": \"Occupied Private Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value, Number of Rooms and Method of Occupancy\",\n      \"start_printed_page\": 1950,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 49,\n      \"title\": \"Occupied Private Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Method of Occupancy\",\n      \"start_printed_page\": 1958,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 50,\n      \"title\": \"Dwellings, Occupied, Unoccupied and Being Built in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1962,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 51,\n      \"title\": \"Occupied Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Nature of Dwelling\",\n      \"start_printed_page\": 1962,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 52,\n      \"title\": \"Occupied Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms\",\n      \"start_printed_page\": 1963,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 53,\n      \"title\": \"Occupied Dwellings of 20 rooms and upwards, in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1964,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 54,\n      \"title\": \"Occupied Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built\",\n      \"start_printed_page\": 1965,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 55,\n      \"title\": \"Occupied Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value\",\n      \"start_printed_page\": 1966,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 56,\n      \"title\": \"Occupied Private Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Method of Occupancy\",\n      \"start_printed_page\": 1969,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 57,\n      \"title\": \"Inmates of Dwellings (classified according to Number of Rooms) in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1972,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 58,\n      \"title\": \"Inmates of Dwellings (classified according to Materials of which outer walls were built) in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1973,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 59,\n      \"title\": \"Average Number of Inmates per Occupied Private Dwelling (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1974,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 60,\n      \"title\": \"Average Number of Inmates per Room in Occupied Private Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1974,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 61,\n      \"title\": \"Average Weekly Rental Value of Occupied Private Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1974,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 62,\n      \"title\": \"Average Weekly Rental Value per Room in Occupied Private Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1976,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 63,\n      \"title\": \"Average Weekly Rental Value per Inmate in Occupied Private Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911\",\n      \"start_printed_page\": 1976,\n      \"subentries\": [],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 64,\n      \"title\": \"Occupied Dwellings in each County, etc., of the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms--\",\n      \"start_printed_page\": 1978,\n      \"subentries\": [\n        {\"label\": \"I.--New South Wales\", \"printed_page\": 1978},\n        {\"label\": \"II.--Victoria\", \"printed_page\": 1984},\n        {\"label\": \"III.--Queensland\", \"printed_page\": 1986},\n        {\"label\": \"IV.--South Australia\", \"printed_page\": 1989},\n        {\"label\": \"V.--Western Australia\", \"printed_page\": 1992},\n        {\"label\": \"VI.--Tasmania\", \"printed_page\": 1994},\n        {\"label\": \"VII.--Northern Territory\", \"printed_page\": 1994},\n        {\"label\": \"VIII.--Federal Territory\", \"printed_page\": 1994}\n      ],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 65,\n      \"title\": \"Occupied Dwellings in each County, etc., of the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built--\",\n      \"start_printed_page\": 1997,\n      \"subentries\": [\n        {\"label\": \"I.--New South Wales\", \"printed_page\": 1997},\n        {\"label\": \"II.--Victoria\", \"printed_page\": 2003},\n        {\"label\": \"III.--Queensland\", \"printed_page\": 2005},\n        {\"label\": \"IV.--South Australia\", \"printed_page\": 2008},\n        {\"label\": \"V.--Western Australia\", \"printed_page\": 2011},\n        {\"label\": \"VI.--Tasmania\", \"printed_page\": 2013},\n        {\"label\": \"VII.--Northern Territory\", \"printed_page\": 2013},\n        {\"label\": \"VIII.--Federal Territory\", \"printed_page\": 2013}\n      ],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 66,\n      \"title\": \"Average Weekly Rental Value of Private Dwellings in each County, etc., of the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms--\",\n      \"start_printed_page\": 2016,\n      \"subentries\": [\n        {\"label\": \"I.--New South Wales\", \"printed_page\": 2016},\n        {\"label\": \"II.--Victoria\", \"printed_page\": 2020},\n        {\"label\": \"III.--Queensland\", \"printed_page\": 2020},\n        {\"label\": \"IV.--South Australia\", \"printed_page\": 2022},\n        {\"label\": \"V.--Western Australia\", \"printed_page\": 2024},\n        {\"label\": \"VI.--Tasmania\", \"printed_page\": 2024},\n        {\"label\": \"VII.--Northern Territory\", \"printed_page\": 2026},\n        {\"label\": \"VIII.--Federal Territory\", \"printed_page\": 2026}\n      ],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 67,\n      \"title\": \"Area, Population, Density, Occupied Dwellings and Rental Values in each County, etc., of the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911--\",\n      \"start_printed_page\": 2026,\n      \"subentries\": [\n        {\"label\": \"I.--New South Wales\", \"printed_page\": 2026},\n        {\"label\": \"II.--Victoria\", \"printed_page\": 2028},\n        {\"label\": \"III.--Queensland\", \"printed_page\": 2028},\n        {\"label\": \"IV.--South Australia\", \"printed_page\": 2029},\n        {\"label\": \"V.--Western Australia\", \"printed_page\": 2029},\n        {\"label\": \"VI.--Tasmania\", \"printed_page\": 2030},\n        {\"label\": \"VII.--Northern Territory\", \"printed_page\": 2030},\n        {\"label\": \"VIII.--Federal Territory\", \"printed_page\": 2030}\n      ],\n      \"warnings\": []\n    },\n    {\n      \"table_number\": 68,\n      \"title\": \"Area, Population, Density, Occupied Dwellings, etc., in each Local Government Area of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911--\",\n      \"start_printed_page\": 2031,\n      \"subentries\": [\n        {\"label\": \"I.--New South Wales\", \"printed_page\": 2031},\n        {\"label\": \"II.--Victoria\", \"printed_page\": 2036},\n        {\"label\": \"III.--Queensland\", \"printed_page\": 2039},\n        {\"label\": \"IV.--South Australia\", \"printed_page\": 2042},\n        {\"label\": \"V.--Western Australia\", \"printed_page\": 2045}\n      ],\n      \"warnings\": []\n    }\n  ],\n  \"warnings\": []\n}",
+          "refusal": null,
+          "reasoning": "**Analyzing Census Data**\n\nI'm currently processing the first image, identifying the title and the initial page numbers listed in the table of contents. This is a crucial first step in extracting the relevant information for your JSON output.\n\n**Extracting Table Titles**\n\nMy focus has shifted to systematically extracting and cataloging the titles and corresponding page numbers for each table identified within the census document. I am prioritizing the accurate capture of the complete table names as presented.\n\n**Cataloging Table Details**\n\nI'm now meticulously logging each table's name and its corresponding page number. My current progress includes identifying and recording details for tables 6 through 11, ensuring the precise transcription of their titles and page references.\n\n**Recording Table Subdivisions**\n\nI am now detailing the subentries for Table 11, noting each state and territory alongside its respective page number. My ongoing work involves accurately capturing these granular details to ensure complete data representation.\n\n**Logging Dwelling Classifications**\n\nI'm now meticulously recording the details for Tables 15 through 20, focusing on the occupied dwelling classifications by material and room count for various states and territories. My work ensures accurate capture of these specific census figures.\n\n**Logging Dwelling Inmates**\n\nI'm now focusing on Table 21, and then moving through Tables 22-25, meticulously recording occupied dwelling classifications based on materials and inmate counts for the Commonwealth and its states.\n\n**Recording Dwelling Classifications**\n\nI'm now meticulously logging details for Tables 26 through 31, focusing on occupied dwelling classifications across Western Australia, Tasmania, the Northern Territory, and the Federal Territory by wall materials and inmate count. I'm also starting on Commonwealth-level room and inmate data.\n\n**Logging Room and Inmate Data**\n\nI am now meticulously recording the data for Tables 32 through 37, which detail occupied dwelling classifications by number of rooms and inmates for Victoria, Queensland, South Australia, Western Australia, Tasmania, and the Northern Territory.\n\n**Logging Rental Value Classifications**\n\nI'm now focused on Tables 38 through 43, meticulously extracting occupied dwelling classifications by rental value and room count across the Federal Territory and various states, ensuring accurate page number assignments.\n\n**Logging Rental Value and Room Data**\n\nI'm diligently cataloging Tables 44 through 48, focusing on occupied dwelling classifications by rental value and room count across Western Australia, Tasmania, the Northern Territory, and the Federal Territory. I'm also commencing the extraction for Table 49, which details private dwellings in the Commonwealth.\n\n**Cataloging Metropolitan Dwelling Data**\n\nI am now meticulously logging details for Tables 49 through 54, focusing on occupied and unoccupied dwellings, nature of dwelling, number of rooms, and specific classifications for dwellings of 20 rooms or more within the Metropolitan Areas.\n\n**Logging Metropolitan Dwelling Types**\n\nI'm now meticulously logging the data for Tables 55 through 59. This involves classifying occupied and private dwellings by rental value, occupancy, and inmate numbers, specifically within the Metropolitan Areas of the Commonwealth.\n\n**Logging Average Inmate Data**\n\nI am now meticulously extracting data for Table 60, which details the average number of inmates per room in occupied private dwellings across the Commonwealth's states and territories. My focus is on capturing this specific metric accurately.\n\n**Analyzing County Classifications**\n\nI'm now diligently processing Tables 64 through 65, focusing on occupied dwellings classified by the number of rooms and the materials of their outer walls, broken down by county across all states and territories.\n\n**Continuing County Data Extraction**\n\nI'm now meticulously logging the details for Tables 66 through 68, focusing on occupied dwellings classified by the number of rooms and county-level area, population, and density metrics across all states and territories. My progress is steadily advancing through these granular breakdowns.\n\n**Verifying Table Subdivisions**\n\nI'm now double-checking the subentries for Table 68, ensuring precise page number correlations for each state and territory. This meticulous verification step is crucial for the accuracy of the final JSON output.\n\n**Verifying County Classifications**\n\nI am now meticulously cross-referencing the subentries for Table 65, ensuring accurate page number associations for each state and territory. This detailed verification ensures the integrity of the county-level data extraction.\n\n",
+          "reasoning_details": [
+            {
+              "type": "reasoning.text",
+              "text": "**Analyzing Census Data**\n\nI'm currently processing the first image, identifying the title and the initial page numbers listed in the table of contents. This is a crucial first step in extracting the relevant information for your JSON output.\n\n**Extracting Table Titles**\n\nMy focus has shifted to systematically extracting and cataloging the titles and corresponding page numbers for each table identified within the census document. I am prioritizing the accurate capture of the complete table names as presented.\n\n**Cataloging Table Details**\n\nI'm now meticulously logging each table's name and its corresponding page number. My current progress includes identifying and recording details for tables 6 through 11, ensuring the precise transcription of their titles and page references.\n\n**Recording Table Subdivisions**\n\nI am now detailing the subentries for Table 11, noting each state and territory alongside its respective page number. My ongoing work involves accurately capturing these granular details to ensure complete data representation.\n\n**Logging Dwelling Classifications**\n\nI'm now meticulously recording the details for Tables 15 through 20, focusing on the occupied dwelling classifications by material and room count for various states and territories. My work ensures accurate capture of these specific census figures.\n\n**Logging Dwelling Inmates**\n\nI'm now focusing on Table 21, and then moving through Tables 22-25, meticulously recording occupied dwelling classifications based on materials and inmate counts for the Commonwealth and its states.\n\n**Recording Dwelling Classifications**\n\nI'm now meticulously logging details for Tables 26 through 31, focusing on occupied dwelling classifications across Western Australia, Tasmania, the Northern Territory, and the Federal Territory by wall materials and inmate count. I'm also starting on Commonwealth-level room and inmate data.\n\n**Logging Room and Inmate Data**\n\nI am now meticulously recording the data for Tables 32 through 37, which detail occupied dwelling classifications by number of rooms and inmates for Victoria, Queensland, South Australia, Western Australia, Tasmania, and the Northern Territory.\n\n**Logging Rental Value Classifications**\n\nI'm now focused on Tables 38 through 43, meticulously extracting occupied dwelling classifications by rental value and room count across the Federal Territory and various states, ensuring accurate page number assignments.\n\n**Logging Rental Value and Room Data**\n\nI'm diligently cataloging Tables 44 through 48, focusing on occupied dwelling classifications by rental value and room count across Western Australia, Tasmania, the Northern Territory, and the Federal Territory. I'm also commencing the extraction for Table 49, which details private dwellings in the Commonwealth.\n\n**Cataloging Metropolitan Dwelling Data**\n\nI am now meticulously logging details for Tables 49 through 54, focusing on occupied and unoccupied dwellings, nature of dwelling, number of rooms, and specific classifications for dwellings of 20 rooms or more within the Metropolitan Areas.\n\n**Logging Metropolitan Dwelling Types**\n\nI'm now meticulously logging the data for Tables 55 through 59. This involves classifying occupied and private dwellings by rental value, occupancy, and inmate numbers, specifically within the Metropolitan Areas of the Commonwealth.\n\n**Logging Average Inmate Data**\n\nI am now meticulously extracting data for Table 60, which details the average number of inmates per room in occupied private dwellings across the Commonwealth's states and territories. My focus is on capturing this specific metric accurately.\n\n**Analyzing County Classifications**\n\nI'm now diligently processing Tables 64 through 65, focusing on occupied dwellings classified by the number of rooms and the materials of their outer walls, broken down by county across all states and territories.\n\n**Continuing County Data Extraction**\n\nI'm now meticulously logging the details for Tables 66 through 68, focusing on occupied dwellings classified by the number of rooms and county-level area, population, and density metrics across all states and territories. My progress is steadily advancing through these granular breakdowns.\n\n**Verifying Table Subdivisions**\n\nI'm now double-checking the subentries for Table 68, ensuring precise page number correlations for each state and territory. This meticulous verification step is crucial for the accuracy of the final JSON output.\n\n**Verifying County Classifications**\n\nI am now meticulously cross-referencing the subentries for Table 65, ensuring accurate page number associations for each state and territory. This detailed verification ensures the integrity of the county-level data extraction.\n\n",
+              "format": "google-gemini-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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",
+              "format": "google-gemini-v1",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3512,
+      "completion_tokens": 13313,
+      "total_tokens": 16825,
+      "cost": 0.125085,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.125085,
+        "upstream_inference_prompt_cost": 0.005268,
+        "upstream_inference_completions_cost": 0.119817
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 5934,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "doc_title": "CENSUS OF THE COMMONWEALTH OF AUSTRALIA, 1911.--DWELLINGS.",
+    "contents_printed_pages": [
+      "1850",
+      "1851",
+      "1852"
+    ],
+    "tables": [
+      {
+        "table_number": 1,
+        "title": "Dwellings Occupied, Unoccupied and Being Built in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1853,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 2,
+        "title": "Metropolitan and Extra-Metropolitan Area, Population, Density, etc., in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1853,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 3,
+        "title": "Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Nature of Dwelling",
+        "start_printed_page": 1854,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 4,
+        "title": "Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms",
+        "start_printed_page": 1854,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 5,
+        "title": "Occupied Dwellings of 20 rooms and upwards in the several States and Territories of the Commonwealth of Australia at the Census of 3rd April, 1911",
+        "start_printed_page": 1856,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 6,
+        "title": "Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built",
+        "start_printed_page": 1857,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 7,
+        "title": "Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value",
+        "start_printed_page": 1858,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 8,
+        "title": "Inmates of Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1861,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 9,
+        "title": "Inmates of Dwellings (classified according to Materials of which outer walls were built) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1862,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 10,
+        "title": "Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Nature of Dwelling and Number of Rooms",
+        "start_printed_page": 1864,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 11,
+        "title": "Occupied Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Nature of Dwelling and Number of Rooms--",
+        "start_printed_page": 1864,
+        "subentries": [
+          {
+            "label": "I.--New South Wales",
+            "printed_page": 1864
+          },
+          {
+            "label": "II.--Victoria",
+            "printed_page": 1866
+          },
+          {
+            "label": "III.--Queensland",
+            "printed_page": 1866
+          },
+          {
+            "label": "IV.--South Australia",
+            "printed_page": 1866
+          },
+          {
+            "label": "V.--Western Australia",
+            "printed_page": 1868
+          },
+          {
+            "label": "VI.--Tasmania",
+            "printed_page": 1868
+          },
+          {
+            "label": "VII.--Northern Territory",
+            "printed_page": 1868
+          },
+          {
+            "label": "VIII.--Federal Territory",
+            "printed_page": 1868
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "table_number": 12,
+        "title": "Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms",
+        "start_printed_page": 1870,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 13,
+        "title": "Occupied Dwellings in the State of New South Wales, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms",
+        "start_printed_page": 1872,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 14,
+        "title": "Occupied Dwellings in the State of Victoria, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms",
+        "start_printed_page": 1874,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 15,
+        "title": "Occupied Dwellings in the State of Queensland, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms",
+        "start_printed_page": 1876,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 16,
+        "title": "Occupied Dwellings in the State of South Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built, and Number of Rooms",
+        "start_printed_page": 1878,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 17,
+        "title": "Occupied Dwellings in the State of Western Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms",
+        "start_printed_page": 1880,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 18,
+        "title": "Occupied Dwellings in the State of Tasmania, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms",
+        "start_printed_page": 1882,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 19,
+        "title": "Occupied Dwellings in the Northern Territory, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms",
+        "start_printed_page": 1882,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 20,
+        "title": "Occupied Dwellings in the Federal Territory, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Rooms",
+        "start_printed_page": 1884,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 21,
+        "title": "Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates",
+        "start_printed_page": 1886,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 22,
+        "title": "Occupied Dwellings in the State of New South Wales, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates",
+        "start_printed_page": 1888,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 23,
+        "title": "Occupied Dwellings in the State of Victoria, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates",
+        "start_printed_page": 1890,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 24,
+        "title": "Occupied Dwellings in the State of Queensland, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates",
+        "start_printed_page": 1892,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 25,
+        "title": "Occupied Dwellings in the State of South Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates",
+        "start_printed_page": 1894,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 26,
+        "title": "Occupied Dwellings in the State of Western Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates",
+        "start_printed_page": 1896,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 27,
+        "title": "Occupied Dwellings in the State of Tasmania, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates",
+        "start_printed_page": 1898,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 28,
+        "title": "Occupied Dwellings in the Northern Territory, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates",
+        "start_printed_page": 1898,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 29,
+        "title": "Occupied Dwellings in the Federal Territory, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built and Number of Inmates",
+        "start_printed_page": 1900,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 30,
+        "title": "Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates",
+        "start_printed_page": 1902,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 31,
+        "title": "Occupied Dwellings in the State of New South Wales, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates",
+        "start_printed_page": 1904,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 32,
+        "title": "Occupied Dwellings in the State of Victoria, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates",
+        "start_printed_page": 1906,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 33,
+        "title": "Occupied Dwellings in the State of Queensland, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates",
+        "start_printed_page": 1908,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 34,
+        "title": "Occupied Dwellings in the State of South Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates",
+        "start_printed_page": 1910,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 35,
+        "title": "Occupied Dwellings in the State of Western Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates",
+        "start_printed_page": 1912,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 36,
+        "title": "Occupied Dwellings in the State of Tasmania, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates",
+        "start_printed_page": 1914,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 37,
+        "title": "Occupied Dwellings in the Northern Territory, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates",
+        "start_printed_page": 1916,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 38,
+        "title": "Occupied Dwellings in the Federal Territory, at the Census of 3rd April, 1911, classified according to Number of Rooms and Number of Inmates",
+        "start_printed_page": 1918,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 39,
+        "title": "Occupied Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms",
+        "start_printed_page": 1920,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 40,
+        "title": "Occupied Dwellings in the State of New South Wales, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms",
+        "start_printed_page": 1924,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 41,
+        "title": "Occupied Dwellings in the State of Victoria, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms",
+        "start_printed_page": 1928,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 42,
+        "title": "Occupied Dwellings in the State of Queensland, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms",
+        "start_printed_page": 1932,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 43,
+        "title": "Occupied Dwellings in the State of South Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms",
+        "start_printed_page": 1936,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 44,
+        "title": "Occupied Dwellings in the State of Western Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms",
+        "start_printed_page": 1940,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 45,
+        "title": "Occupied Dwellings in the State of Tasmania, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms",
+        "start_printed_page": 1944,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 46,
+        "title": "Occupied Dwellings in the Northern Territory, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms",
+        "start_printed_page": 1948,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 47,
+        "title": "Occupied Dwellings in the Federal Territory, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Number of Rooms",
+        "start_printed_page": 1948,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 48,
+        "title": "Occupied Private Dwellings in the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value, Number of Rooms and Method of Occupancy",
+        "start_printed_page": 1950,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 49,
+        "title": "Occupied Private Dwellings in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Method of Occupancy",
+        "start_printed_page": 1958,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 50,
+        "title": "Dwellings, Occupied, Unoccupied and Being Built in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1962,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 51,
+        "title": "Occupied Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Nature of Dwelling",
+        "start_printed_page": 1962,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 52,
+        "title": "Occupied Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms",
+        "start_printed_page": 1963,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 53,
+        "title": "Occupied Dwellings of 20 rooms and upwards, in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1964,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 54,
+        "title": "Occupied Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built",
+        "start_printed_page": 1965,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 55,
+        "title": "Occupied Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value",
+        "start_printed_page": 1966,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 56,
+        "title": "Occupied Private Dwellings in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Weekly Rental Value and Method of Occupancy",
+        "start_printed_page": 1969,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 57,
+        "title": "Inmates of Dwellings (classified according to Number of Rooms) in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1972,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 58,
+        "title": "Inmates of Dwellings (classified according to Materials of which outer walls were built) in the Metropolitan Areas of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1973,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 59,
+        "title": "Average Number of Inmates per Occupied Private Dwelling (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1974,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 60,
+        "title": "Average Number of Inmates per Room in Occupied Private Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1974,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 61,
+        "title": "Average Weekly Rental Value of Occupied Private Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1974,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 62,
+        "title": "Average Weekly Rental Value per Room in Occupied Private Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1976,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 63,
+        "title": "Average Weekly Rental Value per Inmate in Occupied Private Dwellings (classified according to Number of Rooms) in the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+        "start_printed_page": 1976,
+        "subentries": [],
+        "warnings": []
+      },
+      {
+        "table_number": 64,
+        "title": "Occupied Dwellings in each County, etc., of the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms--",
+        "start_printed_page": 1978,
+        "subentries": [
+          {
+            "label": "I.--New South Wales",
+            "printed_page": 1978
+          },
+          {
+            "label": "II.--Victoria",
+            "printed_page": 1984
+          },
+          {
+            "label": "III.--Queensland",
+            "printed_page": 1986
+          },
+          {
+            "label": "IV.--South Australia",
+            "printed_page": 1989
+          },
+          {
+            "label": "V.--Western Australia",
+            "printed_page": 1992
+          },
+          {
+            "label": "VI.--Tasmania",
+            "printed_page": 1994
+          },
+          {
+            "label": "VII.--Northern Territory",
+            "printed_page": 1994
+          },
+          {
+            "label": "VIII.--Federal Territory",
+            "printed_page": 1994
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "table_number": 65,
+        "title": "Occupied Dwellings in each County, etc., of the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Materials of which outer walls were built--",
+        "start_printed_page": 1997,
+        "subentries": [
+          {
+            "label": "I.--New South Wales",
+            "printed_page": 1997
+          },
+          {
+            "label": "II.--Victoria",
+            "printed_page": 2003
+          },
+          {
+            "label": "III.--Queensland",
+            "printed_page": 2005
+          },
+          {
+            "label": "IV.--South Australia",
+            "printed_page": 2008
+          },
+          {
+            "label": "V.--Western Australia",
+            "printed_page": 2011
+          },
+          {
+            "label": "VI.--Tasmania",
+            "printed_page": 2013
+          },
+          {
+            "label": "VII.--Northern Territory",
+            "printed_page": 2013
+          },
+          {
+            "label": "VIII.--Federal Territory",
+            "printed_page": 2013
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "table_number": 66,
+        "title": "Average Weekly Rental Value of Private Dwellings in each County, etc., of the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911, classified according to Number of Rooms--",
+        "start_printed_page": 2016,
+        "subentries": [
+          {
+            "label": "I.--New South Wales",
+            "printed_page": 2016
+          },
+          {
+            "label": "II.--Victoria",
+            "printed_page": 2020
+          },
+          {
+            "label": "III.--Queensland",
+            "printed_page": 2020
+          },
+          {
+            "label": "IV.--South Australia",
+            "printed_page": 2022
+          },
+          {
+            "label": "V.--Western Australia",
+            "printed_page": 2024
+          },
+          {
+            "label": "VI.--Tasmania",
+            "printed_page": 2024
+          },
+          {
+            "label": "VII.--Northern Territory",
+            "printed_page": 2026
+          },
+          {
+            "label": "VIII.--Federal Territory",
+            "printed_page": 2026
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "table_number": 67,
+        "title": "Area, Population, Density, Occupied Dwellings and Rental Values in each County, etc., of the several States and Territories of the Commonwealth of Australia, at the Census of 3rd April, 1911--",
+        "start_printed_page": 2026,
+        "subentries": [
+          {
+            "label": "I.--New South Wales",
+            "printed_page": 2026
+          },
+          {
+            "label": "II.--Victoria",
+            "printed_page": 2028
+          },
+          {
+            "label": "III.--Queensland",
+            "printed_page": 2028
+          },
+          {
+            "label": "IV.--South Australia",
+            "printed_page": 2029
+          },
+          {
+            "label": "V.--Western Australia",
+            "printed_page": 2029
+          },
+          {
+            "label": "VI.--Tasmania",
+            "printed_page": 2030
+          },
+          {
+            "label": "VII.--Northern Territory",
+            "printed_page": 2030
+          },
+          {
+            "label": "VIII.--Federal Territory",
+            "printed_page": 2030
+          }
+        ],
+        "warnings": []
+      },
+      {
+        "table_number": 68,
+        "title": "Area, Population, Density, Occupied Dwellings, etc., in each Local Government Area of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911--",
+        "start_printed_page": 2031,
+        "subentries": [
+          {
+            "label": "I.--New South Wales",
+            "printed_page": 2031
+          },
+          {
+            "label": "II.--Victoria",
+            "printed_page": 2036
+          },
+          {
+            "label": "III.--Queensland",
+            "printed_page": 2039
+          },
+          {
+            "label": "IV.--South Australia",
+            "printed_page": 2042
+          },
+          {
+            "label": "V.--Western Australia",
+            "printed_page": 2045
+          }
+        ],
+        "warnings": []
+      }
+    ],
+    "warnings": []
+  }
+}
