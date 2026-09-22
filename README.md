@@ -1,6 +1,6 @@
-# Digitising 1911 Australian census tables
+# Digitising Historic Australian census tables
 
-This repository maps tables in the Australian 1911 census volumes and extracts the New South Wales local-government-area population and occupied-dwelling table. Source PDFs are kept unchanged. The reviewed mapping covers 876 indexed tables across 2,292 source pages; the NSW extraction contains 324 local government areas.
+This repo is a work in progress to digitise old census data out of PDFs. Big work in progress. Don't trust anything here yet. 
 
 ## What is here
 
