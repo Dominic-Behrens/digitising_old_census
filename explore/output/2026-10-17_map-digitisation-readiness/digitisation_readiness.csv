@@ -1,17 +1,55 @@
 scope,census_year,state_code,source_id,page,native_width,native_height,short_edge,contrast,rating,rating_basis,digitisation_target,better_candidate
+nsw,1911,nsw,abs1911_statisticians_report_nsw_sydney_lga_maps,444,494,428,428,31.3,D,"Statewide plate shows counties, not local government areas",not-LGA,No 1911 NSW statewide shire plate was published in this volume.
+nsw,1911,nsw,abs1911_statisticians_report_nsw_sydney_lga_maps,457,568,941,568,35.4,B,Sydney municipal boundaries with a numbered key; small 568x941 px scan,metropolitan,No 1911 NSW statewide LGA plate was published (PDF 444 is counties only). Nearest statewide shire plates are the NSW Year Books (1927-28 onward); the ANU 1917 Sydney sheet gives finer metro line work.
 nsw,1911,nsw,abs_1911_statisticians_report_nsw_sydney_lga_maps,457,568,941,568,35.4,B,Sydney municipal boundaries with a numbered key; small 568x941 px scan,metropolitan,No 1911 NSW statewide LGA plate was published (PDF 444 is counties only). Nearest statewide shire plates are the NSW Year Books (1927-28 onward); the ANU 1917 Sydney sheet gives finer metro line work.
+nsw,1921,nsw,abs1921_statisticians_report_nsw_sydney_lga_maps,394,3680,3104,3104,38.7,A,"Statewide NSW density and LGA plate, numbered councils",statewide,
+nsw,1921,nsw,abs1921_statisticians_report_nsw_sydney_lga_maps,395,3632,2848,2848,31.6,A,"Sydney municipal boundaries, numbered key, 2135x3177 px; statewide LGA index plate PDF 394/395",statewide + metropolitan,
+nsw,1921,nsw,abs1921_statisticians_report_nsw_sydney_lga_maps,407,2135,3177,2135,59.9,A,"Sydney municipal boundaries, numbered key, 2135x3177 px; statewide LGA index plate PDF 394/395",statewide + metropolitan,
 nsw,1921,nsw,abs_1921_statisticians_report_nsw_sydney_lga_maps,407,2135,3177,2135,59.9,A,"Sydney municipal boundaries, numbered key, 2135x3177 px; statewide LGA index plate PDF 394/395",statewide + metropolitan,
+nsw,1933,nsw,abs1933_statisticians_report_nsw_sydney_lga_maps,468,2080,1696,1696,34.2,B,Sydney municipal boundaries with explicit boundary key; 1448x1696 px; statewide plate PDF 468,statewide + metropolitan,Larger scans of the same plates are not held; ANU holdings for 1933 NSW are absent.
+nsw,1933,nsw,abs1933_statisticians_report_nsw_sydney_lga_maps,476,1448,1696,1448,48.8,B,Sydney municipal boundaries with explicit boundary key; 1448x1696 px; statewide plate PDF 468,statewide + metropolitan,Larger scans of the same plates are not held; ANU holdings for 1933 NSW are absent.
 nsw,1933,nsw,abs_1933_statisticians_report_nsw_sydney_lga_maps,476,1448,1696,1448,48.8,B,Sydney municipal boundaries with explicit boundary key; 1448x1696 px; statewide plate PDF 468,statewide + metropolitan,Larger scans of the same plates are not held; ANU holdings for 1933 NSW are absent.
+nsw,1947,nsw,abs1947_statisticians_report_nsw_sydney_lga_maps,392,2080,1696,1696,36.7,A,Sydney municipal boundaries with boundary key; 2976 px; statewide shire plate PDF 392,statewide + metropolitan,
+nsw,1947,nsw,abs1947_statisticians_report_nsw_sydney_lga_maps,399,2976,3200,2976,43.6,A,Sydney municipal boundaries with boundary key; 2976 px; statewide shire plate PDF 392,statewide + metropolitan,
 nsw,1947,nsw,abs_1947_statisticians_report_nsw_sydney_lga_maps,399,2976,3200,2976,43.6,A,Sydney municipal boundaries with boundary key; 2976 px; statewide shire plate PDF 392,statewide + metropolitan,
+nsw,1954,nsw,abs_1954_nsw_population_lga_maps,194,1119,939,939,30.4,C,State volume plate 946x1107 px; municipal lines dense in the metro,statewide + metropolitan,"SLNSW 1954 whole-map JPG (8405x9891 px, already in raw) is the better statewide candidate; the 1954 Statistician Report plate PDF 429 (2112 px) adds a statewide alternative."
 nsw,1954,nsw,abs_1954_nsw_population_lga_maps,196,946,1107,946,22.1,C,State volume plate 946x1107 px; municipal lines dense in the metro,statewide + metropolitan,"SLNSW 1954 whole-map JPG (8405x9891 px, already in raw) is the better statewide candidate; the 1954 Statistician Report plate PDF 429 (2112 px) adds a statewide alternative."
 nsw,1954,nsw,slnsw.74VKdrqKvk7A.Z3JJAMwbNBre7,image,8405,9891,8405,21.8,A,"SLNSW whole-of-state colour map, 8405x9891 px - the sharpest 1954 NSW source held",statewide + metropolitan,
+nsw,1961,nsw,abs_1961_nsw_population_lga_maps,129,1089,963,963,37.5,C,State volume Sydney plate 941 px; coarse,metropolitan,ANU Sydney 1961 JPG (7884x8611 px) is the better metro candidate; the 1961 Statistician Report plate PDF 501 (2144 px) covers statewide.
+nsw,1961,nsw,abs_1961_nsw_population_lga_maps,130,1116,826,826,23.3,C,"Printed LGA number index page, not a map",index,Use the number index to key the statewide plate PDF 129 and the Sydney plate PDF 131.
 nsw,1961,nsw,abs_1961_nsw_population_lga_maps,131,941,1072,941,32.3,C,State volume Sydney plate 941 px; coarse,metropolitan,ANU Sydney 1961 JPG (7884x8611 px) is the better metro candidate; the 1961 Statistician Report plate PDF 501 (2144 px) covers statewide.
 nsw,1961,nsw,anu_sydney_1961_metropolitan_statistical_area_lga_map,image,7884,8611,7884,28.0,A,"ANU Sydney metropolitan map, 7884x8611 px - sharpest 1961 Sydney source held",metropolitan,Statewide 1961 NSW coverage comes from the 1961 Statistician Report plate PDF 501.
 nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,509,845,1340,845,35.6,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,510,847,1013,847,29.6,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,511,1005,856,856,32.1,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,512,1029,845,845,26.1,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,513,855,1031,855,26.8,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,514,846,1030,846,24.8,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,515,842,1018,842,27.6,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,516,946,856,856,26.9,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,517,855,1038,855,26.8,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,518,852,1028,852,28.6,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,519,1024,853,853,26.0,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,abs_1966_nsw_population_dwellings_lga_maps,520,844,522,522,28.8,C,State volume regional series 845-1340 px; line work clear but coarse,regional,"ANU 1966 NSW Bulletin 1.8 scans (2024x3088 px, already in raw) are the better candidates."
+nsw,1966,nsw,anu_1966_nsw_bulletin1_8_with_lga_maps,40,2024,2568,2024,71.5,C,"ANU Bulletin 1.8 map reference page, not a map",index,
+nsw,1966,nsw,anu_1966_nsw_bulletin1_8_with_lga_maps,41,2024,3088,2024,71.6,B,"ANU Bulletin 1.8 Sydney scan, 2024x3088 px - the sharper 1966 NSW alternative",metropolitan,
+nsw,1966,nsw,anu_1966_nsw_bulletin1_8_with_lga_maps,48,2560,2024,2024,71.4,B,"ANU Bulletin 1.8 regional sheet (Colo and Central West), sharper than the ABS volume",regional,
+nsw,1971,nsw,abs_1971_bulletin13_colour_lga_maps,3,2687,1754,1754,37.8,C,Bulletin 13 NSW colour sheet (statistical divisions and LGA lines share fills),statewide,Field Count Statement No 3 maps (PDF 39-41) are the monochrome metropolitan alternative.
+nsw,1971,nsw,abs_1971_bulletin13_colour_lga_maps,17,1754,1736,1736,40.5,C,Bulletin 13 colour sheet 878 px; statistical-division and LGA lines share colour fills,statewide,"Field Count Statement No 3 maps (Sydney PDF 39, Newcastle 40, Wollongong 41, long edge about 5000 px) give a monochrome metro alternative."
 nsw,1971,nsw,abs_1971_bulletin13_colour_lga_maps,21,878,1377,878,41.3,C,Bulletin 13 colour sheet 878 px; statistical-division and LGA lines share colour fills,statewide,"Field Count Statement No 3 maps (Sydney PDF 39, Newcastle 40, Wollongong 41, long edge about 5000 px) give a monochrome metro alternative."
+nsw,1971,nsw,abs_1971_nsw_field_count_statement_lga,39,3508,4961,3508,31.6,A,"Sydney map from Field Count Statement No 3, long edge about 5000 px",metropolitan,
+nsw,1971,nsw,abs_1971_nsw_field_count_statement_lga,40,4981,3537,3537,36.7,A,Newcastle map from Field Count Statement No 3,metropolitan,
+nsw,1971,nsw,abs_1971_nsw_field_count_statement_lga,41,3508,4961,3508,30.3,A,Wollongong map from Field Count Statement No 3,metropolitan,
+nsw,1976,nsw,anu1976_nsw_preliminary_lga_boundary_maps,60,4184,3000,3000,63.4,B,Statewide preliminary boundary sheet,statewide,
 nsw,1976,nsw,anu1976_nsw_preliminary_lga_boundary_maps,61,2976,2176,2176,72.3,B,ANU preliminary boundary maps 2176x2368 px; LGA lines with names,statewide + metropolitan,
-nsw,1976,nsw,anu1976_nsw_preliminary_lga_boundary_maps,62,2992,2368,2368,71.4,B,ANU preliminary boundary maps 2176x2368 px; LGA lines with names,statewide + metropolitan,
+nsw,1976,nsw,anu1976_nsw_preliminary_lga_boundary_maps,62,2992,2368,2368,71.4,B,Statewide and metropolitan preliminary boundary sheet,statewide + metropolitan,
 nsw,1981,nsw,abs_1981_nsw_lga_maps,64,5056,3520,3520,42.1,A,Whole-of-state and Sydney sheets 3520 px with council labels,statewide + metropolitan,The official 1981 ABS GeoPackage already supplies digital geometry for NSW (no tracing needed).
+nsw,1981,nsw,abs_1981_nsw_lga_urban_centres_with_maps,62,5792,3520,3520,55.6,A,"Statewide sheet with council labels, 3520 px",statewide,
+nsw,1981,nsw,abs_1981_nsw_lga_urban_centres_with_maps,64,5056,3520,3520,42.1,A,Whole-of-state and Sydney sheets 3520 px with council labels,statewide + metropolitan,The official 1981 ABS GeoPackage already supplies digital geometry for NSW (no tracing needed).
+nsw,1981,nsw,abs_1981_nsw_lga_urban_centres_with_maps,66,5792,3520,3520,27.8,A,"Regional districts sheet with council lines, 3520 px",regional,
+nsw,1981,nsw,anu_1981_nsw_lga_urban_centres_with_maps,36,4520,2864,2864,40.4,A,Whole-of-state and Sydney sheets 3520 px with council labels,statewide + metropolitan,The official 1981 ABS GeoPackage already supplies digital geometry for NSW (no tracing needed).
+nsw,1981,nsw,anu_1981_nsw_lga_urban_centres_with_maps,37,3952,2856,2856,44.4,A,Whole-of-state and Sydney sheets 3520 px with council labels,statewide + metropolitan,The official 1981 ABS GeoPackage already supplies digital geometry for NSW (no tracing needed).
+nsw,1981,nsw,anu_1981_nsw_lga_urban_centres_with_maps,38,4504,2872,2872,38.5,A,Whole-of-state and Sydney sheets 3520 px with council labels,statewide + metropolitan,The official 1981 ABS GeoPackage already supplies digital geometry for NSW (no tracing needed).
 other_states,1911,nt,abs1911_statisticians_report_nsw_sydney_lga_maps,456,568,941,568,22.4,D,No local government polygons in 1911 (districts only),districts,"Not applicable: the published units are districts, not local government areas."
 other_states,1911,qld,abs1911_statisticians_report_nsw_sydney_lga_maps,448,568,941,568,39.7,C,Statewide census districts at 568x941 px; district lines clear but coarse,statewide,The digitised Year Book Queensland series starts at 1937 (ABS catalogue 1301.3); a 1911 Lands Department map is not held.
 other_states,1911,qld,abs1911_statisticians_report_nsw_sydney_lga_maps,461,568,939,568,31.7,C,Statewide census districts at 568x941 px; district lines clear but coarse,statewide,The digitised Year Book Queensland series starts at 1937 (ABS catalogue 1301.3); a 1911 Lands Department map is not held.
@@ -62,7 +100,6 @@ other_states,1947,wa,abs1947_statisticians_report_nsw_sydney_lga_maps,390,2496,1
 other_states,1947,wa,abs1947_statisticians_report_nsw_sydney_lga_maps,403,2560,3360,2560,36.4,A,Statewide plate 2496x1680 px; road districts numbered,statewide,
 other_states,1954,act,abs_1954_act_population_lga_with_maps,112,1141,956,956,45.2,B,Territory divisions plate 1141x956 px with Canberra detail,districts,The 1954 Statistician Report plate PDF 441 covers the Federal Capital Territory.
 other_states,1954,act,abs_1954_statisticians_report,441,2112,1728,1728,42.2,B,Statistician Report Federal Capital Territory plate,districts,
-other_states,1954,act,abs_1954_statisticians_report,441,2112,1728,1728,42.2,B,Statistician Report Federal Capital Territory plate,districts,
 other_states,1954,adelaide,abs_1954_statisticians_report,445,2144,1632,1632,25.1,B,Statistician Report Adelaide metropolitan plate,metropolitan,
 other_states,1954,brisbane,abs_1954_statisticians_report,444,1600,1888,1600,28.5,B,Statistician Report Brisbane metropolitan plate,metropolitan,
 other_states,1954,hobart,abs_1954_statisticians_report,447,2144,1664,1664,32.4,B,Statistician Report Hobart metropolitan plate,metropolitan,
@@ -70,66 +107,52 @@ other_states,1954,melbourne,abs_1954_statisticians_report,443,1984,1760,1760,31.
 other_states,1954,nsw,abs_1954_statisticians_report,429,2112,1760,1760,44.8,B,"Statistician Report statewide plate, 2112x1760 px",statewide,
 other_states,1954,nt,abs_1954_nt_population_lga_with_maps,117,960,1139,960,42.8,B,Territory districts plate 960x1139 px,districts,The 1954 Statistician Report plate PDF 440 is a statewide alternative.
 other_states,1954,nt,abs_1954_statisticians_report,440,1408,2240,1408,46.5,B,Statistician Report Northern Territory plate,districts,
-other_states,1954,nt,abs_1954_statisticians_report,440,1408,2240,1408,46.5,B,Statistician Report Northern Territory plate,districts,
 other_states,1954,perth,abs_1954_statisticians_report,446,2176,1792,1792,31.1,B,Statistician Report Perth metropolitan plate,metropolitan,
 other_states,1954,qld,abs_1954_qld_population_lga_with_maps,171,480,579,480,29.3,C,State volume colour plate 480x579 px,statewide,Statistician Report plate PDF 433 (1760x2176 px) is the better candidate.
 other_states,1954,qld,abs_1954_qld_population_lga_with_maps,172,563,480,480,18.4,B,"Statistician Report statewide plate, 1760x2176 px",statewide,
 other_states,1954,qld,abs_1954_qld_population_lga_with_maps,173,474,570,474,25.0,B,"Statistician Report statewide plate, 1760x2176 px",statewide,
-other_states,1954,qld,abs_1954_statisticians_report,433,1760,2176,1760,38.1,B,"Statistician Report statewide plate, 1760x2176 px",statewide,
 other_states,1954,qld,abs_1954_statisticians_report,433,1760,2176,1760,38.1,B,"Statistician Report statewide plate, 1760x2176 px",statewide,
 other_states,1954,sa,abs_1954_sa_population_lga_with_maps,96,2430,3834,2430,23.5,B,"Statistician Report statewide plate, 2080x1856 px",statewide,
 other_states,1954,sa,abs_1954_sa_population_lga_with_maps,98,1132,959,959,30.2,C,State volume colour plate 1132x959 px,statewide,Statistician Report plate PDF 435 (2080x1856 px) is the better candidate.
 other_states,1954,sa,abs_1954_sa_population_lga_with_maps,99,1130,954,954,30.3,B,"Statistician Report statewide plate, 2080x1856 px",statewide,
 other_states,1954,sa,abs_1954_sa_population_lga_with_maps,100,1133,951,951,24.4,B,"Statistician Report statewide plate, 2080x1856 px",statewide,
 other_states,1954,sa,abs_1954_statisticians_report,435,2080,1856,1856,43.5,B,"Statistician Report statewide plate, 2080x1856 px",statewide,
-other_states,1954,sa,abs_1954_statisticians_report,435,2080,1856,1856,43.5,B,"Statistician Report statewide plate, 2080x1856 px",statewide,
 other_states,1954,sydney,abs_1954_statisticians_report,442,1600,2080,1600,24.1,B,Statistician Report Sydney metropolitan plate,metropolitan,
-other_states,1954,tas,abs_1954_statisticians_report,439,2176,1792,1792,40.0,B,Statistician Report statewide plate (completes the 429-439 state series),statewide,
 other_states,1954,tas,abs_1954_statisticians_report,439,2176,1792,1792,40.0,B,Statistician Report statewide plate (completes the 429-439 state series),statewide,
 other_states,1954,tas,abs_1954_tas_population_lga_with_maps,70,1125,956,956,26.7,C,State volume colour plate 1125x956 px,statewide,"Use the 1954 Statistician Report plate PDF 439 (statewide series 429-439, 1760-2176 px)."
 other_states,1954,tas,abs_1954_tas_population_lga_with_maps,71,1132,962,962,33.8,B,Statistician Report statewide plate (completes the 429-439 state series),statewide,
-other_states,1954,vic,abs_1954_statisticians_report,431,1127,976,976,58.5,C,"Statistician Report statewide plate, 1127x976 px - the smallest of the 1954 series",statewide,No sharper 1954 Victoria plate held.
 other_states,1954,vic,abs_1954_statisticians_report,431,1127,976,976,58.5,C,"Statistician Report statewide plate, 1127x976 px - the smallest of the 1954 series",statewide,No sharper 1954 Victoria plate held.
 other_states,1954,vic,abs_1954_vic_population_lga_with_maps,158,569,483,483,38.1,C,State volume colour plate only 569x483 px,statewide,The 1954 Statistician Report plate PDF 431 (1127x976 px) is larger; no sharper 1954 Victoria plate is held.
 other_states,1954,vic,abs_1954_vic_population_lga_with_maps,159,575,484,484,15.9,C,"Statistician Report statewide plate, 1127x976 px - the smallest of the 1954 series",statewide,No sharper 1954 Victoria plate held.
 other_states,1954,vic,abs_1954_vic_population_lga_with_maps,160,565,477,477,27.1,C,"Statistician Report statewide plate, 1127x976 px - the smallest of the 1954 series",statewide,No sharper 1954 Victoria plate held.
 other_states,1954,wa,abs_1954_statisticians_report,437,2112,1920,1920,37.9,B,"Statistician Report statewide plate, 2112x1920 px",statewide,
-other_states,1954,wa,abs_1954_statisticians_report,437,2112,1920,1920,37.9,B,"Statistician Report statewide plate, 2112x1920 px",statewide,
 other_states,1954,wa,abs_1954_wa_population_lga_with_maps,113,1125,956,956,37.0,C,State volume colour plate 1125x956 px,statewide,Statistician Report plate PDF 437 (2112x1920 px) is the better candidate.
 other_states,1954,wa,abs_1954_wa_population_lga_with_maps,114,1107,912,912,23.1,B,"Statistician Report statewide plate, 2112x1920 px",statewide,
 other_states,1954,wa,abs_1954_wa_population_lga_with_maps,115,1122,953,953,31.2,B,"Statistician Report statewide plate, 2112x1920 px",statewide,
-other_states,1961,act,abs_1961_statisticians_report,513,2176,1664,1664,40.2,B,"Statistician Report NT and ACT plate, 2176x1664 px",districts,
 other_states,1961,act,abs_1961_statisticians_report,513,2176,1664,1664,40.2,B,"Statistician Report NT and ACT plate, 2176x1664 px",districts,
 other_states,1961,adelaide,abs_1961_statisticians_report,517,1984,1824,1824,33.1,A,"Statistician Report Adelaide plate, 1984x1824 px",metropolitan,
 other_states,1961,brisbane,abs_1961_statisticians_report,516,1854,2112,1854,43.1,A,"Statistician Report Brisbane plate, 1854x2112 px",metropolitan,
 other_states,1961,hobart,abs_1961_statisticians_report,519,2080,1856,1856,40.9,A,"Statistician Report Hobart plate, 2080x1856 px",metropolitan,
 other_states,1961,melbourne,abs_1961_statisticians_report,515,2070,1824,1824,34.5,A,"Statistician Report Melbourne plate, 2070x1824 px",metropolitan,
 other_states,1961,nsw,abs_1961_statisticians_report,501,2144,1824,1824,49.8,A,"Statistician Report statewide plate, 2144x1824 px colour with LGA key",statewide,
-other_states,1961,nt,abs_1961_statisticians_report,513,2176,1664,1664,40.2,B,"Statistician Report NT and ACT plate, 2176x1664 px",districts,
-other_states,1961,nt,abs_1961_statisticians_report,513,2176,1664,1664,40.2,B,"Statistician Report NT and ACT plate, 2176x1664 px",districts,
 other_states,1961,perth,abs_1961_statisticians_report,518,2112,1856,1856,33.8,A,"Statistician Report Perth plate, 2112x1856 px",metropolitan,
 other_states,1961,qld,abs_1961_qld_population_lga_with_maps,105,960,1096,960,43.0,C,State volume colour plate 960x1096 px,statewide,Statistician Report plate PDF 505 (1810x2112 px) is the better candidate.
 other_states,1961,qld,abs_1961_qld_population_lga_with_maps,106,1073,936,936,20.4,A,"Statistician Report statewide plate, 1810x2112 px",statewide,
 other_states,1961,qld,abs_1961_qld_population_lga_with_maps,107,933,1067,933,40.6,A,"Statistician Report statewide plate, 1810x2112 px",statewide,
-other_states,1961,qld,abs_1961_statisticians_report,505,1810,2112,1810,47.8,A,"Statistician Report statewide plate, 1810x2112 px",statewide,
 other_states,1961,qld,abs_1961_statisticians_report,505,1810,2112,1810,47.8,A,"Statistician Report statewide plate, 1810x2112 px",statewide,
 other_states,1961,sa,abs_1961_sa_population_lga_with_maps,56,2368,3930,2368,0.4,A,"Statistician Report statewide plate, 2112x1824 px",statewide,
 other_states,1961,sa,abs_1961_sa_population_lga_with_maps,59,1086,964,964,30.7,C,State volume colour plate 1086x964 px,statewide,Statistician Report plate PDF 507 (2112x1824 px) is the better candidate.
 other_states,1961,sa,abs_1961_sa_population_lga_with_maps,60,909,757,757,24.2,A,"Statistician Report statewide plate, 2112x1824 px",statewide,
 other_states,1961,sa,abs_1961_sa_population_lga_with_maps,61,1089,974,974,26.4,A,"Statistician Report statewide plate, 2112x1824 px",statewide,
 other_states,1961,sa,abs_1961_statisticians_report,507,2112,1824,1824,46.4,A,"Statistician Report statewide plate, 2112x1824 px",statewide,
-other_states,1961,sa,abs_1961_statisticians_report,507,2112,1824,1824,46.4,A,"Statistician Report statewide plate, 2112x1824 px",statewide,
 other_states,1961,sydney,abs_1961_statisticians_report,514,1880,2112,1880,37.9,A,"Statistician Report Sydney plate, 1880x2112 px",metropolitan,
-other_states,1961,tas,abs_1961_statisticians_report,511,2112,1856,1856,46.8,A,"Statistician Report statewide plate, 2112x1856 px",statewide,
 other_states,1961,tas,abs_1961_statisticians_report,511,2112,1856,1856,46.8,A,"Statistician Report statewide plate, 2112x1856 px",statewide,
 other_states,1961,tas,abs_1961_tas_population_lga_with_maps,55,1076,948,948,32.7,C,State volume colour plate 1076x948 px,statewide,Statistician Report plate PDF 511 (2112x1856 px) is the better candidate.
 other_states,1961,tas,abs_1961_tas_population_lga_with_maps,56,1068,939,939,43.2,A,"Statistician Report statewide plate, 2112x1856 px",statewide,
 other_states,1961,vic,abs_1961_statisticians_report,503,2080,1824,1824,54.3,A,"Statistician Report statewide plate, 2080x1824 px",statewide,
-other_states,1961,vic,abs_1961_statisticians_report,503,2080,1824,1824,54.3,A,"Statistician Report statewide plate, 2080x1824 px",statewide,
 other_states,1961,vic,abs_1961_vic_population_lga_with_maps,104,1072,953,953,44.1,C,State volume colour plate 1072x953 px,statewide,Statistician Report plate PDF 503 (2080x1824 px) is the better candidate.
 other_states,1961,vic,abs_1961_vic_population_lga_with_maps,105,1144,821,821,24.3,A,"Statistician Report statewide plate, 2080x1824 px",statewide,
 other_states,1961,vic,abs_1961_vic_population_lga_with_maps,106,1065,957,957,31.7,A,"Statistician Report statewide plate, 2080x1824 px",statewide,
-other_states,1961,wa,abs_1961_statisticians_report,509,2112,1824,1824,47.0,A,"Statistician Report statewide plate, 2112x1824 px",statewide,
 other_states,1961,wa,abs_1961_statisticians_report,509,2112,1824,1824,47.0,A,"Statistician Report statewide plate, 2112x1824 px",statewide,
 other_states,1961,wa,abs_1961_wa_population_lga_with_maps,80,1086,945,945,38.7,C,State volume colour plate 1086x945 px,statewide,Statistician Report plate PDF 509 (2112x1824 px) is the better candidate.
 other_states,1961,wa,abs_1961_wa_population_lga_with_maps,81,1074,728,728,23.3,A,"Statistician Report statewide plate, 2112x1824 px",statewide,

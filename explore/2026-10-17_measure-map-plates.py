@@ -26,6 +26,58 @@ for path, scope in [(ROOT / 'explore/output/2026-10-16_other-states-lga-census-p
                                 state_code=row.get('state_code', 'nsw'), source_id=row['source_record_id'],
                                 local_path=row['local_path'], pages=row['pdf_map_pages'], role=row['role']))
 
+# The NSW panel records one representative plate per census; the full NSW plate list is
+# documented in data/raw/historical_boundary_maps/README.md and the panel notes.
+NSW_PLATES = {
+    'abs1911_statisticians_report_nsw_sydney_lga_maps': [444, 457],
+    'abs1921_statisticians_report_nsw_sydney_lga_maps': [394, 395, 407],
+    'abs1933_statisticians_report_nsw_sydney_lga_maps': [468, 476],
+    'abs1947_statisticians_report_nsw_sydney_lga_maps': [392, 399],
+    'abs_1954_nsw_population_lga_maps': [194, 196],
+    'abs_1961_nsw_population_lga_maps': [129, 130, 131],
+    'abs_1966_nsw_population_dwellings_lga_maps': list(range(509, 521)),
+    'abs_1971_bulletin13_colour_lga_maps': [3, 17],
+    'anu_1966_nsw_bulletin1_8_with_lga_maps': [40, 41, 48],
+    'abs_1971_nsw_field_count_statement_lga': [39, 40, 41],
+    'anu1976_nsw_preliminary_lga_boundary_maps': [60, 61, 62],
+    'abs_1981_nsw_lga_urban_centres_with_maps': [62, 64, 66],
+    'anu_1981_nsw_lga_urban_centres_with_maps': [36, 37, 38],
+}
+NSW_FILES = {
+    'abs1911_statisticians_report_nsw_sydney_lga_maps': 'data/raw/historical_boundary_maps/abs_census/abs1911_statisticians_report_nsw_sydney_lga_maps.pdf',
+    'abs1921_statisticians_report_nsw_sydney_lga_maps': 'data/raw/historical_boundary_maps/abs_census/abs1921_statisticians_report_nsw_sydney_lga_maps.pdf',
+    'abs1933_statisticians_report_nsw_sydney_lga_maps': 'data/raw/historical_boundary_maps/abs_census/abs1933_statisticians_report_nsw_sydney_lga_maps.pdf',
+    'abs1947_statisticians_report_nsw_sydney_lga_maps': 'data/raw/historical_boundary_maps/abs_census/abs1947_statisticians_report_nsw_sydney_lga_maps.pdf',
+    'abs_1954_nsw_population_lga_maps': 'data/raw/historical_boundary_maps/abs_census/abs_1954_nsw_population_lga_with_maps.pdf',
+    'abs_1961_nsw_population_lga_maps': 'data/raw/historical_boundary_maps/abs_census/abs_1961_nsw_population_lga_with_maps.pdf',
+    'abs_1966_nsw_population_dwellings_lga_maps': 'data/raw/historical_boundary_maps/abs_census/abs_1966_nsw_population_dwellings_lga_with_maps.pdf',
+    'abs_1971_bulletin13_colour_lga_maps': 'data/raw/historical_boundary_maps/abs_census/abs_1971_bulletin13_statistical_division_colour_lga_maps.pdf',
+    'anu_1966_nsw_bulletin1_8_with_lga_maps': 'data/raw/historical_boundary_maps/abs_census/anu_1966_nsw_bulletin1_8_with_lga_maps.pdf',
+    'abs_1971_nsw_field_count_statement_lga': 'data/raw/historical_boundary_maps/abs_census/abs_1971_nsw_field_count_statement_lga.pdf',
+    'anu1976_nsw_preliminary_lga_boundary_maps': 'data/raw/historical_boundary_maps/abs_census/anu1976_nsw_preliminary_lga_boundary_maps.pdf',
+    'abs_1981_nsw_lga_urban_centres_with_maps': 'data/raw/historical_boundary_maps/abs_census/abs_1981_nsw_lga_urban_centres_with_maps.pdf',
+    'anu_1981_nsw_lga_urban_centres_with_maps': 'data/raw/historical_boundary_maps/abs_census/anu_1981_nsw_lga_urban_centres_with_maps.pdf',
+}
+NSW_YEARS = {
+    'abs1911_statisticians_report_nsw_sydney_lga_maps': 1911,
+    'abs1921_statisticians_report_nsw_sydney_lga_maps': 1921,
+    'abs1933_statisticians_report_nsw_sydney_lga_maps': 1933,
+    'abs1947_statisticians_report_nsw_sydney_lga_maps': 1947,
+    'abs_1954_nsw_population_lga_maps': 1954,
+    'abs_1961_nsw_population_lga_maps': 1961,
+    'abs_1966_nsw_population_dwellings_lga_maps': 1966,
+    'abs_1971_bulletin13_colour_lga_maps': 1971,
+    'anu_1966_nsw_bulletin1_8_with_lga_maps': 1966,
+    'abs_1971_nsw_field_count_statement_lga': 1971,
+    'anu1976_nsw_preliminary_lga_boundary_maps': 1976,
+    'abs_1981_nsw_lga_urban_centres_with_maps': 1981,
+    'anu_1981_nsw_lga_urban_centres_with_maps': 1981,
+}
+for source_id, pages in NSW_PLATES.items():
+    sources.append(dict(scope='nsw', census_year=str(NSW_YEARS[source_id]), state_code='nsw',
+                        source_id=source_id, local_path=NSW_FILES[source_id],
+                        pages=';'.join(str(p) for p in pages), role='census_report_plate'))
+
 rows = []
 for source in sources:
     path = ROOT / source['local_path']

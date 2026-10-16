@@ -55,6 +55,25 @@ RATINGS = {
     ('nsw', 1961, 'nsw', 0): ('A', 'ANU Sydney metropolitan map, 7884x8611 px - sharpest 1961 Sydney source held',
                               'metropolitan',
                               'Statewide 1961 NSW coverage comes from the 1961 Statistician Report plate PDF 501.'),
+    ('nsw', 1911, 'nsw', 444): ('D', 'Statewide plate shows counties, not local government areas', 'not-LGA',
+                               'No 1911 NSW statewide shire plate was published in this volume.'),
+    ('nsw', 1921, 'nsw', 394): ('A', 'Statewide NSW density and LGA plate, numbered councils', 'statewide', ''),
+    ('nsw', 1961, 'nsw', 130): ('C', 'Printed LGA number index page, not a map', 'index',
+                                'Use the number index to key the statewide plate PDF 129 and the Sydney plate PDF 131.'),
+    ('nsw', 1966, 'nsw', 508): ('C', 'Map-series reference page, not a map', 'index', ''),
+    ('nsw', 1966, 'nsw', 40): ('C', 'ANU Bulletin 1.8 map reference page, not a map', 'index', ''),
+    ('nsw', 1966, 'nsw', 41): ('B', 'ANU Bulletin 1.8 Sydney scan, 2024x3088 px - the sharper 1966 NSW alternative', 'metropolitan', ''),
+    ('nsw', 1966, 'nsw', 48): ('B', 'ANU Bulletin 1.8 regional sheet (Colo and Central West), sharper than the ABS volume', 'regional', ''),
+    ('nsw', 1971, 'nsw', 3): ('C', 'Bulletin 13 NSW colour sheet (statistical divisions and LGA lines share fills)',
+                             'statewide',
+                             'Field Count Statement No 3 maps (PDF 39-41) are the monochrome metropolitan alternative.'),
+    ('nsw', 1971, 'nsw', 39): ('A', 'Sydney map from Field Count Statement No 3, long edge about 5000 px', 'metropolitan', ''),
+    ('nsw', 1971, 'nsw', 40): ('A', 'Newcastle map from Field Count Statement No 3', 'metropolitan', ''),
+    ('nsw', 1971, 'nsw', 41): ('A', 'Wollongong map from Field Count Statement No 3', 'metropolitan', ''),
+    ('nsw', 1976, 'nsw', 60): ('B', 'Statewide preliminary boundary sheet', 'statewide', ''),
+    ('nsw', 1976, 'nsw', 62): ('B', 'Statewide and metropolitan preliminary boundary sheet', 'statewide + metropolitan', ''),
+    ('nsw', 1981, 'nsw', 62): ('A', 'Statewide sheet with council labels, 3520 px', 'statewide', ''),
+    ('nsw', 1981, 'nsw', 66): ('A', 'Regional districts sheet with council lines, 3520 px', 'regional', ''),
     # ---------------------------------------------------------------- other states, 1911
     ('other', 1911, 'vic', 445): ('D', 'Statewide plate is 500x375 px - too small to trace any boundary',
                                   'statewide',
@@ -268,6 +287,11 @@ def main():
                          rating=rating, rating_basis=basis, digitisation_target=target,
                          better_candidate=better))
     rows.sort(key=lambda r: (r['scope'], r['census_year'], r['state_code'], r['source_id'], int(r['page']) if str(r['page']).isdigit() else 0))
+    # The NSW plate inventory and the Sydney panel list overlap; keep one row per plate.
+    deduped = {}
+    for row in rows:
+        deduped.setdefault((row['scope'], row['source_id'], row['page']), row)
+    rows = list(deduped.values())
     fields = ['scope', 'census_year', 'state_code', 'source_id', 'page', 'native_width', 'native_height',
               'short_edge', 'contrast', 'rating', 'rating_basis', 'digitisation_target', 'better_candidate']
     with (OUT / 'digitisation_readiness.csv').open('w', newline='', encoding='utf-8') as handle:

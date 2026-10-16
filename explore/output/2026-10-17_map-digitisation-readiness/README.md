@@ -1,8 +1,10 @@
 # Candidate map digitisation readiness
 
-Ratings for every candidate census map plate held for the NSW panel and the other-state panel:
+Ratings for all 263 candidate census map plates held for the NSW panel (29 usable) and the other-state panel:
 how likely it can be digitised, what blocks it, and the better source where one was found or is
-needed. Plates were rendered and inspected; the metrics and the judgements are reproducible.
+needed. **176 plates are rated A/B (digitisation-ready) and 161 of those carry local
+government or statistical-area polygons** (the rest are index pages, county/district plates or
+NT/ACT district sheets). Plates were rendered and inspected; the metrics and the judgements are reproducible.
 
 Rebuild from the repository root:
 
@@ -13,13 +15,13 @@ python3 explore/2026-10-17_rate-map-plates.py      # ratings, blockers, better c
 
 ## Rating scale
 
-- **A (98 plates)** — digitise now: LGA boundary line work with a printed key, enough resolution
+- **A (107 plates)** — digitise now: LGA boundary line work with a printed key, enough resolution
   (short edge 1800 px or more), coastline/river/town references and a scale bar.
-- **B (72)** — digitiable with care: legible boundaries but moderate resolution, colour
+- **B (69)** — digitiable with care: legible boundaries but moderate resolution, colour
   separation needed, or extra line work (railways, statistical divisions) to separate.
-- **C (66)** — hard: low resolution, ambiguous boundary type, or hatching obscures the lines.
+- **C (82)** — hard: low resolution, ambiguous boundary type, or hatching obscures the lines.
   Tracing would be unreliable without a better scan.
-- **D (4)** — not digitiable as LGA polygons: no boundary line work (counties, statistical
+- **D (5)** — not digitiable as LGA polygons: no boundary line work (counties, statistical
   districts, printed index pages) or point symbols only.
 
 | Census | Plates | A | B | C | D | Comment |
