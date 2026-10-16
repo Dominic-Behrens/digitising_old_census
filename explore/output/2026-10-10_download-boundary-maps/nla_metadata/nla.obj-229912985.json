@@ -1,0 +1,509 @@
+{
+  "id": "22991298",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "1152794",
+  "holdingNumber": "MAP F 114",
+  "pid": "nla.obj-229912985",
+  "title": "Index map of the City of Sydney and environs [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1892",
+  "creator": "",
+  "extent": "1 map : col., folded ; 29.5 x 35.3 cm. 18.6 x 10.4 cm.",
+  "publisherName": "Dept. of Lands",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 157896870,
+      "filename": "nla.obj-229913034.jp2",
+      "filesize": 1033578,
+      "technicalmetadata": {
+        "width": 4457,
+        "height": 3772
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 50533424
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01667cem a2200361 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 6618774
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "d",
+                "content": "E1505522"
+              },
+              {
+                "code": "e",
+                "content": "E1511836"
+              },
+              {
+                "code": "f",
+                "content": "S0334635"
+              },
+              {
+                "code": "g",
+                "content": "S0340121"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)1289231"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "ANL"
+              },
+              {
+                "code": "d",
+                "content": "DBM:D"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1892"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Index map of the City of Sydney and environs"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "published by the Department of Lands, ... H. Copeland, Minister for Lands."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale indeterminable"
+              },
+              {
+                "code": "c",
+                "content": "(E 150\u00b055'22\"--E 151\u00b018'36\"/S 33\u00b046'35\"--S 34\u00b001'21\")."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Dept. of Lands,"
+              },
+              {
+                "code": "c",
+                "content": 1892
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col., folded ;"
+              },
+              {
+                "code": "c",
+                "content": "29.5 x 35.3 cm. 18.6 x 10.4 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"No. of Lith. M 91.25\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Index to map in publication of the City of Sydney, N.S.W. Shows shire boundaries and has information about the main map."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map 114 from Ferguson Collection."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP F 114 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-229912985"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Australian"
+            },
+            "tag": 653
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "Ferguson rare map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)8541761"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Ferguson rare map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Ferguson Collection ;"
+              },
+              {
+                "code": "v",
+                "content": "Map 114."
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP F 114 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-229912985"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "1st copy \"792\""
+            },
+            "tag": 995
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "3699f4f9-e815-5197-b057-978bd21590d9"
+              },
+              {
+                "code": "i",
+                "content": "dafbc07e-8230-5e2a-8129-548217d5a081"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1152794
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "900302s1892    xna       a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240128235503.9
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP F 114"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 540145
+          },
+          {
+            "tag": "004",
+            "content": 1152794
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "287444864",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "8541761",
+    "holdingNumber": "MAP Ferguson Collection",
+    "pid": "nla.obj-2874448645",
+    "title": "Ferguson rare map collection.",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "creator": "Ferguson, John Alexander, 1881-1969",
+    "extent": "approximately 954 maps : some colour",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      39051
+    ],
+    "projectIds": [
+      24844,
+      39046
+    ]
+  },
+  "topLevelCollection": "nla.obj-2874448645"
+}

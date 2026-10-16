@@ -1,0 +1,593 @@
+{
+  "map_id": "nla.obj-231128914_p001",
+  "source_path": "data/raw/historical_boundary_maps/nla_atlas/nla.obj-231128914_strathfield_parish_of_concord_cartographic_material.jpg",
+  "source_sha256": "0d3d3b129555ece50ede4b75e569fe71d1845765e240e6c2374e2e42eeca34f9",
+  "target_feature_type": "lga_boundary",
+  "name_as_printed": "STRATHFIELD",
+  "target_census_year": 1911,
+  "reference_path": "data/raw/map_gis_reference/strathfield_roads_2026-10-10.json",
+  "reference_sha256": "81a35d128f2583d24226a45d55fe81419f6081e6d018a087984600b07876c525",
+  "reference_url": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Transport_Theme_multiCRS/MapServer/5",
+  "reference_request": "data/raw/map_gis_reference/strathfield_roads_request.json",
+  "reference_retrieved_utc": "2026-10-10T06:51:51.022789+00:00",
+  "reference_approved": true,
+  "target_crs": "EPSG:7856",
+  "analysis_purpose": "LGA-level census maps and comparisons",
+  "method": "affine",
+  "positional_tolerance_metres": null,
+  "pixel_convention": "top-left edge; x right; y down; first centre at 0.5,0.5",
+  "control_points": [
+    {
+      "point_id": "G01",
+      "landmark": "BRIDGE / BURLINGTON",
+      "pixel_x": 1113,
+      "pixel_y": 1385,
+      "map_x": 322237.25004900876,
+      "map_y": 6251065.971430842,
+      "reference_object_ids": [
+        2342763,
+        2347322,
+        2407397
+      ],
+      "role": "fit",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G02",
+      "landmark": "ROCHESTER / BURLINGTON",
+      "pixel_x": 1744,
+      "pixel_y": 1505,
+      "map_x": 322819.8900402942,
+      "map_y": 6250856.333656447,
+      "reference_object_ids": [
+        2240250,
+        2240285,
+        2240288,
+        2248965
+      ],
+      "role": "fit",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G03",
+      "landmark": "MEREDITH / BROUGHTON",
+      "pixel_x": 1385,
+      "pixel_y": 1790,
+      "map_x": 322440.03189329954,
+      "map_y": 6250625.294103362,
+      "reference_object_ids": [
+        2248985,
+        2248987,
+        2248989,
+        2248991
+      ],
+      "role": "fit",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G04",
+      "landmark": "HOMEBUSH / ALBERT",
+      "pixel_x": 2067,
+      "pixel_y": 1980,
+      "map_x": 323071.66281430883,
+      "map_y": 6250361.864928736,
+      "reference_object_ids": [
+        2249254,
+        2249256,
+        2249258,
+        2249260
+      ],
+      "role": "diagnostic",
+      "review_status": "assistant_source_inspected",
+      "correction": {
+        "previous_pixel": [
+          2055,
+          2180
+        ],
+        "reason": "Residual prompted source reinspection: first marker was on Oxford Street, not Albert Road. Corrected using wider source crop; excluded from check-point summary."
+      }
+    },
+    {
+      "point_id": "G05",
+      "landmark": "THE BOULEVARDE / REDMYRE",
+      "pixel_x": 2753,
+      "pixel_y": 2033,
+      "map_x": 323704.08864094724,
+      "map_y": 6250187.628360492,
+      "reference_object_ids": [
+        507013,
+        507016,
+        507019,
+        829572
+      ],
+      "role": "fit",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G06",
+      "landmark": "HOMEBUSH / WOODWARD",
+      "pixel_x": 2053,
+      "pixel_y": 2625,
+      "map_x": 322983.61157681374,
+      "map_y": 6249732.946164579,
+      "reference_object_ids": [
+        51008,
+        841392,
+        1082067
+      ],
+      "role": "fit",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G07",
+      "landmark": "THE BOULEVARDE / ALBYN",
+      "pixel_x": 2727,
+      "pixel_y": 2746,
+      "map_x": 323617.79686525825,
+      "map_y": 6249523.508580964,
+      "reference_object_ids": [
+        50193,
+        50462,
+        1083281
+      ],
+      "role": "check",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G08",
+      "landmark": "HOMEBUSH / VICTORIA",
+      "pixel_x": 2057,
+      "pixel_y": 2892,
+      "map_x": 322947.4225001867,
+      "map_y": 6249481.407424752,
+      "reference_object_ids": [
+        49884,
+        50346,
+        841395
+      ],
+      "role": "fit",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G09",
+      "landmark": "THE BOULEVARDE / WAKEFORD",
+      "pixel_x": 2727,
+      "pixel_y": 3170,
+      "map_x": 323559.02592316404,
+      "map_y": 6249107.3010074105,
+      "reference_object_ids": [
+        49043,
+        49275,
+        49282
+      ],
+      "role": "fit",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G10",
+      "landmark": "CROSS / LIVERPOOL",
+      "pixel_x": 2360,
+      "pixel_y": 4261,
+      "map_x": 323094.8794632145,
+      "map_y": 6248093.931334104,
+      "reference_object_ids": [
+        409279,
+        409288,
+        409289
+      ],
+      "role": "fit",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G11",
+      "landmark": "BRIDGE / ABBOTSFORD",
+      "pixel_x": 1080,
+      "pixel_y": 1514,
+      "map_x": 322188.9413388412,
+      "map_y": 6250932.519552838,
+      "reference_object_ids": [
+        2342758,
+        2342763,
+        2347323
+      ],
+      "role": "check",
+      "review_status": "assistant_source_inspected"
+    },
+    {
+      "point_id": "G12",
+      "landmark": "CROSS / HIGH",
+      "pixel_x": 2355,
+      "pixel_y": 3936,
+      "map_x": 323131.56265714846,
+      "map_y": 6248413.35431884,
+      "reference_object_ids": [
+        1083048,
+        1083050,
+        1083052,
+        1083054
+      ],
+      "role": "check",
+      "review_status": "assistant_source_inspected"
+    }
+  ],
+  "boundary_pixel_rings": [
+    [
+      [
+        620,
+        1390
+      ],
+      [
+        760,
+        1355
+      ],
+      [
+        900,
+        1305
+      ],
+      [
+        1020,
+        1266
+      ],
+      [
+        1140,
+        1255
+      ],
+      [
+        1290,
+        1263
+      ],
+      [
+        1440,
+        1284
+      ],
+      [
+        1600,
+        1315
+      ],
+      [
+        1780,
+        1350
+      ],
+      [
+        1930,
+        1402
+      ],
+      [
+        2070,
+        1465
+      ],
+      [
+        2200,
+        1525
+      ],
+      [
+        2320,
+        1600
+      ],
+      [
+        2440,
+        1665
+      ],
+      [
+        2560,
+        1730
+      ],
+      [
+        2670,
+        1785
+      ],
+      [
+        2750,
+        1820
+      ],
+      [
+        2750,
+        2028
+      ],
+      [
+        2745,
+        2180
+      ],
+      [
+        2738,
+        2375
+      ],
+      [
+        2732,
+        2550
+      ],
+      [
+        2725,
+        2745
+      ],
+      [
+        2721,
+        2980
+      ],
+      [
+        2715,
+        3175
+      ],
+      [
+        2710,
+        3350
+      ],
+      [
+        2707,
+        3490
+      ],
+      [
+        2705,
+        3580
+      ],
+      [
+        2670,
+        3650
+      ],
+      [
+        2640,
+        3740
+      ],
+      [
+        2616,
+        3840
+      ],
+      [
+        2585,
+        3950
+      ],
+      [
+        2548,
+        4060
+      ],
+      [
+        2500,
+        4160
+      ],
+      [
+        2460,
+        4210
+      ],
+      [
+        2408,
+        4245
+      ],
+      [
+        2340,
+        4265
+      ],
+      [
+        2270,
+        4250
+      ],
+      [
+        2170,
+        4222
+      ],
+      [
+        2080,
+        4208
+      ],
+      [
+        1990,
+        4205
+      ],
+      [
+        1900,
+        4190
+      ],
+      [
+        1800,
+        4160
+      ],
+      [
+        1700,
+        4114
+      ],
+      [
+        1600,
+        4065
+      ],
+      [
+        1500,
+        4020
+      ],
+      [
+        1413,
+        3988
+      ],
+      [
+        1417,
+        3935
+      ],
+      [
+        1414,
+        3880
+      ],
+      [
+        1402,
+        3825
+      ],
+      [
+        1408,
+        3775
+      ],
+      [
+        1388,
+        3738
+      ],
+      [
+        1364,
+        3690
+      ],
+      [
+        1350,
+        3655
+      ],
+      [
+        1302,
+        3633
+      ],
+      [
+        1260,
+        3600
+      ],
+      [
+        1200,
+        3560
+      ],
+      [
+        1150,
+        3502
+      ],
+      [
+        1110,
+        3472
+      ],
+      [
+        1060,
+        3448
+      ],
+      [
+        1008,
+        3422
+      ],
+      [
+        960,
+        3402
+      ],
+      [
+        900,
+        3378
+      ],
+      [
+        850,
+        3350
+      ],
+      [
+        805,
+        3330
+      ],
+      [
+        760,
+        3304
+      ],
+      [
+        724,
+        3275
+      ],
+      [
+        698,
+        3250
+      ],
+      [
+        685,
+        3220
+      ],
+      [
+        670,
+        3216
+      ],
+      [
+        652,
+        3228
+      ],
+      [
+        630,
+        3213
+      ],
+      [
+        600,
+        3188
+      ],
+      [
+        565,
+        3167
+      ],
+      [
+        531,
+        3150
+      ],
+      [
+        492,
+        3140
+      ],
+      [
+        446,
+        3122
+      ],
+      [
+        405,
+        3100
+      ],
+      [
+        405,
+        2910
+      ],
+      [
+        405,
+        2700
+      ],
+      [
+        401,
+        2525
+      ],
+      [
+        404,
+        2320
+      ],
+      [
+        410,
+        2100
+      ],
+      [
+        438,
+        1990
+      ],
+      [
+        473,
+        1840
+      ],
+      [
+        498,
+        1730
+      ],
+      [
+        540,
+        1610
+      ],
+      [
+        580,
+        1490
+      ],
+      [
+        620,
+        1390
+      ]
+    ]
+  ],
+  "boundary_method": "Assistant manual first-pass trace from the native scan; no automated extraction or ward union",
+  "geometry_review_status": "candidate_needs_source_review",
+  "boundary_notes": [
+    "Northern municipal line is partly obscured by the red railway symbol; approximate placement needs review.",
+    "Western edge follows the printed municipal boundary; do not extend it to modern council limits.",
+    "Cooks River section follows the northern/eastern bank indicated by the printed instruction Municipal Boundary along the Left Bank. Bank placement is approximate at this tracing resolution.",
+    "Southern and eastern sections follow the printed municipal dashes/crosses along Liverpool Road and The Boulevarde.",
+    "No ward boundaries are extracted."
+  ],
+  "historical_status": "needs_post_1892_boundary_evidence",
+  "census_link_status": "not_accepted",
+  "historical_evidence": [
+    {
+      "source": "https://www.strathfield.nsw.gov.au/files/assets/public/v/3/council/plans-and-strategies/delivery-program-operational-plan-fy-2024-2025_wip04b.pdf",
+      "location": "PDF page 14 (printed 13), About Strathfield Council",
+      "finding": "Council records addition of Flemington on 19 February 1892. The atlas catalogue date is 1886; verify edition and post-annexation perimeter before linking to 1911."
+    }
+  ],
+  "review_limitations": [
+    "Control points are assistant-inspected road-centre intersections, not survey control. Modern junction stability remains subject to review.",
+    "Southwestern/western perimeter lies outside the fit-point coverage; check errors do not establish accuracy there.",
+    "G04 was corrected after residual-led source reinspection and is diagnostic only, excluded from held-out summary.",
+    "An acceptance tolerance has not been set; all outputs remain candidates."
+  ]
+}

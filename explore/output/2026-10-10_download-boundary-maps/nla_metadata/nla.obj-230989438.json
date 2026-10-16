@@ -1,0 +1,413 @@
+{
+  "id": "23098943",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "4315388",
+  "holdingNumber": "MAP RaA 13 (Copy 2) Plate 2",
+  "pid": "nla.obj-230989438",
+  "title": "Map of New South Wales [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1863",
+  "creator": "",
+  "extent": "1 map : col. ; 53.8 x 75.6 cm., on sheet 54.6 x 77.0 cm.",
+  "publisherName": "Brown & Slight",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7641089,
+      "filename": "23098948.jp2",
+      "filesize": 1187283,
+      "technicalmetadata": {
+        "width": 5136,
+        "height": 3696
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 56973216
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01392cea a22002657a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 4315388
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at---"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "b",
+              "content": "d1863"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Map of New South Wales"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]"
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Emerald Hill, Vic. :"
+              },
+              {
+                "code": "b",
+                "content": "Brown & Slight,"
+              },
+              {
+                "code": "c",
+                "content": "1863]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "53.8 x 75.6 cm., on sheet 54.6 x 77.0 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of New South Wales showing counties in different colours. It also shows towns, townships with magisterial benches and post offices, townships with post offices, townships without post offices, formed roads, post roads and tracks, railways, electric telegraph, pastoral district boundaries, and gold, copper, coal, iron and lead indications."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Plate [2] of: Atlas, containing a map of Australasia / ... by F. Proeschel. Emerald Hill [Vic.] : Brown & Slight, [1863]"
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Inset: Monaro"
+            },
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-230989438"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Brown & Slight"
+            },
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "From:"
+              },
+              {
+                "code": "a",
+                "content": "Proeschel, F. (Frederick),"
+              },
+              {
+                "code": "d",
+                "content": "1809-1870."
+              },
+              {
+                "code": "t",
+                "content": "Atlas, containing a map of Australasia"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)105697"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP RaA 13 (Copy 2) Plate 2"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-230989438"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "8e1ea7d6-ad85-5e20-a031-2ec8fcc81760"
+              },
+              {
+                "code": "s",
+                "content": "822c4842-b5f8-5d3b-85b9-39528de02f42"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4315388
+          },
+          {
+            "tag": "005",
+            "content": 20191204125248
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "080222s1863    enk       a     0   eng"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RaA 13"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 2) Plate 2"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5098840
+          },
+          {
+            "tag": "004",
+            "content": 4315388
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RaA 13"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1) Plate 2"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5878997
+          },
+          {
+            "tag": "004",
+            "content": 4315388
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "23098728",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "bibLevel": "Item",
+    "bibId": "105697",
+    "holdingNumber": "MAP RaA 13 (Copy 1)",
+    "pid": "nla.obj-230987283",
+    "title": "Atlas, containing a map of Australasia [cartographic material] : accompanied by a brief chronological outline of the marine discoveries of its different islands & the inland discoveries & settlement of the different provinces of the main island of Australia, of which provinces there are the following maps : New South Wales, Victoria, South Australia, Queensland, North Australia or probably Albert Land",
+    "accessConditions": "Unrestricted",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1863",
+    "creator": "Proeschel, F. (Frederick), 1809-1870.",
+    "extent": "1 atlas ([44] pages, [7] folded leaves of plates) : colour maps ; 42 cm.",
+    "publisherName": "Brown & Slight",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-230987283"
+}

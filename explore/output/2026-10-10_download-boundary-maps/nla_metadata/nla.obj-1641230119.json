@@ -1,0 +1,454 @@
+{
+  "id": "164123011",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subUnitNo": "J.F.N. Murray Collection / 96",
+  "bibLevel": "Item",
+  "bibId": "4668580",
+  "holdingNumber": "MAP J.F.N. Murray 96",
+  "pid": "nla.obj-1641230119",
+  "title": "Map of Washington and suburban territory [cartographic material] : including Alexandria, Arlington County, and Maryland suburbs.",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "no",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1945",
+  "creator": "L.B. Prince Co.",
+  "extent": "1 map ; 84 x 85 cm., folded to 22 x 11 cm.",
+  "isMissingPage": "false",
+  "publisherName": "L.B. Prince Co.",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 111629215,
+      "filename": "164150416.jp2",
+      "filesize": 26616330,
+      "technicalmetadata": {
+        "width": 20678,
+        "height": 20704
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "false",
+      "filesize": 1284376932
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01407ced a2200325Ma 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 32250
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[J.F.N. Murray map collection]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 4668580
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "OCoLC"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "n-us-dc"
+              },
+              {
+                "code": "a",
+                "content": "n-us-wa"
+              }
+            ],
+            "tag": "043"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "G3850 1945"
+              },
+              {
+                "code": "b",
+                "content": ".L2"
+              }
+            ],
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 3850
+            },
+            "tag": "052"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "L.B. Prince Co."
+            },
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Map of Washington and suburban territory"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "including Alexandria, Arlington County, and Maryland suburbs."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "Panel title:"
+              },
+              {
+                "code": "a",
+                "content": "Map of Washington and suburban territory : including Arlington County, Alexandria, Va., and Maryland suburbs : showing streets, traffic routes, points of interest"
+              }
+            ],
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale [ca. 1:32,250]."
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Arlington, Va. :"
+              },
+              {
+                "code": "b",
+                "content": "L.B. Prince Co.,"
+              },
+              {
+                "code": "c",
+                "content": "[1945?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "84 x 85 cm., folded to 22 x 11 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Copyright L.B. Prince & Co., Arlington, Va.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes note, indexes, and ill."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1641230119"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Washington (D.C.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Washington Metropolitan Area"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "J.F.N. Murray map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1641230119"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "J.F.N. Murray map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)2988163"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "94e468ae-691a-56f0-aed0-7a38b3c264c8"
+              },
+              {
+                "code": "s",
+                "content": "bfb7e5be-600f-543a-95c0-40e7a5dfc81c"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4668580
+          },
+          {
+            "tag": "005",
+            "content": 20191203152139
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "870406s1945    vau       a     1   eng d"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP J.F.N. Murray 96"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5185836
+          },
+          {
+            "tag": "004",
+            "content": 4668580
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "70836890",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "2988163",
+    "holdingNumber": "MAP J.F.N. Murray 1-99",
+    "pid": "nla.obj-708368901",
+    "title": "J.F.N. Murray map collection [cartographic material].",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "Mixed copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "For number 4 in the collection see copy in general collection at nla.obj-446075639. For number 8 see copies at nla.obj-233899413. For number 22 see copy at nla.obj-559296001. For numbers 23 and 24 see copy at nla.obj-559291588. For number 26 see copy at nla.obj-559296235. For number 29 see copy at nla.obj-631395259. For number 30 see copy at nla.obj-631395414. For number 32 see copy at nla.obj-661810093. For number 33 see copy at nla.obj-567667281. For number 34 see copy at nla.obj-678124279. For number 99 see copy at nla.obj-275663923.",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1916",
+    "creator": "Murray, J. F. N. (John Francis Nowell), 1900-",
+    "extent": "94 maps : some col.",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-708368901"
+}

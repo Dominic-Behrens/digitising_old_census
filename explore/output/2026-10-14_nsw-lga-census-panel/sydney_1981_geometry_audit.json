@@ -1,0 +1,574 @@
+[
+  {
+    "lga_code": "10003",
+    "published_name": "Ashfield",
+    "digital_name": "Ashfield (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.11246887200002,
+      -33.90755474699995,
+      151.15073394800004,
+      -33.86973349599998
+    ]
+  },
+  {
+    "lga_code": "10004",
+    "published_name": "Auburn",
+    "digital_name": "Auburn (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.01200125600008,
+      -33.88790253399998,
+      151.0843744120001,
+      -33.82027301199997
+    ]
+  },
+  {
+    "lga_code": "10007",
+    "published_name": "Bankstown",
+    "digital_name": "Bankstown (C)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.96597187400005,
+      -33.98322391099998,
+      151.0756096550001,
+      -33.863863838999976
+    ]
+  },
+  {
+    "lga_code": "10010",
+    "published_name": "Baulkham Hills",
+    "digital_name": "Baulkham Hills (S)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.87202987000012,
+      -33.804562422999936,
+      151.05259340200007,
+      -33.380319861999965
+    ]
+  },
+  {
+    "lga_code": "10015",
+    "published_name": "Blacktown",
+    "digital_name": "Blacktown (C)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.75976956600005,
+      -33.83512276399995,
+      150.96570382700008,
+      -33.64664252099993
+    ]
+  },
+  {
+    "lga_code": "10018",
+    "published_name": "Blue Mountains",
+    "digital_name": "Blue Mountains (C)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.16901485300002,
+      -33.89888854999998,
+      150.66109870700006,
+      -33.364483606999954
+    ]
+  },
+  {
+    "lga_code": "10022",
+    "published_name": "Botany",
+    "digital_name": "Botany (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.16743745400004,
+      -33.96846012799995,
+      151.23177961300007,
+      -33.91941328499996
+    ]
+  },
+  {
+    "lga_code": "10026",
+    "published_name": "Burwood",
+    "digital_name": "Burwood (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.0894693020001,
+      -33.90371498899998,
+      151.12046850500008,
+      -33.86710192199996
+    ]
+  },
+  {
+    "lga_code": "10029",
+    "published_name": "Camden",
+    "digital_name": "Camden (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.626368758,
+      -34.095565876999956,
+      150.82225534100007,
+      -33.937776473999975
+    ]
+  },
+  {
+    "lga_code": "10030",
+    "published_name": "Campbelltown",
+    "digital_name": "Campbelltown (C)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.73644680000007,
+      -34.18827551299995,
+      150.9407235440001,
+      -33.957923955999945
+    ]
+  },
+  {
+    "lga_code": "10031",
+    "published_name": "Canterbury",
+    "digital_name": "Canterbury (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.0385485710001,
+      -33.95021542699993,
+      151.15548454800012,
+      -33.894491836999975
+    ]
+  },
+  {
+    "lga_code": "10039",
+    "published_name": "Concord",
+    "digital_name": "Concord (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.07854680600008,
+      -33.87170294599997,
+      151.12193724100007,
+      -33.82270288299998
+    ]
+  },
+  {
+    "lga_code": "10052",
+    "published_name": "Drummoyne",
+    "digital_name": "Drummoyne (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.1117185590001,
+      -33.87424165999994,
+      151.1649044950001,
+      -33.84215138099995
+    ]
+  },
+  {
+    "lga_code": "10058",
+    "published_name": "Fairfield",
+    "digital_name": "Fairfield (C)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.81566054000007,
+      -33.91419667599996,
+      150.99059547600007,
+      -33.82504446299998
+    ]
+  },
+  {
+    "lga_code": "10063",
+    "published_name": "Gosford",
+    "digital_name": "Cosford (C)",
+    "label_status": "label_conflict",
+    "geometry_valid": true,
+    "bounds": [
+      150.98688641,
+      -33.56930688199998,
+      151.4853465650001,
+      -33.11029105699998
+    ]
+  },
+  {
+    "lga_code": "10073",
+    "published_name": "Hawkesbury",
+    "digital_name": "Hawkesbury (S)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.4344124380001,
+      -33.68612435799997,
+      151.13686478700004,
+      -32.993661662999955
+    ]
+  },
+  {
+    "lga_code": "10076",
+    "published_name": "Holroyd",
+    "digital_name": "Holroyd (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.9134083790001,
+      -33.86985610599993,
+      151.01029774800008,
+      -33.78536401599996
+    ]
+  },
+  {
+    "lga_code": "10077",
+    "published_name": "Hornsby",
+    "digital_name": "Hornsby (S)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.97323025100002,
+      -33.786933863999934,
+      151.24730670700012,
+      -33.382331843999964
+    ]
+  },
+  {
+    "lga_code": "10079",
+    "published_name": "Hunters Hill",
+    "digital_name": "Hunters Hill (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.12702981000007,
+      -33.844843528999945,
+      151.18052900500004,
+      -33.81475345699994
+    ]
+  },
+  {
+    "lga_code": "10080",
+    "published_name": "Hurstville",
+    "digital_name": "Hurstville (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.03372129600007,
+      -33.994133415999954,
+      151.11915669100006,
+      -33.93911303699997
+    ]
+  },
+  {
+    "lga_code": "10086",
+    "published_name": "Kogarah",
+    "digital_name": "Kogarah (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.0716427870001,
+      -34.00607394599996,
+      151.13809426000012,
+      -33.95628077699996
+    ]
+  },
+  {
+    "lga_code": "10087",
+    "published_name": "Ku-ring-gai",
+    "digital_name": "Ku-ring-gai (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.09007623600007,
+      -33.79420229999994,
+      151.20785581500002,
+      -33.65989291799997
+    ]
+  },
+  {
+    "lga_code": "10091",
+    "published_name": "Lane Cove",
+    "digital_name": "Lane Cove (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.14220128300008,
+      -33.843319074999954,
+      151.19866956600004,
+      -33.802612367999984
+    ]
+  },
+  {
+    "lga_code": "10093",
+    "published_name": "Leichhardt",
+    "digital_name": "Leichhardt (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.14478017700003,
+      -33.89010152099996,
+      151.19682602900002,
+      -33.84559319999994
+    ]
+  },
+  {
+    "lga_code": "10096",
+    "published_name": "Liverpool",
+    "digital_name": "Liverpool (C)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.6178057190001,
+      -34.037263666999934,
+      150.99315880300003,
+      -33.86335838999997
+    ]
+  },
+  {
+    "lga_code": "10101",
+    "published_name": "Manly",
+    "digital_name": "Manly (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.231981452,
+      -33.82410005199995,
+      151.30799554300006,
+      -33.77852154499993
+    ]
+  },
+  {
+    "lga_code": "10102",
+    "published_name": "Marrickville",
+    "digital_name": "Marrickville (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.12882771600005,
+      -33.93315149499995,
+      151.18171787400001,
+      -33.88683525999994
+    ]
+  },
+  {
+    "lga_code": "10105",
+    "published_name": "Mosman",
+    "digital_name": "Mosman (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.2286852300001,
+      -33.85339258099998,
+      151.26902743400012,
+      -33.80342048099993
+    ]
+  },
+  {
+    "lga_code": "10117",
+    "published_name": "North Sydney",
+    "digital_name": "North Sydney (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.1877479310001,
+      -33.85261181699997,
+      151.23331029100007,
+      -33.81620166299996
+    ]
+  },
+  {
+    "lga_code": "10123",
+    "published_name": "Parramatta",
+    "digital_name": "Parramatta (C)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.9476261320001,
+      -33.87813367499996,
+      151.0844048570001,
+      -33.76804355799993
+    ]
+  },
+  {
+    "lga_code": "10125",
+    "published_name": "Penrith",
+    "digital_name": "Penrith (C)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.59044578600003,
+      -33.88179648199997,
+      150.8250037360001,
+      -33.61336581499995
+    ]
+  },
+  {
+    "lga_code": "10129",
+    "published_name": "Randwick",
+    "digital_name": "Randwick (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.20839037400003,
+      -34.00140087999995,
+      151.27201346100003,
+      -33.88934277599998
+    ]
+  },
+  {
+    "lga_code": "10131",
+    "published_name": "Rockdale",
+    "digital_name": "Rockdale (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.10096960900012,
+      -34.00607394599996,
+      151.1881081790001,
+      -33.92623353199997
+    ]
+  },
+  {
+    "lga_code": "10132",
+    "published_name": "Ryde",
+    "digital_name": "Ryde (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.06501538500004,
+      -33.84172260799994,
+      151.15926388700007,
+      -33.76141353299994
+    ]
+  },
+  {
+    "lga_code": "10140",
+    "published_name": "South Sydney",
+    "digital_name": "South Sydney (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.1766400900001,
+      -33.92346004299998,
+      151.21696710600008,
+      -33.88815110099995
+    ]
+  },
+  {
+    "lga_code": "10141",
+    "published_name": "Strathfield",
+    "digital_name": "Strathfield (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.0566887450001,
+      -33.909613193999974,
+      151.09448386700012,
+      -33.84839402299997
+    ]
+  },
+  {
+    "lga_code": "10142",
+    "published_name": "Sutherland",
+    "digital_name": "Sutherland (S)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.9255684210001,
+      -34.17195388899995,
+      151.23226541700012,
+      -33.97230205699998
+    ]
+  },
+  {
+    "lga_code": "10143",
+    "published_name": "Sydney",
+    "digital_name": "Sydney (C)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.17568667500007,
+      -33.90507288599997,
+      151.23313880900002,
+      -33.85365891499998
+    ]
+  },
+  {
+    "lga_code": "10161",
+    "published_name": "Warringah",
+    "digital_name": "Warringah (S)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.16101212600006,
+      -33.792451394999944,
+      151.34303969200005,
+      -33.571970601999965
+    ]
+  },
+  {
+    "lga_code": "10162",
+    "published_name": "Waverley",
+    "digital_name": "Waverley (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.24091974300006,
+      -33.91123248899993,
+      151.28663790000007,
+      -33.85709227099994
+    ]
+  },
+  {
+    "lga_code": "10166",
+    "published_name": "Willoughby",
+    "digital_name": "Willoughby (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.14331119100007,
+      -33.82481900799996,
+      151.23319955300008,
+      -33.77852174599997
+    ]
+  },
+  {
+    "lga_code": "10169",
+    "published_name": "Wollondilly",
+    "digital_name": "Wollondilly (S)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      150.03522338000005,
+      -34.34134819299993,
+      150.90971005200004,
+      -33.80170120899993
+    ]
+  },
+  {
+    "lga_code": "10171",
+    "published_name": "Woollahra",
+    "digital_name": "Woollahra (M)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.21940393400007,
+      -33.89218263299995,
+      151.28790240400008,
+      -33.832873235999955
+    ]
+  },
+  {
+    "lga_code": "10172",
+    "published_name": "Wyong",
+    "digital_name": "Wyong (S)",
+    "label_status": "matches_published",
+    "geometry_valid": true,
+    "bounds": [
+      151.20048984000005,
+      -33.40027668199997,
+      151.6365763780001,
+      -33.04321951099996
+    ]
+  }
+]

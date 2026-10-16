@@ -1,0 +1,467 @@
+{
+  "id": "55900153",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "3788806",
+  "holdingNumber": "MAP G8971.G46 svar (Copy 1)",
+  "pid": "nla.obj-559001539",
+  "title": "Parish of Narrandera, County of Cooper [cartographic material] : Land District of Narrandera, Yanko Shire & Municipality of Narrandera, Central Division, N.S.W.",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1938",
+  "creator": "New South Wales. Department of Lands.",
+  "extent": "1 map ; 53 x 58 cm.",
+  "publisherName": "[Dept. of Lands]",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 17360395,
+      "filename": "55902353.jp2",
+      "filesize": 15792592,
+      "technicalmetadata": {
+        "width": 12759,
+        "height": 19932
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 762959112
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01426cem a2200313 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "b",
+                "content": 31680
+              },
+              {
+                "code": "d",
+                "content": "E1434100"
+              },
+              {
+                "code": "e",
+                "content": "E1434100"
+              },
+              {
+                "code": "f",
+                "content": "S0343500"
+              },
+              {
+                "code": "g",
+                "content": "S0343500"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1938"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.G46 svar"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Parish of Narrandera, County of Cooper"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Land District of Narrandera, Yanko Shire & Municipality of Narrandera, Central Division, N.S.W. /"
+              },
+              {
+                "code": "c",
+                "content": "compiled, drawn and printed at the Dept. of Lands, N.S.W."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "7th ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [1:31,680]"
+              },
+              {
+                "code": "c",
+                "content": "(E 143\u00b041\u02b9/S 34\u00b035\u02b9)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney, N.S.W. :"
+              },
+              {
+                "code": "b",
+                "content": "[Dept. of Lands],"
+              },
+              {
+                "code": "c",
+                "content": 1938
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "53 x 58 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral map showing parish boundaries and land holdings."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Date of map, 27th June 1938\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-559001539"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Narrandera (Parish)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Narrandera (N.S.W. : Parish)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Parish maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-559001539"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "e201a5f2-2a49-512d-be57-06f3d4fea4d2"
+              },
+              {
+                "code": "i",
+                "content": "15780c22-957c-5548-8929-de1b4819dcef"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 3788806
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "060925s1938    xna       a  s      eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230919000053.3
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G46 svar"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4254523
+          },
+          {
+            "tag": "004",
+            "content": 3788806
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP2"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G46 svar"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 2)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4254524
+          },
+          {
+            "tag": "004",
+            "content": 3788806
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-559001539"
+}

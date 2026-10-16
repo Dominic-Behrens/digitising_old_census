@@ -1,0 +1,562 @@
+{
+  "id": "55696378",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "bibLevel": "Item",
+  "bibId": "7461976",
+  "holdingNumber": "MAP G8971.G46 s25",
+  "pid": "nla.obj-556963784",
+  "title": "1:25 000 property map series New South Wales Australia",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Not Captured",
+  "startDate": "01 January 1974",
+  "creator": "Central Mapping Authority of New South Wales, cartographer, issuing body.",
+  "extent": "maps ; sheets 85 x 120 cm or smaller",
+  "isMissingPage": "false",
+  "publisherName": "Central Mapping Authority",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 17305301,
+      "filename": "55696402.jp2",
+      "filesize": 2217770,
+      "technicalmetadata": {
+        "width": 4946,
+        "height": 7167
+      }
+    },
+    {
+      "copyrole": "i",
+      "access": "true",
+      "filesize": 35476188
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02424cem a2200445 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 25000
+              },
+              {
+                "code": "d",
+                "content": "E1405900"
+              },
+              {
+                "code": "e",
+                "content": "E1590600"
+              },
+              {
+                "code": "f",
+                "content": "S0280900"
+              },
+              {
+                "code": "g",
+                "content": "S0373000"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNL)7461976"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1974"
+              },
+              {
+                "code": "b",
+                "content": "d1987"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.G46 s25"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Central Mapping Authority of New South Wales,"
+              },
+              {
+                "code": "e",
+                "content": "cartographer,"
+              },
+              {
+                "code": "e",
+                "content": "issuing body."
+              },
+              {
+                "code": 0,
+                "content": 344907
+              },
+              {
+                "code": 9,
+                "content": "266239a0-55f5-5f51-80cc-662549e2dcaf"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1:25 000 property map series New South Wales Australia /"
+              },
+              {
+                "code": "c",
+                "content": "Central Mapping Authority of New South Wales."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "New South Wales Australia 1:25 000 property map series"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "Later editions titled:"
+              },
+              {
+                "code": "a",
+                "content": "New South Wales Australia 1:25 000 cadastral series"
+              }
+            ],
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Various editions."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:25,000"
+              },
+              {
+                "code": "c",
+                "content": "(E 140\u00b059\u02b900\u02ba--E 159\u00b006\u02b900\u02ba/S 28\u00b009\u02b900\u02ba--S 37\u00b030\u02b900\u02ba)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Bathurst, New South Wales] :"
+              },
+              {
+                "code": "b",
+                "content": "Central Mapping Authority,"
+              },
+              {
+                "code": "c",
+                "content": "1974-1987."
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "maps ;"
+              },
+              {
+                "code": "c",
+                "content": "sheets 85 x 120 cm or smaller"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral map series of New South Wales showing land holdings, parishes, local government areas, parish, county and shire boundaries, roads, tracks, homesteads, railway stations, and watercourses."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Dyeline print."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Logo on sheets: Central Mapping Authority."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"This map has been compiled from information supplied by the Lands and Valuer Generals Departments and is periodically revised.\"--On earlier editions."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Each sheet is named and numbered individually."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Earlier editions include tables indicating parish, property name, area in hectares, land owner and valuation number."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes legend, index to adjoining sheets, key to counties and local government areas, and key to updating."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cadastral maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of the Valuer-General."
+              },
+              {
+                "code": 0,
+                "content": 115935
+              },
+              {
+                "code": 9,
+                "content": "fa39dff1-867c-5f97-9fa4-815cfed9892d"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 2,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "Map index at National Library of Australia"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-556963784/mapindex"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "68c0e3d9-68ac-5acb-8314-f66a05f01766"
+              },
+              {
+                "code": "i",
+                "content": "c8ec27e0-9677-5511-bd50-68d0a3cbd191"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7461976
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "170907m19741987xna       b  s  0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240325150700.2
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G46 s25"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8170659
+          },
+          {
+            "tag": "004",
+            "content": 7461976
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-556963784"
+}

@@ -1,0 +1,497 @@
+{
+  "id": "23007993",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "3931161",
+  "holdingNumber": "MAP LFSP 128, Folder 7",
+  "pid": "nla.obj-230079939",
+  "title": "Plan of north Annandale [cartographic material] : municipality of Leichhardt, the property of the Sydney Freehold, Land, Building & Investment Coy. Ltd.",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1900",
+  "creator": "Higinbotham & Robinson.",
+  "extent": "1 map ; 97.2 x 58.1 cm.",
+  "publisherName": "Higinbotham & Robinson, Lithos., 62 Elizabeth St.",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7609006,
+      "filename": "23007998.jp2",
+      "filesize": 5553050,
+      "technicalmetadata": {
+        "width": 7515,
+        "height": 11904
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 268399444
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01864ced a2200385 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 2376
+            },
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[Loose-leaf Ferguson sales plans]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 3931161
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1900"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": 0,
+                "content": 873160
+              },
+              {
+                "code": 9,
+                "content": "80526dd8-3a81-5ad7-8149-8b399351e319"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Plan of north Annandale"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "municipality of Leichhardt, the property of the Sydney Freehold, Land, Building & Investment Coy. Ltd. /"
+              },
+              {
+                "code": "c",
+                "content": "compiled and lithographed for the Company by Higinbotham & Robinson, 62 Elizth. St. ; William Shenstone, Manager, Office, 359 George St., Sydney."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": 0,
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "North Annandale"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale [1:2,376]. 3 chains or 198 ft. to an inch."
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Higinbotham & Robinson, Lithos., 62 Elizabeth St.,"
+              },
+              {
+                "code": "c",
+                "content": "[1900?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "97.2 x 58.1 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Sales plan for the suburb of north Annandale in Sydney."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Torrens title\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Compass rose has Fiat Lux insignia."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Oriented with north slightly to the left."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP LFSP 128, Folder 7 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-230079939"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Annandale"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Annandale (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": "Shenstone, W. H."
+            },
+            "tag": 700
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Sydney Freehold Land Building & Investment Company."
+            },
+            "tag": 710
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Loose-leaf Ferguson sales plans."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP LFSP 128, Folder 7 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-230079939"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "[Loose-leaf Ferguson sales plans]"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)4492592"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "00b2049a-6f27-53d3-a396-42e851a855f5"
+              },
+              {
+                "code": "s",
+                "content": "3c7ba1df-2348-5a25-90b5-67ec90dfd635"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 3931161
+          },
+          {
+            "tag": "005",
+            "content": 20230925143647.6
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "070315s1900    xna       a     0   eng"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP LFSP 128, Folder 7"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4417091
+          },
+          {
+            "tag": "004",
+            "content": 3931161
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "213147581",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "4492592",
+    "holdingNumber": "MAP LFSP, Folder 1-Folder 206",
+    "pid": "nla.obj-2131475812",
+    "title": "Loose-leaf Ferguson sales plans [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1880",
+    "creator": "",
+    "extent": "3,032 maps : some colour",
+    "isMissingPage": "false",
+    "publisherName": "s.n.",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      3729
+    ],
+    "projectIds": [
+      3957,
+      24844,
+      39011
+    ]
+  },
+  "topLevelCollection": "nla.obj-2131475812"
+}

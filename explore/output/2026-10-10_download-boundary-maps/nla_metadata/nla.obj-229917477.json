@@ -1,0 +1,546 @@
+{
+  "id": "22991747",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "1761569",
+  "holdingNumber": "MAP F 150",
+  "pid": "nla.obj-229917477",
+  "title": "Map of the Municipality of Hunters Hill, situate in the Parish of Hunters Hill [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1886",
+  "creator": "Higinbotham, Robinson and Harrison.",
+  "extent": "1 map : col., mounted on linen ; 94 x 144 cm.",
+  "publisherName": "Higinbotham, Robinson & Harrison : John Sands",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7603190,
+      "filename": "22991752.jp2",
+      "filesize": 4875813,
+      "technicalmetadata": {
+        "width": 10792,
+        "height": 7254
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 234896012
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01975cem a2200373 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 6917584
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 3900
+              },
+              {
+                "code": "d",
+                "content": "E1510658"
+              },
+              {
+                "code": "e",
+                "content": "E1511054"
+              },
+              {
+                "code": "f",
+                "content": "S0334852"
+              },
+              {
+                "code": "g",
+                "content": "S0335102"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)1444830"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "ANL"
+              },
+              {
+                "code": "d",
+                "content": "NSL:M"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1886"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Higinbotham, Robinson and Harrison."
+            },
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Map of the Municipality of Hunters Hill, situate in the Parish of Hunters Hill"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "Compiled from the official plans in the Government Departments and various reliable private sources and published by Higinbotham, Robinson and Harrison, 99 Pitt St, Sydney 1886 ; John Sands printer."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:3,900]"
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b006'58\"--E 151\u00b010'54\"/S 33\u00b048'52\"--S 33\u00b051'02\")."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Higinbotham, Robinson & Harrison :"
+              },
+              {
+                "code": "b",
+                "content": "John Sands,"
+              },
+              {
+                "code": "c",
+                "content": 1886
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col., mounted on linen ;"
+              },
+              {
+                "code": "c",
+                "content": "94 x 144 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral map of Hunters Hill municipality, Sydney N.S.W. showing the location of some commercial and public buildings. Relief shown by spot heights."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map 150 from Ferguson Collection."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP F 150 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-229917477"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Hunters Hill (Municipality)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Hunters Hill (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Australian"
+            },
+            "tag": 653
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cadastral maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "John Sands (Firm)"
+              },
+              {
+                "code": 0,
+                "content": 63352
+              },
+              {
+                "code": 9,
+                "content": "f41ae287-0896-5cb4-8918-30fc829387f3"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "Ferguson rare map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)8541761"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Ferguson rare map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Ferguson Collection ;"
+              },
+              {
+                "code": "v",
+                "content": "Map 150."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP F 150 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-229917477"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "ab92183c-c9bb-5900-8e6f-ae20d73f5336"
+              },
+              {
+                "code": "i",
+                "content": "ba08c061-1e06-53b3-9321-dff1022923d7"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1761569
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "900524s1886    xnag      a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240205175111.1
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP F 150"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 694102
+          },
+          {
+            "tag": "004",
+            "content": 1761569
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "287444864",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "8541761",
+    "holdingNumber": "MAP Ferguson Collection",
+    "pid": "nla.obj-2874448645",
+    "title": "Ferguson rare map collection.",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "creator": "Ferguson, John Alexander, 1881-1969",
+    "extent": "approximately 954 maps : some colour",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      39051
+    ],
+    "projectIds": [
+      24844,
+      39046
+    ]
+  },
+  "topLevelCollection": "nla.obj-2874448645"
+}

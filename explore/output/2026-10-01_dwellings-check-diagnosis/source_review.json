@@ -1,0 +1,102 @@
+{
+  "independent_image_review": [
+    {
+      "table": 52,
+      "physical_page": 115,
+      "row": "All Dwellings / 1 room",
+      "source_values": [
+        "1,438",
+        "736",
+        "550",
+        "452",
+        "474",
+        "80",
+        "3,730"
+      ],
+      "result": "verified"
+    },
+    {
+      "table": 55,
+      "physical_page": 120,
+      "row": "All Dwellings / 12s-under-13s",
+      "source_values": [
+        "10,922",
+        "10,254",
+        "2,738",
+        "3,220",
+        "1,921",
+        "637",
+        "29,692"
+      ],
+      "result": "verified; workbook rent lower bound misidentified"
+    },
+    {
+      "table": 58,
+      "physical_page": 125,
+      "row": "Inmates of Dwellings Other Than Private / Wagons, Trains, etc.",
+      "source_values": [
+        "637",
+        "5",
+        "6",
+        "4",
+        "..",
+        "..",
+        "652"
+      ],
+      "result": "verified counts; corrected report to distinguish printed marks from numeric zero glyphs"
+    }
+  ],
+  "parent_image_review": [
+    {
+      "table": 18,
+      "physical_page": 35,
+      "row": "All Dwellings / Concrete / Total",
+      "source_value": "89",
+      "override_value": "39"
+    },
+    {
+      "table": 40,
+      "physical_page": 77,
+      "row": "Under 1s / Total",
+      "source_value": "1,484",
+      "next_row_total": "6,776"
+    },
+    {
+      "table": 68,
+      "physical_page": 194,
+      "row": "Corporations / Burra / Population per Occupied Dwelling",
+      "source_value": "4.46",
+      "override_value": "4.47"
+    },
+    {
+      "table": 48,
+      "physical_pages": [
+        108,
+        109
+      ],
+      "row": "Other and Unspecified Methods of Occupancy",
+      "source_values": {
+        "\u00a32-under-\u00a32 5s": "128",
+        "\u00a34 10s-under-\u00a34 15s": "3"
+      },
+      "worksheet_rows": [
+        213,
+        224
+      ],
+      "result": "both totals retained under wrong rent labels; prior omitted-numeric-row claim contradicted; five residual diagnoses downgraded to hypothesis"
+    }
+  ],
+  "independent_inference_review": {
+    "findings_applied": [
+      "Density interpretation conditional on exact displayed area; competing joint-rounding sensitivity demonstrated without recovering area.",
+      "Static versus guarded results are formula formats, not structural versus numeric cause groups.",
+      "Table53 category400: absent Private and additionally unmatched printed Other; seven linked instances.",
+      "Table53 E40 belongs to 300\u2013399 room row with printed Brisbane absence mark, not Total-row141; confirmed glyph claim downgraded to supported reading/alignment disagreement."
+    ],
+    "confirmed_cautious_claims": [
+      "Cross-average cohort compatibility not established.",
+      "999 structural-applicability primary diagnoses reconcile; absence convention remains explicit."
+    ],
+    "limits": "Bounded source/mechanism review, not a complete digit audit."
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "id": "74092371",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "expiryDate": "Mon, 01 Jan 2029",
+  "subUnitNo": "J.F.N. Murray Collection / 91 (recto)",
+  "bibLevel": "Item",
+  "bibId": "4690513",
+  "holdingNumber": "MAP J.F.N. Murray 91",
+  "pid": "nla.obj-740923716",
+  "title": "Amsterdam [cartographic material] : plattegrond - plan of the town - plan de cité - stadtplan.",
+  "accessConditions": "Onsite Only",
+  "copyrightPolicy": "In Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1950",
+  "creator": "",
+  "extent": "1 map : col. ; 36 x 41 cm.",
+  "isMissingPage": "false",
+  "publisherName": "Nederlandsche Handel-Maatschappij, N.V., Bank",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 45756905,
+      "filename": "74095695.jp2",
+      "filesize": 6891026,
+      "technicalmetadata": {
+        "width": 12223,
+        "height": 9036
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 331363536
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01042ced a22002177a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[J.F.N. Murray map collection]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Amsterdam"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "plattegrond - plan of the town - plan de cité - stadtplan."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale not given."
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Amsterdam] :"
+              },
+              {
+                "code": "b",
+                "content": "Nederlandsche Handel-Maatschappij, N.V., Bank,"
+              },
+              {
+                "code": "c",
+                "content": "[195-?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "36 x 41 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of Amsterdam showing places of interest with index. Includes map of North Holland with places of interest on verso."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1586156791"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "J.F.N. Murray map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1586156791"
+              },
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "J.F.N. Murray map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)2988163"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "bbf7967c-1a1a-5219-a95e-1d4615d85821"
+              },
+              {
+                "code": "i",
+                "content": "0a843f6e-9c12-5bcb-aff4-a952bc1e166c"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4690513
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "090824q19501959ne        a     0   dut"
+          },
+          {
+            "tag": "005",
+            "content": 20230706095528.3
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP J.F.N. Murray 91"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5208393
+          },
+          {
+            "tag": "004",
+            "content": 4690513
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "158615679",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "subUnitNo": "J.F.N. Murray Collection / 91",
+    "bibLevel": "Item",
+    "bibId": "4690513",
+    "holdingNumber": "MAP J.F.N. Murray 91",
+    "pid": "nla.obj-1586156791",
+    "title": "Amsterdam [cartographic material] : plattegrond - plan of the town - plan de cité - stadtplan.",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1950",
+    "creator": "",
+    "extent": "1 map : col. ; 36 x 41 cm.",
+    "isMissingPage": "false",
+    "publisherName": "Nederlandsche Handel-Maatschappij, N.V., Bank",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-708368901"
+}

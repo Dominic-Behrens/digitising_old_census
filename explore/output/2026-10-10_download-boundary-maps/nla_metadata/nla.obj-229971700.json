@@ -1,0 +1,510 @@
+{
+  "id": "22997170",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "591238",
+  "holdingNumber": "MAP F 560",
+  "pid": "nla.obj-229971700",
+  "title": "Canterbury Parishes of Petersham Concord & St. George [cartographic material].",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1889",
+  "creator": "",
+  "extent": "1 map : col. ; 22 x 34 cm.",
+  "publisherName": "Lithographed & published by Higinbotham and Robinson ... No. 99 Pitt Street",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 157897034,
+      "filename": "nla.obj-229971759.jp2",
+      "filesize": 837495,
+      "technicalmetadata": {
+        "width": 4452,
+        "height": 3016
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 40379254
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01684cem a2200349 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 7755656
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 31000
+              },
+              {
+                "code": "d",
+                "content": "E1510548"
+              },
+              {
+                "code": "e",
+                "content": "E1510548"
+              },
+              {
+                "code": "f",
+                "content": "S0335520"
+              },
+              {
+                "code": "g",
+                "content": "S0335520"
+              },
+              {
+                "code": 2,
+                "content": "geonames"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)1524775"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "ANL"
+              },
+              {
+                "code": "d",
+                "content": "NSL:M"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1889"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Canterbury Parishes of Petersham Concord & St. George"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:31,000]"
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b005\u02b948\u02ba--E 151\u00b005\u02b948\u02ba/S 33\u00b055\u02b920\u02ba--S 33\u00b055\u02b920\u02ba)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Lithographed & published by Higinbotham and Robinson ... No. 99 Pitt Street,"
+              },
+              {
+                "code": "c",
+                "content": "[1889?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "22 x 34 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Publication date from publisher's address and gazettal of Charlotte St. in 1888."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of Canterbury showing municipal boundary, wards, streets, public buildings with relief shown by hachures."
+            },
+            "tag": 520
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP F 560 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-229971700"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Canterbury (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney (N.S.W.)"
+              },
+              {
+                "code": "x",
+                "content": "Administrative and political divisions"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Australian"
+            },
+            "tag": 653
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": 0,
+                "content": 873160
+              },
+              {
+                "code": 9,
+                "content": "80526dd8-3a81-5ad7-8149-8b399351e319"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "Ferguson rare map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)8541761"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Ferguson rare map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Ferguson Collection ;"
+              },
+              {
+                "code": "v",
+                "content": "Map F 560."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP F 560 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-229971700"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "fe9d489b-1095-5282-b29f-084c41d9cea1"
+              },
+              {
+                "code": "i",
+                "content": "4226e18e-0600-5710-b266-f9f148ca85bc"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 591238
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "910306s1889    xnad      a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240412140944.4
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP F 560"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 774511
+          },
+          {
+            "tag": "004",
+            "content": 591238
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "287444864",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "8541761",
+    "holdingNumber": "MAP Ferguson Collection",
+    "pid": "nla.obj-2874448645",
+    "title": "Ferguson rare map collection.",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "creator": "Ferguson, John Alexander, 1881-1969",
+    "extent": "approximately 954 maps : some colour",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      39051
+    ],
+    "projectIds": [
+      24844,
+      39046
+    ]
+  },
+  "topLevelCollection": "nla.obj-2874448645"
+}

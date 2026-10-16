@@ -1,0 +1,485 @@
+{
+  "id": "58667441",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "expiryDate": "Fri, 01 Jan 2021",
+  "bibLevel": "Item",
+  "bibId": "4237245",
+  "holdingNumber": "MAP G8971.G46 svar (Copy 1)",
+  "pid": "nla.obj-586674417",
+  "title": "Parish of Wallendoon, County of Harden [cartographic material] : Land Districts, Cootamundry & Young, Shires, Demondrille & Jindalee Shires, Pastures Protection Districts, Gundagai & Young.",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "In Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1971",
+  "creator": "New South Wales. Department of Lands.",
+  "extent": "1 map ; 56 x 76 cm.",
+  "publisherName": "Dept. of Lands",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 18210549,
+      "filename": "58668678.jp2",
+      "filesize": 16252062,
+      "technicalmetadata": {
+        "width": 18668,
+        "height": 13924
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 779818920
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01414cem a2200325 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 31680
+              },
+              {
+                "code": "d",
+                "content": "E1471000"
+              },
+              {
+                "code": "e",
+                "content": "E1471000"
+              },
+              {
+                "code": "f",
+                "content": "S0343200"
+              },
+              {
+                "code": "g",
+                "content": "S0343200"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1971"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.G46 svar"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Parish of Wallendoon, County of Harden"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Land Districts, Cootamundry & Young, Shires, Demondrille & Jindalee Shires, Pastures Protection Districts, Gundagai & Young."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Ed. 7th."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:31,680]"
+              },
+              {
+                "code": "c",
+                "content": "(E 147\u00b010'/S 34\u00b032')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Dept. of Lands,"
+              },
+              {
+                "code": "c",
+                "content": 1971
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "56 x 76 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral map showing parish boundaries and land holdings."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Date of map - 27th April 1971\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"70.1040\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-586674417"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Wallendoon (Parish)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Wallendoon (N.S.W. : Parish)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Parish maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-586674417"
+              },
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "07c758cb-412b-5b95-b47c-016734c851e4"
+              },
+              {
+                "code": "i",
+                "content": "3f248f1b-494d-5c66-b205-b3924bfc8df1"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4237245
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "071107s1971    xna       a  s  |   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230918234801.3
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G46 svar"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4745795
+          },
+          {
+            "tag": "004",
+            "content": 4237245
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP2"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G46 svar"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 2)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Dye line print"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4745797
+          },
+          {
+            "tag": "004",
+            "content": 4237245
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-586674417"
+}

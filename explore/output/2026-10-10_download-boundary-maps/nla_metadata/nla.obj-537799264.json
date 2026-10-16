@@ -1,0 +1,417 @@
+{
+  "id": "53779926",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "expiryDate": "Sat, 01 Jan 2028",
+  "bibLevel": "Item",
+  "bibId": "3722048",
+  "holdingNumber": "MAP G8971.G46 1978",
+  "pid": "nla.obj-537799264",
+  "title": "Parish of Jamberoo, County of Camden, Land Districts - Kiama & Moss Vale, Shire - Wingecarribee, Municipalities - Shellharbour & Kiama, Pastures Protection District - Moss Vale, Division - Eastern, N.S.W. [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "In Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1978",
+  "creator": "New South Wales. Department of Lands.",
+  "extent": "1 map ; 52 x 47 cm.",
+  "publisherName": "Printed & published by Dept. of Lands",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 16703309,
+      "filename": "53781588.jp2",
+      "filesize": 22549434,
+      "technicalmetadata": {
+        "width": 22260,
+        "height": 16474
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1100154220
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01445cem a2200313 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 25000
+              },
+              {
+                "code": "d",
+                "content": "E1504700"
+              },
+              {
+                "code": "e",
+                "content": "E1504700"
+              },
+              {
+                "code": "f",
+                "content": "S0343600"
+              },
+              {
+                "code": "g",
+                "content": "S0343600"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1978"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": "G8971.G46 1978"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Parish of Jamberoo, County of Camden, Land Districts - Kiama & Moss Vale, Shire - Wingecarribee, Municipalities - Shellharbour & Kiama, Pastures Protection District - Moss Vale, Division - Eastern, N.S.W."
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]"
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "9th ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:25,000"
+              },
+              {
+                "code": "c",
+                "content": "(E 150\u00b047\u02b9/S 34\u00b036\u02b9)"
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Printed & published by Dept. of Lands,"
+              },
+              {
+                "code": "c",
+                "content": 1978
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "52 x 47 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral map showing parish boundaries and land holdings."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Date of map - 9th January 1978\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-537799264"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Jamberoo (Parish)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Jamberoo (N.S.W. : Parish)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Parish maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-537799264"
+              },
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "15122c64-2229-5d8f-8d30-3e8cb2628d35"
+              },
+              {
+                "code": "i",
+                "content": "29429544-4b2a-5e32-a508-6794c3d53ab7"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 3722048
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "060721s1978    xna       a  s  1   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230918230209.2
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G46 1978"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4179246
+          },
+          {
+            "tag": "004",
+            "content": 3722048
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-537799264"
+}

@@ -1,0 +1,525 @@
+{
+  "id": "48504978",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "7386072",
+  "holdingNumber": "MAP G8971.F7 [1948]",
+  "pid": "nla.obj-485049786",
+  "title": "Map of the County of Cumberland : showing municipalities and shires",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1948",
+  "creator": "New South Wales. Department of Lands, cartographer, issuing body.",
+  "extent": "1 map : colour ; 45 x 32 cm, on sheet 48 x 35 cm",
+  "publisherName": "Department of Lands",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 15190317,
+      "filename": "48504992.jp2",
+      "filesize": 5782037,
+      "technicalmetadata": {
+        "width": 8260,
+        "height": 11260
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 279044868
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01706cem a2200373 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 22647829
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 253440
+              },
+              {
+                "code": "d",
+                "content": "E1502400"
+              },
+              {
+                "code": "e",
+                "content": "E1512400"
+              },
+              {
+                "code": "f",
+                "content": "S0332900"
+              },
+              {
+                "code": "g",
+                "content": "S0342700"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "(OCoLC)222919116"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "VSL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              },
+              {
+                "code": "c",
+                "content": "VSL"
+              },
+              {
+                "code": "d",
+                "content": "NSL"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1948"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.F7 1948"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": 4,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": 912.9441
+              },
+              {
+                "code": 2,
+                "content": 21
+              }
+            ],
+            "tag": "082"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands,"
+              },
+              {
+                "code": "e",
+                "content": "cartographer,"
+              },
+              {
+                "code": "e",
+                "content": "issuing body."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Map of the County of Cumberland :"
+              },
+              {
+                "code": "b",
+                "content": "showing municipalities and shires /"
+              },
+              {
+                "code": "c",
+                "content": "compiled, drawn and printed at the Department of Lands, Sydney, N.S.W."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale approximately 1:253,440"
+              },
+              {
+                "code": "c",
+                "content": "(E 150\u00b024'00\"--E 151\u00b024'00\"/S 33\u00b029'00\"--S 34\u00b027'00\")."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney, N.S.W. :"
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands,"
+              },
+              {
+                "code": "c",
+                "content": "[1948]"
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "colour ;"
+              },
+              {
+                "code": "c",
+                "content": "45 x 32 cm, on sheet 48 x 35 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "County map showing municipality, shire and metropolitan boundaries. Also shows railways and main roads."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"48-1840.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-485049786"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Local government"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Cumberland"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cumberland (N.S.W.)"
+              },
+              {
+                "code": "x",
+                "content": "Administrative and political divisions"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cumberland (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-485049786"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "942e7874-5828-5d59-962c-5edf7f8b01b6"
+              },
+              {
+                "code": "i",
+                "content": "ea1eda29-8075-5a67-91b2-47de9915ffad"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7386072
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "010501s1948    xna       a  s  0   eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20240129001833.2
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.F7 [1948]"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8086567
+          },
+          {
+            "tag": "004",
+            "content": 7386072
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-485049786"
+}

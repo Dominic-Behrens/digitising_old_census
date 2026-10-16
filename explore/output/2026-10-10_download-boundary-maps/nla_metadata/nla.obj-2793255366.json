@@ -1,0 +1,495 @@
+{
+  "id": "279325536",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "8416211",
+  "holdingNumber": "MAP G8971.F85 1957",
+  "pid": "nla.obj-2793255366",
+  "title": "Police administrative districts New South Wales including all police stations.",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1957",
+  "creator": "",
+  "extent": "1 map ; on sheet 35 x 42 cm",
+  "isMissingPage": "false",
+  "publisherName": "[publisher not identified]",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 132438784,
+      "filename": "279325562.jp2",
+      "filesize": 5279551,
+      "technicalmetadata": {
+        "width": 10109,
+        "height": 8381
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 254191868
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01929cem a2200373 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 3294720
+              },
+              {
+                "code": "d",
+                "content": "E1405900"
+              },
+              {
+                "code": "e",
+                "content": "E1540200"
+              },
+              {
+                "code": "f",
+                "content": "S0280800"
+              },
+              {
+                "code": "g",
+                "content": "S0373100"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1957"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.F85 1957"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": "Police administrative districts New South Wales including all police stations."
+            },
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale approximately 1:3,294,720"
+              },
+              {
+                "code": "c",
+                "content": "(E 140\u00b059\u02b900\u02ba--E 154\u00b002\u02b900\u02ba/S 28\u00b008\u02b900\u02ba--S 37\u00b031\u02b900\u02ba)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[New South Wales] :"
+              },
+              {
+                "code": "b",
+                "content": "[publisher not identified],"
+              },
+              {
+                "code": "c",
+                "content": 1957
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "on sheet 35 x 42 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Shows boundaries of administrative districts, Inspector's sub-districts, police stations with superindentents' offices, Inspectors' stations and police stations."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes legend, list of police stations in Newcastle and Wallsend sub-districts, and list of police stations in Sydney Metropolitan Area."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "National Library of Australia's copy includes handwritten annotations in blue. Stamped in purple ink \"Dept. of National Development Geographic Section Canberra\"."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP G8971.F85 1957 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-2793255366"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Police administration"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Police stations"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "x",
+                "content": "Administrative and political divisions"
+              },
+              {
+                "code": "v",
+                "content": "Maps"
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Australian"
+            },
+            "tag": 653
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Thematic maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP G8971.F85 1957 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-2793255366"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "689ae1fe-0eb1-5e77-84ac-5744592f6fc4"
+              },
+              {
+                "code": "i",
+                "content": "55a67bda-43a6-5a1f-8fe0-0bd9081ca2f6"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8416211
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "200626s1957    xna       a     1   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230706211348.7
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.F85 1957"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 9165117
+          },
+          {
+            "tag": "004",
+            "content": 8416211
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-2793255366"
+}

@@ -1,0 +1,581 @@
+{
+  "id": "22997071",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "2113646",
+  "holdingNumber": "MAP F 551",
+  "pid": "nla.obj-229970714",
+  "title": "Chippendale [cartographic material] / plan of 54 valuable building lots fronting the Botany Road and the Government St which forms the municipal boundary of the City of Sydney",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1842",
+  "creator": "Meikle, A. W.",
+  "extent": "1 map ; 50 x 37 cm.",
+  "publisherName": "Baker Lithographer Hibernian Print Office King St. East",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 157897026,
+      "filename": "nla.obj-229970767.jp2",
+      "filesize": 2381799,
+      "technicalmetadata": {
+        "width": 5603,
+        "height": 6867
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 115537572
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01928cem a2200409 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 7755701
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "d",
+                "content": "E1511200"
+              },
+              {
+                "code": "e",
+                "content": "E1511200"
+              },
+              {
+                "code": "f",
+                "content": "S0335300"
+              },
+              {
+                "code": "g",
+                "content": "S0335300"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)1524794"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "ANL"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1842"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": "Meikle, A. W."
+            },
+            "tag": 100
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Chippendale"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "b",
+                "content": "plan of 54 valuable building lots fronting the Botany Road and the Government St which forms the municipal boundary of the City of Sydney"
+              },
+              {
+                "code": "c",
+                "content": "A. W. Meikle."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale not given"
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b012'/S 33\u00b053')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Baker Lithographer Hibernian Print Office King St. East,"
+              },
+              {
+                "code": "c",
+                "content": 1842
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "50 x 37 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Local sketch\" showing location of Coopers Distllery and Tooths brewery."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"To be sold by auction by Mr Stubbs 1842\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Sales plan of land between Botany Road and Hart Street Chippendale."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP F 551 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-229970714"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Chippendale"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Chippendale (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Australian"
+            },
+            "tag": 653
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cadastral maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Baker, William Kellett."
+              },
+              {
+                "code": 0,
+                "content": 96623
+              },
+              {
+                "code": 9,
+                "content": "6333ac49-fef6-5198-a2b7-ce9138c5d53c"
+              }
+            ],
+            "tag": 700
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Stubbs, Thomas,"
+              },
+              {
+                "code": "d",
+                "content": -1878
+              },
+              {
+                "code": 0,
+                "content": 86666
+              },
+              {
+                "code": 9,
+                "content": "3d9dc27a-a081-5314-9afb-281ce24f9666"
+              }
+            ],
+            "tag": 700
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Bakers (Firm)"
+              },
+              {
+                "code": 0,
+                "content": 4
+              },
+              {
+                "code": 9,
+                "content": "ad5e5abe-d718-5d47-9004-5b348051500a"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "Ferguson rare map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)8541761"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Ferguson rare map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Ferguson Collection ;"
+              },
+              {
+                "code": "v",
+                "content": "Map F 551."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP F 551 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-229970714"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "17a9e7a9-d42c-5098-91f7-169e77a856cc"
+              },
+              {
+                "code": "i",
+                "content": "bd840a22-bd5f-5d2f-8582-dbb53994645f"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 2113646
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "910306s1842    xna       a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240216030712.1
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP F 551"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 774532
+          },
+          {
+            "tag": "004",
+            "content": 2113646
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "287444864",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "8541761",
+    "holdingNumber": "MAP Ferguson Collection",
+    "pid": "nla.obj-2874448645",
+    "title": "Ferguson rare map collection.",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "creator": "Ferguson, John Alexander, 1881-1969",
+    "extent": "approximately 954 maps : some colour",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      39051
+    ],
+    "projectIds": [
+      24844,
+      39046
+    ]
+  },
+  "topLevelCollection": "nla.obj-2874448645"
+}

@@ -1,0 +1,458 @@
+{
+  "id": "180466668",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "bibLevel": "Item",
+  "bibId": "7385951",
+  "holdingNumber": "MAP G8974.P4G45 [195-?]",
+  "pid": "nla.obj-1804666686",
+  "title": "Municipality of Penrith",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1950",
+  "creator": "New South Wales. Department of Local Government, cartographer. issuing body.",
+  "extent": "2 maps on one sheet : colour ; sheet 115 x 74 cm",
+  "sheetCreationDate": "1959",
+  "publisherName": "[Dept. of Local Government]",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 114353721,
+      "filename": "180468816.jp2",
+      "filesize": 30159894,
+      "technicalmetadata": {
+        "width": 17747,
+        "height": 27271
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1451955296
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01431cem a2200313 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 32187
+              },
+              {
+                "code": "d",
+                "content": "E1504100"
+              },
+              {
+                "code": "e",
+                "content": "E1504100"
+              },
+              {
+                "code": "f",
+                "content": "S0334500"
+              },
+              {
+                "code": "g",
+                "content": "S0334500"
+              },
+              {
+                "code": 2,
+                "content": "gooearth"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1950"
+              },
+              {
+                "code": "b",
+                "content": "d1959"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8974.P4G45 1950"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Local Government,"
+              },
+              {
+                "code": "e",
+                "content": "cartographer."
+              },
+              {
+                "code": "e",
+                "content": "issuing body."
+              },
+              {
+                "code": 0,
+                "content": 1813
+              },
+              {
+                "code": 9,
+                "content": "613a7d79-3146-5428-b8aa-7ff2aef46012"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Municipality of Penrith /"
+              },
+              {
+                "code": "c",
+                "content": "Department of Local Government"
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale approximately 1:32,187"
+              },
+              {
+                "code": "c",
+                "content": "(E 150\u00b041\u02b9/S 33\u00b045\u02b9)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney, N.S.W.] :"
+              },
+              {
+                "code": "b",
+                "content": "[Dept. of Local Government],"
+              },
+              {
+                "code": "c",
+                "content": "[195-?]."
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "2 maps on one sheet :"
+              },
+              {
+                "code": "b",
+                "content": "colour ;"
+              },
+              {
+                "code": "c",
+                "content": "sheet 115 x 74 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of town of Penrith showing details of town planning zones, reservations and general information."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1804666686"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "City Planning"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Penrith (Municipality)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Penrith (N.S.W. : Municipality)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1804666686"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "5d5e61a6-35ad-506a-8fe5-d97c3ba2aa5e"
+              },
+              {
+                "code": "i",
+                "content": "edb94be8-eebc-5091-92cd-1a46c46236ef"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7385951
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "170605q19501959xna       a  s  0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240122214713.6
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.P4G45 [195-?]"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8086377
+          },
+          {
+            "tag": "004",
+            "content": 7385951
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-1804666686"
+}

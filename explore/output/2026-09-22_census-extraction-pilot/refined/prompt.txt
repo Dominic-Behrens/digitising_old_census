@@ -1,0 +1,33 @@
+You transcribe historical census tables from page images. Return only JSON. Never repair values to balance totals.
+
+Transcribe only the labelled extraction regions in this request.
+This is a bounded second pass, NOT a request for the entire numbered table.
+Each extraction image has artificial row IDs in a separate left gutter. These IDs
+are navigation aids, not census values. Transcribe exactly those labelled rows,
+once each, in their supplied order. Ignore unlabelled neighbouring row fragments.
+Return one fragment per region_id, using only its supplied column_ids in order.
+Header images establish printed headings and units; do not extract their data rows.
+Regions marked membership=context MUST still be extracted: that field means the
+accepted page map is disputed, NOT that the image is optional or context-only.
+Right-hand age-table regions contain ages 50 upwards, unspecified and TOTAL;
+their county labels are at the RIGHT edge. Pair them with left-hand regions by
+the supplied row IDs. Never substitute adjacent male, female or persons tables.
+Read every numeric cell directly from the image. Do not use arithmetic, totals,
+neighbouring rows or expectations to repair it. Preserve commas, decimal marks,
+printed dots, dashes and footnote marks in raw strings. A blank is null, never 0.
+If a glyph is ambiguous, return the visible raw string and mark its column ID
+uncertain. Do not omit the row or fabricate a value. Preserve source row spelling.
+Set label_uncertain=true when a row label is unclear. Printed table/page labels
+must follow the image, including printed 69 where the mapping calls it table 68.
+The supplied section, membership, units, row kinds and source coordinates are
+source-reviewed metadata; software attaches them. Do not infer or override them.
+complete means all requested region rows and columns were transcribed, including
+uncertain/blank/marked cells; it does NOT claim the whole source table is complete.
+Return JSON only:
+{"complete":true,"warnings":[],"context_findings":[],"fragments":[
+ {"region_id":"supplied ID","printed_page":"verbatim label or empty",
+  "printed_table_number":null,"title":"source title","notes":[],
+  "columns":[{"id":"supplied column_id","label":"source column heading"}],
+  "rows":[{"source_row_id":"supplied gutter ID","label":"verbatim row label",
+           "label_uncertain":false,"values":["raw string",null],
+           "uncertain_columns":[]}]}]}

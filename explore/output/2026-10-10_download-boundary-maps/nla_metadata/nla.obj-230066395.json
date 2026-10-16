@@ -1,0 +1,451 @@
+{
+  "id": "23006639",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "3912864",
+  "holdingNumber": "MAP LFSP 22, Folder 3",
+  "pid": "nla.obj-230066395",
+  "title": "Alexandria [cartographic material] : Parishes of Alexandria and Petersham.",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1890",
+  "creator": "Higinbotham & Robinson.",
+  "extent": "1 map : col. ; 33.9 x 21.9 cm.",
+  "publisherName": "Lithographed & published by Higinbotham and Robinson, draughtsmen, lithographers, and map publishers, no. 99 Pitt Street",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7608530,
+      "filename": "23006644.jp2",
+      "filesize": 856627,
+      "technicalmetadata": {
+        "width": 3090,
+        "height": 4458
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 41348732
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01448ced a2200313 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 11880
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[Loose-leaf Ferguson sales plans]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 3912864
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1890"
+              },
+              {
+                "code": "b",
+                "content": "d1899"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": 0,
+                "content": 873160
+              },
+              {
+                "code": 9,
+                "content": "80526dd8-3a81-5ad7-8149-8b399351e319"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Alexandria"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Parishes of Alexandria and Petersham."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale [ca. 1:11,880]"
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Lithographed & published by Higinbotham and Robinson, draughtsmen, lithographers, and map publishers, no. 99 Pitt Street,"
+              },
+              {
+                "code": "c",
+                "content": "[189-?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "33.9 x 21.9 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of Alexandria showing municipal boundaries, wards, tramways, railway and streets."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP LFSP 22, Folder 3 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-230066395"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Alexandria"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Alexandria (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Loose-leaf Ferguson sales plans."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP LFSP 22, Folder 3 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-230066395"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "[Loose-leaf Ferguson sales plans]"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)4492592"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "cf4e5821-e5d6-594a-8a43-207e253891f2"
+              },
+              {
+                "code": "s",
+                "content": "aef68f90-97e9-5ebc-8ed4-bd7f342db583"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 3912864
+          },
+          {
+            "tag": "005",
+            "content": 20230925143632
+          },
+          {
+            "tag": "007",
+            "content": "aj canun"
+          },
+          {
+            "tag": "008",
+            "content": "070215q18901899xna       a     0   eng"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP LFSP 22, Folder 3"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4396029
+          },
+          {
+            "tag": "004",
+            "content": 3912864
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "213147581",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "4492592",
+    "holdingNumber": "MAP LFSP, Folder 1-Folder 206",
+    "pid": "nla.obj-2131475812",
+    "title": "Loose-leaf Ferguson sales plans [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1880",
+    "creator": "",
+    "extent": "3,032 maps : some colour",
+    "isMissingPage": "false",
+    "publisherName": "s.n.",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      3729
+    ],
+    "projectIds": [
+      3957,
+      24844,
+      39011
+    ]
+  },
+  "topLevelCollection": "nla.obj-2131475812"
+}

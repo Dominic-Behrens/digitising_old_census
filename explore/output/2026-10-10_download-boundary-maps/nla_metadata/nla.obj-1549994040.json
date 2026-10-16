@@ -1,0 +1,494 @@
+{
+  "id": "154999404",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "expiryDate": "Sat, 01 Jan 2022",
+  "subUnitNo": "2",
+  "bibLevel": "Part",
+  "bibId": "4465794",
+  "holdingNumber": "MAP G8974.G8G46 1972 (Copy 1)",
+  "pid": "nla.obj-1549994040",
+  "title": "Town of Gunnedah and adjoining lands [cartographic material] : Parishes - Weetaliba & Gunnedah, Counties - Nandewar & Pottinger, Land District - Gunnedah, Shire - Liverpool Plains, Municipality - Gunnedah",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "In Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "commentsExternal": "Available online under Section 200AB of the Copyright Act 1968 for research purposes only.",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1972",
+  "creator": "New South Wales. Department of Lands.",
+  "extent": "1 map on 2 sheets ; 68 x 56 cm., sheet 79 x 59 cm.",
+  "sheetName": "Town of Gunnedah",
+  "sheetCreationDate": "1972",
+  "additionalSeriesStatement": "Eighth Edition",
+  "publisherName": "Dept. of Lands",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 110050497,
+      "filename": "154999779.jp2",
+      "filesize": 16068015,
+      "technicalmetadata": {
+        "width": 13835,
+        "height": 18614
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 772595144
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01507cem a2200325 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 6336
+              },
+              {
+                "code": "d",
+                "content": "E1501500"
+              },
+              {
+                "code": "e",
+                "content": "E1501500"
+              },
+              {
+                "code": "f",
+                "content": "S0305800"
+              },
+              {
+                "code": "g",
+                "content": "S0305800"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1972"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8974.G8G46 1972"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Town of Gunnedah and adjoining lands"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Parishes - Weetaliba & Gunnedah, Counties - Nandewar & Pottinger, Land District - Gunnedah, Shire - Liverpool Plains, Municipality - Gunnedah /"
+              },
+              {
+                "code": "c",
+                "content": "printed & published by Dept. of Lands Sydney."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "8th ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:6,336]"
+              },
+              {
+                "code": "c",
+                "content": "(E 150\u00b015'/S 30\u00b058')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Dept. of Lands,"
+              },
+              {
+                "code": "c",
+                "content": 1972
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map on 2 sheets ;"
+              },
+              {
+                "code": "c",
+                "content": "68 x 56 cm., sheet 79 x 59 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town map showing parish boundaries and land holdings."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Date of map - 12th January, 1972.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"71.573.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1549994011"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Gunnedah"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Gunnedah (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1549994011"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "e7fead22-df35-5cf9-9605-a55acc251ffb"
+              },
+              {
+                "code": "i",
+                "content": "8d01642a-12ac-5599-bd8b-b117b1e574ca"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4465794
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "080825s1972    xna       a  s      eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20230919003813.5
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.G8G46 1972"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 1"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 2"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4963032
+          },
+          {
+            "tag": "004",
+            "content": 4465794
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "154999401",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "subUnitType": "Sheet",
+    "expiryDate": "Sat, 01 Jan 2022",
+    "bibLevel": "Item",
+    "bibId": "4465794",
+    "holdingNumber": "MAP G8974.G8G46 1972 (Copy 1)",
+    "pid": "nla.obj-1549994011",
+    "title": "Town of Gunnedah and adjoining lands [cartographic material] : Parishes - Weetaliba & Gunnedah, Counties - Nandewar & Pottinger, Land District - Gunnedah, Shire - Liverpool Plains, Municipality - Gunnedah",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "In Copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "Available online under Section 200AB of the Copyright Act 1968 for research purposes only.",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1972",
+    "creator": "New South Wales. Department of Lands.",
+    "extent": "1 map on 2 sheets ; 68 x 56 cm., sheet 79 x 59 cm.",
+    "sheetName": "Town of Gunnedah",
+    "sheetCreationDate": "1972",
+    "additionalSeriesStatement": "Eighth Edition",
+    "publisherName": "Dept. of Lands",
+    "constraints": [
+      "Copyright"
+    ],
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-1549994011"
+}

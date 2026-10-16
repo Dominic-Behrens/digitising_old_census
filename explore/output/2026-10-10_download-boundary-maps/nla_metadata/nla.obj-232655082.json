@@ -1,0 +1,513 @@
+{
+  "id": "23265508",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "1565745",
+  "holdingNumber": "MAP T 1319",
+  "pid": "nla.obj-232655082",
+  "title": "New South Wales [cartographic material].",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1871",
+  "creator": "Weller, Edward, 1819-1884.",
+  "extent": "1 map ; 41.5 x 29.1 cm.",
+  "publisherName": "Published by Cassell, Petter & Galpin, La Belle Sauvage Yard, Ludgate Hill, E.C.",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7700103,
+      "filename": "23265513.jp2",
+      "filesize": 1443438,
+      "technicalmetadata": {
+        "width": 4012,
+        "height": 5776
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 69538048
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01694cem a2200373 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 23386469
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 3200000
+              },
+              {
+                "code": "d",
+                "content": "E1453000"
+              },
+              {
+                "code": "e",
+                "content": "E1543000"
+              },
+              {
+                "code": "f",
+                "content": "S0260000"
+              },
+              {
+                "code": "g",
+                "content": "S0373000"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)3198932"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1871"
+              },
+              {
+                "code": "b",
+                "content": "d1875"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Weller, Edward,"
+              },
+              {
+                "code": "d",
+                "content": "1819-1884."
+              },
+              {
+                "code": 0,
+                "content": 70340
+              },
+              {
+                "code": 9,
+                "content": "a5805f58-4248-54ff-9787-511b237fa1c9"
+              }
+            ],
+            "tag": 100
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:3 200 000]"
+              },
+              {
+                "code": "c",
+                "content": "(E 145\u00b030\u02b900\u02ba--E 154\u00b030\u02b900\u02ba/S 26\u00b000\u02b900\u02ba--S 37\u00b030\u02b900\u02ba)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "London :"
+              },
+              {
+                "code": "b",
+                "content": "Published by Cassell, Petter & Galpin, La Belle Sauvage Yard, Ludgate Hill, E.C.,"
+              },
+              {
+                "code": "c",
+                "content": "[between 1871 and 1875]."
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "41.5 x 29.1 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of N.S.W. showing towns, counties, rivers and railways with notes on topography. Relief shown by hachures."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Plate \"59\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Present boundary of N.S.Wales & Queensland adopted on the suggestion of Sir W. Dennison late Governor of New Sth Wales.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Tooley,"
+              },
+              {
+                "code": "c",
+                "content": 1319
+              }
+            ],
+            "tag": 510
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP T 1319 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-232655082"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Australian"
+            },
+            "tag": 653
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Cassell, Petter & Galpin."
+            },
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "R.V. Tooley map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)8535306"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "R.V. Tooley map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP T 1319 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-232655082"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "c",
+                "content": "MAP T 1319"
+              }
+            ],
+            "tag": 984
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "f05dc07e-3327-51cd-923a-72c615152b19"
+              },
+              {
+                "code": "i",
+                "content": "7c163d0b-1f2f-550a-8435-874ef016dde7"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1565745
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "020305q18711875enkd      a     0   eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20230814102848.2
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP T 1319"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 2421645
+          },
+          {
+            "tag": "004",
+            "content": 1565745
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "285747909",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "8535306",
+    "pid": "nla.obj-2857479095",
+    "title": "R.V. Tooley map collection.",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "For Tooley/15 see version in Nan Kivell collection at nla.obj-230643561. For Tooley/39 see version in Nan Kivell collection at nla.obj-230598101. For Tooley/40 see version in rare map collection at nla.obj-232536349. For Tooley/41 see version in rare map collection at nla.obj-231200961. For Tooley/59 and Tooley/710 see version in Nan Kivell collection at nla.obj-230731286. For Tooley/62 see version in rare map collection at nla.obj-231281917. For Tooley/63 see version in rare map collection at nla.obj-232540419. For Tooley/65 see version in rare map collection at nla.obj-231299708. For Tooley/66 see version in rare map collection at nla.obj-231298147. For Tooley/82 see version in Nan Kivell collection at nla.obj-230631043. For Tooley/96 see version in Nan Kivell collection at nla.obj-230630599. For Tooley/110 see version in Nan Kivell collection at nla.obj-230641284. For Tooley/117 see version in Nan Kivell collection at nla.obj-230643911.For Tooley/120 see version in rare map collection at nla.obj-231353328. For Tooley/128 see version in Nan Kivell collection at nla.obj-230642590.",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1572",
+    "creator": "Tooley, R. V. (Ronald Vere), 1898-1986.",
+    "extent": "1,221 maps : some colour.",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": [
+      505,
+      24844
+    ]
+  },
+  "topLevelCollection": "nla.obj-2857479095"
+}

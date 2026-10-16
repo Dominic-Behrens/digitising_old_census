@@ -1,0 +1,554 @@
+{
+  "id": "32787182",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subType": "page",
+  "subUnitNo": "sheet 2",
+  "bibLevel": "Part",
+  "bibId": "7129820",
+  "holdingNumber": "MAP G8971.G46 svar",
+  "pid": "nla.obj-327871828",
+  "title": "Municipality of Willoughby",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1960",
+  "creator": "Willoughby (N.S.W. : Municipality). Council., issuing body.",
+  "extent": "1 map on 7 sheets ; sheets 79 x 110 cm",
+  "isMissingPage": "false",
+  "publisherName": "[Council of the Municipality of Willoughby]",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 10528200,
+      "filename": "32787514.jp2",
+      "filesize": 31311936,
+      "technicalmetadata": {
+        "width": 26124,
+        "height": 19159
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1501554576
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02017cem a2200385 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 3168
+              },
+              {
+                "code": "d",
+                "content": "E1511200"
+              },
+              {
+                "code": "e",
+                "content": "E1511200"
+              },
+              {
+                "code": "f",
+                "content": "S0334700"
+              },
+              {
+                "code": "g",
+                "content": "S0334700"
+              },
+              {
+                "code": 2,
+                "content": "geoapn"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1960"
+              },
+              {
+                "code": "b",
+                "content": "d19669"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.G46 svar"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Willoughby (N.S.W. : Municipality)."
+              },
+              {
+                "code": "b",
+                "content": "Council.,"
+              },
+              {
+                "code": "e",
+                "content": "issuing body."
+              },
+              {
+                "code": 0,
+                "content": 10945
+              },
+              {
+                "code": 9,
+                "content": "0dfd8578-a249-5ca5-be41-a68df7f22584"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Municipality of Willoughby /"
+              },
+              {
+                "code": "c",
+                "content": "prepared by direction of the Council of the Municipality of Willoughby."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale approximately 1:3,168"
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b012'/S 33\u00b047')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Willoughby, N.S.W.] :"
+              },
+              {
+                "code": "b",
+                "content": "[Council of the Municipality of Willoughby],"
+              },
+              {
+                "code": "c",
+                "content": "[between 1960 and 1969?]"
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map on 7 sheets ;"
+              },
+              {
+                "code": "c",
+                "content": "sheets 79 x 110 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of the Municipality of Willoughby in Sydney, New South Wales showing roads, streets, parks, railway line and station, schools, tennis courts, and bowling greens."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Description based on sheet 2."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"The base of this map is the copyright of H.E.C. Robinson Pty Ltd., and can only be reproduced for Departmental or Local Government use.\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes index to adjoining sheets and parish index."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "National Library of Australia holds sheet 2 of 7 only."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-327848539"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Willoughby (Municipality)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Willoughby (N.S.W. : Municipality)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cadastral maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "H.E.C. Robinson Pty Ltd."
+              },
+              {
+                "code": 0,
+                "content": 136829
+              },
+              {
+                "code": 9,
+                "content": "d7c6eb52-1b97-56bc-94b6-41bc73716f2e"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-327848539"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "b7795ad6-68dd-50ff-b3ca-878454c130d3"
+              },
+              {
+                "code": "i",
+                "content": "69c0468c-42e8-5ae3-a938-39a2b596b98a"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7129820
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "160725q19601969xna       a  l  0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240222080114.4
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G46 svar"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7805121
+          },
+          {
+            "tag": "004",
+            "content": 7129820
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "32784853",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Item",
+    "bibId": "7129820",
+    "holdingNumber": "MAP G8971.G46 svar",
+    "pid": "nla.obj-327848539",
+    "title": "Municipality of Willoughby",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1960",
+    "creator": "Willoughby (N.S.W. : Municipality). Council., issuing body.",
+    "extent": "1 map on 7 sheets ; sheets 79 x 110 cm",
+    "isMissingPage": "false",
+    "publisherName": "[Council of the Municipality of Willoughby]",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-327848539"
+}

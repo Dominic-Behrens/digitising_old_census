@@ -1,0 +1,524 @@
+{
+  "id": "205389722",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "8123511",
+  "holdingNumber": "MAP RM 5146",
+  "pid": "nla.obj-2053897226",
+  "title": "Map of the town of West Maitland, Parish of Maitland, County of Northumberland, shewing the Crown Grants, Private Subdivisions, &c.",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1893",
+  "creator": "",
+  "extent": "1 map : colour, mounted on linen ; 51.1 x 68.8 cm, on sheet 55.7 x 74.6 cm",
+  "publisherName": "Higinbotham & Robinson, Wentworth Court, 62 Elizabeth St., Higinbotham & Robinson, Lith., 62 Elizabeth St., John Sands, Printer",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 118406991,
+      "filename": "205395139.jp2",
+      "filesize": 18402029,
+      "technicalmetadata": {
+        "width": 19576,
+        "height": 15130
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 888576788
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02338cem a2200385 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 6336
+              },
+              {
+                "code": "d",
+                "content": "E1513148"
+              },
+              {
+                "code": "e",
+                "content": "E1513442"
+              },
+              {
+                "code": "f",
+                "content": "S0324302"
+              },
+              {
+                "code": "g",
+                "content": "S0324513"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1893"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Map of the town of West Maitland, Parish of Maitland, County of Northumberland, shewing the Crown Grants, Private Subdivisions, &c. /"
+              },
+              {
+                "code": "c",
+                "content": "compiled from the latest government & private surveys & published by the Proprietors Higinbotham & Robinson."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:6,336. 8 chains to 1 in."
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b031\u02b948\u02ba--E 151\u00b034\u02b942\u02ba/S 32\u00b043\u02b902\u02ba--S 32\u00b045\u02b913\u02ba)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Higinbotham & Robinson, Wentworth Court, 62 Elizabeth St.,"
+              },
+              {
+                "code": "c",
+                "content": 1893
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": 3,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Higinbotham & Robinson, Lith., 62 Elizabeth St."
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": 3,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney, New South Wales] :"
+              },
+              {
+                "code": "b",
+                "content": "John Sands, Printer"
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "colour, mounted on linen ;"
+              },
+              {
+                "code": "c",
+                "content": "51.1 x 68.8 cm, on sheet 55.7 x 74.6 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Shows municipality boundaries, Crown Grant boundaries, names of purchasers, names of original grantees with area of grant, applications to place land under the provisions of the Real Property (Torrens) Act by number, catalogue number of plans of private subdivisions deposited at the Lands Titles Office, streets, railways, public buildings, churches, banks, and theatre."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Area: from Mt. Pleasant Estate to Wallis Creek, from Telara Estate to East Maitland."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Monogram at top right 'HR' with the words 'Fiat Lux'."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes legend and note."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-2053897226"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Maitland"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Maitland (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cadastral maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson,"
+              },
+              {
+                "code": "e",
+                "content": "lithographer."
+              },
+              {
+                "code": 0,
+                "content": 873160
+              },
+              {
+                "code": 9,
+                "content": "80526dd8-3a81-5ad7-8149-8b399351e319"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "John Sands (Firm),"
+              },
+              {
+                "code": "e",
+                "content": "printer."
+              },
+              {
+                "code": 0,
+                "content": 63352
+              },
+              {
+                "code": 9,
+                "content": "f41ae287-0896-5cb4-8918-30fc829387f3"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-2053897226"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "d0dec1a3-8fd3-5764-b610-db24c0361b49"
+              },
+              {
+                "code": "i",
+                "content": "dc0224b1-151f-5026-bddd-74909c72e862"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8123511
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "091105s1893    xna       a     0   eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20240412140815.9
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RM 5146"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8869052
+          },
+          {
+            "tag": "004",
+            "content": 8123511
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-2053897226"
+}

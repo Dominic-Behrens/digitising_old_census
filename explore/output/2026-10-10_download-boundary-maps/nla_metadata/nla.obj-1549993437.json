@@ -1,0 +1,463 @@
+{
+  "id": "154999343",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "bibLevel": "Item",
+  "bibId": "7377046",
+  "holdingNumber": "MAP G8974.G7G46 1955",
+  "pid": "nla.obj-1549993437",
+  "title": "Town of Greenwell, Parish of Numbaa, County of St. Vincent, Shire of Shoalhaven.",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1955",
+  "creator": "",
+  "extent": "1 map ; 89 x 60 cm",
+  "sheetName": "Town of Greenwell",
+  "sheetCreationDate": "1955",
+  "publisherName": "[publisher not identified]",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 110050438,
+      "filename": "154999449.jp2",
+      "filesize": 19325719,
+      "technicalmetadata": {
+        "width": 14611,
+        "height": 21178
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 928315348
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01542cem a2200361 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 2400
+              },
+              {
+                "code": "d",
+                "content": "E1504329"
+              },
+              {
+                "code": "e",
+                "content": "E1504418"
+              },
+              {
+                "code": "f",
+                "content": "S0345406"
+              },
+              {
+                "code": "g",
+                "content": "S0345522"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1955"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8974.G7G46 1955"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": "Town of Greenwell, Parish of Numbaa, County of St. Vincent, Shire of Shoalhaven."
+            },
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Shire of Shoalhaven, town of Greenwell, Parish of Numbaa, County of St. Vincent"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale approximately 1:2,400. 200 ft to 1 in."
+              },
+              {
+                "code": "c",
+                "content": "(E 150°43ʹ29ʺ--E 150°44ʹ18ʺ/S 34°54ʹ06ʺ--S 34°55ʹ22ʺ)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[New South Wales] :"
+              },
+              {
+                "code": "b",
+                "content": "[publisher not identified],"
+              },
+              {
+                "code": "c",
+                "content": "[1955]"
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "89 x 60 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral map of the town of Greenwell showing roads and land blocks, and Crookhaven River."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Dyeline print."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Compiled 23/6/55\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1549993437"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Greenwell"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Greenwell (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cadastral maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1549993437"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "e7fdd939-0281-544c-8ee9-00b599cb3fb4"
+              },
+              {
+                "code": "i",
+                "content": "cb31c98c-7815-5652-934d-0f32fe35a453"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7377046
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "170501s1955    xna       a  s  0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230706190045.6
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.G7G46 1955"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8075472
+          },
+          {
+            "tag": "004",
+            "content": 7377046
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-1549993437"
+}

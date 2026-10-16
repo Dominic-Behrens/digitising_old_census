@@ -1,0 +1,605 @@
+{
+  "id": "23257919",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "1369936",
+  "holdingNumber": "MAP T 456 Copy 1",
+  "pid": "nla.obj-232579190",
+  "title": "Colony of New South Wales [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1831",
+  "creator": "Dower, John, active 1838-1846?",
+  "extent": "1 map : col. ; 31.8 x 39.2 cm.",
+  "publisherName": "H. Teesdale & Co.",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7697389,
+      "filename": "23257924.jp2",
+      "filesize": 1506487,
+      "technicalmetadata": {
+        "width": 5529,
+        "height": 4354
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 72240436
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02177cea a2200409 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 20152597
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 2450000
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)2788049"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "A new general atlas of the world, containing separate maps of its various countries and states, and exhibiting their boundaries & divisions, also the chains of  mountains, rivers, lakes ... MAP RA 109"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1831"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Dower, John,"
+              },
+              {
+                "code": "d",
+                "content": "active 1838-1846?"
+              },
+              {
+                "code": 0,
+                "content": 262551
+              },
+              {
+                "code": 9,
+                "content": "1d84fe29-1d06-5eea-b5b4-a98148529b80"
+              }
+            ],
+            "tag": 100
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Colony of New South Wales"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "drawn & engraved by J. Dower ..."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale [ca. 1:2 450 000]"
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "London :"
+              },
+              {
+                "code": "b",
+                "content": "H. Teesdale & Co.,"
+              },
+              {
+                "code": "c",
+                "content": 1831
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "31.8 x 39.2 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of New South Wales showing counties with relief shown by hachures."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Plate 30 from: A new general atlas of the world / John Dower. London : H. Teesdale & Co., 1831."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Prime meridian: Greenwich."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Insets: Swan River settlement. Scale [ca. 1:663 600] -- Australia. Scale [ca. 1:25 344 000]"
+            },
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "National union catalog of pre-1956 imprints,"
+              },
+              {
+                "code": "c",
+                "content": "v. 148, p. 111."
+              }
+            ],
+            "tag": 510
+          },
+          {
+            "ind2": " ",
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Tooley,"
+              },
+              {
+                "code": "c",
+                "content": 456
+              }
+            ],
+            "tag": 510
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232579190"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Dower, J."
+              },
+              {
+                "code": "q",
+                "content": "(John),"
+              },
+              {
+                "code": "d",
+                "content": "active 1838-1846?"
+              },
+              {
+                "code": "t",
+                "content": "New general atlas of the world."
+              }
+            ],
+            "tag": 700
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Henry Teesdale & Co."
+            },
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "R.V. Tooley map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)8535306"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 8,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "From :"
+              },
+              {
+                "code": "a",
+                "content": "Dower, John, fl. 1838-1846?"
+              },
+              {
+                "code": "t",
+                "content": "A new general atlas of the world, containing separate maps of its various countries and states, and exhibiting their boundaries & divisions, also the chains of  mountains, rivers, lakes ..."
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL) 241525"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "R.V. Tooley map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP T 456 Copy 1"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232579190"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "74d5fd37-ca04-5574-94a2-9a901bc094dc"
+              },
+              {
+                "code": "s",
+                "content": "810ca37d-94de-53ea-9746-f735caec1abc"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1369936
+          },
+          {
+            "tag": "005",
+            "content": 20230825010200.9
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "990623s1831    enkd    e a         eng d"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP T 456"
+              },
+              {
+                "code": "m",
+                "content": "Copy 1"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 2036380
+          },
+          {
+            "tag": "004",
+            "content": 1369936
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP T 456"
+              },
+              {
+                "code": "m",
+                "content": "Copy 2"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4146473
+          },
+          {
+            "tag": "004",
+            "content": 1369936
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP Ra 109"
+              },
+              {
+                "code": "m",
+                "content": "Plate 30"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5070025
+          },
+          {
+            "tag": "004",
+            "content": 1369936
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-232579190"
+}

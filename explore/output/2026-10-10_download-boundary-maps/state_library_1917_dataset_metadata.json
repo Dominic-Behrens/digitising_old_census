@@ -1,0 +1,215 @@
+{
+  "help": "https://data.gov.au/data/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "author": "State Library of New South Wales",
+    "author_email": null,
+    "contact_point": "data.gov@finance.gov.au",
+    "creator_user_id": "91af4eef-efb1-4e4e-87f2-171d81977ae0",
+    "duplicate_score": 1,
+    "geospatial_topic": [],
+    "id": "fcac036b-5c52-42c8-91c3-4904e50dd9af",
+    "isopen": false,
+    "license_id": "cc-by",
+    "license_title": "Creative Commons Attribution 3.0 Australia",
+    "license_url": "http://creativecommons.org/licenses/by/3.0/au/",
+    "maintainer": "State Library of New South Wales",
+    "maintainer_email": null,
+    "metadata_created": "2013-05-12T08:42:49.828686",
+    "metadata_modified": "2023-08-11T14:38:56.618643",
+    "name": "sydney-maps-1917",
+    "notes": "    \n\nProduced by the NSW Dept. of Lands in 1917, maps of municipalities of\nAnnandale, Ashfield, Balmain, Botany, Canterbury, Darlington, The Glebe,\nHurstville, Kogarah, Lane Cove, Leichhardt, Marrickville, Mascot, Mosman,\nNewtown, North Sydney, Petersham, Randwick, Rockdale, Willoughby. Shows\nreclamations, special leases, resumptions and acquisitions by the Crown,\nvolume & folio or date of Crown grant of portions as insets. Trig. stations,\nrailways, schools.\n\n",
+    "num_resources": 2,
+    "num_tags": 10,
+    "organization": {
+      "id": "342e8a1b-2dea-4e7a-9b98-d78edf0007ad",
+      "name": "statelibraryofnewsouthwales",
+      "title": "State Library of New South Wales",
+      "type": "organization",
+      "description": "State Library of New South Wales",
+      "image_url": "2016-08-19-153611.875959nswstatelib.jpg",
+      "created": "2013-05-12T08:15:06.812853",
+      "is_organization": true,
+      "approval_status": "approved",
+      "state": "active"
+    },
+    "original_harvest_source": {
+      "site_url": "https://data.gov.au/data/dataset/",
+      "href": "https://data.gov.au/data/dataset/sydney-maps-1917",
+      "title": "data.gov.au"
+    },
+    "owner_org": "342e8a1b-2dea-4e7a-9b98-d78edf0007ad",
+    "private": false,
+    "spatial_coverage": "Sydney",
+    "state": "active",
+    "temporal_coverage_from": "2013-05-12 08:42:49",
+    "title": "Sydney maps 1917",
+    "type": "dataset",
+    "unpublished": false,
+    "url": "",
+    "version": null,
+    "extras": [
+      {
+        "key": "agency_program",
+        "value": "Not specified"
+      },
+      {
+        "key": "contact_info",
+        "value": "false"
+      },
+      {
+        "key": "data_state",
+        "value": "active"
+      },
+      {
+        "key": "field_of_research",
+        "value": "[]"
+      },
+      {
+        "key": "granularity",
+        "value": "Not specified"
+      },
+      {
+        "key": "jurisdiction",
+        "value": "New South Wales Government"
+      },
+      {
+        "key": "update_freq",
+        "value": "never"
+      }
+    ],
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "ckan_url": "https://data.gov.au",
+        "created": "2013-05-12T08:42:56.256260",
+        "datastore_active": true,
+        "datastore_contains_all_records_of_source_file": true,
+        "description": "",
+        "format": "CSV",
+        "hash": "b024a3a90c83ef4bc02521cdfc5ce11d",
+        "id": "03e810e0-7687-4823-842a-5846ca6a2539",
+        "ignore_hash": false,
+        "last_modified": "2013-05-11T00:00:00",
+        "license_id": "cc-by",
+        "metadata_modified": "2023-08-11T14:38:56.624022",
+        "mimetype": "text/csv",
+        "mimetype_inner": null,
+        "name": "city-of-sydney.csv",
+        "original_url": "http://data.gov.au/storage/f/2013-05-12T184218/tmpqqiWKVcity-of-sydney.csv",
+        "package_id": "fcac036b-5c52-42c8-91c3-4904e50dd9af",
+        "position": 0,
+        "resource_id": "03e810e0-7687-4823-842a-5846ca6a2539",
+        "resource_type": null,
+        "set_url_type": false,
+        "size": 404138,
+        "state": "active",
+        "task_created": "2023-08-09 11:21:21.374914",
+        "url": "http://data.gov.au/storage/f/2013-05-12T184218/tmpqqiWKVcity-of-sydney.csv",
+        "url_type": null,
+        "zip_extract": false
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "created": "2013-05-12T08:43:01.677468",
+        "datastore_active": true,
+        "datastore_contains_all_records_of_source_file": false,
+        "description": "",
+        "format": "XLS",
+        "hash": "b17e50e49b238fd031d1bfa81434584e0dd5abdd",
+        "id": "ecbe5446-2fa7-4370-a130-9476ba8ab564",
+        "last_modified": "2013-05-11T00:00:00",
+        "license_id": "cc-by",
+        "metadata_modified": "2023-08-11T14:38:56.624154",
+        "mimetype": "application/vnd.ms-excel",
+        "mimetype_inner": null,
+        "name": "city-of-sydney.xls",
+        "package_id": "fcac036b-5c52-42c8-91c3-4904e50dd9af",
+        "position": 1,
+        "resource_type": null,
+        "size": 321536,
+        "state": "active",
+        "url": "http://data.gov.au/storage/f/2013-05-12T184224/tmp91SheRcity-of-sydney.xls",
+        "url_type": null,
+        "zip_extract": false
+      }
+    ],
+    "tags": [
+      {
+        "display_name": "australianhistory",
+        "id": "073a49a3-ee45-4485-9d03-806458c17dbf",
+        "name": "australianhistory",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "historicaldata",
+        "id": "f0feff40-d9cf-4d4d-8ca0-de9b2897396c",
+        "name": "historicaldata",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "history",
+        "id": "20387e62-729f-4c88-adbf-fb45a1eceb66",
+        "name": "history",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "libraries",
+        "id": "8db1fa7a-726b-4e27-8b73-72a4e858e7e3",
+        "name": "libraries",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "libraryhack2011",
+        "id": "c8f2c7a2-7905-4e78-8149-458ea820ec02",
+        "name": "libraryhack2011",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "maps",
+        "id": "22b53b91-c718-4d20-9cbb-6284a3b3c2b5",
+        "name": "maps",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "nationalandstatelibrariesaustralasia",
+        "id": "af88950d-7a7d-4e3c-9141-10fc347a7eea",
+        "name": "nationalandstatelibrariesaustralasia",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "statelibraryofnewsouthwales",
+        "id": "36917c0e-12fa-48d5-ac31-a69252c79775",
+        "name": "statelibraryofnewsouthwales",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "suburbs",
+        "id": "05ac732e-8344-4bbd-8627-2472284bd207",
+        "name": "suburbs",
+        "state": "active",
+        "vocabulary_id": null
+      },
+      {
+        "display_name": "sydney",
+        "id": "192251ff-48d0-4d46-83d6-7ba0201aef31",
+        "name": "sydney",
+        "state": "active",
+        "vocabulary_id": null
+      }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": []
+  }
+}

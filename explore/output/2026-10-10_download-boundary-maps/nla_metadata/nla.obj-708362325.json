@@ -1,0 +1,543 @@
+{
+  "id": "70836232",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "bibLevel": "Set",
+  "bibId": "4218772",
+  "holdingNumber": "MAP G8971.G46 svar (Copy 1)",
+  "pid": "nla.obj-708362325",
+  "title": "Parish of Yarrow, County of Gough [cartographic material] : Land District of Glen Innes, Eastern Division N.S.W., Severn Shire",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1933",
+  "creator": "New South Wales. Department of Lands.",
+  "extent": "1 map ; on sheet 80 x 63 cm.",
+  "isMissingPage": "false",
+  "publisherName": "Dept. of Lands",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01714ced a2200373 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 31680
+              },
+              {
+                "code": "d",
+                "content": "E1520000"
+              },
+              {
+                "code": "e",
+                "content": "E1520000"
+              },
+              {
+                "code": "f",
+                "content": "S0295200"
+              },
+              {
+                "code": "g",
+                "content": "S0295200"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[J.F.N. Murray map collection]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1933"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.G46 svar"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Parish of Yarrow, County of Gough"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Land District of Glen Innes, Eastern Division N.S.W., Severn Shire /"
+              },
+              {
+                "code": "c",
+                "content": "compiled, drawn and printed at the Department of Lands, Sydney N.S.W."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "5th ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:31,680]"
+              },
+              {
+                "code": "c",
+                "content": "(E 152°00'/S 29°52')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Dept. of Lands,"
+              },
+              {
+                "code": "c",
+                "content": 1933
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "on sheet 80 x 63 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral map showing parish boundaries and land holdings."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Date of map, 21st Feby. 1933.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"62.597.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Insets: Diagram Yarrow Ck. cemetery. Scale [ca. 1:3,168]."
+            },
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-708362325"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Yarrow (Parish : County of Gough)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Yarrow (N.S.W. : Parish : County of Gough)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Parish maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "J.F.N. Murray map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-708362325"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "J.F.N. Murray map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)2988163"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "3889a136-aa55-5a25-a2c5-f2676ca97743"
+              },
+              {
+                "code": "i",
+                "content": "72b35ddc-0757-5314-91ec-c0e172948fb6"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4218772
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "070925s1933    xnad      a  s  1   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230919004721.7
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G46 svar"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4723142
+          },
+          {
+            "tag": "004",
+            "content": 4218772
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP J.F.N. Murray 17"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5210696
+          },
+          {
+            "tag": "004",
+            "content": 4218772
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "70836890",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "2988163",
+    "holdingNumber": "MAP J.F.N. Murray 1-99",
+    "pid": "nla.obj-708368901",
+    "title": "J.F.N. Murray map collection [cartographic material].",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "Mixed copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "For number 4 in the collection see copy in general collection at nla.obj-446075639. For number 8 see copies at nla.obj-233899413. For number 22 see copy at nla.obj-559296001. For numbers 23 and 24 see copy at nla.obj-559291588. For number 26 see copy at nla.obj-559296235. For number 29 see copy at nla.obj-631395259. For number 30 see copy at nla.obj-631395414. For number 32 see copy at nla.obj-661810093. For number 33 see copy at nla.obj-567667281. For number 34 see copy at nla.obj-678124279. For number 99 see copy at nla.obj-275663923.",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1916",
+    "creator": "Murray, J. F. N. (John Francis Nowell), 1900-",
+    "extent": "94 maps : some col.",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-708368901"
+}

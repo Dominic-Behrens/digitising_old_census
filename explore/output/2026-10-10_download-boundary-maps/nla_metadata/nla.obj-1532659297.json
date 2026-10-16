@@ -1,0 +1,511 @@
+{
+  "id": "153265929",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "bibLevel": "Item",
+  "bibId": "7376798",
+  "holdingNumber": "MAP G8974.H8G46 [196-?]",
+  "pid": "nla.obj-1532659297",
+  "title": "Town of Huskisson, Parish of Currambene, County of St. Vincent, Shire of Shoalhaven",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1960",
+  "creator": "Shoalhaven (N.S.W.). Council, issuing body.",
+  "extent": "1 map ; 96 x 67 cm",
+  "sheetName": "Town of Huskisson",
+  "sheetCreationDate": "1969",
+  "publisherName": "[Shoalhaven Shire Council]",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 109775575,
+      "filename": "153276150.jp2",
+      "filesize": 22888513,
+      "technicalmetadata": {
+        "width": 16065,
+        "height": 23092
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1112939536
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01937cem a2200385 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 2400
+              },
+              {
+                "code": "d",
+                "content": "E1503953"
+              },
+              {
+                "code": "e",
+                "content": "E1504045"
+              },
+              {
+                "code": "f",
+                "content": "S0350200"
+              },
+              {
+                "code": "g",
+                "content": "S0350315"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1960"
+              },
+              {
+                "code": "b",
+                "content": "d1969"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8974.H8G46 1969"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Shoalhaven (N.S.W.)."
+              },
+              {
+                "code": "b",
+                "content": "Council,"
+              },
+              {
+                "code": "e",
+                "content": "issuing body."
+              },
+              {
+                "code": 0,
+                "content": 17875
+              },
+              {
+                "code": 9,
+                "content": "f7e14589-fe91-5f67-8179-11fb5618c936"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Town of Huskisson, Parish of Currambene, County of St. Vincent, Shire of Shoalhaven /"
+              },
+              {
+                "code": "c",
+                "content": "[Shoalhaven Shire Council]."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Shire of Shoalhaven, Town of Huskisson, Parish of Currambene, County of St. Vincent"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:2,400. 200 ft. to 1 in."
+              },
+              {
+                "code": "c",
+                "content": "(E 150°39ʹ53ʺ--E 150°40ʹ45ʺ/S 35°02ʹ00ʺ--S 35°03ʹ15ʺ)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Nowra, New South Wales?]:"
+              },
+              {
+                "code": "b",
+                "content": "[Shoalhaven Shire Council],"
+              },
+              {
+                "code": "c",
+                "content": "[between 1960 and 1969?]"
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "96 x 67 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral map of the town of Huskisson, Southeastern New South Wales showing named streets, numbered and measured allotments, and Moona Moona Creek, Currambene Creek, Tapalla Point and Jervis Bay."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Area: covers from Sydney Street to Beach Street and from Tomerang Road to Moona Street."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Dyeline print."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Signed Herbert F [?] Dee, Shire Engineer."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1532659297"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Huskisson"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Huskisson (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cadastral maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1532659297"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "3cf26b65-d9f7-5924-8be4-92f2303009aa"
+              },
+              {
+                "code": "i",
+                "content": "a8671f79-1f45-59f4-b136-602af0abebb2"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7376798
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "170428q19601969xna       a  l  0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240125180644
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.H8G46 [196-?]"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8075155
+          },
+          {
+            "tag": "004",
+            "content": 7376798
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-1532659297"
+}

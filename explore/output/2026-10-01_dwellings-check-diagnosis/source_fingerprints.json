@@ -1,0 +1,8 @@
+{
+  "purpose": "Identify the source/build artifacts used by this investigation; these hashes do not claim an independently audited source transcription.",
+  "sha256": {
+    "output/export_abs_1911_dwellings_workbook/mathematical_checks.csv": "2b3d55259c90f90b987c45bad8dccd239e2c4f15764769126f35be5379eab8d5",
+    "output/export_abs_1911_dwellings_workbook/dwellings_source_tables.xlsx": "a659686726e3aedda42978f84f60dde4a5338e6b12828373e97d16bb9ce81499",
+    "data/raw/abs_1911_census/1911_census_volume_iii_part_xiii_dwellings.pdf": "d2a7f6b00a4c9e31c09011e69b09315e47a59f0dadbf6dd275d05fc897cb5db6"
+  }
+}

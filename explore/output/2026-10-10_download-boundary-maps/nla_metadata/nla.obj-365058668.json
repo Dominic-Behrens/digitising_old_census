@@ -1,0 +1,483 @@
+{
+  "id": "36505866",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "75765",
+  "holdingNumber": "MAP G8984.O2G46 1964-1982",
+  "pid": "nla.obj-365058668",
+  "title": "Oaks Estate, Municipality of Queanbeyan, County of Murray : [cartographic material] : compilation of part of DP 2207.",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1964",
+  "creator": "Australia. Department of the Interior. Survey Branch.",
+  "extent": "1 map ; 88 x 139 cm.",
+  "publisherName": "",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 11640790,
+      "filename": "36505921.jp2",
+      "filesize": 45210501,
+      "technicalmetadata": {
+        "width": 33494,
+        "height": 21836
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 2194145188
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01782cfm a2200373 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 10494723
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 792
+              },
+              {
+                "code": "d",
+                "content": "E1491300"
+              },
+              {
+                "code": "e",
+                "content": "E1491300"
+              },
+              {
+                "code": "f",
+                "content": "S0352000"
+              },
+              {
+                "code": "g",
+                "content": "S0352000"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)2126885"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL:AM"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "ANL:AM"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ac"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1964"
+              },
+              {
+                "code": "b",
+                "content": "d1982"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8984.O2G46 1964"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Australia."
+              },
+              {
+                "code": "b",
+                "content": "Department of the Interior."
+              },
+              {
+                "code": "b",
+                "content": "Survey Branch."
+              },
+              {
+                "code": 0,
+                "content": 65945
+              },
+              {
+                "code": 9,
+                "content": "4e55ccb3-e74d-573e-9b4e-2315699d7733"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Oaks Estate, Municipality of Queanbeyan, County of Murray :"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "compilation of part of DP 2207."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:792]"
+              },
+              {
+                "code": "c",
+                "content": "(E 149°13'/S 35°20')"
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "c",
+              "content": "[1964]"
+            },
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "88 x 139 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Diazo copy of a cadastral map, with references to vol. and folio numbers, and names of land holders. Does not show territorial boundaries."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Original is a base map ca. 1910 with information added and updated after 1964, probably by the Survey Branch, Dept. of the Interior."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Facsimile of an original held in the Australian Survey Office."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"D 127\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-365058668"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Diazo reproduction."
+              },
+              {
+                "code": "d",
+                "content": "[1982?]"
+              }
+            ],
+            "tag": 533
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "Australian Capital Territory"
+              },
+              {
+                "code": "z",
+                "content": "Oaks Estate"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Oaks Estate (A.C.T.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Australian Survey Office."
+              },
+              {
+                "code": 0,
+                "content": 4303
+              },
+              {
+                "code": 9,
+                "content": "d9912ddd-4b7c-5de0-a2bc-4bd8341f9906"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Detail plan series maps of early Canberra."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-365058668"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "ae290203-6b95-52f8-8668-8e1a2ffa3b1e"
+              },
+              {
+                "code": "i",
+                "content": "7cb5da73-eaf2-57f4-97f6-ad41efa5e7e5"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 75765
+          },
+          {
+            "tag": "007",
+            "content": "aj aafaa"
+          },
+          {
+            "tag": "008",
+            "content": "931110s1964    xx        a  f    e eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20240123113332.3
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8984.O2G46 1964-1982"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1447517
+          },
+          {
+            "tag": "004",
+            "content": 75765
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-365058668"
+}

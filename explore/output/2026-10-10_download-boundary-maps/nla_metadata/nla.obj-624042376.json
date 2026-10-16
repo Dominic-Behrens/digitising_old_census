@@ -1,0 +1,404 @@
+{
+  "id": "62404237",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "377207",
+  "holdingNumber": "MAP G8074.M4 1961",
+  "pid": "nla.obj-624042376",
+  "title": "Medan [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1961",
+  "creator": "Latif, Khalid.",
+  "extent": "1 map : col. ; 90 x 61 cm.",
+  "publisherName": "Bappit",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 19458661,
+      "filename": "62404251.jp2",
+      "filesize": 23314455,
+      "technicalmetadata": {
+        "width": 15304,
+        "height": 24712
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1134598644
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01263cem a2200301 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 11076397
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 10000
+              },
+              {
+                "code": "d",
+                "content": "E0984000"
+              },
+              {
+                "code": "e",
+                "content": "E0984000"
+              },
+              {
+                "code": "f",
+                "content": "N0033500"
+              },
+              {
+                "code": "g",
+                "content": "N0033500"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)2196001"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "a-io---"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1961"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": "G8074.M4 1961"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Latif, Khalid."
+              },
+              {
+                "code": 0,
+                "content": 205446
+              },
+              {
+                "code": 9,
+                "content": "71ba2e16-88bf-5a42-9bc4-3175b3de69f7"
+              }
+            ],
+            "tag": 100
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Medan"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "Pelaksona: Drs. Chalid Latif."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:10 000"
+              },
+              {
+                "code": "c",
+                "content": "(E 98\u00b040'/N 3\u00b035')"
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Surabaja :"
+              },
+              {
+                "code": "b",
+                "content": "Bappit,"
+              },
+              {
+                "code": "c",
+                "content": 1961
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "90 x 61 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Town plan of Medan showing municipal boundary, transportation, water features, parks, religious sites and building, some represented pictorially."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map in Indonesian and English."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Medan pekerdjaan kota Bb 203\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-624042376"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Medan (Indonesia)"
+              },
+              {
+                "code": "x",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-624042376"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "c",
+                "content": "MAP G8074.M4 1961"
+              }
+            ],
+            "tag": 984
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "1c84e6d3-7e17-590c-92de-7ad24183b388"
+              },
+              {
+                "code": "i",
+                "content": "72315a48-0909-5bb6-a35c-ec2f1c1ce7de"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 377207
+          },
+          {
+            "tag": "008",
+            "content": "940907s1961    io        a         eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20230821130332.3
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8074.M4 1961"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1521719
+          },
+          {
+            "tag": "004",
+            "content": 377207
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-624042376"
+}

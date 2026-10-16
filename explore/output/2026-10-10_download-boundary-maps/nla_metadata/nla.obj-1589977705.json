@@ -1,0 +1,595 @@
+{
+  "id": "158997770",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "bibLevel": "Part",
+  "bibId": "6940265",
+  "holdingNumber": "MAP G8974.C6G46 [1960?]",
+  "pid": "nla.obj-1589977705",
+  "title": "Coffs Harbour planning scheme",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1960",
+  "creator": "New South Wales. Department of Local Government, cartographer. issuing body.",
+  "extent": "1 map on 2 sheets : colour ; on sheet 79 x 76 cm",
+  "sheetCreationDate": "1960",
+  "publisherName": "[Department of Local Government]",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 110713660,
+      "filename": "159013741.jp2",
+      "filesize": 21165128,
+      "technicalmetadata": {
+        "width": 18078,
+        "height": 18791
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1019135216
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02037cem a2200397 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 6336
+              },
+              {
+                "code": "d",
+                "content": "E1530420"
+              },
+              {
+                "code": "e",
+                "content": "E1530951"
+              },
+              {
+                "code": "f",
+                "content": "S0301524"
+              },
+              {
+                "code": "g",
+                "content": "S0301943"
+              },
+              {
+                "code": 2,
+                "content": "gooearth"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "b",
+              "content": "d1960"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8974.C6G46 1960"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Local Government,"
+              },
+              {
+                "code": "e",
+                "content": "cartographer."
+              },
+              {
+                "code": "e",
+                "content": "issuing body."
+              },
+              {
+                "code": 0,
+                "content": 1813
+              },
+              {
+                "code": 9,
+                "content": "613a7d79-3146-5428-b8aa-7ff2aef46012"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Coffs Harbour planning scheme /"
+              },
+              {
+                "code": "c",
+                "content": "Department of Local Government"
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale approximately 1:6,336"
+              },
+              {
+                "code": "c",
+                "content": "(E 153\u00b004'20\"--E 153\u00b009'51\"/S 30\u00b015'24\"--S 30\u00b019'43\")."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney, N.S.W. :"
+              },
+              {
+                "code": "b",
+                "content": "[Department of Local Government],"
+              },
+              {
+                "code": "c",
+                "content": "[1960?]."
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map on 2 sheets :"
+              },
+              {
+                "code": "b",
+                "content": "colour ;"
+              },
+              {
+                "code": "c",
+                "content": "on sheet 79 x 76 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map showing details of town planning zones, reserves, streets and allotments. Relief shown by contours and spot heights."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Base maps prepared in Town & Country Planning Branch, Department of Local Government N.S.W.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Scheme submitted by the Dorrigo Shire Council and Bellingen Shire Council as amended by the Minister for Local Government.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes index and inset."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1589977589"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Coffs Harbour"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Regional planning"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Coffs Harbour"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "City planning"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Coffs Harbour"
+              },
+              {
+                "code": "v",
+                "content": "Maps"
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Coffs Harbour (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps"
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cadastral maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Bellingen (N.S.W. : Shire)."
+              },
+              {
+                "code": "b",
+                "content": "Council"
+              },
+              {
+                "code": 0,
+                "content": 136572
+              },
+              {
+                "code": 9,
+                "content": "8e6b25b5-7c46-5adb-a435-e204d89271d2"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1589977589"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "0f523125-fd10-5c0b-b44d-eafc7b25f320"
+              },
+              {
+                "code": "i",
+                "content": "18d9dd80-63b4-5f46-a684-4b490c010ac9"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 6940265
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "151028q19601961xnaag     a  sr 1   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240222070453
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.C6G46 [1960?]"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7604900
+          },
+          {
+            "tag": "004",
+            "content": 6940265
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "158997758",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "subUnitType": "Sheet",
+    "bibLevel": "Item",
+    "bibId": "6940265",
+    "holdingNumber": "MAP G8974.C6G46 [1960?]",
+    "pid": "nla.obj-1589977589",
+    "title": "Coffs Harbour planning scheme",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "Out of Copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1960",
+    "creator": "New South Wales. Department of Local Government, cartographer. issuing body.",
+    "extent": "1 map on 2 sheets : colour ; on sheet 79 x 76 cm",
+    "sheetCreationDate": "1960",
+    "publisherName": "[Department of Local Government]",
+    "constraints": [
+      "Copyright"
+    ],
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-1589977589"
+}

@@ -1,0 +1,482 @@
+{
+  "id": "74092349",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "expiryDate": "Thu, 01 Jan 2009",
+  "subUnitNo": "J.F.N. Murray Collection / 84 (recto)",
+  "bibLevel": "Item",
+  "bibId": "4668326",
+  "holdingNumber": "MAP J.F.N. Murray 84",
+  "pid": "nla.obj-740923499",
+  "title": "Map of Auckland and environs [cartographic material].",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1959",
+  "creator": "New Zealand. Department of Lands and Survey.",
+  "extent": "1 map : col. ; 78 x 96 cm.",
+  "isMissingPage": "false",
+  "publisherName": "Dept. of Lands and Survey",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 45756889,
+      "filename": "74095607.jp2",
+      "filesize": 28414540,
+      "technicalmetadata": {
+        "width": 23511,
+        "height": 19381
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1367021804
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01439ced a22003611a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 20000
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[J.F.N. Murray map collection]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 4668326
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Nz"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New Zealand."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands and Survey."
+              },
+              {
+                "code": 0,
+                "content": 220823
+              },
+              {
+                "code": 9,
+                "content": "3ec50d88-c518-52dc-8f00-dc6cd8c01981"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Map of Auckland and environs"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "2nd ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale 1:20,000."
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Wellington, N.Z. :"
+              },
+              {
+                "code": "b",
+                "content": "Dept. of Lands and Survey,"
+              },
+              {
+                "code": "c",
+                "content": 1959
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "78 x 96 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": "NZMS 17"
+            },
+            "tag": 490
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Insets: Auckland city centre, insets A and B. Scale 1:10,000."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Index on verso."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": {
+              "code": "a",
+              "content": "2 city centre insets."
+            },
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": {
+              "code": "a",
+              "content": "On verso: index to streets and places of interest."
+            },
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1586365940"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Roads"
+              },
+              {
+                "code": "z",
+                "content": "New Zealand"
+              },
+              {
+                "code": "z",
+                "content": "Auckland"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Auckland (N.Z.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "J.F.N. Murray map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "NZMS ;"
+              },
+              {
+                "code": "v",
+                "content": 17
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1586365940"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Library's copy includes ms. annotations."
+            },
+            "tag": 900
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "J.F.N. Murray map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)2988163"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "19aeaedc-0443-5285-afde-d4b8c0424e59"
+              },
+              {
+                "code": "s",
+                "content": "65c71950-0ddb-5a18-9c45-d43d5a146583"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4668326
+          },
+          {
+            "tag": "005",
+            "content": 20230922195508.6
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "060817s1959    nz        a  f  1   eng"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP J.F.N. Murray 84"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5185582
+          },
+          {
+            "tag": "004",
+            "content": 4668326
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "158636594",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "subUnitNo": "J.F.N. Murray Collection / 84",
+    "bibLevel": "Item",
+    "bibId": "4668326",
+    "holdingNumber": "MAP J.F.N. Murray 84",
+    "pid": "nla.obj-1586365940",
+    "title": "Map of Auckland and environs [cartographic material].",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1959",
+    "creator": "New Zealand. Department of Lands and Survey.",
+    "extent": "1 map : col. ; 78 x 96 cm.",
+    "isMissingPage": "false",
+    "publisherName": "Dept. of Lands and Survey",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-708368901"
+}

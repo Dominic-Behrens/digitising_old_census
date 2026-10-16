@@ -1,0 +1,479 @@
+{
+  "id": "23248208",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "4978773",
+  "holdingNumber": "MAP RM 4458",
+  "pid": "nla.obj-232482086",
+  "title": "Map of St. Leonards on the North Shore [cartographic material] Parish of Willoughby",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1887",
+  "creator": "Higinbotham & Robinson.",
+  "extent": "1 map : col., mounted on linen ; 151.5 x 99.6 cm., on sheet 163.7 x 106.8 cm.",
+  "publisherName": "Higinbotham and Robinson",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7694085,
+      "filename": "23248235.jp2",
+      "filesize": 14744408,
+      "technicalmetadata": {
+        "width": 12484,
+        "height": 18984
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 711012648
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "03023cem a2200373 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a a"
+              },
+              {
+                "code": "b",
+                "content": 3168
+              },
+              {
+                "code": "d",
+                "content": "E1511100"
+              },
+              {
+                "code": "e",
+                "content": "E1511100"
+              },
+              {
+                "code": "f",
+                "content": "S0334900"
+              },
+              {
+                "code": "g",
+                "content": "S0334900"
+              },
+              {
+                "code": 2,
+                "content": "geoapn"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1887"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": 0,
+                "content": 873160
+              },
+              {
+                "code": 9,
+                "content": "80526dd8-3a81-5ad7-8149-8b399351e319"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Map of St. Leonards on the North Shore"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]"
+              },
+              {
+                "code": "b",
+                "content": "Parish of Willoughby /"
+              },
+              {
+                "code": "c",
+                "content": "compiled, lithographed and published by Higinbotham & Robinson."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:3,168], 4 chains to 1 inch"
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b011'/S 33\u00b049')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Higinbotham and Robinson,"
+              },
+              {
+                "code": "c",
+                "content": "[1887?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col., mounted on linen ;"
+              },
+              {
+                "code": "c",
+                "content": "151.5 x 99.6 cm., on sheet 163.7 x 106.8 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of St Leonards showing municipal boundaries, wards, names of original grantees, reclamations with areas and catalogue numbers of original plans, the catalogue numbers of plans in the Registrar General's Office. Relief shown by hachures."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "In lower right margin:\"Gibbs, Shallard & Co., Photo - Litho, Sydney.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map annotation dated \"1887.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232482086"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Donated by Universal Publishers, from the archival collection of Mr Jim Bowden."
+            },
+            "tag": 541
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "St. Leonards"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "St. Leonards (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Gibbs, Shallard & Co."
+              },
+              {
+                "code": 0,
+                "content": 74726
+              },
+              {
+                "code": 9,
+                "content": "57032ebd-9b97-58a2-9f3f-63bf989dc34f"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232482086"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Library's copy has stencilled on verso \"St Leonards on the North Shore No 3 \"F\" \"J\" \"K.\""
+            },
+            "tag": 900
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "National Library's copy annotated top left: \" This is the map of St Leonards on the North Shore marked No 3 referred to in the affidavit of [Hubert?] Edward Cooper Robinson sworn at [Sydney?] before me this 21st day of November 1887.\" Signed \"H L Williams A Com.r for Affidavits.\""
+            },
+            "tag": 900
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "National Library's copy annotated: \" This is the map of St Leonards on the North Shore marked No 3 referred to in the affidavit of William Barnett Smith sworn before me at Sydney this twenty first day of Novemeber 1887.\" Signed \"H L Williams A Com.r for Affidavits.\""
+            },
+            "tag": 900
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "National Library's copy annotated: \" This is the map of St Leonards on the North Shore marked No 3 referred to in the affidavit of Cunningham Archibald Atchison? sworn before me at Sydney this ...? day of December 1887.\" Signed \"F? B Williamson A Commissioner for Affidavits.\""
+            },
+            "tag": 900
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "National Library's copy annotated top right: \" This is the map of St Leonards on the North Shore marked No 3 referred to in the affidavit of John Stark sworn before me this 12th day of December 1887.\" Signed Signed \"F? B Williamson A Commissioner for Affidavits.\""
+            },
+            "tag": 900
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "5fa26c50-6abe-5656-9bab-9a90f6749587"
+              },
+              {
+                "code": "i",
+                "content": "ec9d52fd-8a3b-555d-81d9-316281c3d3e5"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4978773
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "101012s1887    xnad      a         eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240213081557.6
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RM 4458"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5512873
+          },
+          {
+            "tag": "004",
+            "content": 4978773
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-232482086"
+}

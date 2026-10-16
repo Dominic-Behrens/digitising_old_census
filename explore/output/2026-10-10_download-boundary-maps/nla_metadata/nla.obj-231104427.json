@@ -1,0 +1,468 @@
+{
+  "id": "23110442",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "3766431",
+  "holdingNumber": "MAP RaA 40 Plate 3",
+  "pid": "nla.obj-231104427",
+  "title": "Alexandria [cartographic material] : Parishes of Alexandria and Petersham.",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1890",
+  "creator": "Higinbotham & Robinson.",
+  "extent": "1 map : col. ; 34 x 22 cm.",
+  "publisherName": "Higinbotham and Robinson",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7645289,
+      "filename": "23110447.jp2",
+      "filesize": 783811,
+      "technicalmetadata": {
+        "width": 2871,
+        "height": 4308
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 37130772
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01502cea a22003017a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 11880
+              },
+              {
+                "code": "d",
+                "content": "E1511100"
+              },
+              {
+                "code": "e",
+                "content": "E1511100"
+              },
+              {
+                "code": "f",
+                "content": "S0335400"
+              },
+              {
+                "code": "g",
+                "content": "S0335400"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1890"
+              },
+              {
+                "code": "b",
+                "content": "d1899"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": 0,
+                "content": 873160
+              },
+              {
+                "code": 9,
+                "content": "80526dd8-3a81-5ad7-8149-8b399351e319"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Alexandria"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Parishes of Alexandria and Petersham."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:11,880]"
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b011'--S 33\u00b054')"
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Higinbotham and Robinson,"
+              },
+              {
+                "code": "c",
+                "content": "[189-?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "34 x 22 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of Alexandria showing municipal boundaries, wards, tramways, railway and streets."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Plate 3 from: Maps of municipalities surrounding the city of Sydney. Sydney : Higinbotham and Robinson, [189-?]"
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-231104427"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": "t",
+                "content": "Maps of municipalities surrounding the city of Sydney."
+              },
+              {
+                "code": 0,
+                "content": 873160
+              },
+              {
+                "code": 9,
+                "content": "80526dd8-3a81-5ad7-8149-8b399351e319"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "From:"
+              },
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": "t",
+                "content": "Maps of municipalities surrounding the city of Sydney"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)1648702"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RaA 40"
+              },
+              {
+                "code": "m",
+                "content": "Plate 3"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-231104427"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "d",
+                "content": 66003766431
+              }
+            ],
+            "tag": 984
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "daebe02e-6d54-5dc1-8d79-7218d2492ff5"
+              },
+              {
+                "code": "i",
+                "content": "308a842f-82c9-59e8-bcd8-df6842dd7973"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 3766431
+          },
+          {
+            "tag": "007",
+            "content": "aj canun"
+          },
+          {
+            "tag": "008",
+            "content": "060816q18901899xna       a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240412140900.9
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RaA 40"
+              },
+              {
+                "code": "m",
+                "content": "Plate 3"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5099229
+          },
+          {
+            "tag": "004",
+            "content": 3766431
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "23110397",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "bibLevel": "Item",
+    "bibId": "1648702",
+    "holdingNumber": "MAP RaA 40",
+    "pid": "nla.obj-231103971",
+    "title": "Maps of municipalities surrounding the city of Sydney [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1890",
+    "creator": "Higinbotham & Robinson.",
+    "extent": "1 atlas ([46] p.) : 36 col. maps ; 39 cm.",
+    "publisherName": "Higinbotham & Robinson",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-231103971"
+}

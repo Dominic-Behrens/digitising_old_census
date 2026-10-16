@@ -1,0 +1,15 @@
+{
+  "url": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Transport_Theme_multiCRS/MapServer/5/query",
+  "params": {
+    "f": "json",
+    "where": "roadnamebase IN ('THE BOULEVARDE','HOMEBUSH','REDMYRE','ALBYN','WOODWARD','VICTORIA','BERESFORD','BOUGHTON','BROUGHTON','BRIDGE','ROCHESTER','MEREDITH','ABBOTSFORD','BURLINGTON','LIVERPOOL','CROSS','HIGH','WILLIAM','LUDGATE','WAKEFORD','TORRINGTON','LYONS','ALBERT','OXFORD','POTTS','COVENTRY','ARTHUR','MARION','FRANCES','FLORENCE')",
+    "geometry": "151.058,-33.908,151.105,-33.851",
+    "geometryType": "esriGeometryEnvelope",
+    "inSR": 7844,
+    "outSR": 7856,
+    "spatialRel": "esriSpatialRelIntersects",
+    "outFields": "OBJECTID,roadnamebase,roadnametype,planimetricaccuracy,featuremoddate",
+    "returnGeometry": "true",
+    "resultRecordCount": 2000
+  }
+}

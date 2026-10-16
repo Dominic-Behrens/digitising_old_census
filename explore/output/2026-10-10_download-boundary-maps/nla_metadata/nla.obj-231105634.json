@@ -1,0 +1,483 @@
+{
+  "id": "23110563",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "3766456",
+  "holdingNumber": "MAP RaA 40 Plate 14",
+  "pid": "nla.obj-231105634",
+  "title": "Concord [cartographic material] : Parish of Concord.",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1890",
+  "creator": "Higinbotham & Robinson.",
+  "extent": "1 map : col. ; 35 x 23 cm.",
+  "publisherName": "Higinbotham and Robinson",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7645333,
+      "filename": "23110568.jp2",
+      "filesize": 973843,
+      "technicalmetadata": {
+        "width": 3550,
+        "height": 4366
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 46525220
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01540cea a2200313 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 19800
+              },
+              {
+                "code": "d",
+                "content": "E1510500"
+              },
+              {
+                "code": "e",
+                "content": "E1510700"
+              },
+              {
+                "code": "f",
+                "content": "S0334900"
+              },
+              {
+                "code": "g",
+                "content": "S0335200"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1890"
+              },
+              {
+                "code": "b",
+                "content": "d1899"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": 0,
+                "content": 873160
+              },
+              {
+                "code": 9,
+                "content": "80526dd8-3a81-5ad7-8149-8b399351e319"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Concord"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Parish of Concord."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:19,800]"
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b005'--E 151\u00b007'/S 33\u00b049'--S 33\u00b052')"
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Higinbotham and Robinson,"
+              },
+              {
+                "code": "c",
+                "content": "[189-?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "35 x 23 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of Concord showing municipal boundaries, railway, streets and public buildings."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Plate 14 from: Maps of municipalities surrounding the city of Sydney. Sydney : Higinbotham and Robinson, [189-?]"
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-231105634"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Concord (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": "t",
+                "content": "Maps of municipalities surrounding the city of Sydney."
+              },
+              {
+                "code": 0,
+                "content": 873160
+              },
+              {
+                "code": 9,
+                "content": "80526dd8-3a81-5ad7-8149-8b399351e319"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "From:"
+              },
+              {
+                "code": "a",
+                "content": "Higinbotham & Robinson."
+              },
+              {
+                "code": "t",
+                "content": "Maps of municipalities surrounding the city of Sydney"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)1648702"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RaA 40"
+              },
+              {
+                "code": "m",
+                "content": "Plate 14"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-231105634"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "d",
+                "content": 66003766456
+              }
+            ],
+            "tag": 984
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "e44e9a08-edac-5372-beec-7c3773d5e2bd"
+              },
+              {
+                "code": "i",
+                "content": "cb55ae2b-64d4-57f4-b0a3-cc7520a76256"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 3766456
+          },
+          {
+            "tag": "007",
+            "content": "aj canun"
+          },
+          {
+            "tag": "008",
+            "content": "060816q18901899xna       a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240412141109.1
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RaA 40"
+              },
+              {
+                "code": "m",
+                "content": "Plate 14"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5099213
+          },
+          {
+            "tag": "004",
+            "content": 3766456
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "23110397",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "bibLevel": "Item",
+    "bibId": "1648702",
+    "holdingNumber": "MAP RaA 40",
+    "pid": "nla.obj-231103971",
+    "title": "Maps of municipalities surrounding the city of Sydney [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1890",
+    "creator": "Higinbotham & Robinson.",
+    "extent": "1 atlas ([46] p.) : 36 col. maps ; 39 cm.",
+    "publisherName": "Higinbotham & Robinson",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-231103971"
+}

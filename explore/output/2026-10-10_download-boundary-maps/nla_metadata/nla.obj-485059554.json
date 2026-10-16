@@ -1,0 +1,531 @@
+{
+  "id": "48505955",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "7386344",
+  "holdingNumber": "MAP G8971.F85 1951",
+  "pid": "nla.obj-485059554",
+  "title": "New South Wales, showing boundaries of police, licensing and district court districts, places of petty sessions, licensing and district courts",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "commentsExternal": "",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1951",
+  "creator": "New South Wales. Department of Lands, cartographer, issuing body.",
+  "extent": "1 map on 4 sheets : colour ; 108 x 133 cm, on sheet 57 x 77 cm",
+  "isMissingPage": "false",
+  "publisherName": "Department of Lands",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 15190541,
+      "filename": "48506002.jp2",
+      "filesize": 14631277,
+      "technicalmetadata": {
+        "width": 17469,
+        "height": 13459
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 705368760
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01864cem a2200361 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 7890295
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a1013760"
+              },
+              {
+                "code": "d",
+                "content": "E1400000"
+              },
+              {
+                "code": "e",
+                "content": "E1533500"
+              },
+              {
+                "code": "f",
+                "content": "S0281000"
+              },
+              {
+                "code": "g",
+                "content": "S0370000"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "NNPL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              },
+              {
+                "code": "c",
+                "content": "NNPL"
+              },
+              {
+                "code": "d",
+                "content": "DBM:D"
+              },
+              {
+                "code": "d",
+                "content": "NSL"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1951"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.F85 1951"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands,"
+              },
+              {
+                "code": "e",
+                "content": "cartographer,"
+              },
+              {
+                "code": "e",
+                "content": "issuing body."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales, showing boundaries of police, licensing and district court districts, places of petty sessions, licensing and district courts /"
+              },
+              {
+                "code": "c",
+                "content": "New South Wales Department of Lands."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale approximately 1:1,013,760"
+              },
+              {
+                "code": "c",
+                "content": "(E 140\u00b000'--E 153\u00b035'/S 28\u00b010'--S 37\u00b000')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands,"
+              },
+              {
+                "code": "c",
+                "content": 1951
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map on 4 sheets :"
+              },
+              {
+                "code": "b",
+                "content": "colour ;"
+              },
+              {
+                "code": "c",
+                "content": "108 x 133 cm, on sheet 57 x 77 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Shows police district boundaries, licensing district, district court districts, places of licensing courts, district courts, roads, railways, counties and territorial division boundaries."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes notes and schedule showing places and classes of courts held therein."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Inset: Metropolitan area, scale 1:760,320."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-485052933"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "x",
+                "content": "Administrative and political divisions"
+              },
+              {
+                "code": "v",
+                "content": "Maps"
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "x",
+                "content": "Boundaries"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-485052933"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "cc7b7a75-5bb5-5362-a095-f9f73966ea03"
+              },
+              {
+                "code": "i",
+                "content": "fe42eeaf-2223-5969-bd32-d4701adb4f86"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7386344
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "910411s1951    xnad      a  sr 0   eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20240129002241
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.F85 1951"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8086946
+          },
+          {
+            "tag": "004",
+            "content": 7386344
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "48505293",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Item",
+    "bibId": "7386344",
+    "holdingNumber": "MAP G8971.F85 1951",
+    "pid": "nla.obj-485052933",
+    "title": "New South Wales, showing boundaries of police, licensing and district court districts, places of petty sessions, licensing and district courts",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1951",
+    "creator": "New South Wales. Department of Lands, cartographer, issuing body.",
+    "extent": "1 map on 4 sheets : colour ; 108 x 133 cm, on sheet 57 x 77 cm",
+    "isMissingPage": "false",
+    "publisherName": "Department of Lands",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-485052933"
+}

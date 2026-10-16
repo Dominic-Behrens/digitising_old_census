@@ -1,0 +1,487 @@
+{
+  "id": "110792558",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "subUnitNo": "9436-III-SW",
+  "bibLevel": "Part",
+  "bibId": "7428161",
+  "holdingNumber": "MAP G8971.K1 s25",
+  "pid": "nla.obj-1107925588",
+  "title": "Willawarrin West [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1976",
+  "creator": "Forestry Commission of New South Wales.",
+  "extent": "1 map ; 56 x 49 cm.",
+  "sheetName": "Willawarrin West",
+  "sheetCreationDate": "1976",
+  "additionalSeriesStatement": "First Edition",
+  "publisherName": "Forestry Commission",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 102542327,
+      "filename": "110796433.jp2",
+      "filesize": 13519145,
+      "technicalmetadata": {
+        "width": 12287,
+        "height": 17631
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 649915960
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01599cem a2200325 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 25000
+              },
+              {
+                "code": "d",
+                "content": "E1523000"
+              },
+              {
+                "code": "e",
+                "content": "E1523730"
+              },
+              {
+                "code": "f",
+                "content": "S0305230"
+              },
+              {
+                "code": "g",
+                "content": "S0310000"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1976"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.K1 s25"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forestry Commission of New South Wales."
+              },
+              {
+                "code": 0,
+                "content": 40303
+              },
+              {
+                "code": 9,
+                "content": "d88c072f-2711-553d-8d69-5298347f3ff9"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Willawarrin West"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "Produced by the Forestry Commission of New South Wales."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:25,000 ;"
+              },
+              {
+                "code": "b",
+                "content": "Transverse Mercator proj."
+              },
+              {
+                "code": "c",
+                "content": "(E 152\u00b030\u02b900\u02ba--E 152\u00b037\u02b930\u02ba/S 30\u00b052\u02b930\u02ba--S 31\u00b000\u02b900\u02ba)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney] :"
+              },
+              {
+                "code": "b",
+                "content": "Forestry Commission,"
+              },
+              {
+                "code": "c",
+                "content": 1976
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "56 x 49 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Forestry management maps of New South Wales] ;"
+              },
+              {
+                "code": "v",
+                "content": "9436-III-SW"
+              }
+            ],
+            "tag": 490
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Dyeline print."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Shows forest areas and boundaries, with size in hectares, on topographic base. Relief by contours."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP G8971.K1 s25 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1107925588"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forest management"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Willawarrin"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Willawarrin (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "[Forestry management maps of New South Wales]"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)7427385"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forestry management maps of New South Wales ;"
+              },
+              {
+                "code": "v",
+                "content": "9436-III-SW."
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP G8971.K1 s25 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1107925588"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "58b0b855-9d8e-55e1-8aa9-bfdf0619e769"
+              },
+              {
+                "code": "i",
+                "content": "ad9ef5f1-4dcb-5dee-b838-4634d827a635"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7428161
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "170815s1976    xna       a  s      eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20230919012522.8
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.K1 s25"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8131991
+          },
+          {
+            "tag": "004",
+            "content": 7428161
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "55219649",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Item",
+    "bibId": "7427385",
+    "holdingNumber": "MAP G8971.K1 s25",
+    "pid": "nla.obj-552196499",
+    "title": "[Forestry management maps of New South Wales] : 1:25,000",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1966",
+    "creator": "Forestry Commission of New South Wales, cartographer, issuing body.",
+    "extent": "maps : some colour ; 66 x 64 cm or smaller, sheets 92 x 68 cm or smaller",
+    "isMissingPage": "false",
+    "interactiveIndexAvailable": "true",
+    "publisherName": "Forestry Commission of New South Wales",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-552196499"
+}

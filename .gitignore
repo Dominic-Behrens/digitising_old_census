@@ -1,0 +1,117 @@
+# Python environments and caches; keep script .py.lock files versioned.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local credentials; keep credential-free example files visible.
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Desktop/editor temporary files.
+.DS_Store
+Thumbs.db
+~$*
+*.swp
+*.swo
+*.tmp
+
+# Generated pipeline outputs, including crops, workbooks and large extraction
+# responses. Paid-response ledgers here need a separate backup: not disposable.
+/output/
+/data/intermediate/abs_1911_census_pages/
+
+# Exploratory outputs are local, except durable decisions and small provenance
+# records. Ignore child directories unless explicitly retained below.
+/explore/output/*
+!/explore/output/*/
+/explore/output/*/*
+!/explore/output/*/*review_decisions.csv
+!/explore/output/*/requests.jsonl
+!/explore/output/*/manifest.json
+!/explore/output/*/prompt.txt
+!/explore/output/*/model_metadata.json
+!/explore/output/*/source_regions.json
+!/explore/output/*/source_inspections.csv
+!/explore/output/*/source_references.csv
+!/explore/output/*/source_review.json
+!/explore/output/*/source_fingerprints.json
+!/explore/output/*/diagnosis-summary.md
+!/explore/output/2026-10-10_download-boundary-maps/manifest.csv
+!/explore/output/2026-10-10_download-boundary-maps/trove_candidates.csv
+!/explore/output/2026-10-10_download-boundary-maps/nla_candidates.csv
+!/explore/output/2026-10-10_download-boundary-maps/nla_*_candidates.csv
+!/explore/output/2026-10-10_download-boundary-maps/state_library_series_candidates.csv
+!/explore/output/2026-10-10_download-boundary-maps/state_library_*_candidates.csv
+!/explore/output/2026-10-10_download-boundary-maps/state_library_municipal_series_metadata.json
+!/explore/output/2026-10-10_download-boundary-maps/state_library_1917_dataset_candidates.csv
+!/explore/output/2026-10-10_download-boundary-maps/state_library_1917_dataset_metadata.json
+!/explore/output/2026-10-10_download-boundary-maps/city_sydney_historical_boundary_*.json
+!/explore/output/2026-10-10_download-boundary-maps/additional_sources.csv
+!/explore/output/2026-10-10_download-boundary-maps/nla_metadata/
+
+# The refined pilot has its own request ledger and source-inspection records.
+!/explore/output/2026-09-22_census-extraction-pilot/refined/
+/explore/output/2026-09-22_census-extraction-pilot/refined/*
+!/explore/output/2026-09-22_census-extraction-pilot/refined/requests.jsonl
+!/explore/output/2026-09-22_census-extraction-pilot/refined/manifest.json
+!/explore/output/2026-09-22_census-extraction-pilot/refined/prompt.txt
+!/explore/output/2026-09-22_census-extraction-pilot/refined/model_metadata.json
+!/explore/output/2026-09-22_census-extraction-pilot/refined/source_regions.json
+!/explore/output/2026-09-22_census-extraction-pilot/refined/source_inspections.csv
+
+# Do not blanket-ignore raw inputs, data/intermediate, CSV/JSON files or code:
+# accepted mappings, corrections, extraction provenance and source data belong
+# in version control unless explicitly listed above.
+
+# Freeze the map pilot cohort independently of continuing downloads.
+!/explore/output/2026-10-10_map-gis-pilot/source_manifest.csv
+
+# Preserve public archive map discovery and verification evidence.
+!/explore/output/2026-10-10_download-boundary-maps/city_sydney_archive_*_candidates.csv
+!/explore/output/2026-10-10_download-boundary-maps/city_sydney_archive_*.txt
+!/explore/output/2026-10-10_download-boundary-maps/verification.json
+
+!/explore/output/2026-10-10_download-boundary-maps/nla_alexandria_1967_browse_ids.json
+
+# ---------------------------------------------------------------- 17 October 2026 tidy-up
+# Raw map media stays local: the scans run to tens of gigabytes and several TIFFs exceed
+# GitHub's 100 MB file limit. Source URLs and SHA-256 hashes live in
+# data/raw/historical_boundary_maps/README.md and in the panel manifests, so every file
+# can be re-fetched. Only the catalogue README is versioned from that tree.
+/data/raw/historical_boundary_maps/**
+!/data/raw/historical_boundary_maps/README.md
+
+# Panel deliverables keep the tables, evidence and status files; rendered crops, OCR tool
+# binaries and intermediate images stay local.
+!/explore/output/2026-10-14_nsw-lga-census-panel/
+/explore/output/2026-10-14_nsw-lga-census-panel/*
+!/explore/output/2026-10-14_nsw-lga-census-panel/*.csv
+!/explore/output/2026-10-14_nsw-lga-census-panel/*.json
+!/explore/output/2026-10-14_nsw-lga-census-panel/*.md
+!/explore/output/2026-10-14_nsw-lga-census-panel/*.pdf
+!/explore/output/2026-10-14_nsw-lga-census-panel/sydney_lga_1981.gpkg
+
+!/explore/output/2026-10-16_download-other-states-lga-census-maps/
+/explore/output/2026-10-16_download-other-states-lga-census-maps/*
+!/explore/output/2026-10-16_download-other-states-lga-census-maps/manifest.csv
+!/explore/output/2026-10-16_download-other-states-lga-census-maps/catalogue_sources.csv
+!/explore/output/2026-10-16_download-other-states-lga-census-maps/status.json
+
+!/explore/output/2026-10-16_other-states-lga-census-panel/
+/explore/output/2026-10-16_other-states-lga-census-panel/*
+!/explore/output/2026-10-16_other-states-lga-census-panel/*.csv
+!/explore/output/2026-10-16_other-states-lga-census-panel/*.txt
+!/explore/output/2026-10-16_other-states-lga-census-panel/*.log
+!/explore/output/2026-10-16_other-states-lga-census-panel/*.json
+!/explore/output/2026-10-16_other-states-lga-census-panel/*.md
+
+!/explore/output/2026-10-17_map-digitisation-readiness/
+/explore/output/2026-10-17_map-digitisation-readiness/*
+!/explore/output/2026-10-17_map-digitisation-readiness/*.csv
+!/explore/output/2026-10-17_map-digitisation-readiness/*.md

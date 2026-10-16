@@ -1,0 +1,499 @@
+{
+  "id": "162846203",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "subUnitNo": "1",
+  "bibLevel": "Part",
+  "bibId": "4467787",
+  "holdingNumber": "MAP G8974.M6G46 1969 (Copy 1)",
+  "pid": "nla.obj-1628462035",
+  "title": "Environs of Morisset [cartographic material] : Parish - Morisset, County - Northumberland, Land District - Gosford, Shire - Sutherland, Shire - Lake Macquaire",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1969",
+  "creator": "New South Wales. Department of Lands.",
+  "extent": "1 map on 2 sheets ; 76 x 112 cm., sheets 79 x 58 cm.",
+  "sheetName": "Town of Morisset",
+  "sheetCreationDate": "1969",
+  "additionalSeriesStatement": "Fourth Edition",
+  "publisherName": "Dept. of Lands",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 111373985,
+      "filename": "162848185.jp2",
+      "filesize": 16176631,
+      "technicalmetadata": {
+        "width": 13851,
+        "height": 18644
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 774734792
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01607cem a2200337 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 6336
+              },
+              {
+                "code": "d",
+                "content": "E1513000"
+              },
+              {
+                "code": "e",
+                "content": "E1513000"
+              },
+              {
+                "code": "f",
+                "content": "S0330600"
+              },
+              {
+                "code": "g",
+                "content": "S0330600"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1969"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8974.M6G46 1969"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Environs of Morisset"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Parish - Morisset, County - Northumberland, Land District - Gosford, Shire - Sutherland, Shire - Lake Macquaire /"
+              },
+              {
+                "code": "c",
+                "content": "printed & published by Dept. of Lands Sydney."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "4th ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:6,336]"
+              },
+              {
+                "code": "e",
+                "content": "(E 151°30'/S 33°06')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Dept. of Lands,"
+              },
+              {
+                "code": "c",
+                "content": 1969
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map on 2 sheets ;"
+              },
+              {
+                "code": "c",
+                "content": "76 x 112 cm., sheets 79 x 58 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town map showing boundaries and land holdings."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Date of map - 14th August 1969.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"69-486\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": "Sheet 1. Environs of Morisset, Town of Morisset. Scale [ca. 1:6,336] -- Sheet 2 . Environs of Morisset, Bonnells Bay. Scale [ca. 1:6,336]"
+            },
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1628462024"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Morisset"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Morisset (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1628462024"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "cfb79545-dc49-587e-bfc8-1076df204d7a"
+              },
+              {
+                "code": "i",
+                "content": "3b10cd92-be64-5b65-a340-f638d0ab9dfe"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4467787
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "080901s1969    xna       a  s  0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230918230213.6
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.M6G46 1969"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 1"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 2"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4965870
+          },
+          {
+            "tag": "004",
+            "content": 4467787
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "162846202",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "subUnitType": "Sheet",
+    "bibLevel": "Item",
+    "bibId": "4467787",
+    "holdingNumber": "MAP G8974.M6G46 1969 (Copy 1)",
+    "pid": "nla.obj-1628462024",
+    "title": "Environs of Morisset [cartographic material] : Parish - Morisset, County - Northumberland, Land District - Gosford, Shire - Sutherland, Shire - Lake Macquaire",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "Out of Copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1969",
+    "creator": "New South Wales. Department of Lands.",
+    "extent": "1 map on 2 sheets ; 76 x 112 cm., sheets 79 x 58 cm.",
+    "sheetName": "Town of Morisset",
+    "sheetCreationDate": "1969",
+    "additionalSeriesStatement": "Fourth Edition",
+    "publisherName": "Dept. of Lands",
+    "constraints": [
+      "Copyright"
+    ],
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-1628462024"
+}

@@ -1,0 +1,589 @@
+{
+  "id": "162846260",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "expiryDate": "Wed, 01 Jan 2025",
+  "subUnitNo": "P5487-13",
+  "bibLevel": "Part",
+  "bibId": "4467849",
+  "holdingNumber": "MAP G8974.M8G46 1975 (Copy 1)",
+  "pid": "nla.obj-1628462606",
+  "title": "Mudgee [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "In Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1975",
+  "creator": "Central Mapping Authority of New South Wales.",
+  "extent": "1 map on 4 sheets ; 137 x 176 cm., sheets 73 x 101 cm. or smaller.",
+  "sheetName": "Town of Mudgee",
+  "sheetCreationDate": "1975",
+  "additionalSeriesStatement": "1:2000 Urban Cadastral Series; First Edition",
+  "publisherName": "Central Mapping Authority",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 111376189,
+      "filename": "162854220.jp2",
+      "filesize": 24968007,
+      "technicalmetadata": {
+        "width": 23668,
+        "height": 16884
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1198851388
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02332cem a2200409 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 2000
+              },
+              {
+                "code": "d",
+                "content": "E1493500"
+              },
+              {
+                "code": "e",
+                "content": "E1493500"
+              },
+              {
+                "code": "f",
+                "content": "S0323400"
+              },
+              {
+                "code": "g",
+                "content": "S0323400"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1975"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": "G8974.M8G46 1975"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Central Mapping Authority of New South Wales."
+              },
+              {
+                "code": 0,
+                "content": 344907
+              },
+              {
+                "code": 9,
+                "content": "266239a0-55f5-5f51-80cc-662549e2dcaf"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Mudgee"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "produced by the Central Mapping Authority, Department of Lands, N.S.W."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "1st ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:2,000"
+              },
+              {
+                "code": "b",
+                "content": "Transverse mercator proj. ;"
+              },
+              {
+                "code": "c",
+                "content": "(E 149\u00b035'/S 32\u00b034')"
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Bathurst, N.S.W. :"
+              },
+              {
+                "code": "b",
+                "content": "Central Mapping Authority,"
+              },
+              {
+                "code": "c",
+                "content": 1975
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map on 4 sheets ;"
+              },
+              {
+                "code": "c",
+                "content": "137 x 176 cm., sheets 73 x 101 cm. or smaller."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": "N.S.W. Australia 1:2,000 urban cadastral series"
+            },
+            "tag": 490
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town map of Mudgee showing parish, county, city, municpal and shire boundaries. Shows land holdings."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"This map is continually updated. Date of updating...\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes keys to localities, local government areas, parish and county boundaries."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes key to adjoining sheets."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": "Sheet 1. Mudgee P5487-13. Scale 1:2,000 -- Sheet 2. Mudgee P5487-14. Scale 1:2,000 -- Sheet 3. Mudgee P5487-41. Scale 1:2,000 -- Sheet 4. Mudgee P5487-42. Scale 1:2,000."
+            },
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP G8974.M8G46 1975 (Copy 1) copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1628462591"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Mudgee"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Mudgee (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "N.S.W. Australia 1:2,000 urban cadastral series."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP G8974.M8G46 1975 (Copy 1) copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1628462591"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "National Library of Australia's copy, sheets 1, 2 and 4, are stamped with date of updating, showing various dates in 1975."
+            },
+            "tag": 900
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "National Library of Australia's copy, sheet 3, is stamped with provisional copy."
+            },
+            "tag": 900
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "4cd39f8e-7eed-5f65-b8cf-67f209f533da"
+              },
+              {
+                "code": "i",
+                "content": "46e0a0e3-960b-58c6-bc87-97347a73ffd5"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4467849
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "900321s1975    xna    bh a  s  0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240128235633.9
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.M8G46 1975"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 3"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 1"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 2"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 4"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4967525
+          },
+          {
+            "tag": "004",
+            "content": 4467849
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "162846259",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "subUnitType": "Sheet",
+    "expiryDate": "Wed, 01 Jan 2025",
+    "bibLevel": "Item",
+    "bibId": "4467849",
+    "holdingNumber": "MAP G8974.M8G46 1975 (Copy 1)",
+    "pid": "nla.obj-1628462591",
+    "title": "Mudgee [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "In Copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1975",
+    "creator": "Central Mapping Authority of New South Wales.",
+    "extent": "1 map on 4 sheets ; 137 x 176 cm., sheets 73 x 101 cm. or smaller.",
+    "isMissingPage": "false",
+    "sheetName": "Town of Mudgee",
+    "sheetCreationDate": "1975",
+    "additionalSeriesStatement": "1:2000 Urban Cadastral Series; First Edition",
+    "publisherName": "Central Mapping Authority",
+    "constraints": [
+      "Copyright"
+    ],
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-1628462591"
+}

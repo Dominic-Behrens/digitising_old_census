@@ -1,0 +1,2059 @@
+census_year,source_pdf_page,source_row_number,lga_name,lga_type,lga_name_raw,name_review_status
+1921,366,1,Aberdeen,municipality,"1, Aberdeen .. . 1,491",ocr_extracted
+1921,366,2,Adamstown,municipality,2. Adamstown 7 a 973,ocr_extracted
+1921,366,3,Albury,municipality,"3. Albury a -. | 18,460",ocr_extracted
+1921,366,4,Alexandria,municipality,"4, Alexandria .. +. .. | 1,024",ocr_extracted
+1921,366,5,Annandale,municipality,5. Annandale .. _ | 360,ocr_extracted
+1921,366,6,Armidale,municipality,"6. Armidale .. .: -. | 2,080",ocr_extracted
+1921,367,7,Ashfield,municipality,"7. Ashfield... . . 2,081 | 1",ocr_extracted
+1921,367,8,Auburn,municipality,"8. Auburn . .. . 2,688",ocr_extracted
+1921,367,9,Ballina,municipality,"9. Ballina 7 . 7 5,760",ocr_extracted
+1921,367,10,Balmain,municipality,10. Balmain... . . 938 | 1,ocr_extracted
+1921,367,11,Balranald,municipality,"11. Balranald .. . . 30,720",ocr_extracted
+1921,367,12,Bankstown,municipality,"12. Bankstown .. .. . 19,393",ocr_extracted
+1921,367,13,Barraba,municipality,B arra ba,source_sequence_correction
+1921,367,14,Bathurst,municipality,"14. Bathurst .. 7 . 2,560",ocr_extracted
+1921,367,15,Bega,municipality,"15. Bega + .- 2,300",ocr_extracted
+1921,367,16,Berry,municipality,"16. Berry . a . 31,574",ocr_extracted
+1921,367,17,Bexley,municipality,"17. Bexley . .. 1,920",ocr_extracted
+1921,367,18,Bingara,municipality,B mgara,native_text_fallback
+1921,367,19,Blackheath,municipality,"19. Blackheath .. . . ¥5,000",ocr_extracted
+1921,367,20,Blayney,municipality,"20. Blayney .. - a 3,040",ocr_extracted
+1921,367,21,Bombala,municipality,"21. Bomhala_.. . .. 4,299",ocr_extracted
+1921,367,22,Botany,municipality,"22. Botany . .. a 2,163",ocr_extracted
+1921,367,23,Bourke,municipality,"23. Bourke . .: 28,160",ocr_extracted
+1921,367,24,Bowral,municipality,"24. Bowral . . 3,315",ocr_extracted
+1921,367,25,Braidwood,municipality,"25. Braidwood .. a . 5,760",ocr_extracted
+1921,367,26,Brewarrina,municipality,"26. Brewarrina .. . . 16,000",ocr_extracted
+1921,367,27,Broken Hill,municipality,"27. Broken Hill. . . 16,640 | 1",ocr_extracted
+1921,367,28,Broughton Vale,municipality,"28. Broughton Vale a . 15,040",ocr_extracted
+1921,367,29,Burrowa,municipality,"29. Burrowa .... . a 21,760",ocr_extracted
+1921,367,30,Burwood,municipality,"30. Burwood... . . 1,050",ocr_extracted
+1921,367,31,Cabramatta and Canley Vale,municipality,"31, Cabramatta and Canley Vale .. 7,272",ocr_extracted
+1921,367,32,Camden,municipality,"32. Camden . . . 7,680",ocr_extracted
+1921,367,33,Campbelltown,municipality,Ca mpbelltown,native_text_fallback
+1921,367,34,Canterbury,municipality,"34. Canterbury .. a . 8,384 | 1",ocr_extracted
+1921,367,35,Carcoar,municipality,C arcoar,source_sequence_correction
+1921,367,36,Carrington,municipality,36. Carrington .. . 435,ocr_extracted
+1921,367,37,Casino,municipality,"37. Casino .. 1 . 21,500 |",ocr_extracted
+1921,367,38,Castlereagh,municipality,"38. Castlereagh .. .. . 30,426 |",ocr_extracted
+1921,367,39,Cobar,municipality,"39. Cobar a a . 22,048",ocr_extracted
+1921,367,40,Concord,municipality,"40. Concord a a . 2,666",ocr_extracted
+1921,367,41,Condobolin,municipality,"41. Condobolin (Condoublin) . 29,888",ocr_extracted
+1921,367,42,Cooma,municipality,"42. Cooma . .. 7 17,664",ocr_extracted
+1921,367,43,Coonamble,municipality,"43. Coonamble .. . .. 15,040 |",ocr_extracted
+1921,367,44,Cootamundra,municipality,"44. Cootamundra an 7 6,080",ocr_extracted
+1921,367,45,Coraki,municipality,"45. Coraki . _ . 2,560",ocr_extracted
+1921,367,46,Corowa,municipality,"46. Corowa os 7 . 8,040",ocr_extracted
+1921,367,47,Cowra,municipality,C owra,source_sequence_correction
+1921,367,48,Cudgegong,municipality,"48. Cudgegong .. a .. | 122,880",ocr_extracted
+1921,367,49,Darlington,municipality,,source_sequence_correction
+1921,367,50,Deniliquin,municipality,"50. Deniliquin .. . 32,000",ocr_extracted
+1921,367,51,Drummoyne,municipality,Dr ummo-yne,native_text_fallback
+1921,367,52,Dubbo,municipality,"52. Dubbo .. a 2,671",ocr_extracted
+1921,367,53,Dundas,municipality,"53. Dundas _ 7 . 2,688",ocr_extracted
+1921,367,54,Dungog,municipality,"54. Dungog . . . 2,701",ocr_extracted
+1921,367,55,Eastwood,municipality,"55, Eastwood .. a 7 2,931",ocr_extracted
+1921,367,56,Enfield,municipality,"56. Enfield ’ .. | 3,696",ocr_extracted
+1921,367,57,Ermington and Rydalmere,municipality,,source_sequence_correction
+1921,367,58,Erskineville,municipality,58. Erskineville . . 166,ocr_extracted
+1921,367,59,Forbes,municipality,59. Forbes . . os 32;000,ocr_extracted
+1921,367,60,Gerringong,municipality,"60. Gerringong .. . 7 27,360",ocr_extracted
+1921,367,61,Glebe,municipality,61. Glebe a . a 521 | 1,ocr_extracted
+1921,367,62,Glen Innes,municipality,"62. Glen Innes .. . an 25,600",ocr_extracted
+1921,367,63,Goulburn,municipality,"63. Goulburn... oe os 8,320",ocr_extracted
+1921,367,64,Grafton,municipality,"64, Grafton . .. mo, 2,520",ocr_extracted
+1921,367,65,Grafton South,municipality,"65. Grafton South . 7 1,552",ocr_extracted
+1921,367,66,Granville,municipality,"66. Granville .. 7 7 4,409",ocr_extracted
+1921,367,67,Grenfell,municipality,67. Grenfell . 7 346,ocr_extracted
+1921,367,68,Greta,municipality,G reta,native_text_fallback
+1921,367,69,Gulgong,municipality,G ulg()ng,source_sequence_correction
+1921,367,70,Gundagai,municipality,"70. Gundagat .. . 2,080",ocr_extracted
+1921,367,71,Gunnedah,municipality,"71. Gunnedah .. .. - 2,656",ocr_extracted
+1921,367,72,Hamilton,municipality,"72. Hamilton .. . .. 3,594",ocr_extracted
+1921,367,73,Hay,municipality,"73, Hay . . 32,000",ocr_extracted
+1921,368,74,Hillgrove,municipality,"74, Hillgrove .. a . 2",ocr_extracted
+1921,368,75,Hillston,municipality,75. Hillston  .. . 32,ocr_extracted
+1921,368,76,Homebush,municipality,76. Homebush .. . oe,ocr_extracted
+1921,368,77,Hunter's Hill,municipality,77. Hunter’s Hill . .. 1,ocr_extracted
+1921,368,78,Hurstville,municipality,78. Hurstville .. .. - 6,ocr_extracted
+1921,368,79,Illawarra Central,municipality,79. Illawarra Central... .. | 75,ocr_extracted
+1921,368,80,Illawarra North,municipality,80. Hllawarra North . 7 7,ocr_extracted
+1921,368,81,Ingleburn,municipality,81. Ingleburn .. . . 6,ocr_extracted
+1921,368,82,Inverell,municipality,82. Inverell . . 7 10,ocr_extracted
+1921,368,83,Jamberoo,municipality,83. Jamberoo .. .: 40,ocr_extracted
+1921,368,84,Junee,municipality,"84, Junee a + a 5",ocr_extracted
+1921,368,85,Katoomba,municipality,85. Katoomba .. .. . 7,ocr_extracted
+1921,368,86,Kempsey,municipality,86. Kempsey .. . .. 4,ocr_extracted
+1921,368,87,Kiama,municipality,87. Kiama a an .- 2,ocr_extracted
+1921,368,88,Kogarah,municipality,88. Kogarah .. . 4,ocr_extracted
+1921,368,89,Lambton,municipality,89. Lambton .. .,ocr_extracted
+1921,368,90,"Lambton, New",municipality,"90. Lambton, New . .. 2",ocr_extracted
+1921,368,91,Lane Cove,municipality,91. Lane Cove .. . 2,ocr_extracted
+1921,368,92,Leichhardt,municipality,92. Leichhardt .. 1,ocr_extracted
+1921,368,93,Lidcombe,municipality,93. Lidcombe .. . .. 5,ocr_extracted
+1921,368,94,Lismore,municipality,94. Lismore = . - 14,ocr_extracted
+1921,368,95,Lithgow,municipality,95. Lithgow... 7 4,ocr_extracted
+1921,368,96,Liverpool,municipality,96. Liverpool . .. a | 43,ocr_extracted
+1921,368,97,Maclean,municipality,97. Maclean . 1,ocr_extracted
+1921,368,98,Maitland East,municipality,98. Maitland East .. .. 4,ocr_extracted
+1921,368,99,Maitland West,municipality,Maitland West,source_sequence_correction
+1921,368,100,Manilla,municipality,100. Manilla - . 1,ocr_extracted
+1921,368,101,Manly,municipality,101. Manly . . . 2,ocr_extracted
+1921,368,102,Marrickville,municipality,102. Marrickville. . . 2,ocr_extracted
+1921,368,103,Mascot,municipality,103. Mascot a . 2,ocr_extracted
+1921,368,104,Merewether,municipality,"104, Merewether . . . oe 1",ocr_extracted
+1921,368,105,Mittagong,municipality,105. Mittagong .. -.. . 2,ocr_extracted
+1921,368,106,Moama,municipality,106. Moama o . . 32,ocr_extracted
+1921,368,107,Molong,municipality,107. Molong . . . 14,ocr_extracted
+1921,368,108,Moree,municipality,108. Moree os . _ 8,ocr_extracted
+1921,368,109,Morpeth,municipality,109. Morpeth _ .. .. Ls,ocr_extracted
+1921,368,110,Mosman,municipality,110. Mosman... . 2,ocr_extracted
+1921,368,111,Moss Vale,municipality,111. Moss Vale .. a 7 18,ocr_extracted
+1921,368,112,Mudgee,municipality,"112, Mudgee . .",ocr_extracted
+1921,368,113,Mullumbimby,municipality,113. Mullumbimby . .. 1,ocr_extracted
+1921,368,114,Murrumburrah,municipality,114. Murrumburrah . 7 5,ocr_extracted
+1921,368,115,Murrurundi,municipality,115. Murrurundi - . 1,ocr_extracted
+1921,368,116,Murwillumbah,municipality,116. Murwillumbah an .,ocr_extracted
+1921,368,117,Muswellbrook,municipality,117. Muswellbrook (Musclebrook) .. 1,ocr_extracted
+1921,368,118,Narrabri,municipality,118. Narrabri... . . 2,ocr_extracted
+1921,368,119,Narrabri West,municipality,119. Narrabri West 7 1,ocr_extracted
+1921,368,120,Narrandera,municipality,120. Narrandera . . 4,ocr_extracted
+1921,368,121,Narromine,municipality,121..Narromine .. 7 .,ocr_extracted
+1921,368,122,Newcastle,municipality,122. Newcastle .. . . 1,ocr_extracted
+1921,368,123,Newtown,municipality,123. Newtown .. .,ocr_extracted
+1921,368,124,Nowra,municipality,124. Nowra . LB,ocr_extracted
+1921,368,125,Nyngan,municipality,125. Nyngan - . | 2,ocr_extracted
+1921,368,126,Orange,municipality,126. Orange a 2 _ 1,ocr_extracted
+1921,368,127,Paddington,municipality,"127, Paddington .. - 7",ocr_extracted
+1921,368,128,Parkes,municipality,128. Parkes . 10,ocr_extracted
+1921,368,129,Parramatta,municipality,129. Parramatta .. .. . 2,ocr_extracted
+1921,368,130,Peak Hill,municipality,130. Peak Hill .. + 7 18,ocr_extracted
+1921,368,131,Penrith,municipality,Penrith,source_sequence_correction
+1921,368,132,Petersham,municipality,132. Petersham .. .. 1,ocr_extracted
+1921,368,133,Picton,municipality,133. Picton . . _ | 2,ocr_extracted
+1921,368,134,Port Macquarie,municipality,134. Port Macquarie = 3,ocr_extracted
+1921,368,135,Prospect and Sherwood,municipality,135. Prospect and Sherwood . 7,ocr_extracted
+1921,368,136,Queanbeyan,municipality,136. Queanbeyan | 4,ocr_extracted
+1921,368,137,Quirindi,municipality,137. Quirindi. . td,ocr_extracted
+1921,368,138,Randwick,municipality,138. Randwick .. .. . ' 8,ocr_extracted
+1921,368,139,Raymond Terrace,municipality,139. Raymond Terrace .. |,ocr_extracted
+1921,368,140,Redfern,municipality,140. Redfern . + Le |,ocr_extracted
+1921,368,141,Richmond,municipality,"141, Richmond .. . | 18",ocr_extracted
+1921,368,142,Rockdale,municipality,142. Rockdale .. . wf 6,ocr_extracted
+1921,369,143,Ryde,municipality,"143. Ryde a . wed 7,110 |",ocr_extracted
+1921,369,144,St. Mary’s,municipality,"144. St. Mary’s .. - - | 37,760 |",ocr_extracted
+1921,369,145,St. Peters,municipality,"145, St. Peters .. . - 896 |",ocr_extracted
+1921,369,146,Scone,municipality,"146. Scone . . . | 1,190 |",ocr_extracted
+1921,369,147,Shellharbour,municipality,"147. Shellharbour - . 38,720",ocr_extracted
+1921,369,148,Shoalhaven South,municipality,"148. Shoalhaven South .. oe | 25,920",ocr_extracted
+1921,369,149,Singleton,municipality,149. Singleton .. a . 621 |,ocr_extracted
+1921,369,150,Smithfield and Fairfield,municipality,"150, Smithfield and Fairfield an 15,360 |",ocr_extracted
+1921,369,151,Stockton,municipality,151. Stockton... . . | 768,ocr_extracted
+1921,369,152,Strathfield,municipality,"152. Strathfield .. .. an 1,792",ocr_extracted
+1921,369,153,Sydney,municipality,"153. Sydney 7 .. | 8,327",ocr_extracted
+1921,369,154,Sydney North,municipality,"154. Sydney North _ .. | 2,067",ocr_extracted
+1921,369,155,Tamworth,municipality,"155. Tamworth .. . a 5,274",ocr_extracted
+1921,369,156,Taree,municipality,156. Taree . - 294 |,ocr_extracted
+1921,369,157,Temora,municipality,"157. Temora . . . | 5,760",ocr_extracted
+1921,369,158,Tenterfield,municipality,"158. Tenterfield .. . a 29,440",ocr_extracted
+1921,369,159,Tumut,municipality,"°159, Tumut .- . . | 1,120",source_sequence_correction
+1921,369,160,Ulladulla,municipality,"160. Ulladulla .. a . 28,160",ocr_extracted
+1921,369,161,Ulmarra,municipality,"161. Ulmarra .. a 28,088",ocr_extracted
+1921,369,162,Uralla,municipality,162. Uralla 7 .. _ 320,ocr_extracted
+1921,369,163,Vaucluse,municipality,"163, Vaucluse .. a . 768",ocr_extracted
+1921,369,164,Wagga Wagga,municipality,"164, Wagga Wagga . . 5,766",ocr_extracted
+1921,369,165,Walcha,municipality,"165. Walcha an . 18,880",ocr_extracted
+1921,369,166,Wallendbeen,municipality,"166. Wallendbeen 1 mo, 63,360",ocr_extracted
+1921,369,167,Wallsend,municipality,"167. Wallsend .. . . 5,772",ocr_extracted
+1921,369,168,Waratah,municipality,"168. Waratah .. . . 2,860",ocr_extracted
+1921,369,169,Warialda,municipality,"169. Warialda  .. . . 5,248",ocr_extracted
+1921,369,170,Warren,municipality,"170. Warren . a . 14,592",ocr_extracted
+1921,369,171,Waterloo,municipality,171. Waterloo .. . . 806,ocr_extracted
+1921,369,172,Waverley,municipality,"172. Waverley .. .. 7 1,965",ocr_extracted
+1921,369,173,Wellington,municipality,"173, Wellington .. . . 4,480",ocr_extracted
+1921,369,174,Wentworth,municipality,"174. Wentworth .. . . 21,939",ocr_extracted
+1921,369,175,Wickham,municipality,175. Wickham .. . | 966,ocr_extracted
+1921,369,176,Wilcannia,municipality,"176. Wilcannia .. . -. | 18,440",ocr_extracted
+1921,369,177,Willoughby,municipality,"177. Willoughby .. . -» | 5,530",ocr_extracted
+1921,369,178,Windsor,municipality,"178. Windsor... . .. | 24,896",ocr_extracted
+1921,369,179,Wingham,municipality,"179. Wingham .. . 2,029",ocr_extracted
+1921,369,180,Wollongong,municipality,"180. Wollongong . . 1,920",ocr_extracted
+1921,369,181,Woollahra,municipality,"181. Woollahra .. . .: 1,926",ocr_extracted
+1921,369,182,Wrightville,municipality,"182. Wrightville .. -- | 5,600",ocr_extracted
+1921,369,183,Wyalong,municipality,"183. Wyalong .. 7 .. | 5,120",ocr_extracted
+1921,369,184,Yass,municipality,"184. Yass . a . 28,800",ocr_extracted
+1921,369,185,Young,municipality,"185. Young a . 7 3,400",ocr_extracted
+1921,369,186,Abercrombie,shire,186. Abercrombie . 7 919,ocr_extracted
+1921,369,187,Adjungbilly,shire,187. Adjungbilly .. .. 958,ocr_extracted
+1921,369,188,Amaroo,shire,"188, Amaroo . a . 772",ocr_extracted
+1921,369,189,Apsley,shire,"189. Apsley a 7 a 2,431",ocr_extracted
+1921,369,190,Ashford,shire,"190. Ashford . . ft 2,218",ocr_extracted
+1921,369,191,Bannockburn,shire,191. Bannockburn a . 577,ocr_extracted
+1921,369,192,Barraba,shire,"192. Barraba a oe a 1,081",ocr_extracted
+1921,369,193,Baulkham Hills,shire,193. Baulkham Hills . Lae 157,ocr_extracted
+1921,369,194,Bellingen,shire,194. Bellingen .. a . 485,ocr_extracted
+1921,369,195,Berrigan,shire,195. Berrigan .. a 808,ocr_extracted
+1921,369,196,Bibbenluke,shire,"196. Bibbenluke . .. 1,423",ocr_extracted
+1921,369,197,Blacktown,shire,197. Blacktown .. . . 101,ocr_extracted
+1921,369,198,Bland,shire,"198. Bland. . | 3,246 |",ocr_extracted
+1921,369,199,Blaxland,shire,"199. Blaxland .. . we | 1,341",ocr_extracted
+1921,369,200,Blue Mountains,shire,200. Blue Mountains .. we | 443 |,ocr_extracted
+1921,369,201,Bogan,shire,"201. Bogan. 7 | 4,524 |",ocr_extracted
+1921,369,202,Bolwarra,shire,202. Bolwarra.. . 73 |,ocr_extracted
+1921,369,203,Boolooroo,shire,"203. Boolooroo .. . . 3,235 |",ocr_extracted
+1921,369,204,Boomi,shire,Boomi,source_sequence_correction
+1921,370,205,Boree,shire,205. Boree . Lee | 908,ocr_extracted
+1921,370,206,Bulli,shire,206. Bulli 7 . vt 185,ocr_extracted
+1921,370,207,Burrangong,shire,"207. Burrangong . 1,041",ocr_extracted
+1921,370,208,Byron,shire,208. Byron . we | 218,ocr_extracted
+1921,370,209,Cambewarra,shire,209. Cambewarra a oe | 196,ocr_extracted
+1921,370,210,Canobolas,shire,210. Canobolas .. | 658,ocr_extracted
+1921,370,211,Carrathool,shire,"211. Carrathool .. .. | 4,837",ocr_extracted
+1921,370,212,Cessnock,shire,212. Cessnock .. a .. | 187,ocr_extracted
+1921,370,213,Clyde,shire,213. Clyde. - | 1841,ocr_extracted
+1921,370,214,Cobbora,shire,"214. Cobbora a . a 1,298",ocr_extracted
+1921,370,215,Cockburn,shire,"215. Cockburn .. cae a | 1,141",ocr_extracted
+1921,370,216,Colo,shire,"216. Colo os .: se] 1,238",ocr_extracted
+1921,370,217,Conargo,shire,"217. Conargo.- .. | 1,448",ocr_extracted
+1921,370,218,Coolah,shire,218. Coolah .. .. | 992,ocr_extracted
+1921,370,219,Coolamon,shire,219. Coolamon .. . wel 985,ocr_extracted
+1921,370,220,Coonabarabran,shire,"220. Coonabarabran -. | 2,907",ocr_extracted
+1921,370,221,Copmanhurst,shire,221. Copmanhurst -- | 1144,ocr_extracted
+1921,370,222,Coreen,shire,222. Coreen . wed 839,ocr_extracted
+1921,370,223,Crookwell,shire,"223, Crookwell .. . .. | 1,401",ocr_extracted
+1921,370,224,Culcairn,shire,224. Culcairn sc. an . 625,ocr_extracted
+1921,370,225,Dalgety,shire,"225. Dalgety -- . ». | 2,805",ocr_extracted
+1921,370,226,Demondrille,shire,226. Demondrille . . | 689,ocr_extracted
+1921,370,227,Dorrigo,shire,227. Dorrigo 7 + 157,ocr_extracted
+1921,370,228,Dumaresq,shire,"228. Dumaresq -- = .. | 1,498",ocr_extracted
+1921,370,229,Erina,shire,229. Erina . .. | 722,ocr_extracted
+1921,370,230,Eurobodalla,shire,"230. Eurobodalla a . 1,530",ocr_extracted
+1921,370,231,Gadara,shire,231. Gadara . | Ale,ocr_extracted
+1921,370,232,Gilgandra,shire,"232. Gilgandra .. 7 . 1,623",ocr_extracted
+1921,370,233,Gloucester,shire,"233, Gloucester .. - | Loe:",ocr_extracted
+1921,370,234,Goobang,shire,"234, Goobang.. _ .. | 2,260",ocr_extracted
+1921,370,235,Goodradigbee,shire,"235. Goodradigbee . -_ 1,238",ocr_extracted
+1921,370,236,Gostwyck,shire,"236. Gostwyck .. a | 1,187",ocr_extracted
+1921,370,237,Gundurimba,shire,237. Gundurimba . Le | 189,ocr_extracted
+1921,370,238,Gunning,shire,238. Gunning... . 872,ocr_extracted
+1921,370,239,Guyra,shire,"239. Guyra an 1,8%",ocr_extracted
+1921,370,240,Gwydir,shire,"240. Gwydir 7 . a 1,105",ocr_extracted
+1921,370,241,Harwood,shire,241. Harwood .. . + 36!,ocr_extracted
+1921,370,242,Hastings,shire,"242. Hastings .. . | 1,52",ocr_extracted
+1921,370,243,Holbrook,shire,"243, Holbrook .. _ Le 1,008",ocr_extracted
+1921,370,244,Hornsby,shire,244. Hornsby .- | 20:,ocr_extracted
+1921,370,245,Hume,shire,245. Hume . 7 te | 76,ocr_extracted
+1921,370,246,Hunter Upper,shire,"246. Hunter Upper 7 a | 1,57",ocr_extracted
+1921,370,247,Illabo,shire,247. Illabo .. .. . 77,ocr_extracted
+1921,370,248,Imlay,shire,"248. Imlay . a . | 1,51!",ocr_extracted
+1921,370,249,Jemalong,shire,"249. Jemalong .. 7 L | 1,801",ocr_extracted
+1921,370,250,Jerilderie,shire,"250. Jerilderie .. .. oo. | 1,291",ocr_extracted
+1921,370,251,Jindalee,shire,251. Jindalee... . . 53:,ocr_extracted
+1921,370,252,Ku-ring-gai,shire,252. Ku-ring-gai . . - 3,ocr_extracted
+1921,370,253,Kyeamba,shire,"253. Kyeamba .. 7 1,02:",ocr_extracted
+1921,370,254,Kyogle,shire,"254. Kyogle a . . 1,32:",ocr_extracted
+1921,370,255,Lachlan,shire,"255. Lachlan . .. . 5,73",ocr_extracted
+1921,370,256,Lake Macquarie,shire,256. Lake Macquarie _ . 30.,ocr_extracted
+1921,370,257,Liverpool Plains,shire,"257. Liverpool Plains . -. | 1,96:",ocr_extracted
+1921,370,258,Lockhart,shire,"258. Lockhart .. an .. | 1,13)",ocr_extracted
+1921,370,259,Lyndhurst,shire,259. Lyndhurst .. . 58,ocr_extracted
+1921,370,260,Macintyre,shire,260. Macintyre .. 7 . 53:,ocr_extracted
+1921,370,261,Macleay,shire,"261. Macleay... . . 1,26",ocr_extracted
+1921,370,262,Macquarie,shire,Macquarie,source_sequence_correction
+1921,370,263,Mandowa,shire,263. Mandowa .. an .. 79,ocr_extracted
+1921,370,264,Manning,shire,"264. Manning... 7 a 1,50",ocr_extracted
+1921,370,265,Marthaguy,shire,"265. Marthaguy .. a .. | 4,10",ocr_extracted
+1921,370,266,Meroo,shire,"266. Meroo . . a 1,17",ocr_extracted
+1921,370,267,Merriwa,shire,"267, Merriwa... 7 | 1,35",ocr_extracted
+1921,370,268,Mitchell,shire,268. Mitchell .. wed 83,ocr_extracted
+1921,370,269,Monaro,shire,269. Monaro .. . - | 187,ocr_extracted
+1921,370,270,Mulwaree,shire,"270. Mulwaree .. - .. | 1,951",ocr_extracted
+1921,370,271,Mumbulla,shire,271. Mumbulla .. . | 8A,ocr_extracted
+1921,370,272,Murray,shire,"272. Murray . . . | 1,62",ocr_extracted
+1921,370,273,Murrumbidgee,shire,Murrumbidgee,source_sequence_correction
+1921,371,274,Murrungal,shire,"274, Murrungal .. oe ad 959",ocr_extracted
+1921,371,275,Muswellbrook,shire,"275. Muswellbrook . 1 1,097)",ocr_extracted
+1921,371,276,Nambucca,shire,276. Nambucca .. 7 . 581 |,ocr_extracted
+1921,371,277,Namoi,shire,"277, Namoi ll... . - 5,041 |",ocr_extracted
+1921,371,278,Narraburra,shire,"278. Narraburra .. 7 . 1,097 |",ocr_extracted
+1921,371,279,Nattai,shire,279. Nattai . . . 578 |,ocr_extracted
+1921,371,280,Nepean,shire,280. Nepean . 7 + 155 |,ocr_extracted
+1921,371,281,Nundle,shire,281. Nundle . . . 623,ocr_extracted
+1921,371,282,Nymboida,shire,"282. Nymboida .. a . 1,917",ocr_extracted
+1921,371,283,Oberon,shire,"283. Oberon .. . . 1,135",ocr_extracted
+1921,371,284,Orara,shire,"284, Orara 7 | 529",ocr_extracted
+1921,371,285,Patrick Plains,shire,285. Patrick Plains . .. | 1747,ocr_extracted
+1921,371,286,Peel,shire,286. Peel . . 7 675,ocr_extracted
+1921,371,287,Port Stephens,shire,287. Port Stephens . 401,ocr_extracted
+1921,371,288,Rylstone,shire,"288. Rylstone .. an wt 1,617",ocr_extracted
+1921,371,289,Severn,shire,"289. Severn a . . 2,302",ocr_extracted
+1921,371,290,Stroud,shire,"290. Stroud . . . 1,185",ocr_extracted
+1921,371,291,Sutherland,shire,291. Sutherland .. . . 144,ocr_extracted
+1921,371,292,Talbragar,shire,"292. Talbragar .. . os 1,338",ocr_extracted
+1921,371,293,Tallaganda,shire,"293. Tallaganda .. . 1,291",ocr_extracted
+1921,371,294,Tamarang,shire,"294. Tamarang .. an _ 1,174",ocr_extracted
+1921,371,295,Tarro,shire,295. Tarro . . . 184,ocr_extracted
+1921,371,296,Tenterfield,shire,"296. Tenterfield .. . . 2,776",ocr_extracted
+1921,371,297,Terania,shire,297. Terania . 7 7 347,ocr_extracted
+1921,371,298,Timbrebongie,shire,"298. Timbrebongie an a | 2,120",ocr_extracted
+1921,371,299,Tintenbar,shire,299. Tintenbar .. 7 . 193,ocr_extracted
+1921,371,300,Tomki,shire,300. Tomki a . . 430,ocr_extracted
+1921,371,301,Tumbarumba,shire,"301, Tumbarumba . . 1,658",ocr_extracted
+1921,371,302,Turon,shire,302. Turon . . 878,ocr_extracted
+1921,371,303,Tweed,shire,303. Tweed 7 7 511,ocr_extracted
+1921,371,304,Urana,shire,"304. Urana . 7 7 1,277",ocr_extracted
+1921,371,305,Wakool,shire,"305. Wakool e oe . 2,913",ocr_extracted
+1921,371,306,Walgett,shire,"306. Walgett . ae ae 4,350",ocr_extracted
+1921,371,307,Wallarobba,shire,307. Wallarobba . an 821,ocr_extracted
+1921,371,308,Waradgery,shire,"308. Waradgery 7 . 3,618",ocr_extracted
+1921,371,309,Warrah,shire,309. Warrah 7 .. 950,ocr_extracted
+1921,371,310,Warringah,shire,310. Warringah .. 108,ocr_extracted
+1921,371,311,Waugoola,shire,"311. Waugoola .. . . 1,085",ocr_extracted
+1921,371,312,Weddin,shire,"312. Weddin... 7 . 1,319",ocr_extracted
+1921,371,313,Windouran,shire,"313. Windouran .. _ . | 1,972",ocr_extracted
+1921,371,314,Wingadee,shire,"314. Wingadee .. . . 4,079 |",ocr_extracted
+1921,371,315,Wingecarribee,shire,315. Wingecarribee .. . | 521,ocr_extracted
+1921,371,316,Wollondilly,shire,316. Wollondilly . an 996,ocr_extracted
+1921,371,317,Woodburn,shire,317. Woodburn . - | 565,ocr_extracted
+1921,371,318,Wyaldra,shire,318. Wyaldra_.. 7 wel 721,ocr_extracted
+1921,371,319,Yallaroi,shire,"319. Yallaroi .. oe .. | 2,022",ocr_extracted
+1921,371,320,Yanko,shire,Yanko I',source_sequence_correction
+1921,371,321,Yarrowlumla,shire,"321. Yarrowlumla . .. | 1,208",ocr_extracted
+1933,444,1,Aberdeen,municipality,"1, Aberdeen .. o .. | PB.",ocr_extracted
+1933,444,2,Adamstown,municipality,2. Adamstown .. 2 | P,ocr_extracted
+1933,444,3,Albury,municipality,3. Albury... . » | PB,ocr_extracted
+1933,444,4,Alexandria,municipality,"4, Alexandria 1) M.",ocr_extracted
+1933,444,5,Annandale,municipality,5. Annandale . .. | M,ocr_extracted
+1933,444,6,Armidale,municipality,6. Armidale .. . | P,ocr_extracted
+1933,444,7,Ashfield,municipality,7. Ashfield .. .. | M.,ocr_extracted
+1933,444,8,Auburn,municipality,8. Auburn... . . | M,ocr_extracted
+1933,444,9,Ballina,municipality,9. Ballina... 7 | P.,ocr_extracted
+1933,444,10,Balmain,municipality,10. Balmain... a . | M,ocr_extracted
+1933,444,11,Balranald,municipality,11. Balranald .. . 2 | PL,ocr_extracted
+1933,444,12,Bankstown,municipality,12. Bankstown os o | M,ocr_extracted
+1933,444,13,Barraba,municipality,13. Barraba .. .: | PB,ocr_extracted
+1933,444,14,Bathurst,municipality,"14, Bathurst .. . .. | P",ocr_extracted
+1933,444,15,Bega,municipality,15. Bega = . . | PB,ocr_extracted
+1933,444,16,Berry,municipality,16. Berry . . .. | P,ocr_extracted
+1933,444,17,Bexley,municipality,17. Bexley . 7 . | M.,ocr_extracted
+1933,444,18,Bingara,municipality,18. Bingara.. a | P.,ocr_extracted
+1933,444,19,Blackheath,municipality,19. Blackheath .. | PB.,ocr_extracted
+1933,444,20,Blayney,municipality,20. Blayney .. oe . | PB.,ocr_extracted
+1933,444,21,Bombala,municipality,"21, Bombala .. +. . | PB.",ocr_extracted
+1933,444,22,Botany,municipality,22. Botany .. . -. | M.,ocr_extracted
+1933,444,23,Bourke,municipality,23. Bourke .. oe . | PR,ocr_extracted
+1933,444,24,Bowral,municipality,24. Bowral... = 2 | PB,ocr_extracted
+1933,444,25,Braidwood,municipality,"25, Braidwood... . LR",ocr_extracted
+1933,444,26,Brewarrina,municipality,26. Brewarrina . .. | PB,ocr_extracted
+1933,444,27,Broken Hill,municipality,27. Broken Hill an | P,ocr_extracted
+1933,444,28,Broughton Vale,municipality,28. Broughton Vale... . | PB,ocr_extracted
+1933,444,29,Burrowa,municipality,29. Burrowa .. . . | PB,ocr_extracted
+1933,444,30,Burwood,municipality,30. Burwood .. 7 «| M.,ocr_extracted
+1933,444,31,Cabramatta and Canley Vale,municipality,31. Cabramatta and Canley Vale .. | P.,ocr_extracted
+1933,444,32,Camden,municipality,32. Camden .. . | P.,ocr_extracted
+1933,444,33,Campbelltown,municipality,33. Campbelltown . | PB,ocr_extracted
+1933,444,34,Canterbury,municipality,34. Canterbury 7 | M.,ocr_extracted
+1933,444,35,Carcoar,municipality,35. Carcoar .. a . | P,ocr_extracted
+1933,444,36,Carrington,municipality,36. Carrington. . - + | P,ocr_extracted
+1933,444,37,Casino,municipality,37. Casino an oe 1 | P.,ocr_extracted
+1933,444,38,Castlereagh,municipality,38. Castlereagh . | PB,ocr_extracted
+1933,444,39,Cessnock,municipality,39. Cessnock .. a | PL,ocr_extracted
+1933,444,40,Cobar,municipality,40. Cobar . 7 | P,ocr_extracted
+1933,444,41,Concord,municipality,41. Concord .. . | M.,ocr_extracted
+1933,444,42,Condobolin,municipality,"42, Condobolin . | PB",ocr_extracted
+1933,444,43,Cooma,municipality,43. Cooma... .. | P.,ocr_extracted
+1933,444,44,Coonamble,municipality,"44, Coonamble . LLP.",ocr_extracted
+1933,444,45,Cootamundra,municipality,45. Cootamundra an . | P.,ocr_extracted
+1933,444,46,Coraki,municipality,46. Coraki a . | P.,ocr_extracted
+1933,444,47,Corowa,municipality,"47, Corowa... . - | P.",ocr_extracted
+1933,444,48,Cowra,municipality,"48. Cowra 7 an | P,",ocr_extracted
+1933,444,49,Darlington,municipality,49. Darlington. . - - ja,ocr_extracted
+1933,444,50,Deniliquin,municipality,DeniIiquin,source_sequence_correction
+1933,444,51,Drummoyne,municipality,"51, Drummoyne . .. | M.",ocr_extracted
+1933,444,52,Dubbo,municipality,52. Dubbo... 7 .. | RB,ocr_extracted
+1933,444,53,Dundas,municipality,53. Dundas... 7 . TM.,ocr_extracted
+1933,444,54,Dungog,municipality,54. Dungog .. an | PB,ocr_extracted
+1933,444,55,Eastwood,municipality,55. Eastwood .. 7 . | M.,ocr_extracted
+1933,444,56,Enfield,municipality,56. Enfield .. + . | M,ocr_extracted
+1933,444,57,Ermington and Rydalmere,municipality,57. Ermington and Rydalmere .. | M.,ocr_extracted
+1933,444,58,Erskineville,municipality,58. Erskineville oe | M.,ocr_extracted
+1933,444,59,Fairfield,municipality,59. Fairfield .. an .. | P.,ocr_extracted
+1933,444,60,Forbes,municipality,Forbes,native_text_fallback
+1933,444,61,Gerringong,municipality,61. Gerringong . . | P.,ocr_extracted
+1933,444,62,Glebe,municipality,"62, Glebe a a | M.",ocr_extracted
+1933,444,63,Glen Innes,municipality,"63, Glen Innes.. .. | PR.",ocr_extracted
+1933,444,64,Goulburn,municipality,64. Goulburn .. . | PB,ocr_extracted
+1933,444,65,Grafton,municipality,65. Grafton .. + . | P.,ocr_extracted
+1933,444,66,Grafton South,municipality,66. Grafton South a 1 LP.,ocr_extracted
+1933,445,67,Granville,municipality,67. Granville .. . .. | M.,ocr_extracted
+1933,445,68,Grenfell,municipality,68. Grenfell .. - . | PB.,ocr_extracted
+1933,445,69,Greta,municipality,69. Greta _ . | PB,ocr_extracted
+1933,445,70,Gulgong,municipality,70. Gulgong .. . . | B!,ocr_extracted
+1933,445,71,Gunnedah,municipality,71. Gunnedah .. - | P,ocr_extracted
+1933,445,72,Hamilton,municipality,72. Hamilton .. . | Bo,ocr_extracted
+1933,445,73,Hay,municipality,73. Hay . . 2 | BL,ocr_extracted
+1933,445,74,Hillston,municipality,"74, Hillston .. se | PL",ocr_extracted
+1933,445,75,Holroyd,municipality,Holroyd,source_sequence_correction
+1933,445,76,Homebush,municipality,76. Homebush .. se .. | M,ocr_extracted
+1933,445,77,Hunter's Hill,municipality,77. Hunter’s Hill . . | M |,ocr_extracted
+1933,445,78,Hurstville,municipality,78. Hurstville .. - | MS,ocr_extracted
+1933,445,79,"Illawarra, Central",municipality,"79. Illawarra, Central .. .. | P|",ocr_extracted
+1933,445,80,"Illawarra, North",municipality,"80. Illawarra, North .. . | BP.",ocr_extracted
+1933,445,81,Ingleburn,municipality,81. Ingleburn .. .: . | P.,ocr_extracted
+1933,445,82,Inverell,municipality,82. Inverell... . | P,ocr_extracted
+1933,445,83,Jamberoo,municipality,83. Jamberoo .. a | BY,ocr_extracted
+1933,445,84,Junee,municipality,84. Junee 7 . . | Pz,ocr_extracted
+1933,445,85,Katoomba,municipality,85. Katoomba .. . . | P.,ocr_extracted
+1933,445,86,Kempsey,municipality,86. Kempsey .. a .. | PB.,ocr_extracted
+1933,445,87,Kiama,municipality,87. Kiama . 2 | PR,ocr_extracted
+1933,445,88,Kogarah,municipality,88. Kogarah .. a .. | M.,ocr_extracted
+1933,445,89,Ku-ring-gai,municipality,89. Ku-ring-gai - .. | M.,ocr_extracted
+1933,445,90,Lambton,municipality,"90. Lambton .. 7 2 TP,",ocr_extracted
+1933,445,91,Lambton New,municipality,91. Lambton New a 2 | PL,ocr_extracted
+1933,445,92,Lane Cove,municipality,92. Lane Cove.. 7 .. | M.,ocr_extracted
+1933,445,93,Leichhardt,municipality,93. Leichhardt . | M.,ocr_extracted
+1933,445,94,Lidcombe,municipality,"94, Lidcombe .. os .. | M.",ocr_extracted
+1933,445,95,Lismore,municipality,"95, Lismore .. . . | P",ocr_extracted
+1933,445,96,Lithgow,municipality,96. Lithgow .. . . | PR,ocr_extracted
+1933,445,97,Liverpool,municipality,97. Liverpool .. . .. | P.,ocr_extracted
+1933,445,98,Maclean,municipality,98. Maclean... 7 .. | P,ocr_extracted
+1933,445,99,Maitland East,municipality,99. Maitland East 1 IP,ocr_extracted
+1933,445,100,Maitland West,municipality,100. Maitland West 7 .. | P.,ocr_extracted
+1933,445,101,Manilla,municipality,101. Manilla... . .. | BP.,ocr_extracted
+1933,445,102,Manly,municipality,102. Manly . a . | M.,ocr_extracted
+1933,445,103,Marrickville,municipality,103. Marrickville .. . | M.,ocr_extracted
+1933,445,104,Mascot,municipality,"104, Mascot . . .. | M.",ocr_extracted
+1933,445,105,Merewether,municipality,105. Merewether a . | P,ocr_extracted
+1933,445,106,Mittagong,municipality,106. Mittagong .. . | P.,ocr_extracted
+1933,445,107,Moama,municipality,107. Moama_.. an . | P.,ocr_extracted
+1933,445,108,Molong,municipality,108. Molong.. .. | PR.,ocr_extracted
+1933,445,109,Moree,municipality,109. Moree . an . | PB.,ocr_extracted
+1933,445,110,Morpeth,municipality,110. Morpeth .. a .. | P,ocr_extracted
+1933,445,111,Mosman,municipality,111. Mosman... | M.,ocr_extracted
+1933,445,112,Moss Vale,municipality,112. Moss Vale (a) 7 . | PB,ocr_extracted
+1933,445,113,Mudgee,municipality,"113, Mudgee... . -. | P.",ocr_extracted
+1933,445,114,Mullumbimby,municipality,"114, Mullumbimby 7 .. | P.",ocr_extracted
+1933,445,115,Murrumburrah,municipality,115. Murrumburrah . .. | P.,ocr_extracted
+1933,445,116,Murrurundi,municipality,116. Murrurundi 7 .. | P.,ocr_extracted
+1933,445,117,Murwillumbah,municipality,117. Murwillumbah L .. | P.,ocr_extracted
+1933,445,118,Muswellbrook,municipality,118. Muswellbrook a | P,ocr_extracted
+1933,445,119,Narrabri,municipality,119. Narrabri .. Ls . | PB,ocr_extracted
+1933,445,120,Narrabri West,municipality,"120, Narrabri West .. | PB.",ocr_extracted
+1933,445,121,Narrandera,municipality,121. Narrandera 7 . | Be,ocr_extracted
+1933,445,122,Narromine,municipality,122. Narromine. . a . | P|,ocr_extracted
+1933,445,123,Newcastle,municipality,123. Newcastle .. 7 .. | Poe,ocr_extracted
+1933,445,124,Newtown,municipality,124. Newtown .. a .. | M.,ocr_extracted
+1933,445,125,Nowra,municipality,125. Nowra 7 - re a,ocr_extracted
+1933,445,126,Nyngan,municipality,126. Nyngan... - .. | PB,ocr_extracted
+1933,445,127,Orange,municipality,127. Orange... .. | P.,ocr_extracted
+1933,445,128,Paddington,municipality,128. Paddington an . | M.,ocr_extracted
+1933,445,129,Parkes,municipality,"129, Parkes . . PB",ocr_extracted
+1933,445,130,Parramatta,municipality,130. Parramatta . . | M :,ocr_extracted
+1933,445,131,Peak Hill,municipality,"131, Peak Hill .. + . | Pel",ocr_extracted
+1933,446,132,Penrith,municipality,132. Penrith .. 7 .. | P,ocr_extracted
+1933,446,133,Petersham,municipality,133. Petersham .. an . | M,ocr_extracted
+1933,446,134,Picton,municipality,134. Picton . . | PB,ocr_extracted
+1933,446,135,Port Macquarie,municipality,135. Port Macquarie . .. | P.,ocr_extracted
+1933,446,136,Queanbeyan,municipality,136. Queanbeyan . .. | P.,ocr_extracted
+1933,446,137,Quirindi,municipality,137. Quirindi .. . .. | PB,ocr_extracted
+1933,446,138,Randwick,municipality,138. Randwick .. . -. | M,ocr_extracted
+1933,446,139,Raymond Terrace,municipality,139. Raymond Terrace .. 2 | PB,ocr_extracted
+1933,446,140,Redfern,municipality,140. Redfern .. 7 .. | M,ocr_extracted
+1933,446,141,Richmond,municipality,141. Richmond .. + 2 | PB,ocr_extracted
+1933,446,142,Rockdale,municipality,142. Rockdale .. + .. | M.,ocr_extracted
+1933,446,143,Ryde,municipality,143. Ryde . . .. | M.,ocr_extracted
+1933,446,144,St. Mary’s,municipality,"144, St. Mary’s .. . . | PB",ocr_extracted
+1933,446,145,St. Peters,municipality,145. St. Peters .. .. | M.,ocr_extracted
+1933,446,146,Scone,municipality,146. Scone 7 a 1 | P.,ocr_extracted
+1933,446,147,Shell Harbour,municipality,147. Shell Harbour . 1 | PR,ocr_extracted
+1933,446,148,"Shoalhaven, South",municipality,"148, Shoalhaven, South .. . | PB.",ocr_extracted
+1933,446,149,Singleton,municipality,149. Singleton .. . 2 | PB,ocr_extracted
+1933,446,150,Stockton,municipality,150. Stockton .. . | PR,ocr_extracted
+1933,446,151,Strathfield,municipality,151. Strathfield .. . .|M,ocr_extracted
+1933,446,152,Sydney,municipality,152. Sydney... .. | M,ocr_extracted
+1933,446,153,"Sydney, North",municipality,"153. Sydney, North .. | M.",ocr_extracted
+1933,446,154,Tamworth,municipality,154. Tamworth .. . .. | P.,ocr_extracted
+1933,446,155,Taree,municipality,155. Taree . a .. | PB.,ocr_extracted
+1933,446,156,Temora,municipality,156. Temora_.. 7 | PB,ocr_extracted
+1933,446,157,Tenterfield,municipality,157. Tenterfield. . . .. | PB.,ocr_extracted
+1933,446,158,Ulladulla,municipality,"158, Ulladulla .. 7 .. | PB",ocr_extracted
+1933,446,159,Ulmarra,municipality,159. Ulmarra .. 7 . | P,ocr_extracted
+1933,446,160,Uralla,municipality,160. Uralla . . .. | PB,ocr_extracted
+1933,446,161,Vaucluse,municipality,"161, Vaucluse .. . . | M.",ocr_extracted
+1933,446,162,Wagga Wagga,municipality,162. Wagga Wagga . .. | P.,ocr_extracted
+1933,446,163,Walcha,municipality,163. Walcha . | PB,ocr_extracted
+1933,446,164,Wallendbeen,municipality,"164, Wallendbeen a | PB",ocr_extracted
+1933,446,165,Wallsend,municipality,"165, Wallsend .. . 2. | PB.",ocr_extracted
+1933,446,166,Waratah,municipality,166. Waratah .. 7 .. | PB,ocr_extracted
+1933,446,167,Warren,municipality,167. Warren... | PB,ocr_extracted
+1933,446,168,Waterloo,municipality,168. Waterloo .. . .. | M,ocr_extracted
+1933,446,169,Waverley,municipality,169. Waverley .. . .. | M.,ocr_extracted
+1933,446,170,Wellington,municipality,170. Wellington a .. | P.,ocr_extracted
+1933,446,171,Wentworth,municipality,171. Wentworth 7 .. | P.,ocr_extracted
+1933,446,172,Wickham,municipality,172. Wickham .. . .. | PB.,ocr_extracted
+1933,446,173,Wilcannia,municipality,173. Wilcannia .. . .. | P.,ocr_extracted
+1933,446,174,Willoughby,municipality,174. Willoughby . -. | M.,ocr_extracted
+1933,446,175,Windsor,municipality,175. Windsor .. . .. | P.,ocr_extracted
+1933,446,176,Wingham,municipality,176. Wingham .. .. | P.,ocr_extracted
+1933,446,177,Wollongong,municipality,177. Wollongong 7 . | PB,ocr_extracted
+1933,446,178,Woollahra,municipality,178. Woollahra .. - . | M,ocr_extracted
+1933,446,179,Wyalong,municipality,179. Wyalong .. . 2 | PB,ocr_extracted
+1933,446,180,Yass,municipality,"180, Yass + Lf PB",ocr_extracted
+1933,446,181,Young,municipality,181. Young an . | PB,ocr_extracted
+1933,446,182,Abercrombie,shire,182. Abercrombie . .. | R.,ocr_extracted
+1933,446,183,Amaroo,shire,183. Amaroo... an .. | R.,ocr_extracted
+1933,446,184,Apsley,shire,184. Apsley... . | R.,ocr_extracted
+1933,446,185,Ashford,shire,185. Ashford .. . .. | RB.,ocr_extracted
+1933,446,186,Bannockburn,shire,186. Bannockburn - .. | RB.,ocr_extracted
+1933,446,187,Barraba,shire,187. Barraba .. . | R.,ocr_extracted
+1933,446,188,Baulkham Hills,shire,188. Baulkham Hills . .. | RB.,ocr_extracted
+1933,446,189,Bellingen,shire,189. Bellingen .. . .. | R.,ocr_extracted
+1933,446,190,Berrigan,shire,190. Berrigan .. a . | R.,ocr_extracted
+1933,446,191,Bibbenluke,shire,191. Bibbenluke .. | BR.,ocr_extracted
+1933,446,192,Blacktown,shire,192. Blacktown. . . .. | RK.,ocr_extracted
+1933,447,193,Bland,shire,193. Bland + an .. | Re:,ocr_extracted
+1933,447,194,Blaxland,shire,"194, Blaxland .. . | B.|",ocr_extracted
+1933,447,195,Blue Mountains,shire,195. Blue Mountains . . | Ro,ocr_extracted
+1933,447,196,Bogan,shire,196. Bogan a . .. | Re},ocr_extracted
+1933,447,197,Bolwarra,shire,197. Bolwarra .. a . | R,ocr_extracted
+1933,447,198,Boolooroo,shire,198. Boolooroo .. . . | R.|,ocr_extracted
+1933,447,199,Boomi,shire,199. Boomi a TR.,ocr_extracted
+1933,447,200,Boree,shire,"200. Boree . se . JR,",ocr_extracted
+1933,447,201,Bulli,shire,201. Bulli .. . .fR.,ocr_extracted
+1933,447,202,Burrangong,shire,202. Burrangong .- . | R. |,ocr_extracted
+1933,447,203,Byron,shire,203. Byron + . . | RE,ocr_extracted
+1933,447,204,Cambewarra,shire,204. Cambewarra . . | RL!,ocr_extracted
+1933,447,205,Canobolas,shire,205. Canobolas .. . | R.,ocr_extracted
+1933,447,206,Carrathool,shire,206. Carrathool.. . .. | BR.,ocr_extracted
+1933,447,207,Clyde,shire,207. Clyde .. . .. | Re},ocr_extracted
+1933,447,208,Cobbora,shire,208. Cobbora .. . | RB,ocr_extracted
+1933,447,209,Cockburn,shire,209. Cockburn .. . .. | R.,ocr_extracted
+1933,447,210,Colo,shire,210. Colo - . 2 TR,ocr_extracted
+1933,447,211,Conargo,shire,211. Conargo .. . . | R.,ocr_extracted
+1933,447,212,Coolah,shire,212. Coolah . 7 . | R.,ocr_extracted
+1933,447,213,Coolamon,shire,213. Coolamon .. . » | R.,ocr_extracted
+1933,447,214,Coonabarabran,shire,214. Coonabarabran . .. | R,ocr_extracted
+1933,447,215,Copmanhurst,shire,"215, Copmanhurst . | R.",ocr_extracted
+1933,447,216,Coreen,shire,"216. Coreen 7 . | R,",ocr_extracted
+1933,447,217,Crookwell,shire,217. Crookwell .. . | R,ocr_extracted
+1933,447,218,Cudgegong,shire,218. Cudgegong. . o .. | R.,ocr_extracted
+1933,447,219,Culcairn,shire,219. Culeairmn .. a . | R.,source_sequence_correction
+1933,447,220,Dalgety,shire,"220. Dalgety .. . | R,",ocr_extracted
+1933,447,221,Demondrille,shire,"221. Demondrille - - J. | BR,",ocr_extracted
+1933,447,222,Dorrigo,shire,222. Dorrigo .. . . | RB,ocr_extracted
+1933,447,223,Dumaresq,shire,223. Dumaresq .. .- . | BR.,ocr_extracted
+1933,447,224,Erina,shire,224. Erina . . | R.,ocr_extracted
+1933,447,225,Eurobodalla,shire,225. Eurobodalla . . | R.,ocr_extracted
+1933,447,226,Gilgandra,shire,226. Gilgandra .. .. | R.,ocr_extracted
+1933,447,227,Gloucester,shire,227. Gloucester .. . | R.,ocr_extracted
+1933,447,228,Goobang,shire,228. Goobang .. . . | R.,ocr_extracted
+1933,447,229,Goodradigbee,shire,229. Goodradigbee os .. | RB.,ocr_extracted
+1933,447,230,Gostwyck,shire,230. Gostwyck .. . | OR.,ocr_extracted
+1933,447,231,Gundagai,shire,231. Gundagai .. .. | RR,ocr_extracted
+1933,447,232,Gundurimba,shire,232. Gundurimba .. .o | R. |,ocr_extracted
+1933,447,233,Gunning,shire,233. Gunning .. = . | R,ocr_extracted
+1933,447,234,Guyra,shire,234. Guyra + . | R.,ocr_extracted
+1933,447,235,Gwydir,shire,235. Gwydir. a . | Ro.,ocr_extracted
+1933,447,236,Harwood,shire,236. Harwood .. .. | R.|,ocr_extracted
+1933,447,237,Hastings,shire,237. Hastings .. oe - | R.,ocr_extracted
+1933,447,238,Holbrook,shire,238. Holbrook .. . .. | R.,ocr_extracted
+1933,447,239,Hornsby,shire,239. Hornsby .. _ . | RB.,ocr_extracted
+1933,447,240,Hume,shire,240. Hume . 7 .. | BR.,ocr_extracted
+1933,447,241,"Hunter, Upper",shire,"241. Hunter, Upper . . | BR.",ocr_extracted
+1933,447,242,Illabo,shire,242. Illabo . a .. | R.,ocr_extracted
+1933,447,243,Imlay,shire,243. Imlay se a .. | R.,ocr_extracted
+1933,447,244,Jemalong,shire,244. Jemalong .. a . | RK,ocr_extracted
+1933,447,245,Jerilderie,shire,245. Jerilderie .. 7 .. | BR.,ocr_extracted
+1933,447,246,Jindalee,shire,246. Jindalee .. . .. | RB,ocr_extracted
+1933,447,247,Kearsley,shire,247. Kearsley .. .. | R.,ocr_extracted
+1933,447,248,Kyeamba,shire,248. Kyeamba .. . . | R.,ocr_extracted
+1933,447,249,Kyogle,shire,249. Kyogle ... . . | R.,ocr_extracted
+1933,447,250,Lachlan,shire,250. Lachlan... a . | R,ocr_extracted
+1933,447,251,Lake Macquarie,shire,251. Lake Macquarie... [| R.,ocr_extracted
+1933,447,252,Liverpool Plains,shire,252. Liverpool Plains .. . | R.,ocr_extracted
+1933,447,253,Lockhart,shire,Lockhart,source_sequence_correction
+1933,447,254,Lyndhurst,shire,254. Lyndhurst. . | R.,ocr_extracted
+1933,447,255,Macintyre,shire,255. Macintyre . . se 1 | R.,ocr_extracted
+1933,447,256,Macleay,shire,256. Mcleay =... . . | RB.,source_sequence_correction
+1933,447,257,Macquarie,shire,257. Macquarie .. .. | Re],ocr_extracted
+1933,447,258,Mandowa,shire,Mandowa,native_text_fallback
+1933,448,259,Manning,shire,259. Manning .. . . | R.,ocr_extracted
+1933,448,260,Marthaguy,shire,"260. Marthaguy . -. | R,",ocr_extracted
+1933,448,261,Merriwa,shire,261. Merriwa .. . .. | R,ocr_extracted
+1933,448,262,Mitchell,shire,262. Mitchell .. a . | R.,ocr_extracted
+1933,448,263,Monaro,shire,"263. Monaro. ve » | R,",ocr_extracted
+1933,448,264,Mulwaree,shire,264. Mulwaree .. . «| R.,ocr_extracted
+1933,448,265,Mumbulla,shire,265. Mumbulla .. . . | R.,ocr_extracted
+1933,448,266,Murray,shire,266. Murray... . » | RB.,ocr_extracted
+1933,448,267,Murrumbidgee,shire,267. Murrumbidgee . | R,ocr_extracted
+1933,448,268,Murrungal,shire,"268. Murrungal ,, . o | R",ocr_extracted
+1933,448,269,Muswellbrook,shire,269. Muswellbrook . | R.,ocr_extracted
+1933,448,270,Nambucca,shire,"270. Nambucca ,, . .. | R.",ocr_extracted
+1933,448,271,Namoi,shire,271. Namoi . + » | R.,ocr_extracted
+1933,448,272,Narraburra,shire,"272. Narraburra 7 . | R,",ocr_extracted
+1933,448,273,Nattai,shire,"273, Nattai 7 . | R",ocr_extracted
+1933,448,274,Nepean,shire,274. Nepean... | R,ocr_extracted
+1933,448,275,Nundle,shire,"275. Nundle.. . | R,",ocr_extracted
+1933,448,276,Nymboida,shire,"276. Nymboida ., . .. | R",ocr_extracted
+1933,448,277,Oberon,shire,277. Oberon... 7 » | R,ocr_extracted
+1933,448,278,Orara,shire,278. Orara os . » TR.,ocr_extracted
+1933,448,279,Patrick Plains,shire,279. Patrick Plains . . | R.,ocr_extracted
+1933,448,280,Peel,shire,280. Peel - .. . | R,ocr_extracted
+1933,448,281,Port Stephens,shire,281. Port Stephens Ls . | R.,ocr_extracted
+1933,448,282,Rylstone,shire,282. Rylstone .. - |B.,ocr_extracted
+1933,448,283,Severn,shire,283. Severn . - .. | R.,ocr_extracted
+1933,448,284,Stroud,shire,"284. Stroud... - .. | R,",ocr_extracted
+1933,448,285,Sutherland,shire,"285. Sutherland .. | R,",ocr_extracted
+1933,448,286,Talbragar,shire,286. Talbragar .. a . | R,ocr_extracted
+1933,448,287,Tallaganda,shire,"287. Tallaganda = . TR,",ocr_extracted
+1933,448,288,Tamarang,shire,288. Tamarang . . . | R,ocr_extracted
+1933,448,289,Tarro,shire,"289, Tarro .. . . | R.",ocr_extracted
+1933,448,290,Tenterfield,shire,290. Tenterfield. . . . | R.,ocr_extracted
+1933,448,291,Terania,shire,291. Terania.. . - | R.,ocr_extracted
+1933,448,292,Timbrebongie,shire,292. Timbrebongie an » | R.,ocr_extracted
+1933,448,293,Tintenbar,shire,293. Tintenbar .. 7 | R,ocr_extracted
+1933,448,294,Tomki,shire,"294, Tomki a . | RB.",ocr_extracted
+1933,448,295,Tumbarumba,shire,295. Tumbarumba . . | R.,ocr_extracted
+1933,448,296,Tumut,shire,296. Tumut + a - | R,ocr_extracted
+1933,448,297,Turon,shire,"297, Turon 7 7 . TR.",ocr_extracted
+1933,448,298,Tweed,shire,"298. Tweed . » TR,",ocr_extracted
+1933,448,299,Urana,shire,"299, Urana . ee . | R.",ocr_extracted
+1933,448,300,Wade,shire,300. Wade . . . | R.,ocr_extracted
+1933,448,301,Wakool,shire,301. Wakool ... ve - ou. | R,ocr_extracted
+1933,448,302,Walgett,shire,302. Walgett .. = » | R.,ocr_extracted
+1933,448,303,Wallarobba,shire,"303. Wallarobba an | R,",ocr_extracted
+1933,448,304,Waradgery,shire,"304. Waradgery . . | R,",ocr_extracted
+1933,448,305,Warrah,shire,305. Warrah .. . . | R.,ocr_extracted
+1933,448,306,Warringah,shire,"306. Warringah , , - . | RB",ocr_extracted
+1933,448,307,Waugoola,shire,307. Waugoola .. an . | R.,ocr_extracted
+1933,448,308,Weddin,shire,308. Weddin... . . | R,ocr_extracted
+1933,448,309,Willimbong,shire,309. Willimbong . | R,ocr_extracted
+1933,448,310,Windouran,shire,310. Windouran . | R.,ocr_extracted
+1933,448,311,Wingadee,shire,311. Wingadee .. - .. | R.,ocr_extracted
+1933,448,312,Wingecarribee,shire,312. Wingecarribee (b)  .. | R.,ocr_extracted
+1933,448,313,Wollondilly,shire,313. Wollondilly .. | R,ocr_extracted
+1933,448,314,Woodburn,shire,314. Woodburn = .. | R,ocr_extracted
+1933,448,315,Woy Woy,shire,315. Woy Woy .. - . | BR.,ocr_extracted
+1933,448,316,Wyaldra,shire,316. Wyaldra .. 7 . | R.,ocr_extracted
+1933,448,317,Yallaroi,shire,317. Yallaroi .. .. | R.,ocr_extracted
+1933,448,318,Yanko,shire,318. Yanko a . | R,ocr_extracted
+1933,448,319,Yarrowlumla,shire,319. Yarrowlumla . . | R.,ocr_extracted
+1947,368,1,Albury,municipality,1 | Albury 7 .. | P.,ocr_extracted
+1947,368,2,Alexandria,municipality,2 | Alexandria . .. | M.,ocr_extracted
+1947,368,3,Annandale,municipality,3 | Annandale . | M.,ocr_extracted
+1947,368,4,Armidale,municipality,4 | Armidale 2. | PB,ocr_extracted
+1947,368,5,Ashfield,municipality,5 | Ashfield . .. | M.,ocr_extracted
+1947,368,6,Auburn,municipality,6 | Auburn . .. | M.,ocr_extracted
+1947,368,7,Ballina,municipality,7 | Ballina a | P.,ocr_extracted
+1947,368,8,Balmain,municipality,8 Balmain .. | M.,ocr_extracted
+1947,368,9,Balranald,municipality,9 | Balranald a .. | P|,ocr_extracted
+1947,368,10,Bankstown,municipality,10 | Bankstown . .. | MM),ocr_extracted
+1947,368,11,Barraba,municipality,11 | Barraba a IP.,ocr_extracted
+1947,368,12,Bathurst,municipality,12 | Bathurst a | PB,ocr_extracted
+1947,368,13,Bega,municipality,13 | Bega .. -+ |B.,ocr_extracted
+1947,368,14,Berry,municipality,14 | Berry .. .. | &P.,ocr_extracted
+1947,368,15,Bexley,municipality,15 | Bexley.. . . | M.,ocr_extracted
+1947,368,16,Blackheath,municipality,16 | Blackheath ee,ocr_extracted
+1947,368,17,Bombala,municipality,17 | Bombala a ee a,ocr_extracted
+1947,368,18,Botany,municipality,18 | Botany .. | M,ocr_extracted
+1947,368,19,Bourke,municipality,19 | Bourke . 1 | P,ocr_extracted
+1947,368,20,Bowral,municipality,20 | Bowral .. | P.,ocr_extracted
+1947,368,21,Brewarrina,municipality,21 | Brewarrina .. | P,ocr_extracted
+1947,368,22,Broken Hill,municipality,22 | Broken Hill an ..|2P.,ocr_extracted
+1947,368,23,Broughton Vale,municipality,23 | Broughton Vale 2 iP.,ocr_extracted
+1947,368,24,Burwood,municipality,24 | Burwood . . 1M.,ocr_extracted
+1947,368,25,Cabramatta and Canley Vale,municipality,25 | Cabramatta and Canley Vale | P. |,ocr_extracted
+1947,368,26,Camden,municipality,26 | Camden + | P,ocr_extracted
+1947,368,27,Campbelltown,municipality,27 | Campbelltown .. iP.,ocr_extracted
+1947,368,28,Canterbury,municipality,28 | Canterbury 7 | M.,ocr_extracted
+1947,368,29,Casino,municipality,29 | Casino a .. | P.,ocr_extracted
+1947,368,30,Castlereagh,municipality,30 | Castlereagh . | iP,ocr_extracted
+1947,368,31,Cessnock,municipality,31 | Cessnock 7 2 | PB,ocr_extracted
+1947,368,32,Cobar,municipality,32 | Cobar .. . | 2P.,ocr_extracted
+1947,368,33,Concord,municipality,33 | Concord 7 . | M.,ocr_extracted
+1947,368,34,Condobolin,municipality,34 | Condobolin —.. - | P.,ocr_extracted
+1947,368,35,Cooma,municipality,35 | Cooma .. | PB,ocr_extracted
+1947,368,36,Coonamble,municipality,36 | Coonamble _ | PB,ocr_extracted
+1947,368,37,Cootamundra,municipality,37 | Cootamundra .. . | Pl,ocr_extracted
+1947,368,38,Corowa,municipality,38 | Corowa . | P,ocr_extracted
+1947,368,39,Cowra,municipality,39 | Cowra .. _ .. | P.,ocr_extracted
+1947,368,40,Darlington,municipality,40 | Darlington - .. | M,ocr_extracted
+1947,368,41,Deniliquin,municipality,41 | Deniliquin . . | Py,ocr_extracted
+1947,368,42,Drummoyne,municipality,42 | Drummoyne... .. | M.,ocr_extracted
+1947,368,43,Dubbo,municipality,43 | Dubbo . .. | Pz,ocr_extracted
+1947,368,44,Dundas,municipality,44 | Dundas = .. | M.,ocr_extracted
+1947,368,45,Dungog,municipality,45 | Dungog = .. | P|,ocr_extracted
+1947,368,46,Eastwood,municipality,46 | Eastwood . oa M.,ocr_extracted
+1947,368,47,Enfield,municipality,47 | Enfield .. .. | M.,ocr_extracted
+1947,368,48,Ermington and Rydalmere,municipality,48 | Ermington and Rydalmere | M.,ocr_extracted
+1947,368,49,Erskineville,municipality,49 | Erskineville _ .. | M.,ocr_extracted
+1947,368,50,Fairfield,municipality,50 | Fairfield a | P,ocr_extracted
+1947,368,51,Forbes,municipality,51 | Forbes . . | P,ocr_extracted
+1947,368,52,Gerringong,municipality,52 | Gerringong . | P.,ocr_extracted
+1947,368,53,Glebe,municipality,53 | Glebe .. . . | Mi},ocr_extracted
+1947,369,54,Glen Innes,municipality,54 | Glen Innes .. .,ocr_extracted
+1947,369,55,Gosford,municipality,Gosford,source_sequence_correction
+1947,369,56,Goulburn,municipality,Goulburn,source_sequence_correction
+1947,369,57,Grafton,municipality,57 | Grafton .,ocr_extracted
+1947,369,58,Grafton South,municipality,58 | Grafton South .. .,ocr_extracted
+1947,369,59,Granville,municipality,59 | Granville .,ocr_extracted
+1947,369,60,Grenfell,municipality,60 | Grenfell - -,ocr_extracted
+1947,369,61,Gunnedah,municipality,61 | Gunnedah 7 .,ocr_extracted
+1947,369,62,Hay,municipality,62 | Hay .. . 7,ocr_extracted
+1947,369,63,Holroyd,municipality,63 | Holroyd se ‘,ocr_extracted
+1947,369,64,Homebush,municipality,64 | Homebush . -,ocr_extracted
+1947,369,65,Hunter's Hill,municipality,65 | Hunter’s Hill .. .,ocr_extracted
+1947,369,66,Hurstville,municipality,66 | Hurstville - .,ocr_extracted
+1947,369,67,Illawarra North,municipality,67 | Illawarra North .,ocr_extracted
+1947,369,68,Ingleburn,municipality,68 | Ingleburn a,ocr_extracted
+1947,369,69,Inverell,municipality,69 | Inverell . .,ocr_extracted
+1947,369,70,Jamberoo,municipality,70 | Jamberoo . .,ocr_extracted
+1947,369,71,Junee,municipality,71 | Junee .. . .,ocr_extracted
+1947,369,72,Katoomba,municipality,72 | Katoomba .. .,ocr_extracted
+1947,369,73,Kempsey,municipality,73 | Kempsey ..,ocr_extracted
+1947,369,74,Kiama,municipality,74 | Kiama . .,ocr_extracted
+1947,369,75,Kogarah,municipality,75 | Kogarah . .,ocr_extracted
+1947,369,76,Ku-ring-gai,municipality,76 | Ku-ring-gai .,ocr_extracted
+1947,369,77,Lane Cove,municipality,77 | Lane Cove .. .,ocr_extracted
+1947,369,78,Leichhardt,municipality,78 | Leichhardt .,ocr_extracted
+1947,369,79,Lidcombe,municipality,79 | Lidcombe . .,ocr_extracted
+1947,369,80,Lismore,municipality,Lismore,source_sequence_correction
+1947,369,81,Lithgow,municipality,81 | Lithgow .,ocr_extracted
+1947,369,82,Liverpool,municipality,82 | Liverpool + +,ocr_extracted
+1947,369,83,Maclean,municipality,83 | Maclean .,ocr_extracted
+1947,369,84,Maitland,municipality,84 | Maitland a .,ocr_extracted
+1947,369,85,Manilla,municipality,85 | Manilla . .,ocr_extracted
+1947,369,86,Manly,municipality,,source_sequence_correction
+1947,369,87,Marrickville,municipality,87 | Marrickville . +,ocr_extracted
+1947,369,88,Mascot,municipality,88 | Mascot .. .,ocr_extracted
+1947,369,89,Moama,municipality,89 | Moama +,ocr_extracted
+1947,369,90,Molong,municipality,90 | Molong .,ocr_extracted
+1947,369,91,Moree,municipality,91 | Moree . .,ocr_extracted
+1947,369,92,Mosman,municipality,92 | Mosman . .,ocr_extracted
+1947,369,93,Mudgee,municipality,93 | Mudgee .. 7,ocr_extracted
+1947,369,94,Mullumbimby,municipality,94 | Mullumbimby .. .,ocr_extracted
+1947,369,95,Murrumburrah,municipality,95 | Murrumburrah .. .,ocr_extracted
+1947,369,96,Murrurundi,municipality,96 | Murrurundi . .,ocr_extracted
+1947,369,97,Murwillumbah,municipality,97 | Murwillumbah .. .,ocr_extracted
+1947,369,98,Muswellbrook,municipality,98 | Muswellbrook .. .,ocr_extracted
+1947,369,99,Narrabri,municipality,99 | Narrabri a ..,ocr_extracted
+1947,369,100,Narrandera,municipality,100 | Narrandera .. oe,ocr_extracted
+1947,369,101,Narromine,municipality,101 | Narromine . +,ocr_extracted
+1947,369,102,"Newcastle, Greater",municipality,"102 | Newcastle, Greater .",ocr_extracted
+1947,369,103,Newtown,municipality,103 | Newtown .. ..,ocr_extracted
+1947,369,104,North Sydney,municipality,104 | North Sydney .. .,ocr_extracted
+1947,369,105,Nowra,municipality,105 | Nowra .,ocr_extracted
+1947,369,106,Nyngan,municipality,106 | Nyngan . .,ocr_extracted
+1947,369,107,Orange,municipality,107 | Orange .,ocr_extracted
+1947,369,108,Paddington,municipality,108 | Paddington . .,ocr_extracted
+1947,369,109,Parkes,municipality,Parkes,source_sequence_correction
+1947,369,110,Parramatta,municipality,110 | Parramatta .. .,ocr_extracted
+1947,369,111,Peak Hill,municipality,111 | Peak Hill .. .,ocr_extracted
+1947,369,112,Penrith,municipality,112 | Penrith ..,ocr_extracted
+1947,369,113,Petersham,municipality,113 | Petersham .. .,ocr_extracted
+1947,369,114,Port Macquarie,municipality,Port Macquarie,source_sequence_correction
+1947,369,115,Queanbeyan,municipality,115 | Queanbeyan... .,ocr_extracted
+1947,369,116,Quirindi,municipality,116 | Quirindi . .,ocr_extracted
+1947,369,117,Randwick,municipality,117 | Randwick . a,ocr_extracted
+1947,369,118,Redfern,municipality,118 | Redfern a .,ocr_extracted
+1947,370,119,Richmond,municipality,119 | Richmond 7 .. | P.,ocr_extracted
+1947,370,120,Rockdale,municipality,120 | Rockdale a . | M.,ocr_extracted
+1947,370,121,Ryde,municipality,121 | Ryde .. . 1M,ocr_extracted
+1947,370,122,St. Mary’s,municipality,122 | St. Mary’s . | P,ocr_extracted
+1947,370,123,St. Peters,municipality,123 | St. Peters 7 . | M,ocr_extracted
+1947,370,124,Scone,municipality,124 | Scone .. . ai | PL,ocr_extracted
+1947,370,125,Shellharbour,municipality,125 | Shellharbour... -. | P.,ocr_extracted
+1947,370,126,Shoalhaven South,municipality,126 | Shoalhaven South | P.,ocr_extracted
+1947,370,127,Singleton,municipality,127 | Singleton . .. | PB,ocr_extracted
+1947,370,128,Strathfield,municipality,128 | Strathfield . -. | M.,ocr_extracted
+1947,370,129,Sydney,municipality,129 | Sydney | M,ocr_extracted
+1947,370,130,Tamworth,municipality,130 | Tamworth . .. | P.,ocr_extracted
+1947,370,131,Taree,municipality,131 | Taree .. ele | PL,ocr_extracted
+1947,370,132,Temora,municipality,132 | Temora . . | PB,ocr_extracted
+1947,370,133,Tenterfield,municipality,133 | Tenterfield . .. | P.,ocr_extracted
+1947,370,134,Ulladulla,municipality,134 | Ulladulla . .. | P.,ocr_extracted
+1947,370,135,Ulmarra,municipality,135 | Ulmarra . .. | P.,ocr_extracted
+1947,370,136,Uralla,municipality,136 | Uralla .. .. | PB.,ocr_extracted
+1947,370,137,Vaucluse,municipality,137 | Vaucluse 7 . | M.,ocr_extracted
+1947,370,138,Wagga Wagga,municipality,138 | Wagga Wagga .. . | P.,ocr_extracted
+1947,370,139,Walcha,municipality,139 | Walcha . .. | P.,ocr_extracted
+1947,370,140,Warren,municipality,140 | Warren . .. | Pz,ocr_extracted
+1947,370,141,Waterloo,municipality,141 | Waterloo _ 2 | M.,ocr_extracted
+1947,370,142,Waverley,municipality,142 | Waverley . | M.,ocr_extracted
+1947,370,143,Wellington,municipality,143 | Wellington - | P,ocr_extracted
+1947,370,144,Wentworth,municipality,144 | Wentworth 7 . | P. |,ocr_extracted
+1947,370,145,Wilcannia,municipality,145 | Wilcannia . | P,ocr_extracted
+1947,370,146,Willoughby,municipality,146 | Willoughby + . |) M.,ocr_extracted
+1947,370,147,Windsor,municipality,147 | Windsor . . | P.,ocr_extracted
+1947,370,148,Wingham,municipality,148 | Wingham | PB,ocr_extracted
+1947,370,149,Wollongong,municipality,149 | Wollongong... .. | PB,ocr_extracted
+1947,370,150,Woollahra,municipality,150 | Woollahra . . | M.,ocr_extracted
+1947,370,151,Yass,municipality,151 | Yass .. . . | P.,ocr_extracted
+1947,370,152,Young,municipality,152 | Young . .. | P.,ocr_extracted
+1947,370,153,Abercrombie,shire,153 | Abercrombie .. a | R.,ocr_extracted
+1947,370,154,Amaroo,shire,154 | Amaroo . ..|R.,ocr_extracted
+1947,370,155,Apsley,shire,155 | Apsley . . | R.,ocr_extracted
+1947,370,156,Ashford,shire,"156 | Ashford . | RB,",ocr_extracted
+1947,370,157,Barraba,shire,157 | Barraba . .. | RB,ocr_extracted
+1947,370,158,Baulkham Hills,shire,158 | Baulkham Hills ~.. | R.,ocr_extracted
+1947,370,159,Bellingen,shire,159 | Bellingen we . | R.,ocr_extracted
+1947,370,160,Berrigan,shire,160 | Berrigan . .. | R.,ocr_extracted
+1947,370,161,Bibbenluke,shire,161 | Bibbenluke . . | RB.,ocr_extracted
+1947,370,162,Bingara,shire,162 | Bingara . | RB.,ocr_extracted
+1947,370,163,Blacktown,shire,163 | Blacktown a .. | R.,ocr_extracted
+1947,370,164,Bland,shire,164 | Bland . | R.,ocr_extracted
+1947,370,165,Blaxland,shire,"165 | Blaxland a | R,",ocr_extracted
+1947,370,166,Blue Mountains,shire,166 | Blue Mountains .. | RK.,ocr_extracted
+1947,370,167,Bogan,shire,167 | Bogan . . | BR.,ocr_extracted
+1947,370,168,Boolooroo,shire,168 | Boolooroo .. . | R.,ocr_extracted
+1947,370,169,Boomi,shire,169 | Boomi .. | RK.,ocr_extracted
+1947,370,170,Boorowa,shire,170 | Boorowa .. | RB,ocr_extracted
+1947,370,171,Boree,shire,171 | Boree .. . .. | RB,ocr_extracted
+1947,370,172,Bulli,shire,172 | Bulli .. .. .|R,ocr_extracted
+1947,370,173,Burrangong,shire,173 | Burrangong . | RB,ocr_extracted
+1947,370,174,Byron,shire,174 | Byron .. a . | RY,ocr_extracted
+1947,370,175,Cambewarra,shire,175 | Cambewarra.. . | RY,ocr_extracted
+1947,370,176,Canobolas,shire,176 | Canobolas . LR. |,ocr_extracted
+1947,370,177,Carrathool,shire,177 | Carrathool . | R. |,ocr_extracted
+1947,371,178,Clyde,shire,178 | Clyde .. . a,ocr_extracted
+1947,371,179,Cobbora,shire,179 | Cobbora 7 7,ocr_extracted
+1947,371,180,Cockburn,shire,Cockburn,source_sequence_correction
+1947,371,181,Colo,shire,181 | Colo... . ..,ocr_extracted
+1947,371,182,Conargo,shire,182 | Conargo 7 -,ocr_extracted
+1947,371,183,Coolah,shire,183 | Coolah .. .,ocr_extracted
+1947,371,184,Coolamon,shire,184 | Coolamon 7 .,ocr_extracted
+1947,371,185,Coonabarabran,shire,185 | Coonabarabran an,ocr_extracted
+1947,371,186,Copmanhurst,shire,186 | Copmanhurst .. .,ocr_extracted
+1947,371,187,Coreen,shire,187 | Coreen a .,ocr_extracted
+1947,371,188,Crookwell,shire,188 | Crookwell a,ocr_extracted
+1947,371,189,Cudgegong,shire,189 | Cudgegong . .,ocr_extracted
+1947,371,190,Culcairn,shire,190 | Culcairn . .,ocr_extracted
+1947,371,191,Demondrille,shire,191 | Demondrille  .. .,ocr_extracted
+1947,371,192,Dorrigo,shire,192 | Dorrigo o. .,ocr_extracted
+1947,371,193,Dumaresq,shire,193 | Dumaresq a .,ocr_extracted
+1947,371,194,Erina,shire,194 | Erina .. 7 7,ocr_extracted
+1947,371,195,Eurobodalla,shire,195 | Eurobodalla a,ocr_extracted
+1947,371,196,Gilgandra,shire,196 | Gilgandra .,ocr_extracted
+1947,371,197,Gloucester,shire,197 | Gloucester a |,ocr_extracted
+1947,371,198,Goobang,shire,198 | Goobang . ..,ocr_extracted
+1947,371,199,Goodradigbee,shire,199 | Goodradigbee .. .,ocr_extracted
+1947,371,200,Gostwyck,shire,200 | Gostwyck . a,ocr_extracted
+1947,371,201,Gulgong,shire,201 | Gulgong . .,ocr_extracted
+1947,371,202,Gundagai,shire,202 | Gundagai .,ocr_extracted
+1947,371,203,Gundurimba,shire,203 | Gundurimba_... .,ocr_extracted
+1947,371,204,Gunning,shire,204 | Gunning 7 7,ocr_extracted
+1947,371,205,Guyra,shire,205 | Guyra .. -,ocr_extracted
+1947,371,206,Harwood,shire,"Harwood """,source_sequence_correction
+1947,371,207,Hastings,shire,207 | Hastings . an,ocr_extracted
+1947,371,208,Holbrook,shire,208 | Holbrook,ocr_extracted
+1947,371,209,Hornsby,shire,209 | Hornsby . .,ocr_extracted
+1947,371,210,Hume,shire,210 | Hume .. . “|,ocr_extracted
+1947,371,211,Illabo,shire,211 | Illabo .. .. a,ocr_extracted
+1947,371,212,Illawarra Central,shire,Illawarra Central,source_sequence_correction
+1947,371,213,Imlay,shire,213 | Imlay .. . .,ocr_extracted
+1947,371,214,Jemalong,shire,214 | Jemalong .,ocr_extracted
+1947,371,215,Jerilderie,shire,215 | Jerilderie . 7,ocr_extracted
+1947,371,216,Jindalee,shire,216 | Jindalee .,ocr_extracted
+1947,371,217,Kearsley,shire,217 | Kearsley a .,ocr_extracted
+1947,371,218,Kyeamba,shire,218 | Kyeamba .,ocr_extracted
+1947,371,219,Kyogle,shire,219 | Kyogle . .,ocr_extracted
+1947,371,220,Lachlan,shire,220 | Lachlan a a,ocr_extracted
+1947,371,221,Lake Macquarie,shire,221 | Lake Macquarie. . 7,ocr_extracted
+1947,371,222,Leeton,shire,222 | Leeton. . . .,ocr_extracted
+1947,371,223,Liverpool Plains,shire,223 | Liverpool Plains .,ocr_extracted
+1947,371,224,Lockhart,shire,224 | Lockhart . .,ocr_extracted
+1947,371,225,Lower Hunter,shire,225 | Lower Hunter .. .,ocr_extracted
+1947,371,226,Lyndhurst,shire,226 | Lyndhurst .,ocr_extracted
+1947,371,227,Macintyre,shire,227 | Macintyre oe,ocr_extracted
+1947,371,228,Macleay,shire,Macleay,source_sequence_correction
+1947,371,229,Macquarie,shire,229 | Macquarie ~—...,ocr_extracted
+1947,371,230,Mandowa,shire,230 | Mandowa a .,ocr_extracted
+1947,371,231,Manning,shire,231 | Manning . .,ocr_extracted
+1947,371,232,Marthaguy,shire,232 | Marthaguy . a,ocr_extracted
+1947,371,233,Merriwa,shire,233 | Merriwa . .,ocr_extracted
+1947,371,234,Mitchell,shire,234 | Mitchell a,ocr_extracted
+1947,371,235,Monaro,shire,Monaro,source_sequence_correction
+1947,371,236,Mulwaree,shire,236 | Mulwaree .,ocr_extracted
+1947,371,237,Mumbulla,shire,237 | Mumbulla .. a,ocr_extracted
+1947,371,238,Murray,shire,238 | Murray .. a,ocr_extracted
+1947,371,239,Murrumbidgee,shire,239 | Murrumbidgee .. a,ocr_extracted
+1947,371,240,Muswellbrook,shire,Muswellbrook,source_sequence_correction
+1947,371,241,Nambucca,shire,Nambucca,source_sequence_correction
+1947,371,242,Namoi,shire,242 | Namoi 7 7,ocr_extracted
+1947,371,243,Narraburra,shire,243 | Narraburra .. |,ocr_extracted
+1947,372,244,Nattai,shire,244 | Nattai . . | R.,ocr_extracted
+1947,372,245,Nepean,shire,245 | Nepean . .. | RB.,ocr_extracted
+1947,372,246,Nundle,shire,246 | Nundle .. .. | RB.,ocr_extracted
+1947,372,247,Nymboida,shire,247 | Nymboida _ .. |B.,ocr_extracted
+1947,372,248,Oberon,shire,248 | Oberon LR,ocr_extracted
+1947,372,249,Orara,shire,249 | Orara .. . .. | RB.,ocr_extracted
+1947,372,250,Patrick Plains,shire,250 | Patrick Plains .. .. | RB.,ocr_extracted
+1947,372,251,Peel,shire,251 | Peel .. 7 .. | BR.,ocr_extracted
+1947,372,252,Port Stephens,shire,252 | Port Stephens .. .. | R.,ocr_extracted
+1947,372,253,Rylstone,shire,253 | Rylstone . | R,ocr_extracted
+1947,372,254,Severn,shire,254 | Severn an . | RB.,ocr_extracted
+1947,372,255,Snowy River,shire,255 | Snowy River .. . | RK,ocr_extracted
+1947,372,256,Stroud,shire,256 | Stroud . .|R,ocr_extracted
+1947,372,257,Sutherland,shire,257 | Sutherland . . | RB,ocr_extracted
+1947,372,258,Talbragar,shire,258 | Talbragar . .. | R,ocr_extracted
+1947,372,259,Tallaganda,shire,259 | Tallaganda . | R,ocr_extracted
+1947,372,260,Tamarang,shire,260 | Tamarang . . | R,ocr_extracted
+1947,372,261,Tenterfield,shire,261 | Tenterfield . ..[R,ocr_extracted
+1947,372,262,Terania,shire,262 | Terania ../R,ocr_extracted
+1947,372,263,Timbrebongie,shire,263 | Timbrebongie .. ../|R,ocr_extracted
+1947,372,264,Tintenbar,shire,264 | Tintenbar .. ../R,ocr_extracted
+1947,372,265,Tomki,shire,265 | Tomki . ..|/R,ocr_extracted
+1947,372,266,Tumbarumba,shire,266 | Tumbarumba .. .|R,ocr_extracted
+1947,372,267,Tumut,shire,267 | Tumut.. 7 ../R,ocr_extracted
+1947,372,268,Turon,shire,"268 , Turon .. + .{R",ocr_extracted
+1947,372,269,Tweed,shire,269 | Tweed ..|R,ocr_extracted
+1947,372,270,Upper Hunter,shire,270 | Upper Hunter .. ..|R,ocr_extracted
+1947,372,271,Urana,shire,271 | Urana .. . .. | R,ocr_extracted
+1947,372,272,Wade,shire,272 | Wade .. .: ..|R,ocr_extracted
+1947,372,273,Wakool,shire,273 | Wakool . .. | R,ocr_extracted
+1947,372,274,Walgett,shire,274 | Walgett a ..|R,ocr_extracted
+1947,372,275,Wallarobba,shire,275 | Wallarobba . ..|R,ocr_extracted
+1947,372,276,Waradgery,shire,276 | Waradgery . ..|R,ocr_extracted
+1947,372,277,Warrah,shire,277 | Warrah . .. | R,ocr_extracted
+1947,372,278,Warringah,shire,278 | Warringah . .. | R,ocr_extracted
+1947,372,279,Waugoola,shire,279 | Waugoola 7 .. |R,ocr_extracted
+1947,372,280,Weddin,shire,280 | Weddin . .. | R,ocr_extracted
+1947,372,281,Windouran,shire,281 | Windouran 7 .. | R,ocr_extracted
+1947,372,282,Wingadee,shire,282 | Wingadee . .. {RB,ocr_extracted
+1947,372,283,Wingecarribee,shire,283 | Wingecarribee .. .. | R,ocr_extracted
+1947,372,284,Wollondilly,shire,W ollondilly,source_sequence_correction
+1947,372,285,Woodburn,shire,285 | Woodburn . ..|R,ocr_extracted
+1947,372,286,Woy Woy,shire,286 | Woy Woy a ..|R,ocr_extracted
+1947,372,287,Yallaroi,shire,287 | Yallaroi 7 .. | R,ocr_extracted
+1947,372,288,Yanko,shire,288 | Yanko . .. | R,ocr_extracted
+1947,372,289,Yarrowlumla,shire,289 | Yarrowlumla .. .. | RB,ocr_extracted
+1961,130,1,Imlay,shire,Imlay S,map_index_transcription
+1961,130,2,Bega,municipality,Bega M,map_index_transcription
+1961,130,3,Mumbulla,shire,Mumbulla S,map_index_transcription
+1961,130,4,Eurobodalla,shire,Eurobodalla S,map_index_transcription
+1961,130,5,Tallaganda,shire,Tallaganda S,map_index_transcription
+1961,130,6,Shoalhaven,shire,Shoalhaven S,map_index_transcription
+1961,130,7,Kiama,municipality,Kiama M,map_index_transcription
+1961,130,8,Wingecarribee,shire,Wingecarribee S,map_index_transcription
+1961,130,9,Shellharbour,municipality,Shellharbour M,map_index_transcription
+1961,130,10,Bowral,municipality,Bowral M,map_index_transcription
+1961,130,11,Mittagong,shire,Mittagong S,map_index_transcription
+1961,130,12,Wollongong Greater,city,Wollongong Greater C,map_index_transcription
+1961,130,13,Wollondilly,shire,Wollondilly S,map_index_transcription
+1961,130,14;16,Camden,municipality,Camden M,map_index_transcription
+1961,130,15,Campbelltown,municipality,Campbelltown M,map_index_transcription
+1961,130,17,Liverpool,city,Liverpool C,map_index_transcription
+1961,130,18,Penrith,city,Penrith C,map_index_transcription
+1961,130,19,Blacktown,municipality,Blacktown M,map_index_transcription
+1961,130,20,Windsor,municipality,Windsor M,map_index_transcription
+1961,130,21,Baulkham Hills,shire,Baulkham Hills S,map_index_transcription
+1961,130,22,Hornsby,shire,Hornsby S,map_index_transcription
+1961,130,23,Gosford,shire,Gosford S,map_index_transcription
+1961,130,24,Wyong,shire,Wyong S,map_index_transcription
+1961,130,25,Lake Macquarie,shire,Lake Macquarie S,map_index_transcription
+1961,130,26,Newcastle,city,Newcastle C,map_index_transcription
+1961,130,27,Port Stephens,shire,Port Stephens S,map_index_transcription
+1961,130,28,Maitland,city,Maitland C,map_index_transcription
+1961,130,29,Cessnock Greater,city,Cessnock Greater C,map_index_transcription
+1961,130,30,Singleton,municipality,Singleton M,map_index_transcription
+1961,130,31,Patrick Plains,shire,Patrick Plains S,map_index_transcription
+1961,130,32,Muswellbrook,shire,Muswellbrook S,map_index_transcription
+1961,130,33,Muswellbrook,municipality,Muswellbrook M,map_index_transcription
+1961,130,34,Scone,shire,Scone S,map_index_transcription
+1961,130,35,Dungog,shire,Dungog S,map_index_transcription
+1961,130,36,Stroud,shire,Stroud S,map_index_transcription
+1961,130,37,Gloucester,shire,Gloucester S,map_index_transcription
+1961,130,38,Wingham,municipality,Wingham M,map_index_transcription
+1961,130,39,Taree,municipality,Taree M,map_index_transcription
+1961,130,40,Manning,shire,Manning S,map_index_transcription
+1961,130,41,Port Macquarie,municipality,Port Macquarie M,map_index_transcription
+1961,130,42,Hastings,shire,Hastings S,map_index_transcription
+1961,130,43,Kempsey,municipality,Kempsey M,map_index_transcription
+1961,130,44,Macleay,shire,Macleay S,map_index_transcription
+1961,130,45,Nambucca,shire,Nambucca S,map_index_transcription
+1961,130,46,Bellingen,shire,Bellingen S,map_index_transcription
+1961,130,47,Coffs Harbour,shire,Coffs Harbour S,map_index_transcription
+1961,130,48,Nymboida,shire,Nymboida S,map_index_transcription
+1961,130,49,Ulmarra,shire,Ulmarra S,map_index_transcription
+1961,130,50,Grafton,city,Grafton C,map_index_transcription
+1961,130,51,Maclean,shire,Maclean S,map_index_transcription
+1961,130,52,Copmanhurst,shire,Copmanhurst S,map_index_transcription
+1961,130,53,Woodburn,shire,Woodburn S,map_index_transcription
+1961,130,54,Tonki,shire,Tonki S,map_index_transcription
+1961,130,55,Casino,municipality,Casino M,map_index_transcription
+1961,130,56,Lismore,city,Lismore C,map_index_transcription
+1961,130,57,Gundurimba,shire,Gundurimba S,map_index_transcription
+1961,130,58,Tintenbar,shire,Tintenbar S,map_index_transcription
+1961,130,59,Ballina,municipality,Ballina M,map_index_transcription
+1961,130,60,Byron,shire,Byron S,map_index_transcription
+1961,130,61,Mullumbimby,municipality,Mullumbimby M,map_index_transcription
+1961,130,62,Tweed,shire,Tweed S,map_index_transcription
+1961,130,63,Terania,shire,Terania S,map_index_transcription
+1961,130,64,Kyogle,shire,Kyogle S,map_index_transcription
+1961,130,65,Tenterfield,shire,Tenterfield S,map_index_transcription
+1961,130,66,Tenterfield,municipality,Tenterfield M,map_index_transcription
+1961,130,67,Severn,shire,Severn S,map_index_transcription
+1961,130,68,Glen Innes,municipality,Glen Innes M,map_index_transcription
+1961,130,69;88,Macintyre,shire,Macintyre S,map_index_transcription
+1961,130,70,Inverell,municipality,Inverell M,map_index_transcription
+1961,130,71,Guyra,shire,Guyra S,map_index_transcription
+1961,130,72,Armidale,city,Armidale C,map_index_transcription
+1961,130,73,Dumaresq,shire,Dumaresq S,map_index_transcription
+1961,130,74,Uralla,shire,Uralla S,map_index_transcription
+1961,130,75,Walcha,shire,Walcha S,map_index_transcription
+1961,130,76,Nundle,shire,Nundle S,map_index_transcription
+1961,130,77,Murrurundi,shire,Murrurundi S,map_index_transcription
+1961,130,78,Quirindi,municipality,Quirindi M,map_index_transcription
+1961,130,79,Tamarang,shire,Tamarang S,map_index_transcription
+1961,130,80,Liverpool Plains,shire,Liverpool Plains S,map_index_transcription
+1961,130,81,Gunnedah,municipality,Gunnedah M,map_index_transcription
+1961,130,82,Peel,shire,Peel S,map_index_transcription
+1961,130,83,Tamworth,city,Tamworth C,map_index_transcription
+1961,130,84,Cockburn,shire,Cockburn S,map_index_transcription
+1961,130,85,Manilla,shire,Manilla S,map_index_transcription
+1961,130,86,Barraba,shire,Barraba S,map_index_transcription
+1961,130,87,Bingara,shire,Bingara S,map_index_transcription
+1961,130,89,Ashford,shire,Ashford S,map_index_transcription
+1961,130,90,Yallaroi,shire,Yallaroi S,map_index_transcription
+1961,130,91,Moree,municipality,Moree M,map_index_transcription
+1961,130,92,Boolooroo,shire,Boolooroo S,map_index_transcription
+1961,130,93,Boomi,shire,Boomi S,map_index_transcription
+1961,130,94,Namoi,shire,Namoi S,map_index_transcription
+1961,130,95,Narrabri,municipality,Narrabri M,map_index_transcription
+1961,130,96,Coonabarabran,shire,Coonabarabran S,map_index_transcription
+1961,130,97;164,Coolah,shire,Coolah S,map_index_transcription
+1961,130,98,Merriwa,shire,Merriwa S,map_index_transcription
+1961,130,99,Rylstone,shire,Rylstone S,map_index_transcription
+1961,130,100,Cudgegong,shire,Cudgegong S,map_index_transcription
+1961,130,101,Mudgee,municipality,Mudgee M,map_index_transcription
+1961,130,102;163,Wellington,shire,Wellington S,map_index_transcription
+1961,130,103,Canobolas,shire,Canobolas S,map_index_transcription
+1961,130,104,Orange,city,Orange C,map_index_transcription
+1961,130,105,Turon,shire,Turon S,map_index_transcription
+1961,130,106,Bathurst,city,Bathurst C,map_index_transcription
+1961,130,107,Lithgow,city,Lithgow C,map_index_transcription
+1961,130,108,Blaxland,shire,Blaxland S,map_index_transcription
+1961,130,109,Colo,shire,Colo S,map_index_transcription
+1961,130,110,Blue Mountains,city,Blue Mountains C,map_index_transcription
+1961,130,111,Oberon,shire,Oberon S,map_index_transcription
+1961,130,112,Abercrombie,shire,Abercrombie S,map_index_transcription
+1961,130,113,Lyndhurst,shire,Lyndhurst S,map_index_transcription
+1961,130,114,Waugoola,shire,Waugoola S,map_index_transcription
+1961,130,115,Cowra,municipality,Cowra M,map_index_transcription
+1961,130,116,Crookwell,shire,Crookwell S,map_index_transcription
+1961,130,117,Mulwaree,shire,Mulwaree S,map_index_transcription
+1961,130,118,Goulburn,city,Goulburn C,map_index_transcription
+1961,130,119,Gunning,shire,Gunning S,map_index_transcription
+1961,130,120,Yass,municipality,Yass M,map_index_transcription
+1961,130,121,Goodradigbee,shire,Goodradigbee S,map_index_transcription
+1961,130,122,Yarrowlumla,shire,Yarrowlumla S,map_index_transcription
+1961,130,123,Queanbeyan,municipality,Queanbeyan M,map_index_transcription
+1961,130,124,Monaro,shire,Monaro S,map_index_transcription
+1961,130,125,Cooma,municipality,Cooma M,map_index_transcription
+1961,130,126,Bibbenluke,shire,Bibbenluke S,map_index_transcription
+1961,130,127,Bombala,municipality,Bombala M,map_index_transcription
+1961,130,128,Snowy River,shire,Snowy River S,map_index_transcription
+1961,130,129,Tumbarumba,shire,Tumbarumba S,map_index_transcription
+1961,130,130,Holbrook,shire,Holbrook S,map_index_transcription
+1961,130,131,Albury,city,Albury C,map_index_transcription
+1961,130,132,Hume,shire,Hume S,map_index_transcription
+1961,130,133,Kyeamba,shire,Kyeamba S,map_index_transcription
+1961,130,134,Tumut,shire,Tumut S,map_index_transcription
+1961,130,135,Gundagai,shire,Gundagai S,map_index_transcription
+1961,130,136,Wagga Wagga,city,Wagga Wagga C,map_index_transcription
+1961,130,137,Mitchell,shire,Mitchell S,map_index_transcription
+1961,130,138,Junee,municipality,Junee M,map_index_transcription
+1961,130,139,Illabo,shire,Illabo S,map_index_transcription
+1961,130,140,Jindalee,shire,Jindalee S,map_index_transcription
+1961,130,141,Cootamundra,municipality,Cootamundra M,map_index_transcription
+1961,130,142,Demondrille,shire,Demondrille S,map_index_transcription
+1961,130,143,Murrumburrah,municipality,Murrumburrah M,map_index_transcription
+1961,130,144,Boorowa,shire,Boorowa S,map_index_transcription
+1961,130,145,Young,municipality,Young M,map_index_transcription
+1961,130,146,Burrangong,shire,Burrangong S,map_index_transcription
+1961,130,147,Narraburra,shire,Narraburra S,map_index_transcription
+1961,130,148,Temora,municipality,Temora M,map_index_transcription
+1961,130,149,Grenfell,municipality,Grenfell M,map_index_transcription
+1961,130,150,Weddin,shire,Weddin S,map_index_transcription
+1961,130,151,Bland,shire,Bland S,map_index_transcription
+1961,130,152,Jemalong,shire,Jemalong S,map_index_transcription
+1961,130,153,Forbes,municipality,Forbes M,map_index_transcription
+1961,130,154,Boree,shire,Boree S,map_index_transcription
+1961,130,155,Parkes,municipality,Parkes M,map_index_transcription
+1961,130,156,Goobang,shire,Goobang S,map_index_transcription
+1961,130,157,Peak Hill,municipality,Peak Hill M,map_index_transcription
+1961,130,158,Molong,shire,Molong S,map_index_transcription
+1961,130,159,Timbrebongie,shire,Timbrebongie S,map_index_transcription
+1961,130,160,Narromine,municipality,Narromine M,map_index_transcription
+1961,130,161,Dubbo,municipality,Dubbo M,map_index_transcription
+1961,130,162,Talbragar,shire,Talbragar S,map_index_transcription
+1961,130,165,Gilgandra,shire,Gilgandra S,map_index_transcription
+1961,130,166,Coonamble,shire,Coonamble S,map_index_transcription
+1961,130,167;202,Walgett,shire,Walgett S,map_index_transcription
+1961,130,168,Wingadee,shire,Wingadee S,map_index_transcription
+1961,130,169,Nyngan,municipality,Nyngan M,map_index_transcription
+1961,130,170;200,Bogan,shire,Bogan S,map_index_transcription
+1961,130,171,Lachlan,shire,Lachlan S,map_index_transcription
+1961,130,172,Condobolin,municipality,Condobolin M,map_index_transcription
+1961,130,173;194,Carrathool,shire,Carrathool S,map_index_transcription
+1961,130,174,Wade,shire,Wade S,map_index_transcription
+1961,130,175,Leeton,shire,Leeton S,map_index_transcription
+1961,130,176,Narrandera,shire,Narrandera S,map_index_transcription
+1961,130,177,Coolamon,shire,Coolamon S,map_index_transcription
+1961,130,178,Lockhart,shire,Lockhart S,map_index_transcription
+1961,130,179,Culcairn,shire,Culcairn S,map_index_transcription
+1961,130,180,Urana,shire,Urana S,map_index_transcription
+1961,130,181,Corowa,shire,Corowa S,map_index_transcription
+1961,130,182,Berrigan,shire,Berrigan S,map_index_transcription
+1961,130,183,Jerilderie,shire,Jerilderie S,map_index_transcription
+1961,130,184,Conargo,shire,Conargo S,map_index_transcription
+1961,130,185,Deniliquin,municipality,Deniliquin M,map_index_transcription
+1961,130,186,Murray,shire,Murray S,map_index_transcription
+1961,130,187,Windouran,shire,Windouran S,map_index_transcription
+1961,130,188,Murrumbidgee,shire,Murrumbidgee S,map_index_transcription
+1961,130,189,Hay,municipality,Hay M,map_index_transcription
+1961,130,190;193,Waradgery,shire,Waradgery S,map_index_transcription
+1961,130,191,Wakool,shire,Wakool S,map_index_transcription
+1961,130,192,Balranald,shire,Balranald S,map_index_transcription
+1961,130,195,Cobar,shire,Cobar S,map_index_transcription
+1961,130,196,Central Darling,shire,Central Darling S,map_index_transcription
+1961,130,197,Wentworth,shire,Wentworth S,map_index_transcription
+1961,130,198,Broken Hill,city,Broken Hill C,map_index_transcription
+1961,130,199,Darling,shire,Darling S,map_index_transcription
+1961,130,201,Brewarrina,shire,Brewarrina S,map_index_transcription
+1961,6,,Sydney,city,Sydney C,table_1_metropolitan_transcription
+1961,6,,Botany,municipality,Botany M,table_1_metropolitan_transcription
+1961,6,,Leichhardt,municipality,Leichhardt M,table_1_metropolitan_transcription
+1961,6,,Marrickville,municipality,Marrickville M,table_1_metropolitan_transcription
+1961,6,,Randwick,municipality,Randwick M,table_1_metropolitan_transcription
+1961,6,,Waverley,municipality,Waverley M,table_1_metropolitan_transcription
+1961,6,,Woollahra,municipality,Woollahra M,table_1_metropolitan_transcription
+1961,6,,Hurstville,municipality,Hurstville M,table_1_metropolitan_transcription
+1961,6,,Kogarah,municipality,Kogarah M,table_1_metropolitan_transcription
+1961,6,,Rockdale,municipality,Rockdale M,table_1_metropolitan_transcription
+1961,6,,Sutherland,shire,Sutherland S,table_1_metropolitan_transcription
+1961,6,,Bankstown,municipality,Bankstown M,table_1_metropolitan_transcription
+1961,6,,Canterbury,municipality,Canterbury M,table_1_metropolitan_transcription
+1961,6,,Ashfield,municipality,Ashfield M,table_1_metropolitan_transcription
+1961,6,,Burwood,municipality,Burwood M,table_1_metropolitan_transcription
+1961,6,,Concord,municipality,Concord M,table_1_metropolitan_transcription
+1961,6,,Drummoyne,municipality,Drummoyne M,table_1_metropolitan_transcription
+1961,6,,Strathfield,municipality,Strathfield M,table_1_metropolitan_transcription
+1961,6,,Auburn,municipality,Auburn M,table_1_metropolitan_transcription
+1961,6,,Holroyd,municipality,Holroyd M,table_1_metropolitan_transcription
+1961,6,,Parramatta,city,Parramatta C,table_1_metropolitan_transcription
+1961,6,,Fairfield,municipality,Fairfield M,table_1_metropolitan_transcription
+1961,6,,Hunters Hill,municipality,Hunters Hill M,table_1_metropolitan_transcription
+1961,6,,Lane Cove,municipality,Lane Cove M,table_1_metropolitan_transcription
+1961,6,,Mosman,municipality,Mosman M,table_1_metropolitan_transcription
+1961,6,,North Sydney,municipality,North Sydney M,table_1_metropolitan_transcription
+1961,6,,Manly,municipality,Manly M,table_1_metropolitan_transcription
+1961,6,,Warringah,shire,Warringah S,table_1_metropolitan_transcription
+1961,6,,Ku-ring-gai,municipality,Ku-ring-gai M,table_1_metropolitan_transcription
+1961,6,,Willoughby,municipality,Willoughby M,table_1_metropolitan_transcription
+1961,6,,Ryde,municipality,Ryde M,table_1_metropolitan_transcription
+1954,5,152.91,Albury,municipality,Albury,native_text_with_ocr_corrections
+1954,5,162.89,Armidale,municipality,Armidale,native_text_with_ocr_corrections
+1954,5,172.54,Ashfield,municipality,Ashfield,native_text_with_ocr_corrections
+1954,5,182.1,Auburn,municipality,Auburn,native_text_with_ocr_corrections
+1954,5,190.58,Ballina,municipality,"Ballina ,",native_text_with_ocr_corrections
+1954,5,198.28,Balranald,municipality,Balranald,native_text_with_ocr_corrections
+1954,5,209.7,Bankstown,municipality,Bankstown,native_text_with_ocr_corrections
+1954,5,218.62,Barraba,municipality,Barraba (a),native_text_with_ocr_corrections
+1954,5,227.74,Bathurst,municipality,Bathurst,native_text_with_ocr_corrections
+1954,5,237.1,Bega,municipality,Bega,native_text_with_ocr_corrections
+1954,5,244.6,Blue Mountains,municipality,Blue Mountains,native_text_with_ocr_corrections
+1954,5,253.96,Bombala,municipality,Bombala,native_text_with_ocr_corrections
+1954,5,262.84,Botany,municipality,Botany,native_text_with_ocr_corrections
+1954,5,272.19,Bourke,municipality,Bourke (b),native_text_with_ocr_corrections
+1954,5,282.96,Bowral,municipality,Bowral,native_text_with_ocr_corrections
+1954,5,290.43,Brewarrina,municipality,Brewarrin a (c),native_text_with_ocr_corrections
+1954,5,301.2,Broken Hill,municipality,Broken Hill,native_text_with_ocr_corrections
+1954,5,309.53,Burwood,municipality,Burwood,native_text_with_ocr_corrections
+1954,5,319.42,Camden,municipality,Camden,native_text_with_ocr_corrections
+1954,5,327.53,Campbelltown,municipality,Campbelltown,native_text_with_ocr_corrections
+1954,5,338.1,Canterbury,municipality,Canterbury,native_text_with_ocr_corrections
+1954,5,347.22,Casino,municipality,Casino,native_text_with_ocr_corrections
+1954,5,354.89,Cessnock,municipality,Cessnock,native_text_with_ocr_corrections
+1954,5,363.4,Cobar,municipality,Cobar,native_text_with_ocr_corrections
+1954,5,373.27,Concord,municipality,Concord,native_text_with_ocr_corrections
+1954,5,382.25,Condobolin,municipality,Condobolin,native_text_with_ocr_corrections
+1954,5,393.06,Cooma,municipality,Cooma,native_text_with_ocr_corrections
+1954,5,399.87,Cootamundra,municipality,Cootamundra,native_text_with_ocr_corrections
+1954,5,411.3,Corowa,municipality,Corowa,native_text_with_ocr_corrections
+1954,5,420.42,Cowra,municipality,Cowra,native_text_with_ocr_corrections
+1954,5,427.85,Deniliquin,municipality,Deniliquin,native_text_with_ocr_corrections
+1954,5,436.73,Drummoyne,municipality,Drummoyne,native_text_with_ocr_corrections
+1954,5,445.85,Dubbo,municipality,Dubbo,native_text_with_ocr_corrections
+1954,5,454.36,Dungog,municipality,Dungog,native_text_with_ocr_corrections
+1954,5,464.1,Fairfield,municipality,"Fairfield ,",native_text_with_ocr_corrections
+1954,5,472.83,Forbes,municipality,Forbes,native_text_with_ocr_corrections
+1954,5,482.1,Gerringong,municipality,Gerringong (d),native_text_with_ocr_corrections
+1954,5,491.45,Glen Innes,municipality,Glen Innes),native_text_with_ocr_corrections
+1954,5,501.59,Goulburn,municipality,Goulburn,native_text_with_ocr_corrections
+1954,5,511.63,Grafton,municipality,Grafton,native_text_with_ocr_corrections
+1954,5,520.74,Grafton South,municipality,Grafton South,native_text_with_ocr_corrections
+1954,5,529.86,Grenfell,municipality,Grenfell,native_text_with_ocr_corrections
+1954,5,536.82,Gunnedah,municipality,Gunnedah,native_text_with_ocr_corrections
+1954,5,545.32,Hay,municipality,Hay,native_text_with_ocr_corrections
+1954,5,556.74,Holroyd,municipality,Holroyd,native_text_with_ocr_corrections
+1954,5,566.1,Hunter's Hill,municipality,Hunter s Hill,native_text_with_ocr_corrections
+1954,5,574.99,Hurstville,municipality,Hurstville,native_text_with_ocr_corrections
+1954,5,581.69,Inverell,municipality,Inverell,native_text_with_ocr_corrections
+1954,5,590.67,Jamberoo,municipality,J amberoo (d),native_text_with_ocr_corrections
+1954,5,602.34,Junee,municipality,Junee,native_text_with_ocr_corrections
+1954,5,609.29,Kempsey,municipality,Kemosey,native_text_with_ocr_corrections
+1954,5,620.1,Kiama,municipality,Kiama (d),native_text_with_ocr_corrections
+1954,5,628.07,Kogarah,municipality,Kogarah,native_text_with_ocr_corrections
+1954,5,638.1,Ku-ring-gai,municipality,Ku-ling-gal,native_text_with_ocr_corrections
+1954,5,644.92,Lane Cove,municipality,Lane Cove,native_text_with_ocr_corrections
+1954,5,655.43,Leichhardt,municipality,Leichhardt,native_text_with_ocr_corrections
+1954,5,663.53,Lismore,municipality,Lismore,native_text_with_ocr_corrections
+1954,5,674.59,Lithgow,municipality,Lithgow,native_text_with_ocr_corrections
+1954,5,683.7,Liverpool,municipality,Liverpool,native_text_with_ocr_corrections
+1954,5,690.89,Maclean,municipality,Maclean,native_text_with_ocr_corrections
+1954,5,699.39,Maitland,municipality,Maitland,native_text_with_ocr_corrections
+1954,5,710.86,Manilla,municipality,Manilla,native_text_with_ocr_corrections
+1954,5,718.8,Manly,municipality,Manly,native_text_with_ocr_corrections
+1954,5,726.89,Marrickville,municipality,Marrickville,native_text_with_ocr_corrections
+1954,5,736.3,Moree,municipality,Moree,native_text_with_ocr_corrections
+1954,5,744.28,Mosman,municipality,Moslnan,native_text_with_ocr_corrections
+1954,5,755.95,Mudgee,municipality,Mudgee,native_text_with_ocr_corrections
+1954,5,763.91,Mullumbimby,municipality,Mullumbimby,native_text_with_ocr_corrections
+1954,5,773.94,Murrumburrah,municipality,Murrumburrah,native_text_with_ocr_corrections
+1954,5,782.82,Muswellbrook,municipality,Muswellbook,native_text_with_ocr_corrections
+1954,6,151.12,Narrabri,municipality,Narrabri,native_text_with_ocr_corrections
+1954,6,159.27,Narrandera,municipality,Narrandera,native_text_with_ocr_corrections
+1954,6,166.07,Narromine,municipality,Narromine,native_text_with_ocr_corrections
+1954,6,176.07,Newcastle,municipality,Newcastle,native_text_with_ocr_corrections
+1954,6,181.9,North Sydney,municipality,North Sydney,native_text_with_ocr_corrections
+1954,6,190.07,Nyngan,municipality,Nyngan,native_text_with_ocr_corrections
+1954,6,200.07,Orange,municipality,Orange,native_text_with_ocr_corrections
+1954,6,208.24,Parkes,municipality,Parkes,native_text_with_ocr_corrections
+1954,6,214.55,Parramatta,municipality,Parramatta,native_text_with_ocr_corrections
+1954,6,222.7,Peak Hill,municipality,Peak Hill,native_text_with_ocr_corrections
+1954,6,232.47,Penrith,municipality,Penrith,native_text_with_ocr_corrections
+1954,6,238.79,Port Macquarie,municipality,POrt Macquarie,native_text_with_ocr_corrections
+1954,6,246.94,Queanbeyan,municipality,Queanbeyan,native_text_with_ocr_corrections
+1954,6,256.95,Quirindi,municipality,Quirindi,native_text_with_ocr_corrections
+1954,6,265.36,Randwick,municipality,Randwick,native_text_with_ocr_corrections
+1954,6,273.51,Rockdale,municipality,Rockdale,native_text_with_ocr_corrections
+1954,6,281.68,Ryde,municipality,Ryde,native_text_with_ocr_corrections
+1954,6,287.74,Scone,municipality,Scone,native_text_with_ocr_corrections
+1954,6,295.9,Shellharbour,municipality,Shellharbo)lr,native_text_with_ocr_corrections
+1954,6,304.07,Singleton,municipality,Singleton,native_text_with_ocr_corrections
+1954,6,314.32,Strathfield,municipality,Strathfield,native_text_with_ocr_corrections
+1954,6,322.47,Sydney,municipality,Sydney,native_text_with_ocr_corrections
+1954,6,329.91,Tamworth,municipality,Tamworth,native_text_with_ocr_corrections
+1954,6,337.17,Taree,municipality,Taree,native_text_with_ocr_corrections
+1954,6,345.33,Temora,municipality,Temora,native_text_with_ocr_corrections
+1954,6,354.63,Tenterfield,municipality,Tenterfield,native_text_with_ocr_corrections
+1954,6,361.41,Ulmarra,municipality,Ulmarra,native_text_with_ocr_corrections
+1954,6,369.65,Wagga Wagga,municipality,Wagga Wagga,native_text_with_ocr_corrections
+1954,6,377.5,Walcha,municipality,Walch a,native_text_with_ocr_corrections
+1954,6,386.8,Warren,municipality,Warren,native_text_with_ocr_corrections
+1954,6,393.81,Waverley,municipality,Waverley,native_text_with_ocr_corrections
+1954,6,403.36,Wentworth,municipality,Wentworth,native_text_with_ocr_corrections
+1954,6,411.52,Wilcannia,municipality,Wilcannia,native_text_with_ocr_corrections
+1954,6,418.29,Willoughby,municipality,Willoughby,native_text_with_ocr_corrections
+1954,6,425.26,Windsor,municipality,Windsor,native_text_with_ocr_corrections
+1954,6,435.52,Wingham,municipality,Wingham,native_text_with_ocr_corrections
+1954,6,443.43,"Wollongong, Greater",municipality,"Wollongong, Greater",native_text_with_ocr_corrections
+1954,6,450.45,Woollahra,municipality,Woollahra,native_text_with_ocr_corrections
+1954,6,459.99,Yass,municipality,Yass,native_text_with_ocr_corrections
+1954,6,467.91,Young,municipality,Young,native_text_with_ocr_corrections
+1954,6,481.67,Abercrombie,shire,Abercrombie,native_text_with_ocr_corrections
+1954,6,490.78,Apsley,shire,Apsley,native_text_with_ocr_corrections
+1954,6,498.69,Ashford,shire,Ashford,native_text_with_ocr_corrections
+1954,6,506.14,Barraba,shire,Barraba,native_text_with_ocr_corrections
+1954,6,516.39,Baulkham Hills,shire,Baulkham Hills,native_text_with_ocr_corrections
+1954,6,524.31,Bellingen,shire,Bellingen,native_text_with_ocr_corrections
+1954,6,531.99,Berrigan,shire,Berrigan,native_text_with_ocr_corrections
+1954,6,538.3,Bibbenluke,shire,Bibberiluke,native_text_with_ocr_corrections
+1954,6,548.55,Bingara,shire,Bingara,native_text_with_ocr_corrections
+1954,6,554.39,Blacktown,shire,Blacktown,native_text_with_ocr_corrections
+1954,6,564.64,Bland,shire,Bland,native_text_with_ocr_corrections
+1954,6,572.8,Blaxland,shire,Blaxland,native_text_with_ocr_corrections
+1954,6,579.97,Bogan,shire,Bogan,native_text_with_ocr_corrections
+1954,6,588.87,Boolooroo,shire,Boolooroo,native_text_with_ocr_corrections
+1954,6,596.53,Boomi,shire,Boomi,native_text_with_ocr_corrections
+1954,6,605.46,Boorowa,shire,Boorowa,native_text_with_ocr_corrections
+1954,6,613.36,Boree,shire,Boree,native_text_with_ocr_corrections
+1954,6,621.27,Burrangong,shire,Burrangong,native_text_with_ocr_corrections
+1954,6,629.43,Byron,shire,Byron,native_text_with_ocr_corrections
+1954,6,635.03,Canobolas,shire,Canobolas,native_text_with_ocr_corrections
+1954,6,645.75,Carrathool,shire,Carrathool,native_text_with_ocr_corrections
+1954,6,653.91,Cockburn,shire,Cockburn,native_text_with_ocr_corrections
+1954,6,661.83,Colo,shire,Colo,native_text_with_ocr_corrections
+1954,6,669.75,Conargo,shire,Conargo,native_text_with_ocr_corrections
+1954,6,675.82,Coolah,shire,"Coolah ,",native_text_with_ocr_corrections
+1954,6,685.83,Coolamon,shire,Coolamon,native_text_with_ocr_corrections
+1954,6,694.23,Coonabarabran,shire,Coonabarabran,native_text_with_ocr_corrections
+1954,6,702.39,Coonamble,shire,Coonambl e,native_text_with_ocr_corrections
+1954,6,710.31,Copmanhurst,shire,Copmanhurst,native_text_with_ocr_corrections
+1954,6,718.23,Coreen,shire,Coree n,native_text_with_ocr_corrections
+1954,6,725.8,Crookwell,shire,Crookwell,native_text_with_ocr_corrections
+1954,6,734.07,Cudgegong,shire,Cudgegong,native_text_with_ocr_corrections
+1954,6,742.23,Culcairn,shire,Culcairn,native_text_with_ocr_corrections
+1954,6,749.01,Demondrille,shire,Demondrille,native_text_with_ocr_corrections
+1954,6,756.45,Dorrigo,shire,Dorrigo,native_text_with_ocr_corrections
+1954,6,766.0,Dumaresq,shire,Dumaresq,native_text_with_ocr_corrections
+1954,6,774.15,Eurobodalla,shire,Eurobodalla,native_text_with_ocr_corrections
+1954,6,782.08,Gilgandra,shire,Gilgandra,native_text_with_ocr_corrections
+1954,6,790.48,Gloucester,shire,Gloucester,native_text_with_ocr_corrections
+1954,6,798.4,Goobang,shire,Goobang,native_text_with_ocr_corrections
+1954,6,806.32,Goodradigbee,shire,Goodradigbee,native_text_with_ocr_corrections
+1954,6,813.89,Gosford,shire,Gosford,native_text_with_ocr_corrections
+1954,6,822.16,Gulgong,shire,Guigong,native_text_with_ocr_corrections
+1954,6,830.08,Gundagai,shire,Gundagai,native_text_with_ocr_corrections
+1954,6,838.23,Gundurimba,shire,Gundurimba,native_text_with_ocr_corrections
+1954,7,151.9,Gunning,shire,Gunning,native_text_with_ocr_corrections
+1954,7,159.82,Guyra,shire,Guyra,native_text_with_ocr_corrections
+1954,7,169.69,Harwood,shire,Harwood,native_text_with_ocr_corrections
+1954,7,177.85,Hastings,shire,Hastings,native_text_with_ocr_corrections
+1954,7,183.82,Holbrook,shire,Holbrook,native_text_with_ocr_corrections
+1954,7,191.99,Hornsby,shire,Hornsby,native_text_with_ocr_corrections
+1954,7,200.38,Hume,shire,Hume,native_text_with_ocr_corrections
+1954,7,210.01,Illabo,shire,Illabo,native_text_with_ocr_corrections
+1954,7,217.93,Imlay,shire,Imlay,native_text_with_ocr_corrections
+1954,7,223.86,Jemalong,shire,Jemalong,native_text_with_ocr_corrections
+1954,7,232.79,Jerilderie,shire,Jerilderie,native_text_with_ocr_corrections
+1954,7,243.14,Jindalee,shire,Jindalee,native_text_with_ocr_corrections
+1954,7,248.88,Kearsley,shire,Kearsley,native_text_with_ocr_corrections
+1954,7,256.79,Kyeamba,shire,Kyeamba,native_text_with_ocr_corrections
+1954,7,266.66,Kyogle,shire,Kyogle,native_text_with_ocr_corrections
+1954,7,273.35,Lachlan,shire,Lachlan,native_text_with_ocr_corrections
+1954,7,282.98,Lake Macquarie,shire,Lake Macquarie,native_text_with_ocr_corrections
+1954,7,289.43,Leeton,shire,Leeton,native_text_with_ocr_corrections
+1954,7,299.05,Liverpool Plains,shire,Liverpool Plains,native_text_with_ocr_corrections
+1954,7,307.22,Lockhart,shire,Lockhart,native_text_with_ocr_corrections
+1954,7,315.61,Lower Hunter,shire,Lower Hunter,native_text_with_ocr_corrections
+1954,7,323.54,Lyndhurst,shire,Lyndhurst,native_text_with_ocr_corrections
+1954,7,330.94,Macintyre,shire,Macintyre,native_text_with_ocr_corrections
+1954,7,339.09,Macleay,shire,Macleay,native_text_with_ocr_corrections
+1954,7,346.32,Mandowa,shire,Mandowa,native_text_with_ocr_corrections
+1954,7,354.23,Manning,shire,Manning,native_text_with_ocr_corrections
+1954,7,362.88,Marthaguy,shire,Marthaguy,native_text_with_ocr_corrections
+1954,7,370.32,Merriwa,shire,Merriwa,native_text_with_ocr_corrections
+1954,7,378.7,Mitchell,shire,Mitchell,native_text_with_ocr_corrections
+1954,7,388.34,Mittagong,shire,Mittagong,native_text_with_ocr_corrections
+1954,7,394.3,Molong,shire,Molong,native_text_with_ocr_corrections
+1954,7,402.46,Monaro,shire,Monaro,native_text_with_ocr_corrections
+1954,7,410.09,Mulwaree,shire,Mulwaree,native_text_with_ocr_corrections
+1954,7,418.79,Mumbulla,shire,Mumbulla,native_text_with_ocr_corrections
+1954,7,428.65,Murray,shire,Murray,native_text_with_ocr_corrections
+1954,7,436.34,Murrumbidgee,shire,Murrumbidgee,native_text_with_ocr_corrections
+1954,7,443.5,Murrurundi,shire,Murrutundi,native_text_with_ocr_corrections
+1954,7,450.95,Muswellbrook,shire,Muswellbrook,native_text_with_ocr_corrections
+1954,7,460.81,Nambucca,shire,Nambucca,native_text_with_ocr_corrections
+1954,7,468.97,Namoi,shire,Namoi,native_text_with_ocr_corrections
+1954,7,476.92,Narraburra,shire,Narraburra,native_text_with_ocr_corrections
+1954,7,483.1,Nundle,shire,Nundle,native_text_with_ocr_corrections
+1954,7,492.97,Nymboida,shire,Nymboida,native_text_with_ocr_corrections
+1954,7,499.42,Oberon,shire,Oberon,native_text_with_ocr_corrections
+1954,7,509.53,Orara,shire,Orara,native_text_with_ocr_corrections
+1954,7,516.22,Patrick Plains,shire,Patrick Plains,native_text_with_ocr_corrections
+1954,7,524.61,Peel,shire,Peel,native_text_with_ocr_corrections
+1954,7,533.53,Port Stephens,shire,Port Stephens,native_text_with_ocr_corrections
+1954,7,541.46,Rylstone,shire,Rylstone,native_text_with_ocr_corrections
+1954,7,548.38,Severn,shire,Severn,native_text_with_ocr_corrections
+1954,7,556.53,Shoalhaven,shire,Shoalhaven,native_text_with_ocr_corrections
+1954,7,564.22,Snowy River,shire,Snowy River,native_text_with_ocr_corrections
+1954,7,572.38,Stroud,shire,Stroud,native_text_with_ocr_corrections
+1954,7,581.53,Sutherland,shire,Sutherland,native_text_with_ocr_corrections
+1954,7,587.27,Talbragar,shire,Talbragar,native_text_with_ocr_corrections
+1954,7,597.37,Tallaganda,shire,Tallaganda,native_text_with_ocr_corrections
+1954,7,604.53,Tamarang,shire,Tamarang,native_text_with_ocr_corrections
+1954,7,613.69,Tenterfield,shire,Tenterfield,native_text_with_ocr_corrections
+1954,7,621.62,Terania,shire,Terania,native_text_with_ocr_corrections
+1954,7,630.62,Timbrebongie,shire,Timbreb~ngie,native_text_with_ocr_corrections
+1954,7,637.69,Tintenbar,shire,"Tintenbar ,",native_text_with_ocr_corrections
+1954,7,645.62,Tomki,shire,Tomki,native_text_with_ocr_corrections
+1954,7,652.06,Tumbarumba,shire,Tumbarumb a,native_text_with_ocr_corrections
+1954,7,660.7,Tumut,shire,Tumut,native_text_with_ocr_corrections
+1954,7,668.61,Turon,shire,Turon,native_text_with_ocr_corrections
+1954,7,678.01,Tweed,shire,Tweed,native_text_with_ocr_corrections
+1954,7,685.69,Upper Hunter,shire,Upper Hunter,native_text_with_ocr_corrections
+1954,7,692.85,Uralla,shire,Uralla,native_text_with_ocr_corrections
+1954,7,702.25,Urana,shire,Urana,native_text_with_ocr_corrections
+1954,7,710.17,Wade,shire,Wade,native_text_with_ocr_corrections
+1954,7,716.61,Wakool,shire,Wakool,native_text_with_ocr_corrections
+1954,7,723.82,Walgett,shire,Walgett,native_text_with_ocr_corrections
+1954,7,732.7,Wallarobba,shire,Wallarobba,native_text_with_ocr_corrections
+1954,7,740.14,Waradgery,shire,Waradgery,native_text_with_ocr_corrections
+1954,7,750.25,Warringah,shire,Warringah,native_text_with_ocr_corrections
+1954,7,758.41,Waugoola,shire,Waugoola,native_text_with_ocr_corrections
+1954,7,766.1,Weddin,shire,Weddin,native_text_with_ocr_corrections
+1954,7,773.25,Wellington,shire,Wellington,native_text_with_ocr_corrections
+1954,7,780.93,Windouran,shire,Windouran,native_text_with_ocr_corrections
+1954,7,788.15,Wingecarribee,shire,Wirigecarribee,native_text_with_ocr_corrections
+1954,7,798.5,Wollondilly,shire,Wollondilly,native_text_with_ocr_corrections
+1954,7,806.44,Woodburn,shire,Woodburn,native_text_with_ocr_corrections
+1954,7,812.15,Wyong,shire,Wyong,native_text_with_ocr_corrections
+1954,7,820.78,Yallaroi,shire,Yallaroi,native_text_with_ocr_corrections
+1954,7,829.97,Yanko,shire,Yanko,native_text_with_ocr_corrections
+1954,7,835.66,Yarrowlumla,shire,Yarrowlumla,native_text_with_ocr_corrections
+1966,501,167.28,Abercrombie,shire,Abercrombie,typed_alphabetical_index
+1966,501,191.28,Albury,city,Albury. . .,typed_alphabetical_index
+1966,501,221.28,Armidale,city,Armidale,typed_alphabetical_index
+1966,501,227.24,Ashfield,municipality,Ashfield.,typed_alphabetical_index
+1966,501,233.28,Ashford,shire,Ashford.,typed_alphabetical_index
+1966,501,245.32,Auburn,municipality,Auburn.,typed_alphabetical_index
+1966,501,281.24,Ballina,municipality,Ballina .,typed_alphabetical_index
+1966,501,287.28,Balranald,shire,Balranald,typed_alphabetical_index
+1966,501,299.24,Bankstown,municipality,Bankstown,typed_alphabetical_index
+1966,501,317.29,Barraba,shire,Barraba.,typed_alphabetical_index
+1966,501,347.29,Bathurst,city,Bathurst,typed_alphabetical_index
+1966,501,365.29,Baulkham Hills,shire,Baulkham Hills,typed_alphabetical_index
+1966,501,371.25,Bega,municipality,Bega .,typed_alphabetical_index
+1966,501,377.29,Bellingen,shire,Bellingen,typed_alphabetical_index
+1966,501,400.66,Berrigan,shire,Berrigan,typed_alphabetical_index
+1966,501,419.25,Bibbenluke,shire,Bibbenluke,typed_alphabetical_index
+1966,501,425.29,Bingara,shire,Bingara .,typed_alphabetical_index
+1966,501,461.25,Blacktown,municipality,Blacktown,typed_alphabetical_index
+1966,501,467.18,Bland,shire,Bland,typed_alphabetical_index
+1966,501,473.40,Blaxland,shire,Blaxland,typed_alphabetical_index
+1966,501,491.38;497.63,Blue Mountains,city,Blue Mountains (part),typed_alphabetical_index
+1966,501,503.52;509.52,Bogan,shire,Bogan (part),typed_alphabetical_index
+1966,501,527.16,Bombala,municipality,Bombala,typed_alphabetical_index
+1966,501,539.63,Boolooroo,shire,Boolooroo,typed_alphabetical_index
+1966,501,545.50,Boomi,shire,Boomi .,typed_alphabetical_index
+1966,501,551.63,Boorowa,shire,Boorowa,typed_alphabetical_index
+1966,501,569.40,Boree,shire,Boree .,typed_alphabetical_index
+1966,501,575.48,Botany,municipality,Botany .,typed_alphabetical_index
+1966,501,587.48,Bowral,municipality,Bowral .,typed_alphabetical_index
+1966,501,619.62,Brewarrina,shire,,typed_alphabetical_index
+1966,501,641.40,Broken Hill,city,Broken Hill,typed_alphabetical_index
+1966,501,689.16,Burrangong,shire,Burrangong,typed_alphabetical_index
+1966,501,695.01,Burwood,municipality,Burwood,typed_alphabetical_index
+1966,501,701.05,Byron,shire,Byron .,typed_alphabetical_index
+1966,501,724.69,Camden,municipality,Camden,typed_alphabetical_index
+1966,501,749.00,Campbelltown,municipality,Campbelltown,typed_alphabetical_index
+1966,502,179.40,Canobolas,shire,Canobolas,typed_alphabetical_index
+1966,502,197.34,Canterbury,municipality,Canterbury,typed_alphabetical_index
+1966,502,209.26;215.40,Carrathool,shire,Carrathool (part),typed_alphabetical_index
+1966,502,221.25,Casino,municipality,Casino. .,typed_alphabetical_index
+1966,502,227.40,Central Darling,shire,Central Darling,typed_alphabetical_index
+1966,502,251.64;269.42,"Cessnock, Greater",city,"Cessnock, Greater (part)",typed_alphabetical_index
+1966,502,281.42,Cobar,shire,Cobar,typed_alphabetical_index
+1966,502,293.42,Cockburn,shire,Cockburn .,typed_alphabetical_index
+1966,502,299.64,Coffs Harbour,shire,Coif's Harbour,typed_alphabetical_index
+1966,502,323.42,Colo,shire,Colo,typed_alphabetical_index
+1966,502,329.64,Conargo,shire,Conargo,typed_alphabetical_index
+1966,502,335.81,Concord,municipality,Concord,typed_alphabetical_index
+1966,502,341.49,Condobolin,municipality,Condobolin •,typed_alphabetical_index
+1966,502,347.42;359.42,Coolah,shire,Coolah (part) .,typed_alphabetical_index
+1966,502,365.64,Coolamon,shire,Coolamon,typed_alphabetical_index
+1966,502,377.81,Cooma,municipality,Cooma. •,typed_alphabetical_index
+1966,502,383.87,Coonabarabran,shire,Coonabarabran,typed_alphabetical_index
+1966,502,401.65,Coonamble,shire,Coonamble,typed_alphabetical_index
+1966,502,419.72,Cootamundra,municipality,Cootamundra •,typed_alphabetical_index
+1966,502,425.87,Copmanhurst,shire,Copmanhurst .,typed_alphabetical_index
+1966,502,437.87,Corowa,shire,Corowa.,typed_alphabetical_index
+1966,502,449.72,Cowra,municipality,Cowra .,typed_alphabetical_index
+1966,502,455.87,Crookwell,shire,Crookwell,typed_alphabetical_index
+1966,502,473.64,Cudgegong,shire,Cudgegong,typed_alphabetical_index
+1966,502,479.65,Culcairn,shire,Culcairn,typed_alphabetical_index
+1966,502,497.65,Darling,shire,Darling. .,typed_alphabetical_index
+1966,502,521.87,Demondrille,shire,Demondrille,typed_alphabetical_index
+1966,502,527.72,Deniliquin,municipality,Deniliquin,typed_alphabetical_index
+1966,502,557.72,Drummoyne,municipality,Drummoyne,typed_alphabetical_index
+1966,502,564.04,Dubbo,municipality,Dubbo .,typed_alphabetical_index
+1966,502,569.74,Dumaresq,shire,Dumaresq,typed_alphabetical_index
+1966,502,581.74,Dungog,shire,Dungog.,typed_alphabetical_index
+1966,502,623.65,Eurobodalla,shire,Eurobodalla,typed_alphabetical_index
+1966,502,647.82,Fairfield,municipality,Fairfield,typed_alphabetical_index
+1966,502,659.72,Forbes,municipality,Forbes. . .,typed_alphabetical_index
+1966,502,719.64,Gilgandra,shire,Gilgandra,typed_alphabetical_index
+1966,503,173.00,Glen Innes,municipality,Glen Innes,typed_alphabetical_index
+1966,503,178.93,Gloucester,shire,Gloucester,typed_alphabetical_index
+1966,503,209.29,Goobang,shire,Goobang,typed_alphabetical_index
+1966,503,215.18,Goodradigbee,shire,Goodradigbee,typed_alphabetical_index
+1966,503,221.19,Gosford,shire,Gosford,typed_alphabetical_index
+1966,503,239.18,Goulburn,city,Goulburn,typed_alphabetical_index
+1966,503,245.42,Grafton,city,Grafton. . .,typed_alphabetical_index
+1966,503,251.43,Greater Wollongong,city,Greater Wollongong,typed_alphabetical_index
+1966,503,257.58,Grenfell,municipality,Grenfell .,typed_alphabetical_index
+1966,503,281.11,Gundagai,shire,Gundagai,typed_alphabetical_index
+1966,503,299.17,Gundurimba,shire,Gundurimba,typed_alphabetical_index
+1966,503,305.24,Gunnedah,municipality,Gunnedah,typed_alphabetical_index
+1966,503,311.17,Gunning,shire,Gunning,typed_alphabetical_index
+1966,503,317.18,Guyra,shire,Guyra .,typed_alphabetical_index
+1966,503,353.10,Hastings,shire,Hastings,typed_alphabetical_index
+1966,503,359.17;371.17,Hay,shire,Hay (part),typed_alphabetical_index
+1966,503,407.07,Holbrook,shire,Holbrook,typed_alphabetical_index
+1966,503,425.01,Holroyd,municipality,Holroyd,typed_alphabetical_index
+1966,503,430.94,Hornsby,shire,Hornsby,typed_alphabetical_index
+1966,503,436.95,Hume,shire,Hume .,typed_alphabetical_index
+1966,503,443.09,Hunter's Hill,municipality,Hunter's Hill,typed_alphabetical_index
+1966,503,449.09,Hurstville,municipality,Hurstville,typed_alphabetical_index
+1966,503,472.94,Illabo,shire,Illabo,typed_alphabetical_index
+1966,503,478.95,Imlay,shire,Imlay,typed_alphabetical_index
+1966,503,485.01,Inverell,municipality,Inverell,typed_alphabetical_index
+1966,503,497.17,Jemalong,shire,Jemalong,typed_alphabetical_index
+1966,503,503.18,Jerilderie,shire,Jerilderie,typed_alphabetical_index
+1966,503,514.94,Jindalee,shire,Jindalee.,typed_alphabetical_index
+1966,503,521.24,Junee,municipality,Junee,typed_alphabetical_index
+1966,503,563.00,Kempsey,municipality,Kempsey,typed_alphabetical_index
+1966,503,587.00,Kiama,municipality,Kiama .,typed_alphabetical_index
+1966,503,616.92,Kogarah,municipality,Kogarah,typed_alphabetical_index
+1966,503,623.00,Ku-ring-gai,municipality,Ku-ring-gai .,typed_alphabetical_index
+1966,503,646.62,Kyeamba,shire,Kyeamba,typed_alphabetical_index
+1966,503,652.69,Kyogle,shire,Kyogle •,typed_alphabetical_index
+1966,503,676.38,Lachlan,shire,Lachlan. •,typed_alphabetical_index
+1966,503,694.39,Lake Macquarie,shire,Lake Macquarie,typed_alphabetical_index
+1966,503,700.53,Lane Cove,municipality,Lane Cove . .,typed_alphabetical_index
+1966,503,718.46,Leeton,shire,Leeton .,typed_alphabetical_index
+1966,503,730.45,Leichhardt,municipality,Leichhardt,typed_alphabetical_index
+1966,504,172.93,Lismore,city,Lismore.,typed_alphabetical_index
+1966,504,179.01,Lithgow,city,Lithgow .,typed_alphabetical_index
+1966,504,209.01,Liverpool,city,Liverpool .,typed_alphabetical_index
+1966,504,215.01,Liverpool Plains,shire,Liverpool Plains,typed_alphabetical_index
+1966,504,221.01,Lockhart,shire,Lockhart,typed_alphabetical_index
+1966,504,238.77,Lyndhurst,shire,Lyndhurst,typed_alphabetical_index
+1966,504,250.77;256.77,Macintyre,shire,Macintyre (part),typed_alphabetical_index
+1966,504,274.77,Maclean,shire,Maclean,typed_alphabetical_index
+1966,504,287.01,Macleay,shire,Macleay,typed_alphabetical_index
+1966,504,292.69,Maitland,city,Maitland,typed_alphabetical_index
+1966,504,310.77,Manilla,shire,Manilla.,typed_alphabetical_index
+1966,504,328.62,Manly,municipality,Manly .,typed_alphabetical_index
+1966,504,334.54,Manning,shire,Manning,typed_alphabetical_index
+1966,504,340.62,Marrickville,municipality,Marrickville,typed_alphabetical_index
+1966,504,358.54,Merriwa,shire,Merriwa,typed_alphabetical_index
+1966,504,388.54,Mitchell,shire,Mitchell,typed_alphabetical_index
+1966,504,394.54,Mittagong,shire,Mittagong,typed_alphabetical_index
+1966,504,412.54,Molong,shire,Molong.,typed_alphabetical_index
+1966,504,430.54,Monaro,shire,Monaro.,typed_alphabetical_index
+1966,504,436.37,Moree,municipality,Moree .,typed_alphabetical_index
+1966,504,460.12,Mosman,municipality,Mosman,typed_alphabetical_index
+1966,504,477.80,Mudgee,municipality,Mudgee .,typed_alphabetical_index
+1966,504,484.12,Mullumbimby,municipality,Mullumbimby,typed_alphabetical_index
+1966,504,489.66,Mulwaree,shire,Mulwaree,typed_alphabetical_index
+1966,504,496.29,Mumbulla,shire,Mumbulla . .,typed_alphabetical_index
+1966,504,513.73,Murray,shire,Murray. .,typed_alphabetical_index
+1966,504,519.74,Murrumbidgee,shire,Murrumbidgee,typed_alphabetical_index
+1966,504,526.13,Murrumburrah,municipality,Murrumburrah,typed_alphabetical_index
+1966,504,531.73,Murrurundi,shire,Murrurundi .,typed_alphabetical_index
+1966,504,550.05,Muswellbrook,shire,Muswellbrook,typed_alphabetical_index
+1966,504,555.80,Muswellbrook,municipality,Muswellbrook,typed_alphabetical_index
+1966,504,567.73,Nambucca,shire,Nambucca .,typed_alphabetical_index
+1966,504,586.05,Namoi,shire,Namoi .,typed_alphabetical_index
+1966,504,609.57,Narrabri,municipality,Narrabri,typed_alphabetical_index
+1966,504,615.50,Narraburra,shire,Narraburra,typed_alphabetical_index
+1966,504,621.82,Narrandera,shire,Narrandera,typed_alphabetical_index
+1966,504,639.32,Narromine,municipality,Narromine,typed_alphabetical_index
+1966,504,711.33,North Sydney,municipality,North Sydney,typed_alphabetical_index
+1966,504,729.26,Nundle,shire,Nundle .,typed_alphabetical_index
+1966,504,735.34,Nymboida,shire,Nymboida,typed_alphabetical_index
+1966,505,168.21,Nyngan,municipality,Nyngan .,typed_alphabetical_index
+1966,505,180.36,Oberon,shire,Oberon.,typed_alphabetical_index
+1966,505,197.89,Orange,city,Orange. .,typed_alphabetical_index
+1966,505,239.96,Parkes,municipality,"Par""e. .",typed_alphabetical_index
+1966,505,245.89,Parramatta,city,Parramatta .,typed_alphabetical_index
+1966,505,251.89,Patrick Plains,shire,Patrick Plaius .,typed_alphabetical_index
+1966,505,257.96,Peak Hill,municipality,Peak Hill,typed_alphabetical_index
+1966,505,263.89,Peel,shire,Peel .,typed_alphabetical_index
+1966,505,269.89,Penrith,city,Penrith .,typed_alphabetical_index
+1966,505,299.96,Port Macquarie,municipality,Port Macquarie,typed_alphabetical_index
+1966,505,305.82,Port Stephens,shire,Port Stephens .,typed_alphabetical_index
+1966,505,318.05,Queanbeyan,municipality,Queanbeyan,typed_alphabetical_index
+1966,505,323.96,Quirindi,municipality,Quirindi,typed_alphabetical_index
+1966,505,335.73,Randwick,municipality,Randwick .,typed_alphabetical_index
+1966,505,359.73,Rockdale,municipality,Rockdale,typed_alphabetical_index
+1966,505,365.73,Ryde,municipality,Ryde,typed_alphabetical_index
+1966,505,371.88,Rylstone,shire,Ryl.tone,typed_alphabetical_index
+1966,505,401.41,Scone,shire,Scone,typed_alphabetical_index
+1966,505,419.63,Severn,shire,Severn .,typed_alphabetical_index
+1966,505,425.62,Shoalhaven,shire,Shoalhaven,typed_alphabetical_index
+1966,505,431.48,Shellharbour,municipality,Shellharbour,typed_alphabetical_index
+1966,505,437.57,Singleton,municipality,Singleton . .,typed_alphabetical_index
+1966,505,455.18,Snowy River,shire,Snowy River .,typed_alphabetical_index
+1966,505,472.93,Strathfield,municipality,Strathfield,typed_alphabetical_index
+1966,505,479.18,Stroud,shire,Stroud .,typed_alphabetical_index
+1966,505,503.18,Sutherland,shire,Sutherland,typed_alphabetical_index
+1966,505,509.18,Sydney,city,Sydney. . . .,typed_alphabetical_index
+1966,505,532.94,Talbragar,shire,Talbragar,typed_alphabetical_index
+1966,505,538.95,Tallaganda,shire,Tallaganda,typed_alphabetical_index
+1966,505,544.95,Tamarang,shire,i=~~,typed_alphabetical_index
+1966,505,550.91,Tamworth,city,,typed_alphabetical_index
+1966,505,557.00,Taree,municipality,Taree .,typed_alphabetical_index
+1966,505,563.00,Temora,municipality,Temora.,typed_alphabetical_index
+1966,505,568.93,Tenterfield,shire,Tenterfield,typed_alphabetical_index
+1966,505,575.00,Tenterfield,municipality,Tenterfield,typed_alphabetical_index
+1966,505,580.93,Terania,shire,Terania. .,typed_alphabetical_index
+1966,505,640.45,Timbrebongie,shire,Timbrebongie .,typed_alphabetical_index
+1966,505,646.77,Tintenbar,shire,Tintenbar,typed_alphabetical_index
+1966,505,658.45,Tomki,shire,Tomki. . . •,typed_alphabetical_index
+1966,505,688.15,Tumbarumba,shire,Tumbarumba .,typed_alphabetical_index
+1966,505,706.44,Tumut,shire,Tumut,typed_alphabetical_index
+1966,505,724.22,Turon,shire,Turon,typed_alphabetical_index
+1966,505,730.23,Tweed,shire,Tweed,typed_alphabetical_index
+1966,506,181.82,Ulmarra,shire,Ulmarra,typed_alphabetical_index
+1966,506,188.04,Uralla,shire,Uralla,typed_alphabetical_index
+1966,506,205.82,Urana,shire,Urana,typed_alphabetical_index
+1966,506,230.04,Wade,shire,Wade. .,typed_alphabetical_index
+1966,506,235.82,Wagga Wagga,city,Wagga Wagga,typed_alphabetical_index
+1966,506,241.82,Wakool,shire,Wakool.,typed_alphabetical_index
+1966,506,247.75,Walcha,shire,Walcha .,typed_alphabetical_index
+1966,506,266.04;283.51,Walgett,shire,Walgett (part),typed_alphabetical_index
+1966,506,337.58,Warren,shire,Warren •,typed_alphabetical_index
+1966,506,355.27,Warringah,shire,Warringah,typed_alphabetical_index
+1966,506,373.27,Waugoola,shire,Waugoola,typed_alphabetical_index
+1966,506,379.33,Waverley,municipality,Waverey,typed_alphabetical_index
+1966,506,385.58,Weddin,shire,Weddin.,typed_alphabetical_index
+1966,506,397.80;421.33,Wellington,shire,Wellington (part),typed_alphabetical_index
+1966,506,442.07,Wentworth,shire,,typed_alphabetical_index
+1966,506,493.40,Willoughby,municipality,Willoughby,typed_alphabetical_index
+1966,506,499.33,Windouran,shire,Windouran,typed_alphabetical_index
+1966,506,505.40,Windsor,municipality,Windsor,typed_alphabetical_index
+1966,506,511.55,Wingecarribee,shire,Wingecarribee,typed_alphabetical_index
+1966,506,517.40,Wingham,municipality,Wingham,typed_alphabetical_index
+1966,506,523.33,Wollondilly,shire,Wollondilly. .,typed_alphabetical_index
+1966,506,565.31,Woodburn,shire,Woodburn,typed_alphabetical_index
+1966,506,588.92,Woollahra,municipality,Woollahra .,typed_alphabetical_index
+1966,506,607.07,Wyong,shire,Wyong •,typed_alphabetical_index
+1966,506,627.59,Yallaroi,shire,,typed_alphabetical_index
+1966,506,660.85,Yarrowlumla,shire,Yarrowlumla,typed_alphabetical_index
+1966,506,666.92,Yass,municipality,Yass,typed_alphabetical_index
+1966,506,678.92,Young,municipality,Young .,typed_alphabetical_index
+1971,4,,Abercrombie,shire,. ABERCROMBIE (S$) 898.13,printed_index_name_columns_reviewed
+1971,4,,Albury,city,"ALBURY (C) 33,35",printed_index_name_columns_reviewed
+1971,4,,Armidale,city,"ARMIDALE (C) 12,99",printed_index_name_columns_reviewed
+1971,4,,Ashfield,municipality,"| ASHFIELD (M) 3,20",printed_index_name_columns_reviewed
+1971,4,,Ashford,shire,"ASHFORD (S) 2,188, 28",printed_index_name_columns_reviewed
+1971,4,,Auburn,municipality,"AUBURN (M) 12,18",printed_index_name_columns_reviewed
+1971,4,,Ballina,municipality,"BALLINA (M) 8,99",printed_index_name_columns_reviewed
+1971,4,,Balranald,shire,"BALRANALD (S) 8,269.73",printed_index_name_columns_reviewed
+1971,4,,Bankstown,municipality,"BANKSTOWN (M) 30,03",printed_index_name_columns_reviewed
+1971,4,,Barraba,shire,"BARRABA (S) 1,187,12",printed_index_name_columns_reviewed
+1971,4,,Bathurst,city,BATHURST (C) . 11.42,printed_index_name_columns_reviewed
+1971,4,,Baulkham Hills,shire,"BAULKHAM HILLS (S) 147,10",printed_index_name_columns_reviewed
+1971,4,,Bega,municipality,BEGA (M) 3.95,printed_index_name_columns_reviewed
+1971,4,,Bellingen,shire,"BELLINGEN (S) 619,53",printed_index_name_columns_reviewed
+1971,4,,Berrigan,shire,"BERRIGAN (S) 791,00",printed_index_name_columns_reviewed
+1971,4,,Bibbenluke,shire,"BIBBENLUKE (S) 1,521,00",printed_index_name_columns_reviewed
+1971,4,,Bingara,shire,"BINGARA (S) 1,104,014",printed_index_name_columns_reviewed
+1971,4,,Blacktown,municipality,"BLACKTOWN (M) 99,44",printed_index_name_columns_reviewed
+1971,4,,Bland,shire,"BLAND (8) 3,265.20",printed_index_name_columns_reviewed
+1971,4,,Blaxland,shire,": BLAXLAND (S) , _. _ 4,325,614",printed_index_name_columns_reviewed
+1971,4,;part,Blue Mountains,city,“BLUE MOUNTAINS (0) (PART) (SYDNEY STATISTICAL DIVISION) 54.54,printed_index_name_columns_reviewed
+1971,4,,Bogan,shire,": BOGAN (8) . 5,636.44",printed_index_name_columns_reviewed
+1971,4,,Bombala,municipality,"BOMBALA (M) 2,05",printed_index_name_columns_reviewed
+1971,4,,Boolooroo,shire,"BOOLOORDO (Ss) 3,204,00",printed_index_name_columns_reviewed
+1971,4,,Boomi,shire,"BOOM! (S) 3,654,00",printed_index_name_columns_reviewed
+1971,4,,Boorowa,shire,"BOOROWA (S) 1,003,83",printed_index_name_columns_reviewed
+1971,4,,Boree,shire,"BOREE (S$) 870,63",printed_index_name_columns_reviewed
+1971,4,,Botany,municipality,BOTANY (GM) 6.91,printed_index_name_columns_reviewed
+1971,4,,Bowral,municipality,"BOWAAL (MH) 11,54",printed_index_name_columns_reviewed
+1971,4,,Brewarrina,shire,"BREWARRINA (S) 7,287 ,50",printed_index_name_columns_reviewed
+1971,4,,Broken Hill,city,": BROKEN HILL (C) 26,15",printed_index_name_columns_reviewed
+1971,4,,Burrangong,shire,"BURRANGONG (S) 4,025.42",printed_index_name_columns_reviewed
+1971,4,,Burwood,municipality,": BURWOOD (M) 2,80",printed_index_name_columns_reviewed
+1971,4,,Byron,shire,"BYRON (S) + 245,00",printed_index_name_columns_reviewed
+1971,4,,Campbelltown,municipality,"- CAMPBELLTOWN (M) 120,38",printed_index_name_columns_reviewed
+1971,4,,Canobolas,shire,": CANOBOLAS, (8) 636,24",printed_index_name_columns_reviewed
+1971,4,,Canterbury,municipality,"CANTERBURY (M) 12,89",printed_index_name_columns_reviewed
+1971,4,,Carrathool,shire,": CARRATHOOL (5S) 7, 326,56",printed_index_name_columns_reviewed
+1971,4,,Casino,municipality,"CASINO (HM) 6,17",printed_index_name_columns_reviewed
+1971,4,,Central Darling,shire,"CENTRAL DARLING (S) oo oo. 19,843.75",printed_index_name_columns_reviewed
+1971,4,;part,"Cessnock, Greater",city,"CESSNOCK, GREATER (C) (PART) (HUNTER STATISTICAL DIVIBION) 235.68",printed_index_name_columns_reviewed
+1971,4,,Cobar,shire,"COBAR (S) 417,085,16",printed_index_name_columns_reviewed
+1971,4,,Cockburn,shire,"COCKBURN (S) 1,071,37",printed_index_name_columns_reviewed
+1971,4,,Coffs Harbour,shire,"COFFS HARBOUR (S) 365,39",printed_index_name_columns_reviewed
+1971,4,,Colo,shire,"COLO (S) 1,021,59",printed_index_name_columns_reviewed
+1971,4,,Conargo,shire,"CONARGO (S) 4,443,00",printed_index_name_columns_reviewed
+1971,4,,Concord,municipality,"CONCORD (M) 4,18",printed_index_name_columns_reviewed
+1971,4,,Condobolin,municipality,"CONDOBOLIN (M) 47,15",printed_index_name_columns_reviewed
+1971,4,,Coolah,shire,". COOLAH (S) 1,865.98",printed_index_name_columns_reviewed
+1971,4,,Coolamon,shire,"COOLAHON (S) 936,00",printed_index_name_columns_reviewed
+1971,4,,Cooma,municipality,COOMA (HM) 9486,printed_index_name_columns_reviewed
+1971,4,,Coonabarabran,shire,"COONABARABRAN (8) 2,963,00",printed_index_name_columns_reviewed
+1971,4,,Coonamble,shire,"COONANBLE (S) 4,063.73",printed_index_name_columns_reviewed
+1971,4,,Cootamundra,municipality,"COOTAHUNDRA (M) 4,70",printed_index_name_columns_reviewed
+1971,4,,Copmanhurst,shire,"COPMANHURST (8) 1,209.56",printed_index_name_columns_reviewed
+1971,4,,Corowa,shire,"COROWA (S) 846,61",printed_index_name_columns_reviewed
+1971,4,,Cowra,municipality,"COWRA (4) 8,88",printed_index_name_columns_reviewed
+1971,4,,Crookwell,shire,"CROOKWELL (S) 1,328,00",printed_index_name_columns_reviewed
+1971,4,,Cudgegong,shire,"CUDGEGONG (S) 2,115,63",printed_index_name_columns_reviewed
+1971,4,,Culcairn,shire,"CULCAIRN (S) 610,35",printed_index_name_columns_reviewed
+1971,4,,Darling,shire,"DARLING (S) 16,646,914",printed_index_name_columns_reviewed
+1971,4,,Demondrille,shire,"DEMONDRILLE (S) 711,43",printed_index_name_columns_reviewed
+1971,4,,Deniliquin,municipality,"DENILIQUIN (4) 50,00",printed_index_name_columns_reviewed
+1971,4,,Denman,shire,"DENHAN (S) 1,307,89",printed_index_name_columns_reviewed
+1971,4,,Drummoyne,municipality,DRUMMOYNE (4) 3.10,printed_index_name_columns_reviewed
+1971,4,,Dubbo,municipality,"DuBBO (M) 7,75",printed_index_name_columns_reviewed
+1971,4,,Dumaresq,shire,"DUMARES@ (S) 4,609,40",printed_index_name_columns_reviewed
+1971,4,,Dungog,shire,"DUNGOG (S) 867,83",printed_index_name_columns_reviewed
+1971,4,,Eurobodalla,shire,"i EUROBODALLA (5) 1,309,00",printed_index_name_columns_reviewed
+1971,4,,Fairfield,municipality,"FAIRFIELD (M) 37,47",printed_index_name_columns_reviewed
+1971,4,,Forbes,municipality,"FORBES (M) 15,78",printed_index_name_columns_reviewed
+1971,4,,Gilgandra,shire,"GILGANDRA (S) 1,640,00",printed_index_name_columns_reviewed
+1971,4,,Glen Innes,municipality,"GLEN INNES (4) 26,64",printed_index_name_columns_reviewed
+1971,4,,Gloucester,shire,"GLOUCESTER (S) 1,126,814",printed_index_name_columns_reviewed
+1971,4,,Goobang,shire,"GOOBANG (S$) 21236,98",printed_index_name_columns_reviewed
+1971,4,,Goodradigbee,shire,"GOODRADIGB=E (S) 1,307,89",printed_index_name_columns_reviewed
+1971,4,,Gosford,shire,"GOSFORD (S) 393,64",printed_index_name_columns_reviewed
+1971,4,,Goulburn,city,"GOULBURN (5) 20,79",printed_index_name_columns_reviewed
+1971,4,,Grafton,city,GRAFTON (C) 30.96,printed_index_name_columns_reviewed
+1971,4,,Grenfell,municipality,"GRENFELL (4) 5,05",printed_index_name_columns_reviewed
+1971,4,,Gundagai,shire,"GUNDAGAT (S) 945,00",printed_index_name_columns_reviewed
+1971,4,,Gundurimba,shire,"GUNDURIMBA (S) 175,38",printed_index_name_columns_reviewed
+1971,4,,Gunnedah,municipality,"GUNNEDAH (4) 8,34",printed_index_name_columns_reviewed
+1971,4,,Gunning,shire,"GUNNING (S) 849,00",printed_index_name_columns_reviewed
+1971,4,,Guyra,shire,"GuYRA (8) 1,687,53",printed_index_name_columns_reviewed
+1971,4,,Hastings,shire,"HASTINGS (S) 1,420,30",printed_index_name_columns_reviewed
+1971,4,,Hay,shire,"HAY (3S) 41416,42",printed_index_name_columns_reviewed
+1971,4,,Holbrook,shire,"HOLBROOK (S) 1,000,00",printed_index_name_columns_reviewed
+1971,4,,Holroyd,municipality,"HOLROYD (M) 15,16",printed_index_name_columns_reviewed
+1971,4,,Hornsby,shire,"HORNSBY (S) 198,00",printed_index_name_columns_reviewed
+1971,4,,Hume,shire,"HUME (S) . 749,75",printed_index_name_columns_reviewed
+1971,4,,Hunters Hill,municipality,"HUNTERS HILL (M) 2,21",printed_index_name_columns_reviewed
+1971,4,,Hurstville,municipality,"HURSTVILLE (M) 9,56",printed_index_name_columns_reviewed
+1971,4,,Imlay,shire,"TMLay (8) 1,372,00",printed_index_name_columns_reviewed
+1971,4,,Inverell,municipality,"INVERELL (4) 18,13",printed_index_name_columns_reviewed
+1971,4,,Jemalong,shire,"JEMALONG (S) 1,804,00",printed_index_name_columns_reviewed
+1971,4,,Jerilderie,shire,"JERILDERIE (S) 1,312,69",printed_index_name_columns_reviewed
+1971,4,,Jindalee,shire,"JINDALEE (S) . 584,10",printed_index_name_columns_reviewed
+1971,4,,Kempsey,municipality,"KEMPSEY (4) 4,64",printed_index_name_columns_reviewed
+1971,4,,Kiama,municipality,"KIAMA (4) 98,85",printed_index_name_columns_reviewed
+1971,4,,Kogarah,municipality,KOGaRAH (M) 7.53,printed_index_name_columns_reviewed
+1971,4,,Ku-ring-gai,municipality,"KU-RING-GAT (M) 31,62",printed_index_name_columns_reviewed
+1971,4,,Kyeamba,shire,"KYEAMBA (S) 1.034,30",printed_index_name_columns_reviewed
+1971,4,,Kyogle,shire,"KYOGLE (S) 1,342,00 |",printed_index_name_columns_reviewed
+1971,4,,Lachlan,shire,"LACHLAN (S) - 5,883,041",printed_index_name_columns_reviewed
+1971,4,,Lake Macquarie,shire,"LAKE MACQUARIE (¢S) 289,10",printed_index_name_columns_reviewed
+1971,4,,Lane Cove,municipality,"LANE COVE (M) 4,01",printed_index_name_columns_reviewed
+1971,4,,Leeton,shire,"LEETON (S) 436,93",printed_index_name_columns_reviewed
+1971,5,,Leichhardt,municipality,"LEICKHARDT (4) 4.73 70,540",printed_index_name_columns_reviewed
+1971,5,,Lismore,city,"LISMORE (C) 17,50 20,901",printed_index_name_columns_reviewed
+1971,5,,Lithgow,city,"CITHGOW (C) 13,75 12,614",printed_index_name_columns_reviewed
+1971,5,,Liverpool,city,"LIVERPOOL (Cc) 121,17 82,270",printed_index_name_columns_reviewed
+1971,5,,Liverpool Plains,shire,"LIVERPOOL PLAINS (5S) 1,957,74 4,145",printed_index_name_columns_reviewed
+1971,5,,Lockhart,shire,"LOCKHART (S) 2,431.31 3,865",printed_index_name_columns_reviewed
+1971,5,,Lyndhurst,shire,"LYNDHURST (S) 623,96 3,827",printed_index_name_columns_reviewed
+1971,5,;part,Macintyre,shire,"MACINTYRE (S) (PART)CNORTHERN TABLELANDS STATISTICAL SU3DIVISION) 561,31 1,227",printed_index_name_columns_reviewed
+1971,5,,Maclean,shire,"MACLEAN (S) 402.30 7,551",printed_index_name_columns_reviewed
+1971,5,,Macleay,shire,"MACLEAY (S) 11272,96 7277",printed_index_name_columns_reviewed
+1971,5,,Maitland,city,"MAITLAND (5) 153,00 30,963",printed_index_name_columns_reviewed
+1971,5,,Manilla,shire,"MANILLA (S) 866,68 2,690",printed_index_name_columns_reviewed
+1971,5,,Manly,municipality,"MANLY (M) 5.87 39,250",printed_index_name_columns_reviewed
+1971,5,,Manning,shire,"MANNING (S) 1,503,95 10,289",printed_index_name_columns_reviewed
+1971,5,,Marrickville,municipality,"MARRICKVILLE (M) 6.36 96,331",printed_index_name_columns_reviewed
+1971,5,,Merriwa,shire,"MERRIWA (S) 1,354.44 2,442",printed_index_name_columns_reviewed
+1971,5,,Mitchell,shire,"MITCHELL (S) 813,75 3,663",printed_index_name_columns_reviewed
+1971,5,,Mittagong,shire,"MITTAGONG (S) 570,43 6,207",printed_index_name_columns_reviewed
+1971,5,,Molong,shire,"MOLONG (S) 920,40 3,591",printed_index_name_columns_reviewed
+1971,5,,Monaro,shire,"MONARO (S) 1,874,78 1,792",printed_index_name_columns_reviewed
+1971,5,,Moree,municipality,"MOREE (H) 12,75 9,144",printed_index_name_columns_reviewed
+1971,5,,Mosman,municipality,"MOSMAN (M) 3,36 29,220",printed_index_name_columns_reviewed
+1971,5,,Mudgee,municipality,"MUDGEE (M) 2.64 5,583",printed_index_name_columns_reviewed
+1971,5,,Mullumbimby,municipality,"MULLUMBIMBY (M) 4,72 2,889",printed_index_name_columns_reviewed
+1971,5,,Mulwaree,shire,"MULWAREE (5) 2,010,63 3,843",printed_index_name_columns_reviewed
+1971,5,,Mumbulla,shire,"MUMBULLA (5) 964,50 3,487",printed_index_name_columns_reviewed
+1971,5,,Murray,shire,"MURRAY (S) 11671424 3,474",printed_index_name_columns_reviewed
+1971,5,,Murrumbidgee,shire,"MURRUMBIDGEE (S) 4,315,78 2,094",printed_index_name_columns_reviewed
+1971,5,,Murrumburrah,municipality,"MURRUMBURRAH (M) 8,01 2,263",printed_index_name_columns_reviewed
+1971,5,,Murrurundi,shire,"MURRURUNDOL (8) 953,97 2,405",printed_index_name_columns_reviewed
+1971,5,,Muswellbrook,municipality,"MUSWELLBROOK (M) 5,45 8,082",printed_index_name_columns_reviewed
+1971,5,,Nambucca,shire,"NAMBUCCA (S) 557,00 8,814",printed_index_name_columns_reviewed
+1971,5,,Namoi,shire,"NAMOT (S) 5,066.27 8,230",printed_index_name_columns_reviewed
+1971,5,,Narrabri,municipality,"NARRABRI (M) 8,94 6,873",printed_index_name_columns_reviewed
+1971,5,,Narraburra,shire,"NARRABURRA (S) 1,077.63 2,359",printed_index_name_columns_reviewed
+1971,5,,Narrandera,shire,"NARRANDERA (S) 1,598,36 7666",printed_index_name_columns_reviewed
+1971,5,,Narromine,municipality,"NARROMINE (H) 1,39 2,724",printed_index_name_columns_reviewed
+1971,5,,Newcastle,city,"NEWCASTLE (C) 82,43 143,718",printed_index_name_columns_reviewed
+1971,5,,North Sydney,municipality,"NORTH SYDNEY (M) 4,04 52,920",printed_index_name_columns_reviewed
+1971,5,,Nundle,shire,NUNDLE (S) 615.00 4212,printed_index_name_columns_reviewed
+1971,5,,Nymboida,shire,"NYMBOIDA (Ss) 11962.34 1,339",printed_index_name_columns_reviewed
+1971,5,,Nyngan,municipality,"NYNGAN (M) 4,64 2,478",printed_index_name_columns_reviewed
+1971,5,,Oberon,shire,"OBERON (S) 1,128.96 3,752",printed_index_name_columns_reviewed
+1971,5,,Orange,city,"ORANGE (C) 8,05 23,143",printed_index_name_columns_reviewed
+1971,5,,Parkes,municipality,"PARKES (H) 16,73 8,849",printed_index_name_columns_reviewed
+1971,5,,Parramatta,municipality,"PARRAMATTA (4) 19,06 410,717",printed_index_name_columns_reviewed
+1971,5,,Patrick Plains,shire,"PATRICK PLAINS (S$) 1,851,35 4,663",printed_index_name_columns_reviewed
+1971,5,,Peak Hill,municipality,"PEAK HILL(M) 30,13 2,258",printed_index_name_columns_reviewed
+1971,5,,Peel,shire,"PEEL (3) 676,09 3,423",printed_index_name_columns_reviewed
+1971,5,,Penrith,municipality,"PENRITH (HM) 157,15 60,242",printed_index_name_columns_reviewed
+1971,5,,Port Macquarie,municipality,"PORT MACQUARIE (M) 23,28 9,362",printed_index_name_columns_reviewed
+1971,5,,Port Stephens,shire,"PORT STEPHENS (8) 377.86 17,644",printed_index_name_columns_reviewed
+1971,5,,Queanbeyan,municipality,"QUEANBEYAN (H) 7,34 13,992",printed_index_name_columns_reviewed
+1971,5,,Randwick,municipality,"RANDWICK (M) 13,27 £23,404",printed_index_name_columns_reviewed
+1971,5,,Rockdale,municipality,"ROCKDALE (M) 11.32 83,995",printed_index_name_columns_reviewed
+1971,5,,Ryde,municipality,"RYDE (H) 15,50 88,622",printed_index_name_columns_reviewed
+1971,5,,Rylestone,shire,"RYLESTONE (S) 1,478.00 4,434",printed_index_name_columns_reviewed
+1971,5,,Scone,shire,"SCONE (S) 1,555.04 7,504",printed_index_name_columns_reviewed
+1971,5,,Severn,shire,"SEVERN (S) 2,249.46 3,383",printed_index_name_columns_reviewed
+1971,5,,Shellharbour,municipality,"SHELLHARSOUR (M) 59,54 34,137",printed_index_name_columns_reviewed
+1971,5,,Shoalhaven,shire,"SHOALHAVEN (S) 1,799.33 28,464.",printed_index_name_columns_reviewed
+1971,5,,Singleton,municipality,"SINGLETON (M) 5,88 7,181",printed_index_name_columns_reviewed
+1971,5,,Snowy River,shire,"SNOWY RIVER (S) 2,330.00 5,066",printed_index_name_columns_reviewed
+1971,5,,South Sydney,municipality,"SOUTH SYDNEY (M) 4,07 38,815",printed_index_name_columns_reviewed
+1971,5,,Strathfield,municipality,"STRATHFIELD (M) 5.43 27,013",printed_index_name_columns_reviewed
+1971,5,,Stroud,shire,"STROUD (S) 2,218,75 71503",printed_index_name_columns_reviewed
+1971,5,,Sutherland,shire,"SUTHERLAND (S) 143,00 154,297",printed_index_name_columns_reviewed
+1971,5,,Sydney,city,"SYDNEY (0) 5.17 61,940",printed_index_name_columns_reviewed
+1971,5,,Talbragar,shire,"TALBRAGAR (S) 1,274,56 2,813:",printed_index_name_columns_reviewed
+1971,5,,Tallaganda,shire,"TALLAGANDA (S) 1,293.94 2,133",printed_index_name_columns_reviewed
+1971,5,,Tamarang,shire,"TAMARANG (S) 1,155,06 2,497",printed_index_name_columns_reviewed
+1971,5,,Tamworth,city,"TAMWORTH (0) 16,73 24,075",printed_index_name_columns_reviewed
+1971,5,,Taree,municipality,"TAREE (M) 12,15 14,464",printed_index_name_columns_reviewed
+1971,5,,Temora,municipality,"TEMORA (M) 8,29 4,462",printed_index_name_columns_reviewed
+1971,5,,Tenterfield,municipality,"TENTERFIELD (M) 7,32 3,232",printed_index_name_columns_reviewed
+1971,5,,Tenterfield,shire,"TENTERFIELD (8) 2,747,28 3,419",printed_index_name_columns_reviewed
+1971,5,,Terania,shire,"TERANIA (S) 340,05 41524",printed_index_name_columns_reviewed
+1971,5,,Timbrebongie,shire,"TIMBREBONGIE (S$) 2,022,72 3,458",printed_index_name_columns_reviewed
+1971,5,,Tintenbar,shire,"TINTENBAR (S) 179,00 4,489",printed_index_name_columns_reviewed
+1971,5,,Tomki,shire,"TOMKI (8) 437,68 2,428",printed_index_name_columns_reviewed
+1971,5,,Tumbarumba,shire,"TUMBARUMBA (5) 1,691.00 3,949",printed_index_name_columns_reviewed
+1971,5,,Tumut,shire,"TUMUT (S) 1,448.68 12,404",printed_index_name_columns_reviewed
+1971,5,,Turon,shire,"TURON (S$) 834,72 2,253:",printed_index_name_columns_reviewed
+1971,5,,Tweed,shire,"TWEED (§) 503,23 24,055:",printed_index_name_columns_reviewed
+1971,5,,Ulmarra,shire,"ULMARRA (S) 691.22 2,685",printed_index_name_columns_reviewed
+1971,5,,Uralla,shire,"URALLA (S) 25241,13 4,449",printed_index_name_columns_reviewed
+1971,5,,Urana,shire,"URANA (8) 1,296,88 2,250",printed_index_name_columns_reviewed
+1971,5,,Wade,shire,"WADE (S) 619,89 18,772",printed_index_name_columns_reviewed
+1971,5,,Wagga Wagga,city,"WAGGA WAGGA (C) 38.61 28,014",printed_index_name_columns_reviewed
+1971,5,,Wakool,shire,"WAKOOL (S) 2,914,53 3,235",printed_index_name_columns_reviewed
+1971,5,,Walcha,shire,"WALCHA (S) 2,474.83 34779",printed_index_name_columns_reviewed
+1971,5,,Walgett,shire,"WALOETT (S) 8, 497,09 7,583",printed_index_name_columns_reviewed
+1971,5,,Warren,shire,"WARREN (S) 4,193,213 30967",printed_index_name_columns_reviewed
+1971,5,,Warringah,shire,"WARRINGAH (S) 101,81 156,461",printed_index_name_columns_reviewed
+1971,5,,Waugoola,shire,"WAUGOOLA (S) 1,043,03 3,625",printed_index_name_columns_reviewed
+1971,5,,Waverley,municipality,"WAVERLEY (4) 3,47 63,192",printed_index_name_columns_reviewed
+1971,5,,Weddin,shire,"WEDDIN (S) 1,318.06 2,489",printed_index_name_columns_reviewed
+1971,5,,Wellington,shire,"WELLINGTON (S) 4,573,59 8,990",printed_index_name_columns_reviewed
+1971,5,,Wentworth,shire,"WENTWORTH (S) 10,104.38 61194",printed_index_name_columns_reviewed
+1971,5,,Willoughby,municipality,"WILLOUGHBY (M) 8,56 53,755",printed_index_name_columns_reviewed
+1971,5,,Windouran,shire,"WINDOURAN (S) 1,966,00 621",printed_index_name_columns_reviewed
+1971,5,,Windsor,municipality,"WINDSOR (M) 56,64 15,434",printed_index_name_columns_reviewed
+1971,5,,Wingecarribee,shire,"WINGEGARRIBEE ($) 460,69 7,527",printed_index_name_columns_reviewed
+1971,5,,Wingham,municipality,"WINGHAM (M) 3.30 2,917",printed_index_name_columns_reviewed
+1971,5,,Wollondilly,shire,"WOLLONDILLY (S$) 987,64 12,655",printed_index_name_columns_reviewed
+1971,5,,Wollongong,city,"WOLLONGONG (¢) 275.65 {60,902",printed_index_name_columns_reviewed
+1971,5,,Woodburn,shire,"WOODBURN (S) 540.64 4,138",printed_index_name_columns_reviewed
+1971,5,,Woollahra,municipality,"WOOLLAHRA (M) 4,74 59,533",printed_index_name_columns_reviewed
+1971,5,,Wyong,shire,"WYONG (S) 318,89 32,867",printed_index_name_columns_reviewed
+1971,5,,Yarrowlumla,shire,"YARROWLUMLA (S) 1,139,56 2,289",printed_index_name_columns_reviewed
+1971,6,,Yass,municipality,"YASS (M) 11,53 4,",printed_index_name_columns_reviewed
+1971,6,,Young,municipality,"7 YOUNG (HM) 5.43 6,",printed_index_name_columns_reviewed
+1971,4,,Camden,municipality,,printed_index_name_columns_reviewed
+1971,4,,Illabo,shire,,printed_index_name_columns_reviewed
+1971,4,,Junee,municipality,,printed_index_name_columns_reviewed
+1971,5,,Quirindi,municipality,,printed_index_name_columns_reviewed
+1971,5,,Yallaroi,shire,,printed_index_name_columns_reviewed
+1976,7,001,Abercrombie,shire,"001 Abercrombie (S) 2,324.00",whole_lga_code_sequence_checked
+1976,7,002,Albury,city,111002 Albury (C) 86.38,whole_lga_code_sequence_checked
+1976,7,003,Armidale,city,062003 Armidale (C) 33.64,whole_lga_code_sequence_checked
+1976,7,004,Ashfield,municipality,,whole_lga_code_sequence_checked
+1976,7,005,Ashford,shire,"062005 Ashford (S) 5,667.65",whole_lga_code_sequence_checked
+1976,7,006,Auburn,municipality,015006 Auburn (M) 31.55,whole_lga_code_sequence_checked
+1976,7,007,Ballina,municipality,042007 Ballina (M) 23.28,whole_lga_code_sequence_checked
+1976,7,008,Balranald,shire,"114008 Balranald (S) 21,418.60",whole_lga_code_sequence_checked
+1976,7,009,Bankstown,municipality,013009 Bankstown (M) 71.18,whole_lga_code_sequence_checked
+1976,7,010,Barraba,shire,"062010 Barraba (S) 3,074.64",whole_lga_code_sequence_checked
+1976,7,011,Bathurst,city,081011 Bathurst (C) 31.72,whole_lga_code_sequence_checked
+1976,7,012,Baulkham Hills,shire,015012 Baulkham Hills (S) 380.99,whole_lga_code_sequence_checked
+1976,7,013,Bega,municipality,093013 Bega (M) 10.23,whole_lga_code_sequence_checked
+1976,7,014,Bellingen,shire,"051014 Bellingen (S) 1,604.58",whole_lga_code_sequence_checked
+1976,7,015,Berrigan,shire,"113015 Berrigan (S) 2,048.69",whole_lga_code_sequence_checked
+1976,7,016,Bibbenluke,shire,"094016 Bibbenluke (S) 3,939.39",whole_lga_code_sequence_checked
+1976,7,017,Bingara,shire,"062017 Bingara (S) 2,859.39",whole_lga_code_sequence_checked
+1976,7,018,Blacktown,municipality,015018 Blacktown (M) 246.90,whole_lga_code_sequence_checked
+1976,7,019,Bland,shire,"083019 Bland (S) 8,456.87",whole_lga_code_sequence_checked
+1976,7,020,Blaxland,shire,"082020 Blaxland (S) 3,433.33",whole_lga_code_sequence_checked
+1976,7,021,Blue Mountains,city,"015021 Blue Mountains (C) 1,404.82",whole_lga_code_sequence_checked
+1976,7,022,Bogan,shire,"072022 Bogan (S) 14,610.40",whole_lga_code_sequence_checked
+1976,7,023,Bombala,municipality,094023 Bombala (M) 5.31,whole_lga_code_sequence_checked
+1976,7,024,Boolooroo,shire,"064024 Boolooroo (S) 8,298.10",whole_lga_code_sequence_checked
+1976,7,025,Boomi,shire,"064025 Boomi (S) 9,463.82",whole_lga_code_sequence_checked
+1976,7,026,Boorowa,shire,"092026 Boorowa (S) 2,399.92",whole_lga_code_sequence_checked
+1976,7,027,Boree,shire,"083027 Bore (S) 2,254.93",whole_lga_code_sequence_checked
+1976,7,028,Botany,municipality,013028 Botany (M) 26.15,whole_lga_code_sequence_checked
+1976,7,029,Bourke,shire,"073029 Bourke (S) 43,115.33",whole_lga_code_sequence_checked
+1976,7,030,Bowral,municipality,032030 Bowral (M) 29.89,whole_lga_code_sequence_checked
+1976,7,031,Brewarrina,shire,"073031 Brewarrina (S) 18,874.56",whole_lga_code_sequence_checked
+1976,7,032,Broken Hill,city,121032 Broken Hill (C) 61.73,whole_lga_code_sequence_checked
+1976,7,033,Burrangong,shire,"092033 Burrangong (S) 2,655.84",whole_lga_code_sequence_checked
+1976,7,034,Burwood,municipality,012034 Burwood (M) 1.25,whole_lga_code_sequence_checked
+1976,7,035,Byron,shire,042035 Byron (S) $56.85,whole_lga_code_sequence_checked
+1976,7,036,Camden,municipality,014036 Camden (M) 206.11,whole_lga_code_sequence_checked
+1976,7,037,Campbelltown,city,014037 Campbelltown (C) 311.78,whole_lga_code_sequence_checked
+1976,7,038,Canobolas,shire,"038 Canobolas (S) 1,647.85",whole_lga_code_sequence_checked
+1976,7,039,Canterbury,municipality,013039 Canterbury (M) 33.39,whole_lga_code_sequence_checked
+1976,7,040,Carrathool,shire,"103040 Carrathool (S) 18,975.79",whole_lga_code_sequence_checked
+1976,7,041,Casino,municipality,042041 Casino (M) 91.13,whole_lga_code_sequence_checked
+1976,7,042,Central Darling,shire,"122042 Central Darling (S) 51,395.31",whole_lga_code_sequence_checked
+1976,7,043,"Cessnock, Greater",city,"043 Cessnock, Greater (C) 1,950.63",whole_lga_code_sequence_checked
+1976,7,044,Cobar,shire,"073044 Cobar (S) 44,250.56",whole_lga_code_sequence_checked
+1976,7,045,Coffs Harbour,shire,051045 Coffs Harbour (S) 946.36,whole_lga_code_sequence_checked
+1976,7,046,Colo,shire,"015046 Colo (S) 2,645.92",whole_lga_code_sequence_checked
+1976,7,047,Conargo,shire,"113047 Conargo (S) 3,737.37",whole_lga_code_sequence_checked
+1976,7,048,Concord,municipality,012048 Concord (M) 10.82,whole_lga_code_sequence_checked
+1976,7,049,Condobolin,municipality,083049 Condobolin (M) 122.12,whole_lga_code_sequence_checked
+1976,7,050,Coolah,shire,"071050 Coolah (S) 4,832.89",whole_lga_code_sequence_checked
+1976,7,051,Coolamon,shire,"102051 Coolamon (S) 2,424.24",whole_lga_code_sequence_checked
+1976,7,052,Cooma,municipality,094052 Cooma (M) 25.54,whole_lga_code_sequence_checked
+1976,7,053,Coonabarabran,shire,"071053 Coonabarabran (S) 1,674.17",whole_lga_code_sequence_checked
+1976,7,054,Coonamble,shire,"072054 Coonamble (S) 10,525.06",whole_lga_code_sequence_checked
+1976,7,055,Cootamundra,shire,"102055 Cootamundra (S) 1,525.00",whole_lga_code_sequence_checked
+1976,7,056,Copmanhurst,shire,"051056 Copmanhurst (S) 3,132.76",whole_lga_code_sequence_checked
+1976,7,057,Corowa,shire,"112057 Corowa (S) 2,192.72",whole_lga_code_sequence_checked
+1976,7,058,Cowra,municipality,083058 Cowra (M) 23.00,whole_lga_code_sequence_checked
+1976,7,059,Crookwell,shire,"092059 Crookwell (S) 3,439.52",whole_lga_code_sequence_checked
+1976,7,060,Culcairn,shire,"112060 Culcairn (S) 1,580.81",whole_lga_code_sequence_checked
+1976,7,061,Deniliquin,municipality,113061 Deniliquin (M) 129.50,whole_lga_code_sequence_checked
+1976,7,062,Denman,shire,"022062 Denman (S) 3,387.44",whole_lga_code_sequence_checked
+1976,8,063,Drummoyne,municipality,012063 Drummoyne (M),whole_lga_code_sequence_checked
+1976,8,064,Dubbo,city,071064 Dubbo (C) 4,whole_lga_code_sequence_checked
+1976,8,065,Dumaresq,shire,"063065 Dumaresq (S) 4,16",whole_lga_code_sequence_checked
+1976,8,066,Dungog,shire,"022066 Dungog (S) 2,24",whole_lga_code_sequence_checked
+1976,8,067,Eurobodalla,shire,"093067 Eurobodalla (S) 3,40",whole_lga_code_sequence_checked
+1976,8,068,Fairfield,municipality,015068 Fairfield (M) 9,whole_lga_code_sequence_checked
+1976,8,069,Forbes,municipality,083069 Forbes (M) 4,whole_lga_code_sequence_checked
+1976,8,070,Gilgandra,shire,,whole_lga_code_sequence_checked
+1976,8,071,Glen Innes,municipality,063071 Glen Innes (M) 6,whole_lga_code_sequence_checked
+1976,8,072,Gloucester,shire,"022072 Gloucester (S) 2,91",whole_lga_code_sequence_checked
+1976,8,073,Goobang,shire,"083073 Goobang (S) 5,87",whole_lga_code_sequence_checked
+1976,8,074,Goodradigbee,shire,"092074 Goodradigbee (S) 3,38",whole_lga_code_sequence_checked
+1976,8,075,Gosford,shire,"017075 Gosford (S) 1,01",whole_lga_code_sequence_checked
+1976,8,076,Goulburn,city,,whole_lga_code_sequence_checked
+1976,8,077,Grafton,city,,whole_lga_code_sequence_checked
+1976,8,078,Great Lakes,shire,"022078 Great Lakes (S) 3,15",whole_lga_code_sequence_checked
+1976,8,079,Gundagai,shire,"102079 Gundagai (S) 2,44",whole_lga_code_sequence_checked
+1976,8,080,Gundurimba,shire,042080 Gundurimba (S) 45,whole_lga_code_sequence_checked
+1976,8,081,Gunnedah,municipality,062081 Gunnedah (M) 2,whole_lga_code_sequence_checked
+1976,8,082,Gunning,shire,"092082 Gunning (S) 2,19",whole_lga_code_sequence_checked
+1976,8,083,Guyra,shire,,whole_lga_code_sequence_checked
+1976,8,084,Harden,shire,"092084 Harden (S) 1,76",whole_lga_code_sequence_checked
+1976,8,085,Hastings,shire,"052085 Hastings (S) 3,67",whole_lga_code_sequence_checked
+1976,8,086,Hay,shire,"103086 Hay (S) 11,43",whole_lga_code_sequence_checked
+1976,8,087,Holbrook,shire,"112087 Holbrook (S) 2,59",whole_lga_code_sequence_checked
+1976,8,088,Holroyd,municipality,015088 liolroyd (M) 4,whole_lga_code_sequence_checked
+1976,8,089,Hornsby,shire,016089 Homsby (S) 51,whole_lga_code_sequence_checked
+1976,8,090,Hume,shire,"111090 Hume (S) 1,94",whole_lga_code_sequence_checked
+1976,8,091,Hunters Hill,municipality,016091 Hunters Hill (M),whole_lga_code_sequence_checked
+1976,8,092,Hurstville,municipality,013092 Hurstville (M) 2,whole_lga_code_sequence_checked
+1976,8,093,Illabo,shire,"102093 _Illabo (S) 2,02",whole_lga_code_sequence_checked
+1976,8,094,Imlay,shire,"093094 Imlay (S) 3,53",whole_lga_code_sequence_checked
+1976,8,095,Inverell,municipality,063095 Inverell (M) r,whole_lga_code_sequence_checked
+1976,8,096,Jemalong,shire,"083096 Jemalong (S) 4,67",whole_lga_code_sequence_checked
+1976,8,097,Jerilderie,shire,"113097 _Jerilderie (S) 3,35",whole_lga_code_sequence_checked
+1976,8,098,Junee,municipality,102098 Junee (M) :,whole_lga_code_sequence_checked
+1976,8,099,Kempsey,shire,"052099 Kempsey (S) 3,31",whole_lga_code_sequence_checked
+1976,8,100,Kiama,municipality,031100 Kiama (M) 2:,whole_lga_code_sequence_checked
+1976,8,101,Kogarah,municipality,013101 Kogarah (M),whole_lga_code_sequence_checked
+1976,8,102,Ku-ring-gai,municipality,016102 Ku-ring-gai (M) !,whole_lga_code_sequence_checked
+1976,8,103,Kyeamba,shire,"102103 Kyeamba (S) 2.6""",whole_lga_code_sequence_checked
+1976,8,104,Kyogle,shire,"042104 Kyogle (S) 3,4",whole_lga_code_sequence_checked
+1976,8,105,Lachlan,shire,"083105 Lachlan (S) 15,2:",whole_lga_code_sequence_checked
+1976,8,106,Lake Macquarie,shire,021106 Lake Macquarie (S) 1,whole_lga_code_sequence_checked
+1976,8,107,Lane Cove,municipality,016107 Lane Cove (M),whole_lga_code_sequence_checked
+1976,8,108,Leeton,shire,103108 Leeton (S) 1,whole_lga_code_sequence_checked
+1976,8,109,Leichhardt,municipality,011109 Leichhardt (M),whole_lga_code_sequence_checked
+1976,8,110,Lismore,city,042110 Lismore (C),whole_lga_code_sequence_checked
+1976,8,111,Lithgow,city,‘ 082111 Lithgow (C),whole_lga_code_sequence_checked
+1976,8,112,Liverpool,city,014112 Liverpool (C) 3,whole_lga_code_sequence_checked
+1976,8,113,Liverpool Plains,shire,"062113 Liverpool Plains (S) 5,0",whole_lga_code_sequence_checked
+1976,8,114,Lockhart,shire,102114 Lockhart (S) 29,whole_lga_code_sequence_checked
+1976,8,115,Lyndhurst,shire,"115 Lyndhurst (S) 1,6",whole_lga_code_sequence_checked
+1976,8,116,Macintyre,shire,116 Macintyre (S) 29,whole_lga_code_sequence_checked
+1976,8,117,Maclean,shire,"051117 Maclean (S) 1,0",whole_lga_code_sequence_checked
+1976,8,118,Maitland,city,021118 Maitland (C) 3,whole_lga_code_sequence_checked
+1976,8,119,Manilla,shire,"062119 Manilla (S) 2,2",whole_lga_code_sequence_checked
+1976,8,120,Manly,municipality,016120 Manly (M),whole_lga_code_sequence_checked
+1976,8,121,Manning,shire,"052121 Manning (S) 3,8",whole_lga_code_sequence_checked
+1976,8,122,Marrickville,municipality,011122 Marrickville (M),whole_lga_code_sequence_checked
+1976,8,123,Merriwa,shire,022123 Merriwa (S) 33,whole_lga_code_sequence_checked
+1976,8,124,Mitchell,shire,"102124 Mitchell (S) 2,1",whole_lga_code_sequence_checked
+1976,8,125,Mittagong,shire,,whole_lga_code_sequence_checked
+1976,8,126,Molong,shire,083126 Molong (S) bi,whole_lga_code_sequence_checked
+1976,9,127,Monaro,shire,"094127 Monaro (S) 4,855.68",whole_lga_code_sequence_checked
+1976,9,128,Moree,municipality,064128 Moree (M) 33.24,whole_lga_code_sequence_checked
+1976,9,129,Mosman,municipality,016129 Mosman (M) 8.70,whole_lga_code_sequence_checked
+1976,9,130,Mudgee,shire,"071130 Mudgee (S) 5,483.09",whole_lga_code_sequence_checked
+1976,9,131,Mullumbimby,municipality,042131 Mullumbimby (M) 4.45,whole_lga_code_sequence_checked
+1976,9,132,Mulwaree,shire,"092132 Mulwaree (S) $,207.51",whole_lga_code_sequence_checked
+1976,9,133,Mumbulla,shire,"093133 Mumbulla (S) 2,486.11",whole_lga_code_sequence_checked
+1976,9,134,Murray,shire,"113134 Murray (S) 4,328.51",whole_lga_code_sequence_checked
+1976,9,135,Murrumbidgee,shire,"103135 Murrumbidgee (S) 3,407.87",whole_lga_code_sequence_checked
+1976,9,136,Murrurundi,shire,"022136 Murrurundi (S) 2,470.78",whole_lga_code_sequence_checked
+1976,9,137,Muswellbrook,municipality,022137 Muswellbrook (M) 14.12,whole_lga_code_sequence_checked
+1976,9,138,Nambucca,shire,,whole_lga_code_sequence_checked
+1976,9,139,Namoi,shire,"064139 Namoi (S) 13,121.64",whole_lga_code_sequence_checked
+1976,9,140,Narrabri,municipality,064140 Narrabri (M) 23.15,whole_lga_code_sequence_checked
+1976,9,141,Narraburra,shire,"102141 Narraburra (S) 2,791.06",whole_lga_code_sequence_checked
+1976,9,142,Narrandera,shire,"102142 Narrandera (S) 4,139.75",whole_lga_code_sequence_checked
+1976,9,143,Narromine,municipality,071143 Narromine (M) 3.60,whole_lga_code_sequence_checked
+1976,9,144,Newcastle,city,021144 Newcastle (C) 213.51,whole_lga_code_sequence_checked
+1976,9,145,North Sydney,municipality,016145 North Sydney (M) 10.46,whole_lga_code_sequence_checked
+1976,9,146,Nundle,shire,"062146 Nundle (S) 1,592.85",whole_lga_code_sequence_checked
+1976,9,147,Nymboida,shire,"051147 Nymboida (S) 5,082.46",whole_lga_code_sequence_checked
+1976,9,148,Oberon,shire,"148 Oberon (S) 2,923.99",whole_lga_code_sequence_checked
+1976,9,149,Orange,city,081149 Orange (C) 20.85,whole_lga_code_sequence_checked
+1976,9,150,Parkes,municipality,083150 Parkes (M) 43.33,whole_lga_code_sequence_checked
+1976,9,151,Parramatta,city,015151 Parramatta (C) 60.06,whole_lga_code_sequence_checked
+1976,9,152,Parry,shire,"062152 Pany (S) 4,386.14",whole_lga_code_sequence_checked
+1976,9,153,Penrith,city,015153 Penrith (C) 407.02,whole_lga_code_sequence_checked
+1976,9,154,Port Macquarie,municipality,052154 Port Macquarie (M) 60.30,whole_lga_code_sequence_checked
+1976,9,155,Port Stephens,shire,021155 Port Stephens (S) 978.66,whole_lga_code_sequence_checked
+1976,9,156,Queanbeyan,city,091156 Queanbeyan (C) 35.23,whole_lga_code_sequence_checked
+1976,9,157,Quirindi,municipality,062157 Quirindi (M) 12.15,whole_lga_code_sequence_checked
+1976,9,158,Randwick,municipality,011158 Randwick (M) 36.44,whole_lga_code_sequence_checked
+1976,9,159,Richmond River,shire,"042159 Richmond River (S) 2,458.67",whole_lga_code_sequence_checked
+1976,9,160,Rockdale,municipality,013160 Rockdale (M) 29.32,whole_lga_code_sequence_checked
+1976,9,161,Ryde,municipality,016161 Ryde (M) 40.15,whole_lga_code_sequence_checked
+1976,9,162,Rylstone,shire,"082162 Rylstone (S) 3,831.23",whole_lga_code_sequence_checked
+1976,9,163,Scone,shire,"022163 Scone (S) 4,027.55",whole_lga_code_sequence_checked
+1976,9,164,Severn,shire,"063164 Severn (S) 5,826.10",whole_lga_code_sequence_checked
+1976,9,165,Shellharbour,municipality,031165 Shellharbour (M) 154.21,whole_lga_code_sequence_checked
+1976,9,166,Shoalhaven,shire,"032166 Shoalhaven (S) 4,660.26",whole_lga_code_sequence_checked
+1976,9,167,Singleton,shire,"022167 Singleton (S) 4,810.21",whole_lga_code_sequence_checked
+1976,9,168,Snowy River,shire,"094168 Snowy River (S) 6,034.70",whole_lga_code_sequence_checked
+1976,9,169,South Sydney,municipality,011169 South Sydney (M) 10.54,whole_lga_code_sequence_checked
+1976,9,170,Strathfield,municipality,012170 Strathfield (M) 14.07,whole_lga_code_sequence_checked
+1976,9,171,Sutherland,shire,013171 Sutherland (S) 370.37,whole_lga_code_sequence_checked
+1976,9,172,Sydney,city,"011172 Sydney (C) 13,39",whole_lga_code_sequence_checked
+1976,9,173,Talbragar,shire,"071173 Talbragar (S) 3,278.37",whole_lga_code_sequence_checked
+1976,9,174,Tallaganda,shire,"092174 Tallaganda (S) 3,351.30",whole_lga_code_sequence_checked
+1976,9,175,Tamarang,shire,"062175 Tamarang (S) 2,991.61",whole_lga_code_sequence_checked
+1976,9,176,Tamworth,city,061176 Tamworth (C) 183.29,whole_lga_code_sequence_checked
+1976,9,177,Taree,municipality,052177 Taree (M) 31.47,whole_lga_code_sequence_checked
+1976,9,178,Temora,municipality,102178 Temora(M) 21.47,whole_lga_code_sequence_checked
+1976,9,179,Tenterfield,shire,"063179 Tenterfield (S) 7,134.39",whole_lga_code_sequence_checked
+1976,9,180,Terania,shire,042180 Terania (S) 880.73,whole_lga_code_sequence_checked
+1976,9,181,Timbrebongie,shire,"071181 Timbrebongie (S) 5,238.84",whole_lga_code_sequence_checked
+1976,9,182,Tintenbar,shire,042182 Tintenbar (S) 463.61,whole_lga_code_sequence_checked
+1976,9,183,Tumbarumba,shire,"112183 Tumbarumba (S) 4,379.69",whole_lga_code_sequence_checked
+1976,9,184,Tumut,shire,"102184 Tumut (S) 3,752.08",whole_lga_code_sequence_checked
+1976,9,185,Turon,shire,"185 Turon (S) 2,161.92",whole_lga_code_sequence_checked
+1976,9,186,Tweed,shire,"186 Tweed (S) 1,303.36",whole_lga_code_sequence_checked
+1976,9,187,Ulmarra,shire,"051187 Ulmarra (S) 1,790.33",whole_lga_code_sequence_checked
+1976,9,188,Uralla,shire,"063188 Uralla (S) 3,214.53",whole_lga_code_sequence_checked
+1976,10,189,Urana,shire,"112189 Urana (S) 3,",whole_lga_code_sequence_checked
+1976,10,190,Wade,shire,103190 Wade (S) \,whole_lga_code_sequence_checked
+1976,10,191,Wagga Wagga,city,101191 Wagga Wagga (C),whole_lga_code_sequence_checked
+1976,10,192,Wakool,shire,"113192 Wakool (S) 1,",whole_lga_code_sequence_checked
+1976,10,193,Walcha,shire,063193 Walcha (S) 6:,whole_lga_code_sequence_checked
+1976,10,194,Walgett,shire,"072194 Walgett (S) 22,",whole_lga_code_sequence_checked
+1976,10,195,Warren,shire,"072195 Warren (S) 10,",whole_lga_code_sequence_checked
+1976,10,196,Warringah,shire,016196 Warringah (S),whole_lga_code_sequence_checked
+1976,10,197,Waugoola,shire,083197 Waugoola (S) 2,whole_lga_code_sequence_checked
+1976,10,198,Waverley,municipality,011198 Waverley (M),whole_lga_code_sequence_checked
+1976,10,199,Weddin,shire,083199 Weddin (S) 34,whole_lga_code_sequence_checked
+1976,10,200,Wellington,shire,071200 Wellington (S) 4,whole_lga_code_sequence_checked
+1976,10,201,Wentworth,shire,"114201 Wentworth (S) 26,",whole_lga_code_sequence_checked
+1976,10,202,Willoughby,municipality,016202 Willoughby (M),whole_lga_code_sequence_checked
+1976,10,203,Windouran,shire,‘ 113203 Windouran (S) Ex,whole_lga_code_sequence_checked
+1976,10,204,Windsor,municipality,015204 Windsor (M),whole_lga_code_sequence_checked
+1976,10,205,Wingecarribee,shire,"032205 Wingecarribee (S) 1,",whole_lga_code_sequence_checked
+1976,10,206,Wingham,municipality,052206 Wingham (M),whole_lga_code_sequence_checked
+1976,10,207,Wollondilly,shire,"014207 Wollondilly (S) 2,",whole_lga_code_sequence_checked
+1976,10,208,Wollongong,city,031208 Wollongong (C),whole_lga_code_sequence_checked
+1976,10,209,Woollahra,municipality,011209 Woollahra (M),whole_lga_code_sequence_checked
+1976,10,210,Wyong,shire,017210 Wyong (S),whole_lga_code_sequence_checked
+1976,10,211,Yallaroi,shire,062211 Yallaroi (S) 5,whole_lga_code_sequence_checked
+1976,10,212,Yarrowlumla,shire,092212 Yarrowlumla (S) Px,whole_lga_code_sequence_checked
+1976,10,213,Yass,municipality,092213 Yass (M),whole_lga_code_sequence_checked
+1976,10,214,Young,municipality,092214 Young (M),whole_lga_code_sequence_checked
+1966,504,,Newcastle,city,Newcastle C,typed_alphabetical_index

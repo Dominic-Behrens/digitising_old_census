@@ -1,0 +1,335 @@
+{
+  "id": "74092246",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "expiryDate": "Sun, 01 Jan 1995",
+  "subUnitNo": "J.F.N. Murray Collection / 31",
+  "bibLevel": "Item",
+  "bibId": "4706506",
+  "holdingNumber": "MAP J.F.N. Murray 31",
+  "pid": "nla.obj-740922468",
+  "title": "Plan and sections from survey of 21 ac. - 1 r - 26 ps (ex road & rights of way), Sandy Bay, Tasmania [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1925",
+  "creator": "",
+  "extent": "1 map ; on sheet 101 x 57 cm.",
+  "publisherName": "John Murray",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 45756931,
+      "filename": "74095851.jp2",
+      "filesize": 13810755,
+      "technicalmetadata": {
+        "width": 11171,
+        "height": 19733
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1322645548
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "00894ced a22002177a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[J.F.N. Murray map collection]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 4706506
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Plan and sections from survey of 21 ac. - 1 r - 26 ps (ex road & rights of way), Sandy Bay, Tasmania"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "surveyed & plotted by John Murray ... Nov. 1924."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale [1:792]"
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Hobart :"
+              },
+              {
+                "code": "b",
+                "content": "John Murray,"
+              },
+              {
+                "code": "c",
+                "content": 1925
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "on sheet 101 x 57 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-740922468"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "J.F.N. Murray map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-740922468"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "J.F.N. Murray map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)2988163"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "43fa030c-b8d8-58bf-936d-d3f1daee531b"
+              },
+              {
+                "code": "s",
+                "content": "185ac39c-3295-5cdc-9a4b-434a9447513c"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4706506
+          },
+          {
+            "tag": "005",
+            "content": 20191203150037
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "091027s1925    tma       a  s  0   eng"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP J.F.N. Murray 31"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5225828
+          },
+          {
+            "tag": "004",
+            "content": 4706506
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "70836890",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "2988163",
+    "holdingNumber": "MAP J.F.N. Murray 1-99",
+    "pid": "nla.obj-708368901",
+    "title": "J.F.N. Murray map collection [cartographic material].",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "Mixed copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "For number 4 in the collection see copy in general collection at nla.obj-446075639. For number 8 see copies at nla.obj-233899413. For number 22 see copy at nla.obj-559296001. For numbers 23 and 24 see copy at nla.obj-559291588. For number 26 see copy at nla.obj-559296235. For number 29 see copy at nla.obj-631395259. For number 30 see copy at nla.obj-631395414. For number 32 see copy at nla.obj-661810093. For number 33 see copy at nla.obj-567667281. For number 34 see copy at nla.obj-678124279. For number 99 see copy at nla.obj-275663923.",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1916",
+    "creator": "Murray, J. F. N. (John Francis Nowell), 1900-",
+    "extent": "94 maps : some col.",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-708368901"
+}

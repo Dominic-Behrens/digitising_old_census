@@ -1,0 +1,478 @@
+{
+  "id": "74092222",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "expiryDate": "Fri, 01 Jan 2016",
+  "subUnitNo": "J.F.N. Murray Collection / 19",
+  "bibLevel": "Item",
+  "bibId": "4693612",
+  "holdingNumber": "MAP J.F.N. Murray 19",
+  "pid": "nla.obj-740922220",
+  "title": "Illawarra planning scheme [cartographic material].",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1966",
+  "creator": "State Planning Authority of New South Wales.",
+  "extent": "1 map on 22 sheets.",
+  "publisherName": "State Planning Authority of New South Wales",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 45756581,
+      "filename": "74093357.jp2",
+      "filesize": 53841618,
+      "technicalmetadata": {
+        "width": 44285,
+        "height": 19423
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 2580463244
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01579ced a2200361 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 4623457
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[J.F.N. Murray map collection]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 4693612
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "AUC"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "AUC"
+              },
+              {
+                "code": "d",
+                "content": "ABN-SNR"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "G8973.I4.G45 1966"
+              },
+              {
+                "code": "b",
+                "content": "N4"
+              }
+            ],
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": 8973
+              },
+              {
+                "code": "b",
+                "content": "I4"
+              }
+            ],
+            "tag": "052"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "State Planning Authority of New South Wales."
+              },
+              {
+                "code": 0,
+                "content": 40352
+              },
+              {
+                "code": 9,
+                "content": "73e3b2a7-4fef-58d7-b31d-47cf604ee8e6"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Illawarra planning scheme"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale [1:6,336]."
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney] :"
+              },
+              {
+                "code": "b",
+                "content": "State Planning Authority of New South Wales,"
+              },
+              {
+                "code": "c",
+                "content": 1966
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "1 map on 22 sheets."
+            },
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Base maps prepared by the Illawarra Planning Authority."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral map."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "2. Helensburgh -- 10. Unanderra -- 13. Berkley --14. Port Kembla -- 15. Yallah -- 16. Windang -- 17. Albion Park -- 18. Shellharbour."
+            },
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-740922220"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Regional planning"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Illawarra"
+              },
+              {
+                "code": "x",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Illawarra (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Illawarra Planning Authority."
+            },
+            "tag": 710
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "J.F.N. Murray map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-740922220"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Library's copies of sheets 17 & 18 are joined together."
+            },
+            "tag": 900
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "J.F.N. Murray map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)2988163"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "a798c777-0732-579b-985f-399b68a2d3c5"
+              },
+              {
+                "code": "s",
+                "content": "b4130156-511d-5372-88f4-1b78c88fe75f"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4693612
+          },
+          {
+            "tag": "005",
+            "content": 20230919014028.9
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "860703s1966    xna       a  s      eng d"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP J.F.N. Murray 19"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5210712
+          },
+          {
+            "tag": "004",
+            "content": 4693612
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "70836890",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "2988163",
+    "holdingNumber": "MAP J.F.N. Murray 1-99",
+    "pid": "nla.obj-708368901",
+    "title": "J.F.N. Murray map collection [cartographic material].",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "Mixed copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "For number 4 in the collection see copy in general collection at nla.obj-446075639. For number 8 see copies at nla.obj-233899413. For number 22 see copy at nla.obj-559296001. For numbers 23 and 24 see copy at nla.obj-559291588. For number 26 see copy at nla.obj-559296235. For number 29 see copy at nla.obj-631395259. For number 30 see copy at nla.obj-631395414. For number 32 see copy at nla.obj-661810093. For number 33 see copy at nla.obj-567667281. For number 34 see copy at nla.obj-678124279. For number 99 see copy at nla.obj-275663923.",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1916",
+    "creator": "Murray, J. F. N. (John Francis Nowell), 1900-",
+    "extent": "94 maps : some col.",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-708368901"
+}

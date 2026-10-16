@@ -1,0 +1,538 @@
+{
+  "id": "307749431",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "bibLevel": "Item",
+  "bibId": "5757434",
+  "holdingNumber": "MAP G8974.S9P2 s15",
+  "pid": "nla.obj-3077494311",
+  "title": "Four inch map of Sydney & suburbs [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Not Captured",
+  "startDate": "01 January 1930",
+  "creator": "H.E.C. Robinson Pty Ltd.",
+  "extent": "1 map on 21 sheets ; 285 x 285 cm., sheets 76 x 104 cm. or smaller.",
+  "isMissingPage": "false",
+  "publisherName": "H.E.C. Robinson Pty. Ltd.",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 143244016,
+      "filename": "307765347.jp2",
+      "filesize": 1952959,
+      "technicalmetadata": {
+        "width": 6714,
+        "height": 4700
+      }
+    },
+    {
+      "copyrole": "i",
+      "access": "true",
+      "filesize": 31583694
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02488cem a2200421 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 15840
+              },
+              {
+                "code": "d",
+                "content": "E1511300"
+              },
+              {
+                "code": "e",
+                "content": "E1511300"
+              },
+              {
+                "code": "f",
+                "content": "S0335300"
+              },
+              {
+                "code": "g",
+                "content": "S0335300"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1930"
+              },
+              {
+                "code": "b",
+                "content": "d1956"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8974.S9P2 1930"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "H.E.C. Robinson Pty Ltd."
+              },
+              {
+                "code": 0,
+                "content": 136829
+              },
+              {
+                "code": 9,
+                "content": "d7c6eb52-1b97-56bc-94b6-41bc73716f2e"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Four inch map of Sydney & suburbs"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "H.E.C. Robinson Pty. Ltd."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Four inch map of Sydney and suburbs"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:15,840] 1 in. = 20 chains"
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b013/S 33\u00b053')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney] :"
+              },
+              {
+                "code": "b",
+                "content": "H.E.C. Robinson Pty. Ltd.,"
+              },
+              {
+                "code": "c",
+                "content": "[1930-56?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map on 21 sheets ;"
+              },
+              {
+                "code": "c",
+                "content": "285 x 285 cm., sheets 76 x 104 cm. or smaller."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of Sydney and suburbs, New South Wales, showing streets with names, roads, railways, public buildings, suburbs, parks, reserves, shires and municipal boundaries."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Robinson's map no. 114."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Sheet numbering changed over time. On some issues, sheets are numbered 1-16, plus 5A, 9A, 9B, 13A, 13B. Barrenjoey Peninsula is an inset on sheets 3 and 4."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "In some issues, sheets are numbered in two different ways: as sheets 1 to 12 of Map no. 114; and as  quarter-sheets (a,b,c,d) of the 4-sheet Forty-chain (1:31,680) series: sheets 1a to 4c respectively, where sheets 3 and 4 are half-sheets subdivided into 3b, 3c, 4b and 4c only."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "In upper corners: Map no. 114.1 to 114.12 respectively."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Bottom left corner of all sheets: 613."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "National Library of Australia holds sheet nos. 2A (114.5) and 2C (114.2) only. Copy 2 of 2A is annotated."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 500
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Suburbs"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Sydney"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Roads"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Sydney"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Roads"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Sydney Region"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney Region (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Road maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": 2,
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": "Robinson's twenty chain maps of Sydney & suburbs [cartographic material] / H.E.C. Robinson Pty. Ltd."
+            },
+            "tag": 740
+          },
+          {
+            "ind2": 2,
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": "Index to Robinson's twenty & forty chain maps of Sydney & suburbs / published by H.E.C. Robinson Ltd."
+            },
+            "tag": 740
+          },
+          {
+            "ind2": 2,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "Map index at National Library of Australia"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-3077494311/mapindex"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "df9a1609-992f-55c8-996f-d47691552033"
+              },
+              {
+                "code": "i",
+                "content": "7457b642-af60-55b8-9f88-4ff712bdeae3"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5757434
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "111216s19301956xna       a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230920211144.9
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.S9P2 s15"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 6337405
+          },
+          {
+            "tag": "004",
+            "content": 5757434
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-3077494311"
+}

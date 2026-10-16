@@ -1,0 +1,107 @@
+job_id,pdf_page,row_label,column_id,raw_value,source
+ages_33,60,TOTAL,age_0_4,"73,061",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,TOTAL,age_5_9,"65,615",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,TOTAL,age_10_14,"63,586",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,TOTAL,age_15_19,"67,804",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,TOTAL,age_20_24,"61,895",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,TOTAL,age_25_29,"51,955",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,TOTAL,age_30_34,"44,928",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,TOTAL,age_35_39,"41,308",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,TOTAL,age_40_44,"42,512",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,TOTAL,age_45_49,"41,015",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_50_54,"31,866",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_55_59,"19,486",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_60_64,"13,834",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_65_69,"11,432",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_70_74,"9,415",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_75_79,"7,275",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_80_84,"3,903",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_85_89,"1,133",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_90_94,267,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_95_99,34,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,age_100_plus,8,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,unspecified,"3,259",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,TOTAL,total,"655,591",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_0_4,565,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_5_9,474,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_10_14,462,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_15_19,484,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_20_24,426,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_25_29,360,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_30_34,329,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_35_39,302,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_40_44,289,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,60,Anglesey,age_45_49,336,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,age_50_54,249,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,age_55_59,150,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,age_60_64,102,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,age_65_69,84,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,age_70_74,79,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,age_75_79,42,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,age_80_84,18,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,age_85_89,6,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,age_90_94,1,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,unspecified,14,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_33,61,Anglesey,total,"4,772",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_0_4,"70,417",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_5_9,"63,904",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_10_14,"62,523",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_15_19,"67,719",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_20_24,"65,217",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_25_29,"55,651",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_30_34,"48,694",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_35_39,"44,549",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_40_44,"42,480",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,62,TOTAL,age_45_49,"38,477",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_50_54,"29,420",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_55_59,"18,457",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_60_64,"14,316",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_65_69,"12,603",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_70_74,"9,972",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_75_79,"6,934",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_80_84,"3,387",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_85_89,"1,129",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_90_94,265,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_95_99,56,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,age_100_plus,10,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,unspecified,"3,780",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,63,TOTAL,total,"659,960",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_0_4,518,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_5_9,468,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_10_14,440,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_15_19,454,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_20_24,346,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_25_29,320,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_30_34,306,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_35_39,286,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_40_44,273,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,60,Anglesey,age_45_49,214,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,age_50_54,195,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,age_55_59,100,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,age_60_64,77,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,age_65_69,79,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,age_70_74,45,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,age_75_79,27,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,age_80_84,12,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,age_85_89,5,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,age_90_94,2,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,unspecified,13,Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+ages_34,61,Anglesey,total,"4,180",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,New South Wales,adelaide_males,"2,082",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,New South Wales,adelaide_females,"2,234",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,New South Wales,adelaide_total,"4,316",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,New South Wales,remainder_males,"1,736",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,New South Wales,remainder_females,"1,394",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,New South Wales,remainder_total,"3,130",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,New South Wales,state_males,"3,818",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,New South Wales,state_females,"3,628",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,New South Wales,state_total,"7,446",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,TOTAL,adelaide_males,"90,578",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,TOTAL,adelaide_females,"99,068",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,TOTAL,adelaide_total,"189,646",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,TOTAL,remainder_males,"116,780",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,TOTAL,remainder_females,"102,132",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,TOTAL,remainder_total,"218,912",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,TOTAL,state_males,"207,358",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,TOTAL,state_females,"201,200",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection
+summary_27,33,TOTAL,state_total,"408,558",Independent source-image transcription before model extraction; evidence-worker and Main visual inspection

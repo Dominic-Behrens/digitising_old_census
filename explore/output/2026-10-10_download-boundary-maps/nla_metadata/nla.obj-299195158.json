@@ -1,0 +1,546 @@
+{
+  "id": "29919515",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "7087762",
+  "holdingNumber": "MAP G8994.M4P2 1911",
+  "pid": "nla.obj-299195158",
+  "title": "New map of Melbourne and suburbs showing tramways, railways, streets, municipalities, bowling clubs, town and shire halls, quarter-mile radii etc.",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1911",
+  "creator": "Sands & McDougall Limited, compiler, lithographer.",
+  "extent": "1 map : colour, mounted on linen ; 100 x 76 cm, in cover 25 x 16 cm",
+  "publisherName": "Sands & McDougall",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 9668760,
+      "filename": "29919550.jp2",
+      "filesize": 29278475,
+      "technicalmetadata": {
+        "width": 19127,
+        "height": 24479
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1404656676
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01959cem a2200385 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "d",
+                "content": "E1445100"
+              },
+              {
+                "code": "e",
+                "content": "E1445900"
+              },
+              {
+                "code": "f",
+                "content": "S0374200"
+              },
+              {
+                "code": "g",
+                "content": "S0375900"
+              },
+              {
+                "code": 2,
+                "content": "geoapn"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-vi"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1911"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8994.M4 1911"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sands & McDougall Limited,"
+              },
+              {
+                "code": "e",
+                "content": "compiler,"
+              },
+              {
+                "code": "e",
+                "content": "lithographer."
+              },
+              {
+                "code": 0,
+                "content": 136725
+              },
+              {
+                "code": 9,
+                "content": "0ab3b6e2-51ee-5756-9234-f3d4e1e7be26"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New map of Melbourne and suburbs showing tramways, railways, streets, municipalities, bowling clubs, town and shire halls, quarter-mile radii etc. /"
+              },
+              {
+                "code": "c",
+                "content": "compiled & lithographed by Sands & McDougall Pty. Ltd."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": 4,
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": "Melbourne & suburbs"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale not given"
+              },
+              {
+                "code": "c",
+                "content": "(E 144\u00b051'--E 144\u00b059'/S 37\u00b042'--S 37\u00b059')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Melbourne] :"
+              },
+              {
+                "code": "b",
+                "content": "Sands & McDougall,"
+              },
+              {
+                "code": "c",
+                "content": "[1911?]."
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "colour, mounted on linen ;"
+              },
+              {
+                "code": "c",
+                "content": "100 x 76 cm, in cover 25 x 16 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of Melbourne and inner suburbs showing cable tramways, electric tramways, horse tramways, mile radius, quarter mile radius, railway stations, bowling clubs, town halls and shire halls."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Revised to date\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Insets:"
+              },
+              {
+                "code": "t",
+                "content": "West Footscray, Sunshine & Braybrook --"
+              },
+              {
+                "code": "t",
+                "content": "Surrey Hills & Box Hill --"
+              },
+              {
+                "code": "t",
+                "content": "Oakleigh."
+              }
+            ],
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP G8994.M4P2 1911 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-299195158"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Streets"
+              },
+              {
+                "code": "z",
+                "content": "Victoria"
+              },
+              {
+                "code": "z",
+                "content": "Melbourne"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Railroads"
+              },
+              {
+                "code": "z",
+                "content": "Victoria"
+              },
+              {
+                "code": "z",
+                "content": "Melbourne"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Tramways"
+              },
+              {
+                "code": "z",
+                "content": "Victoria"
+              },
+              {
+                "code": "z",
+                "content": "Melbourne"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Melbourne (Vic.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Road maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP G8994.M4P2 1911 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-299195158"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "f09204d7-93ab-5fab-b900-0f6cfa501192"
+              },
+              {
+                "code": "i",
+                "content": "49cbd619-19ac-550a-97b9-967d12c63e41"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7087762
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "160512s1911    vrak      a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240222073948.4
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8994.M4P2 1911"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7760383
+          },
+          {
+            "tag": "004",
+            "content": 7087762
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-299195158"
+}

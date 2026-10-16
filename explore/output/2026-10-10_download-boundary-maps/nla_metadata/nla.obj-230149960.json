@@ -1,0 +1,492 @@
+{
+  "id": "23014996",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "4082317",
+  "holdingNumber": "MAP LFSP 621, Folder 45",
+  "pid": "nla.obj-230149960",
+  "title": "Plan of 35 portions measured for auction sale Municipal District of Concord, Parish of Concord, County of Cumberland, Metropolitan Land District [cartographic material] : close to Strathfield & Homebush Railway Stns. on the Gt. S. & W. Railway",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1892",
+  "creator": "New South Wales. Department of Lands.",
+  "extent": "1 map ; 63.9 x 45.5 cm.",
+  "publisherName": "Dept. of Lands",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7611476,
+      "filename": "23015001.jp2",
+      "filesize": 3247406,
+      "technicalmetadata": {
+        "width": 6264,
+        "height": 8410
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 158056912
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02235ced a2200373 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[Loose-leaf Ferguson sales plans]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 4082317
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1892"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Plan of 35 portions measured for auction sale Municipal District of Concord, Parish of Concord, County of Cumberland, Metropolitan Land District"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "close to Strathfield & Homebush Railway Stns. on the Gt. S. & W. Railway /"
+              },
+              {
+                "code": "c",
+                "content": "photo-lithographed at the Government Printing Office ; transferred to stone and printed at the Department of Lands, Sydney, N.S.W. July 1892."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": 3,
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Plan of thirty five portions measured for auction sale Municipal District of Concord, Parish of Concord, County of Cumberland, Metropolitan Land District"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": 3,
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Municipal District of Concord, Parish of Concord, County of Cumberland, Metropolitan Land District"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale not given."
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Dept. of Lands,"
+              },
+              {
+                "code": "c",
+                "content": 1892
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "63.9 x 45.5 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Sales plan for land in the suburb of Homebush in Sydney."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "At head of title: Sale on the ground at Concord on Saturday 3rd September 1892 at 3 p.m., country lots - the portions of land tinted red hereon."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "In upper left margin: No. of lith. A.92.38."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"The cat no. of the origl. plan is C.1549. 2030 L.F.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Inset: Local sketch. Scale [ca. 1:31,680]."
+            },
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP LFSP 621, Folder 45 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-230149960"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Homebush"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Homebush (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Loose-leaf Ferguson sales plans."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP LFSP 621, Folder 45 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-230149960"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "[Loose-leaf Ferguson sales plans]"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)4492592"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "03aea85f-2b33-5a81-a05f-a043127a677e"
+              },
+              {
+                "code": "s",
+                "content": "cc14b225-ac49-5ff0-9877-7b6aaa5df76c"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4082317
+          },
+          {
+            "tag": "005",
+            "content": 20230918233038
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "070711s1892    xna       a  s  0   eng"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP LFSP 621, Folder 45"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4581145
+          },
+          {
+            "tag": "004",
+            "content": 4082317
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "213147581",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "4492592",
+    "holdingNumber": "MAP LFSP, Folder 1-Folder 206",
+    "pid": "nla.obj-2131475812",
+    "title": "Loose-leaf Ferguson sales plans [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1880",
+    "creator": "",
+    "extent": "3,032 maps : some colour",
+    "isMissingPage": "false",
+    "publisherName": "s.n.",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      3729
+    ],
+    "projectIds": [
+      3957,
+      24844,
+      39011
+    ]
+  },
+  "topLevelCollection": "nla.obj-2131475812"
+}

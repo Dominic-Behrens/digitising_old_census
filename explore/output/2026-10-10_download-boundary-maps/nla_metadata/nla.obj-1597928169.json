@@ -1,0 +1,484 @@
+{
+  "id": "159792816",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "subUnitNo": "1",
+  "bibLevel": "Part",
+  "bibId": "4455961",
+  "holdingNumber": "MAP G8974.C6G46 1970",
+  "pid": "nla.obj-1597928169",
+  "title": "Town of Cowra and adjoining lands [cartographic material] : Parishes - Cowra and Mulyan, Counties - Bathurst and Forbes, Land District - Cowra, Shire - Waugoola, Municipality - Cowra : within Division - Central N.S.W. ...",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "commentsExternal": "Available online under Section 200AB of the Copyright Act 1968 for research purposes only.",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1970",
+  "creator": "New South Wales. Department of Lands.",
+  "extent": "1 map on 2 sheets ; 76 x 89 cm., sheets 79 x 59 cm.",
+  "sheetName": "Town of Cowra",
+  "sheetCreationDate": "1970",
+  "additionalSeriesStatement": "Ninth Edition",
+  "publisherName": "Dept. of Lands",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 110833297,
+      "filename": "159796364.jp2",
+      "filesize": 16134371,
+      "technicalmetadata": {
+        "width": 13838,
+        "height": 18722
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 777245688
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01494cem a2200325 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 6336
+              },
+              {
+                "code": "d",
+                "content": "E1483900"
+              },
+              {
+                "code": "e",
+                "content": "E1483900"
+              },
+              {
+                "code": "f",
+                "content": "S0334900"
+              },
+              {
+                "code": "g",
+                "content": "S0334900"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1970"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8974.C6G46 1970"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands."
+              },
+              {
+                "code": 0,
+                "content": 40281
+              },
+              {
+                "code": 9,
+                "content": "b13cf53e-fae9-5e70-91ab-4852fff46b23"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Town of Cowra and adjoining lands"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Parishes - Cowra and Mulyan, Counties - Bathurst and Forbes, Land District - Cowra, Shire - Waugoola, Municipality - Cowra : within Division - Central N.S.W. ..."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "9th ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:6,336]"
+              },
+              {
+                "code": "c",
+                "content": "(E 148\u00b039'/S 33\u00b049')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Dept. of Lands,"
+              },
+              {
+                "code": "c",
+                "content": 1970
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map on 2 sheets ;"
+              },
+              {
+                "code": "c",
+                "content": "76 x 89 cm., sheets 79 x 59 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town map showing parish boundaries and land holdings. Relief shown by hachures."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Date of map - 18th August 1970.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"70.318.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1597928150"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Cowra"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cowra (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cadastral town maps of New South Wales."
+            },
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1597928150"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "18a77927-a842-57ea-9e88-7e598b4a2d9b"
+              },
+              {
+                "code": "i",
+                "content": "e57a1c26-dbd4-525d-b8aa-d051989ad9dd"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4455961
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "080730s1970    xnad      a  s      eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230918223003.1
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.C6G46 1970"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 1"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Sheet 2"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4953030
+          },
+          {
+            "tag": "004",
+            "content": 4455961
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "159792815",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "subUnitType": "Sheet",
+    "bibLevel": "Item",
+    "bibId": "4455961",
+    "holdingNumber": "MAP G8974.C6G46 1970",
+    "pid": "nla.obj-1597928150",
+    "title": "Town of Cowra and adjoining lands [cartographic material] : Parishes - Cowra and Mulyan, Counties - Bathurst and Forbes, Land District - Cowra, Shire - Waugoola, Municipality - Cowra : within Division - Central N.S.W. ...",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "Out of Copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "Available online under Section 200AB of the Copyright Act 1968 for research purposes only.",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1970",
+    "creator": "New South Wales. Department of Lands.",
+    "extent": "1 map on 2 sheets ; 76 x 89 cm., sheets 79 x 59 cm.",
+    "sheetName": "Town of Cowra",
+    "sheetCreationDate": "1970",
+    "additionalSeriesStatement": "Ninth Edition",
+    "publisherName": "Dept. of Lands",
+    "constraints": [
+      "Copyright"
+    ],
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-1597928150"
+}

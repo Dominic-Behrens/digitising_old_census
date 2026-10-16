@@ -1,0 +1,537 @@
+{
+  "id": "23329793",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "1724637",
+  "holdingNumber": "MAP G8971.C32 svar (Copy 1)",
+  "pid": "nla.obj-233297937",
+  "title": "Flood inundation map [cartographic material] : Municipality of Narrabri",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "commentsExternal": "While the National Library of Australia has received permission to make this map available online and provide digital and paper copies, the map remains in copyright to the NSW Office of Environment and Heritage (as successor to NSW Water Resources Commission) for a period of 50 years from date of original publication.     Official NSW government statement: The attached map image is made available for private and educational historical reference only. These maps have been withdrawn from publication and should not be used for decisions on purchases of land or for indications of current flood standards or floodplain mapping. Please contact your local council for the most recent information and maps on flood risk. ",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1977",
+  "creator": "",
+  "extent": "1 map : col. 72 x 70 cm on sheet 79 x 105 cm.",
+  "publisherName": "The Commission",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7722827,
+      "filename": "23329798.jp2",
+      "filesize": 7174992,
+      "technicalmetadata": {
+        "width": 12408,
+        "height": 9280
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 345461144
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02045cem a2200361 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 8127278
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 10000
+              },
+              {
+                "code": "d",
+                "content": "E1494700"
+              },
+              {
+                "code": "e",
+                "content": "E1494700"
+              },
+              {
+                "code": "f",
+                "content": "S0302000"
+              },
+              {
+                "code": "g",
+                "content": "S0302000"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)2156862"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "NCLN"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "NCLN"
+              },
+              {
+                "code": "d",
+                "content": "ABN-SNR"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.C32 svar"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": 4,
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": 551.489
+            },
+            "tag": "082"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Flood inundation map"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Municipality of Narrabri /"
+              },
+              {
+                "code": "c",
+                "content": "Water Resources Commission New South Wales."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "Title on envelope:"
+              },
+              {
+                "code": "a",
+                "content": "Flood inundation map Narrabri"
+              }
+            ],
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:10,000 ;"
+              },
+              {
+                "code": "c",
+                "content": "(E 149°47'/S 30°20')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney?] :"
+              },
+              {
+                "code": "b",
+                "content": "The Commission,"
+              },
+              {
+                "code": "c",
+                "content": 1977
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col."
+              },
+              {
+                "code": "c",
+                "content": "72 x 70 cm on sheet 79 x 105 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map showing areas inundated by a twenty year flood, a fifty year flood and a hundred year flood."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes graphs showing frequency and occurrence of floods, together with notes on flood behaviour, flood heights and flood frequencies."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-233297937"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 5,
+                "content": "ANL"
+              },
+              {
+                "code": "a",
+                "content": "Official NSW government statement: The attached map image <nla.obj-233297937> is made available for private and educational historical reference only. These maps have been withdrawn from publication and should not be used for decisions on purchases of land or for indications of current flood standards or floodplain mapping. Please contact your local council for the most recent information and maps on flood risk."
+              }
+            ],
+            "tag": 540
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Floods"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Narrabri"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Narrabri (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Namoi River (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Australian"
+            },
+            "tag": 653
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Water Resources Commission."
+              },
+              {
+                "code": 0,
+                "content": 99088
+              },
+              {
+                "code": 9,
+                "content": "0f1d0bc1-266c-544f-9ae6-890d5f42c0a8"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-233297937"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "4aeb0415-03e4-56cc-901b-8dd49c169e06"
+              },
+              {
+                "code": "i",
+                "content": "eb6f056d-2c1a-5323-a30c-7cfdf5bb9a04"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1724637
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "901108s1977    xna       a     0   eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20240216165503.5
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.C32 svar"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1480494
+          },
+          {
+            "tag": "004",
+            "content": 1724637
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP2"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.C32 svar"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 2)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 6594940
+          },
+          {
+            "tag": "004",
+            "content": 1724637
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-233297937"
+}

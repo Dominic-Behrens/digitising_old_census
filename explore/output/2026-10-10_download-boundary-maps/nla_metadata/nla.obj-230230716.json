@@ -1,0 +1,530 @@
+{
+  "id": "23023071",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "4266290",
+  "holdingNumber": "MAP LFSP 1157, Folder 77",
+  "pid": "nla.obj-230230716",
+  "title": "Mort's Township [cartographic material] : Hurstville Municipality : auction sale on the ground, at one o'clock Easter Monday 3rd April 1893, special train at 11a.m. from Redfern",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1893",
+  "creator": "Broughton, Ernest C. V.",
+  "extent": "1 map ; 84.3 x 51.8 cm.",
+  "publisherName": "S.T. Leigh & Co Lith.",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7614320,
+      "filename": "23023076.jp2",
+      "filesize": 4379865,
+      "technicalmetadata": {
+        "width": 6816,
+        "height": 10411
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 212910252
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02140ced a2200397 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "d",
+                "content": "E1510500"
+              },
+              {
+                "code": "e",
+                "content": "E1510500"
+              },
+              {
+                "code": "f",
+                "content": "S0335800"
+              },
+              {
+                "code": "g",
+                "content": "S0335800"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[Loose-leaf Ferguson sales plans]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1893"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": "Broughton, Ernest C. V."
+            },
+            "tag": 100
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Mort's Township"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "Hurstville Municipality : auction sale on the ground, at one o'clock Easter Monday 3rd April 1893, special train at 11a.m. from Redfern /"
+              },
+              {
+                "code": "c",
+                "content": "E.G.V. Broughton, auctioneer, 301 Pitt St. Sydney."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": 0,
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Hurstville Municipality"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale not given"
+              },
+              {
+                "code": "c",
+                "content": "(E 151\u00b005'/S 33\u00b058')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "S.T. Leigh & Co Lith.,"
+              },
+              {
+                "code": "c",
+                "content": 1893
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "84.3 x 51.8 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Sales plan for land on Mort's (now Morts) Road, Oxford, Pitt and George Streets, and Martin and Macqarie (now Macquarie) Places in the suburb of Mortdale in Sydney."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Title deeds under Torrens Act, cost 35/-s each if purchase money under \u00a350.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "In lower right corner: Chatfield & Brown, licensed surveyors, under R.P.A. 47 Castlereagh St. Sydney."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "In lower right corner: S.T. Leigh & Co Lith."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "In lower left corner: Terms. \u00a32 per lot deposit. Balance, \u00a3per lot, per month, interest 6 per cent."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP LFSP 1157, Folder 77 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-230230716"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Mortdale"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Mortdale (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "S.T. Leigh & Co."
+              },
+              {
+                "code": 0,
+                "content": 21206
+              },
+              {
+                "code": 9,
+                "content": "36d708e7-98ca-5fed-8777-a9239f08ca94"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Chatfield & Brown."
+            },
+            "tag": 710
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Loose-leaf Ferguson sales plans."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP LFSP 1157, Folder 77 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-230230716"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Library's copy annotated."
+            },
+            "tag": 900
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "[Loose-leaf Ferguson sales plans]"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)4492592"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "983bdf85-2445-51ec-9338-007a80f5c084"
+              },
+              {
+                "code": "i",
+                "content": "56a78be4-67f9-5db4-8bae-b8494265a373"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4266290
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "071119s1893    xna       a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240126044833
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP LFSP 1157, Folder 77"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4775939
+          },
+          {
+            "tag": "004",
+            "content": 4266290
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "213147581",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "4492592",
+    "holdingNumber": "MAP LFSP, Folder 1-Folder 206",
+    "pid": "nla.obj-2131475812",
+    "title": "Loose-leaf Ferguson sales plans [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1880",
+    "creator": "",
+    "extent": "3,032 maps : some colour",
+    "isMissingPage": "false",
+    "publisherName": "s.n.",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      3729
+    ],
+    "projectIds": [
+      3957,
+      24844,
+      39011
+    ]
+  },
+  "topLevelCollection": "nla.obj-2131475812"
+}

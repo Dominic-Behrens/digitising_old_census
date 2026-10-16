@@ -1,0 +1,71 @@
+census_year,state_code,state_name,council_rows,typed_rows,untyped_rows,urban_rows,rural_rows,map_source_id,map_pdf_pages,map_role,individual_outline_status
+1911,vic,Victoria,246,246,0,93,153,abs1911_statisticians_report_nsw_sydney_lga_maps,445;460,census_report_plate,not_audited
+1911,qld,Queensland,171,112,59,31,81,abs1911_statisticians_report_nsw_sydney_lga_maps,448;461,census_report_plate,not_audited
+1911,sa,South Australia,153,153,0,30,123,abs1911_statisticians_report_nsw_sydney_lga_maps,449;464,census_report_plate,not_audited
+1911,wa,Western Australia,55,0,55,0,0,abs1911_statisticians_report_nsw_sydney_lga_maps,452;465,census_report_plate,not_audited
+1911,tas,Tasmania,58,58,0,58,0,abs1911_statisticians_report_nsw_sydney_lga_maps,453;468,census_report_plate,not_audited
+1911,nt,Northern Territory,0,0,0,0,0,abs1911_statisticians_report_nsw_sydney_lga_maps,456,census_report_plate,not_audited
+1911,act,Australian Capital Territory,0,0,0,0,0,,,no_candidate_map_found,no_candidate_map
+1921,vic,Victoria,154,154,0,16,138,abs1921_statisticians_report_nsw_sydney_lga_maps,396;397;408,census_report_plate,not_audited
+1921,qld,Queensland,152,0,152,0,0,abs1921_statisticians_report_nsw_sydney_lga_maps,398;399;409,census_report_plate,not_audited
+1921,sa,South Australia,171,171,0,59,112,abs1921_statisticians_report_nsw_sydney_lga_maps,400;401,census_report_plate,not_audited
+1921,wa,Western Australia,100,0,100,0,0,abs1921_statisticians_report_nsw_sydney_lga_maps,402;403,census_report_plate,not_audited
+1921,tas,Tasmania,71,71,0,71,0,abs1921_statisticians_report_nsw_sydney_lga_maps,404;405,census_report_plate,not_audited
+1921,nt,Northern Territory,0,0,0,0,0,abs1921_statisticians_report_nsw_sydney_lga_maps,406,census_report_plate,not_audited
+1921,act,Australian Capital Territory,0,0,0,0,0,,,no_candidate_map_found,no_candidate_map
+1933,vic,Victoria,153,0,153,0,0,abs1933_statisticians_report_nsw_sydney_lga_maps,469;481,census_report_plate,not_audited
+1933,qld,Queensland,147,147,0,29,118,abs1933_statisticians_report_nsw_sydney_lga_maps,470;480,census_report_plate,not_audited
+1933,sa,South Australia,158,157,1,24,133,abs1933_statisticians_report_nsw_sydney_lga_maps,471;479,census_report_plate,not_audited
+1933,wa,Western Australia,154,154,0,38,116,abs1933_statisticians_report_nsw_sydney_lga_maps,472;478,census_report_plate,not_audited
+1933,tas,Tasmania,25,0,25,0,0,abs1933_statisticians_report_nsw_sydney_lga_maps,473;477,census_report_plate,not_audited
+1933,nt,Northern Territory,0,0,0,0,0,abs1933_statisticians_report_nsw_sydney_lga_maps,475,census_report_plate,not_audited
+1933,act,Australian Capital Territory,0,0,0,0,0,abs1933_statisticians_report_nsw_sydney_lga_maps,474,census_report_plate,not_audited
+1947,vic,Victoria,148,148,0,79,69,abs1947_statisticians_report_nsw_sydney_lga_maps,391;400,census_report_plate,not_audited
+1947,qld,Queensland,132,0,132,0,0,abs1947_statisticians_report_nsw_sydney_lga_maps,395;401,census_report_plate,not_audited
+1947,sa,South Australia,88,48,40,0,48,abs1947_statisticians_report_nsw_sydney_lga_maps,394;402,census_report_plate,not_audited
+1947,wa,Western Australia,136,0,136,0,0,abs1947_statisticians_report_nsw_sydney_lga_maps,390;403,census_report_plate,not_audited
+1947,tas,Tasmania,34,0,34,0,0,abs1947_statisticians_report_nsw_sydney_lga_maps,396;404,census_report_plate,not_audited
+1947,nt,Northern Territory,0,0,0,0,0,abs1947_statisticians_report_nsw_sydney_lga_maps,397,census_report_plate,not_audited
+1947,act,Australian Capital Territory,0,0,0,0,0,abs1947_statisticians_report_nsw_sydney_lga_maps,398,census_report_plate,not_audited
+1954,vic,Victoria,136,136,0,42,94,abs_1954_statisticians_report,431,national_report_plate,not_audited
+1954,qld,Queensland,93,93,0,16,77,abs_1954_statisticians_report,433,national_report_plate,not_audited
+1954,sa,South Australia,129,129,0,37,92,abs_1954_statisticians_report,435,national_report_plate,not_audited
+1954,wa,Western Australia,96,96,0,14,82,abs_1954_statisticians_report,437,national_report_plate,not_audited
+1954,tas,Tasmania,45,45,0,45,0,abs_1954_statisticians_report,439,national_report_plate,not_audited
+1954,nt,Northern Territory,0,0,0,0,0,abs_1954_statisticians_report,440,national_report_plate,not_audited
+1954,act,Australian Capital Territory,0,0,0,0,0,abs_1954_statisticians_report,441,national_report_plate,not_audited
+1961,vic,Victoria,192,192,0,69,123,abs_1961_statisticians_report,503,national_report_plate,not_audited
+1961,qld,Queensland,121,121,0,18,103,abs_1961_statisticians_report,505,national_report_plate,not_audited
+1961,sa,South Australia,54,54,0,17,37,abs_1961_statisticians_report,507,national_report_plate,not_audited
+1961,wa,Western Australia,97,97,0,13,84,abs_1961_statisticians_report,509,national_report_plate,not_audited
+1961,tas,Tasmania,28,28,0,28,0,abs_1961_statisticians_report,511,national_report_plate,not_audited
+1961,nt,Northern Territory,44,0,44,0,0,abs_1961_statisticians_report,513,national_report_plate,not_audited
+1961,act,Australian Capital Territory,0,0,0,0,0,abs_1961_statisticians_report,513,national_report_plate,not_audited
+1966,vic,Victoria,221,221,0,77,144,abs_1966_vic_population_dwellings_lga_with_maps,486;487;488;489;490;491;492;493;494,census_report_plate,not_audited
+1966,qld,Queensland,141,141,0,19,122,abs_1966_qld_population_dwellings_lga_with_maps,440;441;442;443;444;445;446;447;448;449;450;451,census_report_plate,not_audited
+1966,sa,South Australia,145,46,99,45,1,abs_1966_sa_population_dwellings_lga_with_maps,289;290;291;292;293;294;295;296,census_report_plate,not_audited
+1966,wa,Western Australia,151,151,0,17,134,abs_1966_wa_population_dwellings_lga_with_maps,283;284;285;286;287;288;289,census_report_plate,not_audited
+1966,tas,Tasmania,63,63,0,63,0,abs_1966_tas_population_dwellings_lga_with_maps,158;159;160;161;162;163;164,census_report_plate,not_audited
+1966,nt,Northern Territory,77,0,77,0,0,anu_1966_fcs12_nt_police_districts,5,field_count_map,not_audited
+1966,act,Australian Capital Territory,67,0,67,0,0,anu_1966_fcs05_act_administrative_divisions,4,field_count_map,not_audited
+1971,vic,Victoria,148,148,0,35,113,abs_1971_bulletin13_statistical_division_colour_lga_maps,20,census_bulletin_map_sheet,not_audited
+1971,qld,Queensland,94,94,0,10,84,abs_1971_bulletin13_statistical_division_colour_lga_maps,12;13,census_bulletin_map_sheet,not_audited
+1971,sa,South Australia,33,33,0,18,15,abs_1971_bulletin13_statistical_division_colour_lga_maps,7;9;10;11,census_bulletin_map_sheet,not_audited
+1971,wa,Western Australia,102,102,0,9,93,abs_1971_bulletin13_statistical_division_colour_lga_maps,6;8,census_bulletin_map_sheet,not_audited
+1971,tas,Tasmania,14,14,0,14,0,abs_1971_bulletin13_statistical_division_colour_lga_maps,2;14,census_bulletin_map_sheet,not_audited
+1971,nt,Northern Territory,27,1,26,1,0,abs_1971_bulletin13_statistical_division_colour_lga_maps,19,census_bulletin_map_sheet,not_audited
+1971,act,Australian Capital Territory,57,1,56,1,0,abs_1971_bulletin13_statistical_division_colour_lga_maps,16,census_bulletin_map_sheet,not_audited
+1976,vic,Victoria,361,361,0,86,275,anu1976_vic_preliminary_lga_boundary_maps,58;60;61,census_preliminary_boundary_maps,not_audited
+1976,qld,Queensland,187,187,0,30,157,anu1976_qld_preliminary_lga_boundary_maps,55;58;59;61;64,census_preliminary_boundary_maps,not_audited
+1976,sa,South Australia,52,52,0,52,0,anu1976_sa_preliminary_lga_boundary_maps,45;47;50,census_preliminary_boundary_maps,not_audited
+1976,wa,Western Australia,166,166,0,23,143,anu1976_wa_preliminary_lga_boundary_maps,43;45,census_preliminary_boundary_maps,not_audited
+1976,tas,Tasmania,67,66,1,66,0,anu1976_tas_preliminary_lga_boundary_maps,29;30;31;33,census_preliminary_boundary_maps,not_audited
+1976,nt,Northern Territory,6,6,0,6,0,anu1976_nt_preliminary_lga_boundary_maps,26;27,census_preliminary_boundary_maps,not_audited
+1976,act,Australian Capital Territory,122,0,122,0,0,anu1976_act_preliminary_lga_boundary_maps,25,census_preliminary_boundary_maps,not_audited
+1981,vic,Victoria,210,210,0,83,127,abs_1981_vic_lga_urban_centres_with_maps,53;55;57,census_report_plate,not_audited
+1981,qld,Queensland,139,139,0,22,117,abs_1981_qld_lga_urban_centres_with_maps,58;60;62;64,census_report_plate,not_audited
+1981,sa,South Australia,134,134,0,36,98,abs_1981_sa_lga_urban_centres_with_maps,47;49;51;53,census_report_plate,not_audited
+1981,wa,Western Australia,144,144,0,25,119,abs_1981_wa_lga_urban_centres_with_maps,42;43;44,census_report_plate,not_audited
+1981,tas,Tasmania,47,47,0,47,0,abs_1981_tas_lga_urban_centres_with_maps,23;31;32;33;34,census_report_plate,not_audited
+1981,nt,Northern Territory,4,4,0,4,0,abs_1981_nt_lga_urban_centres_with_maps,28,census_report_plate,not_audited
+1981,act,Australian Capital Territory,130,0,130,0,0,abs_1981_act_lga_urban_centres_with_maps,27;29,census_report_plate,not_audited

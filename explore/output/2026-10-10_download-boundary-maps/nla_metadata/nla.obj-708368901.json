@@ -1,0 +1,546 @@
+{
+  "id": "70836890",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "bibLevel": "Set",
+  "bibId": "2988163",
+  "holdingNumber": "MAP J.F.N. Murray 1-99",
+  "pid": "nla.obj-708368901",
+  "title": "J.F.N. Murray map collection [cartographic material].",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Mixed copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "commentsExternal": "For number 4 in the collection see copy in general collection at nla.obj-446075639. For number 8 see copies at nla.obj-233899413. For number 22 see copy at nla.obj-559296001. For numbers 23 and 24 see copy at nla.obj-559291588. For number 26 see copy at nla.obj-559296235. For number 29 see copy at nla.obj-631395259. For number 30 see copy at nla.obj-631395414. For number 32 see copy at nla.obj-661810093. For number 33 see copy at nla.obj-567667281. For number 34 see copy at nla.obj-678124279. For number 99 see copy at nla.obj-275663923.",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1916",
+  "creator": "Murray, J. F. N. (John Francis Nowell), 1900-",
+  "extent": "94 maps : some col.",
+  "isMissingPage": "false",
+  "publisherName": "",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02072cec a2200421 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 20775882
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNL)2988163"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 2988163
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "u-at-ne"
+              },
+              {
+                "code": "a",
+                "content": "u-at-tm"
+              },
+              {
+                "code": "a",
+                "content": "a-pp---"
+              }
+            ],
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1916"
+              },
+              {
+                "code": "b",
+                "content": "d1972"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Murray, J. F. N."
+              },
+              {
+                "code": "q",
+                "content": "(John Francis Nowell),"
+              },
+              {
+                "code": "d",
+                "content": "1900-"
+              },
+              {
+                "code": 0,
+                "content": 39259
+              },
+              {
+                "code": 9,
+                "content": "91ac645a-30f0-5729-802f-c438f83cbcb5"
+              }
+            ],
+            "tag": 100
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "J.F.N. Murray map collection"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scales differ."
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "c",
+              "content": "1916-1972."
+            },
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "94 maps :"
+              },
+              {
+                "code": "b",
+                "content": "some col."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Topographic maps of Australia at various scales; cadastral maps of N.S.W. and Tasmania; railway maps relating to Bell Bay, Tasmania; maps of Hobart and some overseas maps relating to Papua New Guinea and New Zealand."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-708368901"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Valuer. Held senior appointments as a Commonwealth valuer in Tasmania and N.S.W. later becoming Chairman of the Commonwealth Valuations Appeals Boards (1948-1965). A consultant to overseas governments including Singapore, Jamaica and Ghana, Murray also wrote and lectured on valuation practice."
+            },
+            "tag": 545
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Murray, J. F. N."
+              },
+              {
+                "code": "q",
+                "content": "(John Francis Nowell),"
+              },
+              {
+                "code": "d",
+                "content": "1900-"
+              },
+              {
+                "code": "v",
+                "content": "Archives."
+              },
+              {
+                "code": 0,
+                "content": 39259
+              },
+              {
+                "code": 9,
+                "content": "91ac645a-30f0-5729-802f-c438f83cbcb5"
+              }
+            ],
+            "tag": 600
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "Tasmania"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Railroads"
+              },
+              {
+                "code": "z",
+                "content": "Tasmania"
+              },
+              {
+                "code": "z",
+                "content": "Bell Bay"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Tasmania"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Bell Bay (Tas.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Hobart (Tas.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Australia"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Papua New Guinea"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Topographic maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New Zealand."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands and Survey."
+              },
+              {
+                "code": "t",
+                "content": "N.Z. topographical map 1:63,360."
+              }
+            ],
+            "tag": 810
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-708368901"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "74ec4baf-8c75-5c75-a2f3-816cba050163"
+              },
+              {
+                "code": "s",
+                "content": "cd97412e-9a15-5327-9111-76f045b66d0f"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 2988163
+          },
+          {
+            "tag": "005",
+            "content": 20240128193341.5
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "990916i19161972xx        b     0   eng"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP J.F.N. Murray 1-99"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 2058562
+          },
+          {
+            "tag": "004",
+            "content": 2988163
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-708368901"
+}

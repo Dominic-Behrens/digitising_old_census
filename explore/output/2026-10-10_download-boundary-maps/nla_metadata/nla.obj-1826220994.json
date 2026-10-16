@@ -1,0 +1,411 @@
+{
+  "id": "182622099",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subType": "page",
+  "subUnitType": "Cover - Front",
+  "expiryDate": "Tue, 01 Jan 2030",
+  "bibLevel": "Part",
+  "bibId": "4666712",
+  "holdingNumber": "MAP J.F.N. Murray 79",
+  "pid": "nla.obj-1826220994",
+  "title": "The new & revised authentic map directory of Greater Auckland [cartographic material] : including North Shore, East Coast bays, Henderson, Mangere, Howick, Otahuhu, Papatoetoe, Manurewa, Papakura, Pukekohe, with notes on parking & traffic regulations, places of interest, motels, motor camps, city buildings, emmergency telephone numbers, travel formalities.",
+  "accessConditions": "Onsite Only",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1960",
+  "creator": "New Zealand Map and Guide Company.",
+  "extent": "140 p. : maps (1 fold. col.) ; 22 cm.",
+  "isMissingPage": "false",
+  "publisherName": "New Zealand Map and Guide Co.",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 114696203,
+      "filename": "182622107.jp2",
+      "filesize": 1245944,
+      "technicalmetadata": {
+        "width": 3605,
+        "height": 5474
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "false",
+      "filesize": 118432092
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01406ced a22002654  4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "[J.F.N. Murray map collection]"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 4666712
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "OCoLC"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-nz---"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "G2799.A8"
+              },
+              {
+                "code": "b",
+                "content": "N42 1960"
+              }
+            ],
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "New Zealand Map and Guide Company."
+            },
+            "tag": 110
+          },
+          {
+            "ind2": 4,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "The new & revised authentic map directory of Greater Auckland"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "including North Shore, East Coast bays, Henderson, Mangere, Howick, Otahuhu, Papatoetoe, Manurewa, Papakura, Pukekohe, with notes on parking & traffic regulations, places of interest, motels, motor camps, city buildings, emmergency telephone numbers, travel formalities."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Auckland :"
+              },
+              {
+                "code": "b",
+                "content": "New Zealand Map and Guide Co.,"
+              },
+              {
+                "code": "c",
+                "content": "[1960]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "140 p. :"
+              },
+              {
+                "code": "b",
+                "content": "maps (1 fold. col.) ;"
+              },
+              {
+                "code": "c",
+                "content": "22 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Cover title."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Running title: Auckland map directory."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1826188493"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Auckland (N.Z.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Auckland (N.Z.)"
+              },
+              {
+                "code": "x",
+                "content": "Suburbs and environs"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "J.F.N. Murray map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item: Access available in National Library of Australia reading rooms."
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1826188493"
+              },
+              {
+                "code": "x",
+                "content": "ISD5:ANL"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "J.F.N. Murray map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)2988163"
+              }
+            ],
+            "tag": 973
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "02bc5401-dfa9-57b6-a9f7-2016f45c4fea"
+              },
+              {
+                "code": "s",
+                "content": "5f5825ba-0434-55ab-8f4c-04b8cc3d6d4d"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4666712
+          },
+          {
+            "tag": "005",
+            "content": 20191203152051
+          },
+          {
+            "tag": "008",
+            "content": "740205s1960    nz        e     0   eng d"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP J.F.N. Murray 79"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5183963
+          },
+          {
+            "tag": "004",
+            "content": 4666712
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "182618849",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Book",
+    "displayTitlePage": "false",
+    "expiryDate": "Tue, 01 Jan 2030",
+    "subUnitNo": "J.F.N. Murray Collection / 79",
+    "bibLevel": "Item",
+    "bibId": "4666712",
+    "holdingNumber": "MAP J.F.N. Murray 79",
+    "pid": "nla.obj-1826188493",
+    "title": "The new & revised authentic map directory of Greater Auckland [cartographic material] : including North Shore, East Coast bays, Henderson, Mangere, Howick, Otahuhu, Papatoetoe, Manurewa, Papakura, Pukekohe, with notes on parking & traffic regulations, places of interest, motels, motor camps, city buildings, emmergency telephone numbers, travel formalities.",
+    "accessConditions": "Onsite Only",
+    "copyrightPolicy": "In Copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1960",
+    "creator": "New Zealand Map and Guide Company.",
+    "extent": "140 p. : maps (1 fold. col.) ; 22 cm.",
+    "isMissingPage": "false",
+    "publisherName": "New Zealand Map and Guide Co.",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-708368901"
+}

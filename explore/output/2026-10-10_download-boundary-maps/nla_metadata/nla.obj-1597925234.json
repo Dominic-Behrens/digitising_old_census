@@ -1,0 +1,587 @@
+{
+  "id": "159792523",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "expiryDate": "Fri, 01 Jan 2027",
+  "subUnitNo": "5",
+  "bibLevel": "Part",
+  "bibId": "6970100",
+  "holdingNumber": "MAP G8974.C6G46 s4",
+  "pid": "nla.obj-1597925234",
+  "title": "Cooma Q0982",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "In Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1977",
+  "creator": "Central Mapping Authority of New South Wales, cartographer, issuing body.",
+  "extent": "1 map ; sheets 73 x 100 cm",
+  "sheetCreationDate": "1977",
+  "additionalSeriesStatement": "N.S.W. Australia 1:4000 cadastral series",
+  "publisherName": "Central Mapping Authority",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 110834303,
+      "filename": "159803339.jp2",
+      "filesize": 25681413,
+      "technicalmetadata": {
+        "width": 23730,
+        "height": 17295
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1231250032
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02223cem a2200409 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 4000
+              },
+              {
+                "code": "d",
+                "content": "E1490250"
+              },
+              {
+                "code": "e",
+                "content": "E1491040"
+              },
+              {
+                "code": "f",
+                "content": "S0361119"
+              },
+              {
+                "code": "g",
+                "content": "S0361827"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1977"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8974.C6G46 s4"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Central Mapping Authority of New South Wales,"
+              },
+              {
+                "code": "e",
+                "content": "cartographer,"
+              },
+              {
+                "code": "e",
+                "content": "issuing body."
+              },
+              {
+                "code": 0,
+                "content": 344907
+              },
+              {
+                "code": 9,
+                "content": "266239a0-55f5-5f51-80cc-662549e2dcaf"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cooma Q0982 /"
+              },
+              {
+                "code": "c",
+                "content": "produced by the Central Mapping Authority of New South Wales."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "First edition 1977."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:4,000 ;"
+              },
+              {
+                "code": "b",
+                "content": "transverse Mercator projection in 2\u00b0 zones"
+              },
+              {
+                "code": "c",
+                "content": "(E 149\u00b002\u02b950\u02ba--E 149\u00b010\u02b940\u02ba/S 36\u00b011\u02b919\u02ba--S 36\u00b018\u02b927\u02ba)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney, New South Wales] :"
+              },
+              {
+                "code": "b",
+                "content": "Central Mapping Authority,"
+              },
+              {
+                "code": "c",
+                "content": "[1977]"
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "sheets 73 x 100 cm"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "N.S.W. Australia 1:4000 cadastral series ;"
+              },
+              {
+                "code": "v",
+                "content": "Q0982"
+              }
+            ],
+            "tag": 490
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of Cooma, New South Wales showing parish boundaries, county boundaries, city, municipal and shire boundaries, portions and allotment numbers, crown section, lot and private section numbers, deposited and filed plan numbers, unregistered deposited plan and strata plan numbers."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Date of updating ranges from Jun 1977-Dec 1977."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Grid: Integration Survey Grid, Zone 55-3, Central Meridian 149\u00b0E\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes key to adjoining sheets, key to localities, key to local government areas, key to parishes and counties, and legend."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "t",
+                "content": "Cooma Q0982-2 --"
+              },
+              {
+                "code": "t",
+                "content": "Cooma Q0982-5"
+              }
+            ],
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP G8974.C6G46 s4 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1597924881"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Cooma"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cooma (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Cadastral maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "N.S.W. Australia 1:4000 cadastral series ;"
+              },
+              {
+                "code": "v",
+                "content": "Q0982."
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP G8974.C6G46 s4 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1597924881"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "97fbcd03-71fe-5fb0-91fb-74418b47c909"
+              },
+              {
+                "code": "i",
+                "content": "30406161-9215-5fd8-a525-7b7c462b479d"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 6970100
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "151105s1977    xna    bh a  s  0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240325150920.3
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.C6G46 s4"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7635262
+          },
+          {
+            "tag": "004",
+            "content": 6970100
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "159792488",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "subUnitType": "Sheet",
+    "expiryDate": "Fri, 01 Jan 2027",
+    "bibLevel": "Item",
+    "bibId": "6970100",
+    "holdingNumber": "MAP G8974.C6G46 s4",
+    "pid": "nla.obj-1597924881",
+    "title": "Cooma Q0982",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "In Copyright",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1977",
+    "creator": "Central Mapping Authority of New South Wales, cartographer, issuing body.",
+    "extent": "1 map ; sheets 73 x 100 cm",
+    "isMissingPage": "false",
+    "sheetCreationDate": "1977",
+    "additionalSeriesStatement": "N.S.W. Australia 1:4000 cadastral series",
+    "publisherName": "Central Mapping Authority",
+    "constraints": [
+      "Copyright"
+    ],
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-1597924881"
+}

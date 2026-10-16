@@ -1,6 +1,6 @@
 # The Loop
 
-## Current decisions — 22 September 2026
+## Current decisions — 1 October 2026
 
 - All 108 accepted human decisions are archived outside the disposable dashboard
   in `data/intermediate/page_inventory/abs_1911_manual_page_overrides.csv`.
@@ -19,10 +19,108 @@
 - NSW extraction uses source geometry plus explicit image-backed corrections,
   never residual adjustments to force totals. Keep printed ratios in their source
   area units, and retain row-level provenance.
-- `README.md` gives offline regeneration commands. `data-notes.md` records current
-  counts, validation, source exclusions and remaining mapping gaps.
+- Pilot table-cell extraction uses DeepSeek V4.1 Flash with optional reasoning
+  disabled and a US$5 ceiling. Keep results exploratory until source checks pass.
+  Benchmark values stay out of prompts; context-page findings cannot silently
+  override accepted mappings. Preserve printed marks rather than infer zero.
+- Second-pass extraction uses source-reviewed regions, row-ID gutters and explicit
+  unit boundaries. Supplied metadata is not evidence of model inference quality.
+  Preserve the baseline and each cell's request/image provenance in derived outputs.
+- Use source-row IDs for pairing and coverage. Keep model-spelled names separate;
+  do not repair joins by silently modernising names or borrowing benchmark labels.
+- Recovery must preserve completed requests and retain a conservative reserve for
+  any interrupted call whose remote charge is unknown.
+- Ages page 63 is source-verified as Tables 34 | 35, not the classifier's
+  Table 36. With user approval, the page 61 human review is amended from 33 to
+  33 | 34; retain the original decision in the override note. Table 34 maps to
+  pages 60–63. Keep the pilot's original request manifest and context labels
+  for offline replay; a later map correction must not trigger a paid duplicate.
+- Bulk scope: all data tables, numbered or unnumbered, in the 14 Volume II–III
+  detailed-table PDFs; retain the earlier exclusion of reports, Notes and index
+  PDFs. Output faithful source cells with raw marks, printed row/column labels,
+  page/region provenance and QA status, not harmonised analytical variables.
+- Use OpenCode Go first for the other detailed-table PDFs while Zen balance
+  overage remains disabled. Go HTTP 402 does not authorise paid fallback.
+- For the 1911 Dwellings Part XIII source-region extraction only, the user
+  authorised OpenRouter GPT-6 Luna and raised cumulative project paid spend
+  to US$20, including earlier pilot and fallback work. New unknown charges
+  reserve US$0.50 each. On 25 September the user released the existing
+  US$8.3538944 holds without asserting zero provider charges. Keep those
+  failed attempts and release records auditable; no other document inherits
+  paid permission. Model cells remain unaccepted source-review candidates.
+- Use a proven Azure regional Luna route for Dwellings only; pause on an
+  upstream 429 rather than repeatedly spending unknown-charge reserves.
+  Failed regions can be explicitly retried, never silently accepted. A
+  returned response does not establish cell accuracy or complete a table.
+- The broad generic Go crops failed source checks: some NSW rows had no
+  numeric values and the Ages male total was labelled `Shipping`. Stop
+  generic bulk requests. The user chose source-anchored extraction instead:
+  locate PDF row geometry, label source crops, bind model output to each
+  row ID, and quarantine missing or inconsistent cells. No model answer
+  alone accepts a table. Retain old responses as diagnostic evidence.
+- Export Dwellings for review as one filterable, long-format cell table per
+  printed table; preserve unassigned cells separately. Raw marks and varying
+  page-level headings remain text and source-linked, not analytical variables.
+  Label the workbook unverified; do not create inferred totals or accepted data.
+- Extraction QA dashboard is a read-only snapshot of candidate cells beside
+  original crops. Keep local model labels distinct from source-linked labels;
+  checking a crop does not accept a table or amend the extraction ledger.
+- All 209 detected unnumbered title/grid candidates were source-reviewed
+  as numbered-table subsections or continuations; this screen found no
+  independently confirmed unnumbered table. Treat an odd/right-hand page as
+  a full page: upper and lower panels can continue different numbered tables.
+  Keep source-verified page overrides and printed-number exceptions separate
+  from contents table IDs; do not apply a global page-offset rule.
+- For split tables, use a row or column label from another page only when
+  that page is identified as the same numbered table. Otherwise leave the
+  label unresolved; do not borrow headings from a preceding table.
+- The Dwellings review export uses real numeric cells and visible formula checks
+  in `dwellings_numeric_checked.xlsx`, retaining the 68-table layout and the
+  text-only baseline. Never repair source figures from arithmetic residuals.
+  Missing/ambiguous checks stay incomplete; failed checks remain visible.
+  Numeric edits recalculate in Excel; grouping/precision corrections need a rebuild.
+  Map rows by printed numeric grids and category/class identities, never a
+  balancing residual. Keep Table 67's shared area/density separate from division
+  measures. Pin the rebuild runtime and retain input/code/output hashes;
+  identical inputs and epoch must reproduce identical workbook bytes.
+- For future documents, inventory printed rows, sections, units and column grids
+  before mapping model proposals. A valid total is not evidence of correct digits.
+  Distinguish printed absence, missing extraction, source damage and publication
+  conflicts. Reuse the audit protocol, not Dwellings-specific corrections.
+- A total anchor must not move a source-confirmed row into another rental bin.
+  Verify the full rebuild and actual Excel recalculation/live edits, not caches
+  or partial test contexts alone. Keep independent review and revised readings
+  in the durable tab audit; source review does not accept analytical data.
+- `README.md` gives offline regeneration commands. `data-notes.md` records source
+  exclusions, printed-number exceptions and unresolved cell QA.
 - Earlier entries below are historical; their missing-data and review-queue
   statements are superseded by the current outputs.
+
+## 2026-10-10 — historical map collection
+
+- First GIS target: **1911 NSW local government areas**. Keep georeferenced
+  images plus complete LGA polygons (municipalities and shires). Ward extraction
+  is deferred; internal ward lines are context only. The offline pilot freezes its source
+  register; map preparation does not accept census-date geography. Use approved
+  NSW reference mapping and GDA2020 / MGA zone 56 for the Strathfield trial,
+  aimed at LGA-level census mapping/comparisons. Positional acceptance tolerance
+  and map API spend remain unset. Design and trial replay are in README.
+- Keep downloaded map scans unchanged in `data/raw/historical_boundary_maps/`.
+  Keep source URLs, catalogue dates, dimensions and hashes in the downloader's
+  manifest. Digitised/georeferenced derivatives belong in `data/intermediate/`.
+  Keep native source boundary exports as a distinct kind; preserve their date
+  fields and verify feature counts. They do not require tracing.
+- Prioritise external LGA boundaries in further map searches (user instruction).
+  Add ward maps only where they also provide useful LGA perimeter evidence.
+- Preserve distinct editions and copies. Check dates before joining historical
+  municipal boundaries to census areas; an atlas suburb title is not a modern
+  suburb definition. Geography/period expansion remains to be settled.
+- Preserve proposed, petitioned/proclaimed and library holdings maps as distinct
+  kinds. Label parish maps with LGA lines separately; coverage may be partial.
+  Keep a cadastral sheet wholly inside one LGA as companion context; do not
+  count it as a boundary scan.
+  Keep planning zones separate from LGA boundaries. Publication dates can
+  differ from base-map and boundary-overprint dates.
 
 ## 2026-06-19
 
@@ -323,3 +421,67 @@
   explicitly; outside-index table numbers require an evidence note.
 - On 22 September, discarded saved dashboard decisions at the user's request.
   Model adjudications and source data were retained.
+
+## 2026-09-25: Dwellings table-only workbook
+
+- Recreate one table-shaped worksheet for each of the 68 contents-indexed
+  Dwellings tables; standardise dimension fields such as `state` and `council`.
+- Keep source strings, not reconstructed numeric types; no summary, QA,
+  provenance, or unassigned sheets.
+- Treat the one-off `69` heading on PDF page 186 as a numbering anomaly in
+  indexed Table 68: the contents entry and surrounding continuation pages
+  support one table, not an additional Table 69.
+
+- Preserve state and area-type labels across continuation panels; the PDF
+  page 179 split between the end of Table 66 and start of Table 67 is
+  resolved by its printed page positions.
+
+## 2026-10-01: Dwellings continuation repair
+
+- Join printed facing-page panels by their table, section and row identity;
+  never reuse page-local cell indexes as final workbook column indexes.
+- Recover readable gaps from the immutable PDF and documented image reads.
+  No inferred zeros, guessed digits or total-residual balancing. Keep genuine
+  printed blank columns and source annotations.
+- Keep Table 68's area unit explicit; acres and square miles cannot share an
+  `area_acres` heading. Unit fields belong in the table, not a new QA sheet.
+- A populated-column check is not a digit audit. Use source-value checks and
+  independent bounded review before treating the workbook as report data.
+
+
+### Census LGA coverage panel —14October2026
+- User chose published census LGAs, from1911 to the start of available digital boundaries. Flag date conflicts and non-council units.
+- Working digital endpoint1981: official ABS GeoPackage downloaded. Keep council type in keys and collapse statistical parts to whole councils.
+- Use the full census-year roster as the map-audit denominator. Keep name-review flags and individual-outline checks visible; file totals are not completeness measures.
+- Sydney follows each census's published metropolitan/statistical region. Include whole councils that intersect it and flag published council parts. Do not impose a modern Sydney footprint or silently add the separate Outer Sydney division.
+
+## 2026-10-16: Other-state LGA census panel
+
+- Extended the NSW LGA x census panel to VIC, QLD, SA, WA, TAS, NT and ACT for
+  1911-1981 using the same source family: census volumes for rosters, census map
+  plates for candidate maps. Nothing is inferred from modern geography.
+- Every panel row links to a candidate map source for its state and census year
+  (`map_source_candidates.csv` holds the plate page lists). Individual outlines
+  remain not audited, matching the NSW panel convention.
+- NT and ACT rows are published divisions and districts, not councils; keep them
+  with `unit_class` set rather than dropping them. The ACT has no LGA maps in the
+  1911, 1921 and 1961 volumes; record that gap explicitly instead of substituting
+  a modern boundary.
+- Rebuild with `explore/2026-10-16_download-other-states-lga-census-maps.py`
+  then `explore/2026-10-16_other-states-lga-census-panel.py`. The 1976 LGA
+  bulletins carry no data; the ANU preliminary volumes are the 1976 source.
+- OCR quality bounds the rosters. Names are flagged for review and OCR variants
+  are merged by edit distance; counts are a lower bound, not a published total.
+
+## 2026-10-17: Map digitisation readiness ratings
+
+- Rated all 240 candidate plates (NSW and other states) A-D: resolution, boundary line work,
+  colour separation, and reference features. Weak plates carry the blocker and a named
+  better source.
+- Rescues found and registered: 1954/1961 Statistician's Report series (sharper statewide maps),
+  1971 Field Count Statement metro maps, 1966 territory maps from ANU field counts, and the
+  1966 Tasmania Bulletin No 6.8 sheet.
+- Honest gaps remain: 1911 statewide municipal maps for VIC/QLD/SA/WA/TAS are not digitised
+  anywhere we can reach; 1966 VIC/QLD/SA/WA stay low resolution; NT/ACT units are districts,
+  not councils.
+- 1981 is a digitising no-op: the ABS GeoPackage already carries the geometry.

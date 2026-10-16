@@ -1,0 +1,122 @@
+1911: 763 rows
+1921: 664 rows
+1933: 655 rows
+1947: 563 rows
+1954 vic: 154 rows, index pages [3, 155, 156]
+1961 vic: 203 rows, index pages [3, 102, 103]
+1966 vic: 2199 rows (abs_1966_vic_population_dwellings_lga_with_maps.pdf)
+1971 vic: 206 rows
+1976 vic: 754 rows
+1981 vic: 848 rows (abs_1981_vic_lga_urban_centres_with_maps.pdf)
+1954 qld: 111 rows, index pages [3, 168, 169]
+1961 qld: 125 rows, index pages [3, 103, 104]
+1966 qld: 1359 rows (abs_1966_qld_population_dwellings_lga_with_maps.pdf)
+1971 qld: 143 rows
+1976 qld: 456 rows
+1981 qld: 607 rows (abs_1981_qld_lga_urban_centres_with_maps.pdf)
+1954 sa: 138 rows, index pages [3, 95, 96]
+1961 sa: 56 rows, index pages [5, 58]
+1966 sa: 1397 rows (abs_1966_sa_population_dwellings_lga_with_maps.pdf)
+1971 sa: 46 rows
+1976 sa: 148 rows
+1981 sa: 636 rows (abs_1981_sa_lga_urban_centres_with_maps.pdf)
+1954 wa: 107 rows, index pages [3, 109]
+1961 wa: 112 rows, index pages [3, 78, 79]
+1966 wa: 1500 rows (abs_1966_wa_population_dwellings_lga_with_maps.pdf)
+1971 wa: 147 rows
+1976 wa: 311 rows
+1981 wa: 429 rows (abs_1981_wa_lga_urban_centres_with_maps.pdf)
+1954 tas: 51 rows, index pages [68]
+1961 tas: 33 rows, index pages [3, 54]
+1966 tas: 531 rows (abs_1966_tas_population_dwellings_lga_with_maps.pdf)
+1971 tas: 19 rows
+1976 tas: 159 rows
+1981 tas: 277 rows (abs_1981_tas_lga_urban_centres_with_maps.pdf)
+1954 nt: 0 rows, index pages []
+1961 nt: 0 rows, index pages []
+1966 nt: 0 rows (abs_1966_nt_act_population_dwellings_lga_with_maps.pdf)
+1971 nt: 1 rows
+1976 nt: 9 rows
+1981 nt: 16 rows (abs_1981_nt_lga_urban_centres_with_maps.pdf)
+1954 act: 0 rows, index pages []
+1961 act: 0 rows, index pages []
+1966 act: 0 rows (abs_1966_nt_act_population_dwellings_lga_with_maps.pdf)
+1971 act: 1 rows
+1976 act: 0 rows
+1981 act: 0 rows (abs_1981_act_lga_urban_centres_with_maps.pdf)
+1954 nt (territory): 0 rows
+1954 act (territory): 0 rows
+1961 nt (territory): 47 rows
+1961 act (territory): 0 rows
+1966 None (territory): 320 rows
+1971 None (territory): 96 rows
+1976 act (territory): 227 rows
+1981 act (territory): 459 rows
+raw rows 17083
+name filter: 315 rows dropped as OCR debris
+deduped rows 6650 (after OCR-variant merge)
+  1911 qld: 171
+  1911 sa: 153
+  1911 tas: 58
+  1911 vic: 246
+  1911 wa: 55
+  1921 qld: 152
+  1921 sa: 171
+  1921 tas: 71
+  1921 vic: 154
+  1921 wa: 100
+  1933 qld: 147
+  1933 sa: 158
+  1933 tas: 25
+  1933 vic: 153
+  1933 wa: 154
+  1947 qld: 132
+  1947 sa: 88
+  1947 tas: 34
+  1947 vic: 148
+  1947 wa: 136
+  1954 qld: 93
+  1954 sa: 129
+  1954 tas: 45
+  1954 vic: 136
+  1954 wa: 96
+  1961 nt: 44
+  1961 qld: 121
+  1961 sa: 54
+  1961 tas: 28
+  1961 vic: 192
+  1961 wa: 97
+  1966 act: 67
+  1966 nt: 77
+  1966 qld: 141
+  1966 sa: 145
+  1966 tas: 63
+  1966 vic: 221
+  1966 wa: 151
+  1971 act: 57
+  1971 nt: 27
+  1971 qld: 94
+  1971 sa: 33
+  1971 tas: 14
+  1971 vic: 148
+  1971 wa: 102
+  1976 act: 122
+  1976 nt: 6
+  1976 qld: 187
+  1976 sa: 52
+  1976 tas: 67
+  1976 vic: 361
+  1976 wa: 166
+  1981 act: 130
+  1981 nt: 4
+  1981 qld: 139
+  1981 sa: 134
+  1981 tas: 47
+  1981 vic: 210
+  1981 wa: 144
+  1981 coverage vic: 202/210 (96%)
+  1981 coverage qld: 133/134 (99%)
+  1981 coverage sa: 123/128 (96%)
+  1981 coverage wa: 135/138 (98%)
+  1981 coverage tas: 47/49 (96%)
+panel rows 6650; review queue 5266; sources 115

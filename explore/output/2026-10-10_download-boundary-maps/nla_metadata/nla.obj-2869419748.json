@@ -1,0 +1,634 @@
+{
+  "id": "286941974",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subType": "page",
+  "subUnitType": "Map",
+  "bibLevel": "Part",
+  "bibId": "4977688",
+  "holdingNumber": "MAP G8971.P8 1926",
+  "pid": "nla.obj-2869419748",
+  "title": "Commercial map of New South Wales showing shires and municipalities [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1926",
+  "creator": "H.E.C. Robinson (Firm)",
+  "extent": "1 map : col., mounted on linen ; 119 x 144 cm., folded to 32 x 25 cm. + 1 index (1 sheet ; 36 x 150 cm., folded to 18 x 26 cm.)",
+  "isMissingPage": "false",
+  "publisherName": "H.E.C. Robinson",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 135540357,
+      "filename": "286941994.jp2",
+      "filesize": 66401230,
+      "technicalmetadata": {
+        "width": 35749,
+        "height": 29971
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 3214323204
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [
+    39051
+  ],
+  "projectIds": [
+    39045
+  ],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02267cem a2200325 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 1013760
+              },
+              {
+                "code": "d",
+                "content": "E1400000"
+              },
+              {
+                "code": "e",
+                "content": "E1560000"
+              },
+              {
+                "code": "f",
+                "content": "S0271000"
+              },
+              {
+                "code": "g",
+                "content": "S0380000"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1925"
+              },
+              {
+                "code": "b",
+                "content": "d1926"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.P8 1926"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "H.E.C. Robinson (Firm)"
+              },
+              {
+                "code": 0,
+                "content": 396329
+              },
+              {
+                "code": 9,
+                "content": "9e864f8a-7b70-548f-9175-0960cf604c15"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Commercial map of New South Wales showing shires and municipalities"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "H.E.C. Robinson Ltd."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "5th ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [1:1,013,760], 16 miles to an inch"
+              },
+              {
+                "code": "c",
+                "content": "(E 140\u00b000'--E 156\u00b000'/S 27\u00b010'--S 38\u00b000')"
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "H.E.C. Robinson,"
+              },
+              {
+                "code": "c",
+                "content": "[1926]."
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col., mounted on linen ;"
+              },
+              {
+                "code": "c",
+                "content": "119 x 144 cm., folded to 32 x 25 cm. +"
+              },
+              {
+                "code": "e",
+                "content": "1 index (1 sheet ; 36 x 150 cm., folded to 18 x 26 cm.)"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Commercial map of New South Wales featuring post offices, receiving offices, calling places, telegraph and telephone offices, telephone exchanges, mail routes. Municipalities have been tinted dark green with shires coloured variously. The second sheet accompanying the map is an alphabetical Index to Places and also includes a table of Area, Population and Dwellings of Shires and Municipalties as at 31 Dec 1925."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"625061\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": 0,
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Insets:"
+              },
+              {
+                "code": "t",
+                "content": "Diagram A."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:380,160] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram B."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:380,160] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram C."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:380,160] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram D."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:380,160] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram E."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:63,360] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram F."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:253,440] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram G."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:380,160] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram H."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:380,160] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram J."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:380,160] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram K."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:126,720] --"
+              },
+              {
+                "code": "t",
+                "content": "Diagram L."
+              },
+              {
+                "code": "g",
+                "content": "Scale [ca. 1:316,800]."
+              }
+            ],
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP G8971.P8 1926 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-2869419346"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Communication and traffic"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Postal service"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP G8971.P8 1926 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-2869419346"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "c50c73d8-82b0-550e-a219-5bfcc73a210f"
+              },
+              {
+                "code": "i",
+                "content": "c4cfda17-1119-5a3b-8d39-6cf65d98d669"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4977688
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "101006s1926    xna       a     1   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230924230226.7
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.P8 1926"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "Map sheet"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5511314
+          },
+          {
+            "tag": "004",
+            "content": 4977688
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.P8 1926"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 1,
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Index sheet"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5516097
+          },
+          {
+            "tag": "004",
+            "content": 4977688
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "286941934",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Item",
+    "bibId": "4977688",
+    "holdingNumber": "MAP G8971.P8 1926",
+    "pid": "nla.obj-2869419346",
+    "title": "Commercial map of New South Wales showing shires and municipalities [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1926",
+    "creator": "H.E.C. Robinson (Firm)",
+    "extent": "1 map : col., mounted on linen ; 119 x 144 cm., folded to 32 x 25 cm. + 1 index (1 sheet ; 36 x 150 cm., folded to 18 x 26 cm.)",
+    "isMissingPage": "false",
+    "publisherName": "H.E.C. Robinson",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      39051
+    ],
+    "projectIds": [
+      39045
+    ]
+  },
+  "topLevelCollection": "nla.obj-2869419346"
+}

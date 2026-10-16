@@ -1,0 +1,458 @@
+{
+  "id": "23247676",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "4939465",
+  "holdingNumber": "MAP RM 4437",
+  "pid": "nla.obj-232476762",
+  "title": "New South Wales [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1875",
+  "creator": "New South Wales. Surveyor-General.",
+  "extent": "1 map : dissected and mounted on linen ; 112 x131.3 cm., folded to 20.4 x 17.4 cm.",
+  "publisherName": "Surveyor General's Office",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7693909,
+      "filename": "23247725.jp2",
+      "filesize": 13101213,
+      "technicalmetadata": {
+        "width": 15581,
+        "height": 13505
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 631291928
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01955cem a2200337 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 1013760
+              },
+              {
+                "code": "d",
+                "content": "E1410000"
+              },
+              {
+                "code": "e",
+                "content": "E1540000"
+              },
+              {
+                "code": "f",
+                "content": "S0280000"
+              },
+              {
+                "code": "g",
+                "content": "S0370000"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1875"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Surveyor-General."
+              },
+              {
+                "code": 0,
+                "content": 38727
+              },
+              {
+                "code": 9,
+                "content": "38453dad-43af-532c-b870-63fbdbaa676c"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "engraved in stone by T. Stevens."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Steven's Map of N.S.W."
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Steven's Map of New South Wales"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:1,013,760]"
+              },
+              {
+                "code": "c",
+                "content": "(E 141\u00b000'--E 154\u00b000'/S 28\u00b000--S 37\u00b000')"
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Surveyor General's Office,"
+              },
+              {
+                "code": "c",
+                "content": "[1875?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "dissected and mounted on linen ;"
+              },
+              {
+                "code": "c",
+                "content": "112 x131.3 cm., folded to 20.4 x 17.4 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of New South Wales shows the boundary of the colony of New South Wales within which are included the counties and their boundaries. The inset map includes New South Wales shaded in green and highlighting the rivers Darling, Lachlan, Murrumbidgee and Murray."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": 0,
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Inset: [Map of Australia]."
+              },
+              {
+                "code": "g",
+                "content": "Scale not given."
+              }
+            ],
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232476762"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Landsborough County was named in honour of the Explorer William Landsborough (1825-1886)."
+            },
+            "tag": 545
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Counties"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "x",
+                "content": "Boundaries"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Stevens, T.,"
+              },
+              {
+                "code": "d",
+                "content": "active 1866-1867."
+              },
+              {
+                "code": 0,
+                "content": 61090
+              },
+              {
+                "code": 9,
+                "content": "93c87824-60ce-572b-890a-a7c12633e571"
+              }
+            ],
+            "tag": 700
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232476762"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "National Library's copy has been annotated with a red line from Sydney travelling northwest across the ranges to the town of Bourke. Numbers in red appear to be distance in miles from Sydney."
+            },
+            "tag": 900
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "4f218cfe-6a7e-57ce-a114-2420e4066685"
+              },
+              {
+                "code": "i",
+                "content": "1f182532-497c-58ea-b6c6-fa7c911187cb"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4939465
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "100813s1875    xna       a  s  0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240205112225.2
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RM 4437"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5470925
+          },
+          {
+            "tag": "004",
+            "content": 4939465
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-232476762"
+}

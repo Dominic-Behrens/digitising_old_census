@@ -1,0 +1,375 @@
+{
+  "id": "23113067",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "4316255",
+  "holdingNumber": "MAP RaA 48 Plate 15",
+  "pid": "nla.obj-231130677",
+  "title": "Hurstville, Parish of St. George [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1886",
+  "creator": "Higinbotham, Robinson & Harrison.",
+  "extent": "1 map : col. ; 22.0 x 34.1 cm.",
+  "isMissingPage": "false",
+  "publisherName": "Published by Higinbotham, Robinson & Harrison, draughtsmen, lithographers & map publishers",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 11443702,
+      "filename": "35847791.jp2",
+      "filesize": 2170086,
+      "technicalmetadata": {
+        "width": 5108,
+        "height": 6815
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 104455288
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01415cea a22002651a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "Atlas of the suburbs of Sydney"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 4316255
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1886"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham, Robinson & Harrison."
+              },
+              {
+                "code": 0,
+                "content": 873164
+              },
+              {
+                "code": 9,
+                "content": "b66d9bbe-19b3-5877-ab26-9c2deb25b86e"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Hurstville, Parish of St. George"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]"
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Published by Higinbotham, Robinson & Harrison, draughtsmen, lithographers & map publishers,"
+              },
+              {
+                "code": "c",
+                "content": "[1886?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "22.0 x 34.1 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of the Parish of St. George in Sydney, encompassing the suburb of Hurstville. Shows streets, railways and municipal, ward and parish boundaries."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Plate 15 from: Higinbotham, Robinson & Harrison. Atlas of the suburbs of Sydney. Sydney :  Published by Higinbotham, Robinson & Harrison, draughtsmen, lithographers & map publishers,  [1886?]"
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-231130677"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "From:"
+              },
+              {
+                "code": "a",
+                "content": "Higinbotham, Robinson & Harrison."
+              },
+              {
+                "code": "t",
+                "content": "Atlas of the suburbs of Sydney"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)3108791"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-231130677"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "35ac1a9f-5ec4-57a0-ade1-c9f81e9b6336"
+              },
+              {
+                "code": "s",
+                "content": "7307d442-30ac-5308-9ece-630cb7199166"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4316255
+          },
+          {
+            "tag": "005",
+            "content": 20230925143736.9
+          },
+          {
+            "tag": "007",
+            "content": "ad canzn"
+          },
+          {
+            "tag": "008",
+            "content": "080226s1886    xna             0   eng"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RaA 48"
+              },
+              {
+                "code": "m",
+                "content": "Plate 15"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5099293
+          },
+          {
+            "tag": "004",
+            "content": 4316255
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "23112794",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "bibLevel": "Item",
+    "bibId": "3108791",
+    "holdingNumber": "MAP RaA 48",
+    "pid": "nla.obj-231127940",
+    "title": "Atlas of the suburbs of Sydney. Part 1 [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1886",
+    "creator": "Higinbotham, Robinson & Harrison.",
+    "extent": "1 atlas ([30] leaves) : 30 col. maps ; 38 cm.",
+    "publisherName": "Published by Higinbotham, Robinson & Harrison, draughtsmen, lithographers & map publishers",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-231127940"
+}

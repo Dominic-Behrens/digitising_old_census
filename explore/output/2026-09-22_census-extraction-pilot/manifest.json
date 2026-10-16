@@ -1,0 +1,417 @@
+[
+  {
+    "job_id": "summary_27",
+    "doc_id": "1911_census_volume_iii_part_xiv_summary",
+    "table_number": "27",
+    "table_title": "Metropolitan and Extra-Metropolitan Population of South Australia",
+    "source_pdf": "data/raw/abs_1911_census/1911 Census - Volume III - Part XIV Summary.pdf",
+    "target_pages": [
+      33
+    ],
+    "context_pages": [
+      32,
+      34
+    ],
+    "column_ids": [
+      "adelaide_males",
+      "adelaide_females",
+      "adelaide_total",
+      "remainder_males",
+      "remainder_females",
+      "remainder_total",
+      "state_males",
+      "state_females",
+      "state_total"
+    ],
+    "purpose": "single-page hierarchical columns; 7/8 heading",
+    "scope": "mapped table portions",
+    "mapped_printed_labels": {
+      "33": "27"
+    },
+    "source_sha256": "72b0ac2d76f686c6b7934fb9ba16852fdb1e87066b36f5ad95321a9b46182af8",
+    "images": {
+      "32": {
+        "path": "evidence/1911_census_volume_iii_part_xiv_summary_32_180dpi.jpg",
+        "sha256": "e542ba1410fa962826291673bd35324f33bb34371ee78bf42add8ca6e5667012"
+      },
+      "33": {
+        "path": "evidence/1911_census_volume_iii_part_xiv_summary_33_180dpi.jpg",
+        "sha256": "f4d963b4a77e7366bb5813612b7723af321e6adb697c98ae8644cbff8a11fd44"
+      },
+      "34": {
+        "path": "evidence/1911_census_volume_iii_part_xiv_summary_34_180dpi.jpg",
+        "sha256": "1ff38687af2b374da3a2eedc417c48941153c92cf0d763f1c5cd614f5cc415d2"
+      }
+    }
+  },
+  {
+    "job_id": "ages_33",
+    "doc_id": "1911_census_volume_ii_part_i_ages",
+    "table_number": "33",
+    "table_title": "Victoria.—Number of Males in Quinquennial Age Groups, as recorded in each County, at the Census of 3rd April, 1911",
+    "source_pdf": "data/raw/abs_1911_census/1911 Census - Volume II - Part I Ages.pdf",
+    "target_pages": [
+      60,
+      61
+    ],
+    "context_pages": [
+      59,
+      62
+    ],
+    "column_ids": [
+      "age_0_4",
+      "age_5_9",
+      "age_10_14",
+      "age_15_19",
+      "age_20_24",
+      "age_25_29",
+      "age_30_34",
+      "age_35_39",
+      "age_40_44",
+      "age_45_49",
+      "age_50_54",
+      "age_55_59",
+      "age_60_64",
+      "age_65_69",
+      "age_70_74",
+      "age_75_79",
+      "age_80_84",
+      "age_85_89",
+      "age_90_94",
+      "age_95_99",
+      "age_100_plus",
+      "unspecified",
+      "total"
+    ],
+    "purpose": "horizontal spread; shared pages",
+    "scope": "mapped table portions",
+    "mapped_printed_labels": {
+      "60": "33 | 34",
+      "61": "33"
+    },
+    "source_sha256": "5cda537129675adac57ef44e75d1f57ffb61ce1e385371dee656f734396db304",
+    "images": {
+      "59": {
+        "path": "evidence/1911_census_volume_ii_part_i_ages_59_180dpi.jpg",
+        "sha256": "4973d5f3f91a0b77b01ebd7db23bbc0abc94506f64f42b64ecd0f7e92b970d06"
+      },
+      "60": {
+        "path": "evidence/1911_census_volume_ii_part_i_ages_60_180dpi.jpg",
+        "sha256": "9d00f1baa2e0a37080534cb465b21720a534de221f2d3a1b4c8b470c62743128"
+      },
+      "61": {
+        "path": "evidence/1911_census_volume_ii_part_i_ages_61_180dpi.jpg",
+        "sha256": "0f8c8dce1e38331ede404c6549c54a3771a4b5e829ce999c9995afba68057bdc"
+      },
+      "62": {
+        "path": "evidence/1911_census_volume_ii_part_i_ages_62_180dpi.jpg",
+        "sha256": "914ffcee5439fca2dd1d6eb2d67908a1d08e2ce8a821c1dea29b11df42c86f43"
+      }
+    }
+  },
+  {
+    "job_id": "ages_34",
+    "doc_id": "1911_census_volume_ii_part_i_ages",
+    "table_number": "34",
+    "table_title": "Victoria.—Number of Females in Quinquennial Age Groups, as recorded in each County, at the Census of 3rd April, 1911",
+    "source_pdf": "data/raw/abs_1911_census/1911 Census - Volume II - Part I Ages.pdf",
+    "target_pages": [
+      60,
+      62
+    ],
+    "context_pages": [
+      59,
+      61,
+      63
+    ],
+    "column_ids": [
+      "age_0_4",
+      "age_5_9",
+      "age_10_14",
+      "age_15_19",
+      "age_20_24",
+      "age_25_29",
+      "age_30_34",
+      "age_35_39",
+      "age_40_44",
+      "age_45_49",
+      "age_50_54",
+      "age_55_59",
+      "age_60_64",
+      "age_65_69",
+      "age_70_74",
+      "age_75_79",
+      "age_80_84",
+      "age_85_89",
+      "age_90_94",
+      "age_95_99",
+      "age_100_plus",
+      "unspecified",
+      "total"
+    ],
+    "purpose": "interrupted accepted mapping; context completeness check",
+    "scope": "mapped table portions",
+    "mapped_printed_labels": {
+      "60": "33 | 34",
+      "62": "34 | 35"
+    },
+    "source_sha256": "5cda537129675adac57ef44e75d1f57ffb61ce1e385371dee656f734396db304",
+    "images": {
+      "59": {
+        "path": "evidence/1911_census_volume_ii_part_i_ages_59_180dpi.jpg",
+        "sha256": "4973d5f3f91a0b77b01ebd7db23bbc0abc94506f64f42b64ecd0f7e92b970d06"
+      },
+      "60": {
+        "path": "evidence/1911_census_volume_ii_part_i_ages_60_180dpi.jpg",
+        "sha256": "9d00f1baa2e0a37080534cb465b21720a534de221f2d3a1b4c8b470c62743128"
+      },
+      "61": {
+        "path": "evidence/1911_census_volume_ii_part_i_ages_61_180dpi.jpg",
+        "sha256": "0f8c8dce1e38331ede404c6549c54a3771a4b5e829ce999c9995afba68057bdc"
+      },
+      "62": {
+        "path": "evidence/1911_census_volume_ii_part_i_ages_62_180dpi.jpg",
+        "sha256": "914ffcee5439fca2dd1d6eb2d67908a1d08e2ce8a821c1dea29b11df42c86f43"
+      },
+      "63": {
+        "path": "evidence/1911_census_volume_ii_part_i_ages_63_180dpi.jpg",
+        "sha256": "8ccccff9968186e0d3202b71159d972e69fe7acac791417cd4886c62b400d195"
+      }
+    }
+  },
+  {
+    "job_id": "nsw_lga_183",
+    "doc_id": "1911_census_volume_iii_part_xiii_dwellings",
+    "table_number": "68",
+    "table_title": "Area, Population, Density, Occupied Dwellings, etc., in each Local Government Area of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+    "source_pdf": "data/raw/abs_1911_census/1911 Census - Volume III - Part XIII Dwellings.pdf",
+    "target_pages": [
+      183
+    ],
+    "context_pages": [
+      182,
+      184
+    ],
+    "column_ids": [
+      "area",
+      "males",
+      "females",
+      "persons",
+      "persons_per_area",
+      "occupied_dwellings",
+      "dwellings_per_area",
+      "population_per_dwelling"
+    ],
+    "purpose": "NSW subsection benchmark; mixed area units and printed 69",
+    "scope": "NSW only, not all Table 68",
+    "mapped_printed_labels": {
+      "183": "68"
+    },
+    "source_sha256": "d2a7f6b00a4c9e31c09011e69b09315e47a59f0dadbf6dd275d05fc897cb5db6",
+    "images": {
+      "182": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_182_180dpi.jpg",
+        "sha256": "4eabf45729b56c2612b924a467a0c9c185380a050fc61f37bce308db39ab4f81"
+      },
+      "183": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_183_180dpi.jpg",
+        "sha256": "7ddafd2b74b0e6934f14979966cdaae07ed559d4324c3b2ebbd73070ce581ced"
+      },
+      "184": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_184_180dpi.jpg",
+        "sha256": "917873afb824a11368b87904c9ab1aab7c0e51b6d04fbd67c20d89e9c3a3b425"
+      }
+    }
+  },
+  {
+    "job_id": "nsw_lga_184",
+    "doc_id": "1911_census_volume_iii_part_xiii_dwellings",
+    "table_number": "68",
+    "table_title": "Area, Population, Density, Occupied Dwellings, etc., in each Local Government Area of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+    "source_pdf": "data/raw/abs_1911_census/1911 Census - Volume III - Part XIII Dwellings.pdf",
+    "target_pages": [
+      184
+    ],
+    "context_pages": [
+      183,
+      185
+    ],
+    "column_ids": [
+      "area",
+      "males",
+      "females",
+      "persons",
+      "persons_per_area",
+      "occupied_dwellings",
+      "dwellings_per_area",
+      "population_per_dwelling"
+    ],
+    "purpose": "NSW subsection benchmark; mixed area units and printed 69",
+    "scope": "NSW only, not all Table 68",
+    "mapped_printed_labels": {
+      "184": "68"
+    },
+    "source_sha256": "d2a7f6b00a4c9e31c09011e69b09315e47a59f0dadbf6dd275d05fc897cb5db6",
+    "images": {
+      "183": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_183_180dpi.jpg",
+        "sha256": "7ddafd2b74b0e6934f14979966cdaae07ed559d4324c3b2ebbd73070ce581ced"
+      },
+      "184": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_184_180dpi.jpg",
+        "sha256": "917873afb824a11368b87904c9ab1aab7c0e51b6d04fbd67c20d89e9c3a3b425"
+      },
+      "185": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_185_180dpi.jpg",
+        "sha256": "721d0cf08cf20f68d822121f304d236021d92209f89985f2e0783422f0a9d851"
+      }
+    }
+  },
+  {
+    "job_id": "nsw_lga_185",
+    "doc_id": "1911_census_volume_iii_part_xiii_dwellings",
+    "table_number": "68",
+    "table_title": "Area, Population, Density, Occupied Dwellings, etc., in each Local Government Area of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+    "source_pdf": "data/raw/abs_1911_census/1911 Census - Volume III - Part XIII Dwellings.pdf",
+    "target_pages": [
+      185
+    ],
+    "context_pages": [
+      183,
+      184,
+      186
+    ],
+    "column_ids": [
+      "area",
+      "males",
+      "females",
+      "persons",
+      "persons_per_area",
+      "occupied_dwellings",
+      "dwellings_per_area",
+      "population_per_dwelling"
+    ],
+    "purpose": "NSW subsection benchmark; mixed area units and printed 69",
+    "scope": "NSW only, not all Table 68",
+    "mapped_printed_labels": {
+      "185": "68"
+    },
+    "source_sha256": "d2a7f6b00a4c9e31c09011e69b09315e47a59f0dadbf6dd275d05fc897cb5db6",
+    "images": {
+      "183": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_183_180dpi.jpg",
+        "sha256": "7ddafd2b74b0e6934f14979966cdaae07ed559d4324c3b2ebbd73070ce581ced"
+      },
+      "184": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_184_180dpi.jpg",
+        "sha256": "917873afb824a11368b87904c9ab1aab7c0e51b6d04fbd67c20d89e9c3a3b425"
+      },
+      "185": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_185_180dpi.jpg",
+        "sha256": "721d0cf08cf20f68d822121f304d236021d92209f89985f2e0783422f0a9d851"
+      },
+      "186": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_186_180dpi.jpg",
+        "sha256": "d1b7e214249a4ba4786d1936e37c76849adb67e0471ced08951467f0fdfdaa5a"
+      }
+    }
+  },
+  {
+    "job_id": "nsw_lga_186",
+    "doc_id": "1911_census_volume_iii_part_xiii_dwellings",
+    "table_number": "68",
+    "table_title": "Area, Population, Density, Occupied Dwellings, etc., in each Local Government Area of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+    "source_pdf": "data/raw/abs_1911_census/1911 Census - Volume III - Part XIII Dwellings.pdf",
+    "target_pages": [
+      186
+    ],
+    "context_pages": [
+      183,
+      185,
+      187
+    ],
+    "column_ids": [
+      "area",
+      "males",
+      "females",
+      "persons",
+      "persons_per_area",
+      "occupied_dwellings",
+      "dwellings_per_area",
+      "population_per_dwelling"
+    ],
+    "purpose": "NSW subsection benchmark; mixed area units and printed 69",
+    "scope": "NSW only, not all Table 68",
+    "mapped_printed_labels": {
+      "186": "69"
+    },
+    "source_sha256": "d2a7f6b00a4c9e31c09011e69b09315e47a59f0dadbf6dd275d05fc897cb5db6",
+    "images": {
+      "183": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_183_180dpi.jpg",
+        "sha256": "7ddafd2b74b0e6934f14979966cdaae07ed559d4324c3b2ebbd73070ce581ced"
+      },
+      "185": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_185_180dpi.jpg",
+        "sha256": "721d0cf08cf20f68d822121f304d236021d92209f89985f2e0783422f0a9d851"
+      },
+      "186": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_186_180dpi.jpg",
+        "sha256": "d1b7e214249a4ba4786d1936e37c76849adb67e0471ced08951467f0fdfdaa5a"
+      },
+      "187": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_187_180dpi.jpg",
+        "sha256": "af7f5a7048d6ec1cdbc1b61d96ca38ea65feced3737750abf5a8e51788a2ab42"
+      }
+    }
+  },
+  {
+    "job_id": "nsw_lga_187",
+    "doc_id": "1911_census_volume_iii_part_xiii_dwellings",
+    "table_number": "68",
+    "table_title": "Area, Population, Density, Occupied Dwellings, etc., in each Local Government Area of the several States of the Commonwealth of Australia, at the Census of 3rd April, 1911",
+    "source_pdf": "data/raw/abs_1911_census/1911 Census - Volume III - Part XIII Dwellings.pdf",
+    "target_pages": [
+      187
+    ],
+    "context_pages": [
+      183,
+      186,
+      188
+    ],
+    "column_ids": [
+      "area",
+      "males",
+      "females",
+      "persons",
+      "persons_per_area",
+      "occupied_dwellings",
+      "dwellings_per_area",
+      "population_per_dwelling"
+    ],
+    "purpose": "NSW subsection benchmark; mixed area units and printed 69",
+    "scope": "NSW only, not all Table 68",
+    "mapped_printed_labels": {
+      "187": "68"
+    },
+    "source_sha256": "d2a7f6b00a4c9e31c09011e69b09315e47a59f0dadbf6dd275d05fc897cb5db6",
+    "images": {
+      "183": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_183_180dpi.jpg",
+        "sha256": "7ddafd2b74b0e6934f14979966cdaae07ed559d4324c3b2ebbd73070ce581ced"
+      },
+      "186": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_186_180dpi.jpg",
+        "sha256": "d1b7e214249a4ba4786d1936e37c76849adb67e0471ced08951467f0fdfdaa5a"
+      },
+      "187": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_187_180dpi.jpg",
+        "sha256": "af7f5a7048d6ec1cdbc1b61d96ca38ea65feced3737750abf5a8e51788a2ab42"
+      },
+      "188": {
+        "path": "evidence/1911_census_volume_iii_part_xiii_dwellings_188_180dpi.jpg",
+        "sha256": "63476f051acfa8b90f2650a17f4ad0db1fbab0d60f6ecb2efa26d18ffd78a993"
+      }
+    }
+  }
+]

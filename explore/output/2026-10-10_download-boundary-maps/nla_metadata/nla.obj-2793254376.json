@@ -1,0 +1,71 @@
+{
+  "id": "279325437",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subType": "page",
+  "bibLevel": "Part",
+  "holdingNumber": "MAP G8971.F85 1964",
+  "pid": "nla.obj-2793254376",
+  "title": "New South Wales, showing boundaries of police, licensing and district court districts, places of petty sessions, licensing, & district courts",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "isMissingPage": "false",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 132438771,
+      "filename": "279325454.jp2",
+      "filesize": 15896721,
+      "technicalmetadata": {
+        "width": 17556,
+        "height": 14482
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 762760848
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "parent": {
+    "id": "279325299",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Item",
+    "bibId": "8416212",
+    "holdingNumber": "MAP G8971.F85 1964",
+    "pid": "nla.obj-2793252995",
+    "title": "New South Wales, showing boundaries of police, licensing, & district court districts, places of petty sessions, licensing & district courts",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1964",
+    "creator": "New South Wales. Department of Lands, cartographer, compiler, printer, issuing body.",
+    "extent": "1 map on 4 sheets : colour ; 108 x 133 cm, on sheet 57 x 77 cm",
+    "isMissingPage": "false",
+    "publisherName": "Department of Lands",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-2793252995"
+}

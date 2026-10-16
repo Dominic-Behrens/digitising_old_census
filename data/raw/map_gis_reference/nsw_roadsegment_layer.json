@@ -1,0 +1,384 @@
+{
+  "currentVersion": 10.91,
+  "cimVersion": "2.9.0",
+  "id": 5,
+  "name": "RoadSegment",
+  "type": "Feature Layer",
+  "description": "",
+  "geometryType": "esriGeometryPolyline",
+  "sourceSpatialReference": {
+    "wkid": 4283,
+    "latestWkid": 4283,
+    "xyTolerance": 8.983153e-09,
+    "zTolerance": 0.001,
+    "mTolerance": 0.001,
+    "falseX": -400,
+    "falseY": -400,
+    "xyUnits": 999999999.9999999,
+    "falseZ": -100000,
+    "zUnits": 10000,
+    "falseM": -100000,
+    "mUnits": 10000
+  },
+  "copyrightText": "",
+  "parentLayer": null,
+  "subLayers": [],
+  "minScale": 100000,
+  "maxScale": 0,
+  "referenceScale": 0.0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "simple",
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [
+          163,
+          142,
+          81,
+          255
+        ],
+        "width": 1
+      }
+    },
+    "scaleSymbols": true,
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "defaultVisibility": true,
+  "extent": {
+    "xmin": 140.9838548614122,
+    "ymin": -37.50431079599997,
+    "xmax": 159.09790666700007,
+    "ymax": -28.156025944506318,
+    "spatialReference": {
+      "wkid": 7844,
+      "latestWkid": 7844,
+      "xyTolerance": 8.983152841195215e-09,
+      "zTolerance": 0.001,
+      "mTolerance": 0.001,
+      "falseX": -400,
+      "falseY": -400,
+      "xyUnits": 999999999.9999999,
+      "falseZ": -100000,
+      "zUnits": 10000,
+      "falseM": -100000,
+      "mUnits": 10000
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "roadnameoid",
+  "typeIdField": null,
+  "subtypeFieldName": null,
+  "subtypeField": null,
+  "defaultSubtypeCode": null,
+  "fields": [
+    {
+      "name": "shape",
+      "type": "esriFieldTypeGeometry",
+      "alias": "shape",
+      "domain": null
+    },
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "topoid",
+      "type": "esriFieldTypeInteger",
+      "alias": "topoid",
+      "domain": null
+    },
+    {
+      "name": "createdate",
+      "type": "esriFieldTypeDate",
+      "alias": "createdate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "objectmoddate",
+      "type": "esriFieldTypeDate",
+      "alias": "objectmoddate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "featuremoddate",
+      "type": "esriFieldTypeDate",
+      "alias": "featuremoddate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "classsubtype",
+      "type": "esriFieldTypeInteger",
+      "alias": "classsubtype",
+      "domain": null
+    },
+    {
+      "name": "featurereliabilitydate",
+      "type": "esriFieldTypeDate",
+      "alias": "featurereliabilitydate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "attributereliabilitydate",
+      "type": "esriFieldTypeDate",
+      "alias": "attributereliabilitydate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "capturesourcecode",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "capturesourcecode",
+      "domain": null
+    },
+    {
+      "name": "capturemethodcode",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "capturemethodcode",
+      "domain": null
+    },
+    {
+      "name": "planimetricaccuracy",
+      "type": "esriFieldTypeSingle",
+      "alias": "planimetricaccuracy",
+      "domain": null
+    },
+    {
+      "name": "verticalaccuracy",
+      "type": "esriFieldTypeSingle",
+      "alias": "verticalaccuracy",
+      "domain": null
+    },
+    {
+      "name": "operationalstatus",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "operationalstatus",
+      "domain": null
+    },
+    {
+      "name": "roadnameoid",
+      "type": "esriFieldTypeInteger",
+      "alias": "roadnameoid",
+      "domain": null
+    },
+    {
+      "name": "roadnamebase",
+      "type": "esriFieldTypeString",
+      "alias": "roadnamebase",
+      "length": 50,
+      "domain": null
+    },
+    {
+      "name": "roadnametype",
+      "type": "esriFieldTypeString",
+      "alias": "roadnametype",
+      "length": 20,
+      "domain": null
+    },
+    {
+      "name": "roadnamesuffix",
+      "type": "esriFieldTypeString",
+      "alias": "roadnamesuffix",
+      "length": 10,
+      "domain": null
+    },
+    {
+      "name": "functionhierarchy",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "functionhierarchy",
+      "domain": null
+    },
+    {
+      "name": "roadontype",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "roadontype",
+      "domain": null
+    },
+    {
+      "name": "surface",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "surface",
+      "domain": null
+    },
+    {
+      "name": "lanecount",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "lanecount",
+      "domain": null
+    },
+    {
+      "name": "roadnameextentoid",
+      "type": "esriFieldTypeInteger",
+      "alias": "roadnameextentoid",
+      "domain": null
+    },
+    {
+      "name": "relevance",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "relevance",
+      "domain": null
+    },
+    {
+      "name": "startdate",
+      "type": "esriFieldTypeDate",
+      "alias": "startdate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "enddate",
+      "type": "esriFieldTypeDate",
+      "alias": "enddate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "lastupdate",
+      "type": "esriFieldTypeDate",
+      "alias": "lastupdate",
+      "length": 8,
+      "domain": null
+    },
+    {
+      "name": "msoid",
+      "type": "esriFieldTypeInteger",
+      "alias": "msoid",
+      "domain": null
+    },
+    {
+      "name": "centroidid",
+      "type": "esriFieldTypeInteger",
+      "alias": "centroidid",
+      "domain": null
+    },
+    {
+      "name": "shapeuuid",
+      "type": "esriFieldTypeString",
+      "alias": "shapeuuid",
+      "length": 38,
+      "domain": null
+    },
+    {
+      "name": "changetype",
+      "type": "esriFieldTypeString",
+      "alias": "changetype",
+      "length": 2,
+      "domain": null
+    },
+    {
+      "name": "processstate",
+      "type": "esriFieldTypeString",
+      "alias": "processstate",
+      "length": 5,
+      "domain": null
+    },
+    {
+      "name": "urbanity",
+      "type": "esriFieldTypeString",
+      "alias": "urbanity",
+      "length": 2,
+      "domain": null
+    },
+    {
+      "name": "shape_Length",
+      "type": "esriFieldTypeDouble",
+      "alias": "shape_Length",
+      "domain": null
+    }
+  ],
+  "geometryField": {
+    "name": "shape",
+    "type": "esriFieldTypeGeometry",
+    "alias": "shape"
+  },
+  "indexes": [
+    {
+      "name": "FDO_OBJECTID",
+      "fields": "OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "FDO_shape",
+      "fields": "shape",
+      "isAscending": true,
+      "isUnique": false,
+      "description": ""
+    }
+  ],
+  "subtypes": [],
+  "relationships": [],
+  "canModifyLayer": true,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Map,Query,Data",
+  "maxRecordCount": 2000,
+  "supportsStatistics": true,
+  "supportsExceedsLimitStatistics": true,
+  "supportsAdvancedQueries": true,
+  "hasZ": true,
+  "supportedQueryFormats": "JSON, geoJSON, PBF",
+  "isDataVersioned": false,
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "supportedSpatialRelationships": [
+    "esriSpatialRelIntersects",
+    "esriSpatialRelContains",
+    "esriSpatialRelCrosses",
+    "esriSpatialRelEnvelopeIntersects",
+    "esriSpatialRelIndexIntersects",
+    "esriSpatialRelOverlaps",
+    "esriSpatialRelTouches",
+    "esriSpatialRelWithin",
+    "esriSpatialRelRelation"
+  ],
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsPercentileStatistics": true,
+    "supportsHavingClause": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsCountDistinct": true,
+    "supportsPagination": true,
+    "supportsLod": false,
+    "supportsQueryWithLodSR": false,
+    "supportsTrueCurve": true,
+    "supportsQueryWithDatumTransformation": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true,
+    "supportsSqlExpression": true,
+    "supportsTimeRelation": true,
+    "supportsSqlFormat": false,
+    "supportsQueryAnalytic": false
+  },
+  "supportsDatumTransformation": true,
+  "dateFieldsTimeReference": null,
+  "preferredTimeReference": null,
+  "datesInUnknownTimezone": false,
+  "hasGeometryProperties": true,
+  "geometryProperties": {
+    "shapeLengthFieldName": "shape_Length",
+    "units": "esriDecimalDegrees"
+  },
+  "hasMetadata": true,
+  "isDataArchived": false,
+  "archivingInfo": {
+    "supportsQueryWithHistoricMoment": false,
+    "startArchivingMoment": -1
+  },
+  "supportsCoordinatesQuantization": true,
+  "supportsDynamicLegends": true,
+  "serviceItemId": "5c29dda9b1414a769e54d0fd42bf95e9"
+}

@@ -1,0 +1,722 @@
+{
+  "id": "72739612",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "expiryDate": "Tue, 01 Jan 2036",
+  "bibLevel": "Part",
+  "bibId": "1716065",
+  "holdingNumber": "MAP G8971.G4 s50 (Copy 1)",
+  "pid": "nla.obj-727396123",
+  "title": "Agricultural land classification map : Illawarra Region ",
+  "accessConditions": "Onsite Only",
+  "copyrightPolicy": "In Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1986",
+  "creator": "New South Wales. Department of Agriculture.",
+  "extent": "11 maps : colour ; on sheets 69 x 109 cm., or smaller.",
+  "sheetName": "Morton",
+  "publisherName": "Dept. of Agriculture in conjunction with the Central Mapping Authority",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 45572876,
+      "filename": "72739665.jp2",
+      "filesize": 22355502,
+      "technicalmetadata": {
+        "width": 21969,
+        "height": 16264
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 1071931636
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02666cem a2200433 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 5878871
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 50000
+              },
+              {
+                "code": "d",
+                "content": "E1500100"
+              },
+              {
+                "code": "e",
+                "content": "E1510200"
+              },
+              {
+                "code": "f",
+                "content": "S0341000"
+              },
+              {
+                "code": "g",
+                "content": "S0354600"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)2154994"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "NU"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              },
+              {
+                "code": "c",
+                "content": "NU"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1986"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Department of Agriculture."
+              },
+              {
+                "code": 0,
+                "content": 40272
+              },
+              {
+                "code": 9,
+                "content": "8c29cc80-1ea1-584e-b5c6-8547963e5b5b"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Agricultural land classification map :"
+              },
+              {
+                "code": "b",
+                "content": "Illawarra Region  /"
+              },
+              {
+                "code": "c",
+                "content": "Department of Agriculture, New South Wales ; information compiled by J.P. Hindle."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Illawarra Region"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:50,000"
+              },
+              {
+                "code": "c",
+                "content": "(E 150\u00b001'00\"--E 151\u00b002'00\"/S 34\u00b010'00\"--S 35\u00b046'00\")."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney, N.S.W.] :"
+              },
+              {
+                "code": "b",
+                "content": "Dept. of Agriculture in conjunction with the Central Mapping Authority,"
+              },
+              {
+                "code": "c",
+                "content": 1986
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "11 maps :"
+              },
+              {
+                "code": "b",
+                "content": "colour ;"
+              },
+              {
+                "code": "c",
+                "content": "on sheets 69 x 109 cm., or smaller."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Set of 11 maps of the Illawarra Region in New South Wales showing shire boundaries, built-up areas, water catchments, state forests, national parks and the various classes of land: arable alluvial land, arable lands for agriculture, lands needing pasture improvement, grazing land not suited to cultivation and lands unsuited to agriculture. Relief shown by contours, shading and spot heights."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Base map compiled from Central Mapping Authority 1:25,000 and 1:31,680 topographic maps\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "To accompany Illawarra Region : agricultural land classification study."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes index to adjoining sheets and map users' notes."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "t",
+                "content": "Mittagong --"
+              },
+              {
+                "code": "t",
+                "content": "Moss Vale --"
+              },
+              {
+                "code": "t",
+                "content": "Burrier --"
+              },
+              {
+                "code": "t",
+                "content": "Morton --"
+              },
+              {
+                "code": "t",
+                "content": "Ulladulla --"
+              },
+              {
+                "code": "t",
+                "content": "Clyde --"
+              },
+              {
+                "code": "t",
+                "content": "Huskisson --"
+              },
+              {
+                "code": "t",
+                "content": "Nowra --"
+              },
+              {
+                "code": "t",
+                "content": "Kiama --"
+              },
+              {
+                "code": "t",
+                "content": "Wollongong --"
+              },
+              {
+                "code": "t",
+                "content": "Helensburgh."
+              }
+            ],
+            "tag": 505
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-342135431"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Land use, Rural"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Illawarra"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Illawarra (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Hindle, J. P."
+              },
+              {
+                "code": 0,
+                "content": 45473
+              },
+              {
+                "code": 9,
+                "content": "fe4d72e7-40ce-503a-bc34-85382afa4ef8"
+              }
+            ],
+            "tag": 700
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Hindle, J. P."
+              },
+              {
+                "code": "t",
+                "content": "Illawarra Region : agricultural land classification study."
+              }
+            ],
+            "tag": 700
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Central Mapping Authority of New South Wales."
+              },
+              {
+                "code": 0,
+                "content": 344907
+              },
+              {
+                "code": 9,
+                "content": "266239a0-55f5-5f51-80cc-662549e2dcaf"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-342135431"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": 2,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "Map index at National Library of Australia"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-342135431/mapindex"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "40f7cc89-7ae9-5280-988f-21bcd635376d"
+              },
+              {
+                "code": "i",
+                "content": "14f78585-a621-566a-b820-f9e9608ddd06"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1716065
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "880629s1986    xnaabg    a     0   eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20240325145754.7
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G4 s50"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "11 maps"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1478474
+          },
+          {
+            "tag": "004",
+            "content": 1716065
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP2"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.G4 s50"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 2)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": {
+              "code": "z",
+              "content": "11 maps"
+            },
+            "tag": 866
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4493935
+          },
+          {
+            "tag": "004",
+            "content": 1716065
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "34213543",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Item",
+    "bibId": "1716065",
+    "holdingNumber": "MAP G8971.G4 s50 (Copy 1)",
+    "pid": "nla.obj-342135431",
+    "title": "Agricultural land classification map : Illawarra Region ",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1986",
+    "creator": "New South Wales. Department of Agriculture.",
+    "extent": "11 maps : colour ; on sheets 69 x 109 cm., or smaller.",
+    "isMissingPage": "false",
+    "interactiveIndexAvailable": "true",
+    "publisherName": "Dept. of Agriculture in conjunction with the Central Mapping Authority",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [
+      3729
+    ],
+    "projectIds": [
+      3957
+    ]
+  },
+  "topLevelCollection": "nla.obj-342135431"
+}

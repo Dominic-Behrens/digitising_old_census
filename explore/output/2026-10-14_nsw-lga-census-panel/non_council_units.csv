@@ -1,0 +1,16 @@
+census_year,code,unit_name,unit_class,source_pdf,source_pdf_page
+1981,177,Unincorporated (Far West),unincorporated,data/raw/historical_boundary_maps/abs_census/abs_1981_nsw_lga_urban_centres_with_maps.pdf,9
+1981,178,Unincorporated (Lord Howe Island),unincorporated,data/raw/historical_boundary_maps/abs_census/abs_1981_nsw_lga_urban_centres_with_maps.pdf,9
+1981,181,Migratory,non_spatial,data/raw/historical_boundary_maps/abs_census/abs_1981_nsw_lga_urban_centres_with_maps.pdf,9
+1921,,Not incorporated,unincorporated,data/raw/historical_boundary_maps/abs_census/abs1921_statisticians_report_nsw_sydney_lga_maps.pdf,371
+1921,,Migratory,non_spatial,data/raw/historical_boundary_maps/abs_census/abs1921_statisticians_report_nsw_sydney_lga_maps.pdf,371
+1947,,Not incorporated,unincorporated,data/raw/historical_boundary_maps/abs_census/abs1947_statisticians_report_nsw_sydney_lga_maps.pdf,372
+1947,,Migratory,non_spatial,data/raw/historical_boundary_maps/abs_census/abs1947_statisticians_report_nsw_sydney_lga_maps.pdf,372
+1954,,Not incorporated,unincorporated,data/raw/historical_boundary_maps/abs_census/abs_1954_nsw_population_lga_with_maps.pdf,7
+1961,,Unincorporated area,unincorporated,data/raw/historical_boundary_maps/abs_census/abs_1961_nsw_population_lga_with_maps.pdf,4
+1971,,Unincorporated (Far West),unincorporated,data/raw/historical_boundary_maps/abs_census/abs_1971_nsw_field_count3_with_lga_maps.pdf,6
+1971,,Unincorporated (Lord Howe Island),unincorporated,data/raw/historical_boundary_maps/abs_census/abs_1971_nsw_field_count3_with_lga_maps.pdf,6
+1971,,Migratory,non_spatial,data/raw/historical_boundary_maps/abs_census/abs_1971_nsw_field_count3_with_lga_maps.pdf,6
+1976,,Unincorporated (Far West),unincorporated,data/raw/historical_boundary_maps/abs_census/anu1976_nsw_preliminary_lga_boundary_maps.pdf,10
+1976,,Lord Howe Island,unincorporated,data/raw/historical_boundary_maps/abs_census/anu1976_nsw_preliminary_lga_boundary_maps.pdf,10
+1976,,Migratory,non_spatial,data/raw/historical_boundary_maps/abs_census/anu1976_nsw_preliminary_lga_boundary_maps.pdf,10

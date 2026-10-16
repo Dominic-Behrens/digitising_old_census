@@ -1,0 +1,905 @@
+census_year,source_record_id,source_pdf_page,source_row_number,lga_name_raw,source_y,review_status
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,366,1,Aberdeen,747.93,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,366,2,Adamstown,757.56,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,366,3,Alhury,768.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,366,4,Alexandria,777.48,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,366,5,Annandale,786.92,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,366,6,Armidale,797.97,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,7,A shfield,144.06,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,8,A uburn,154.03,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,9,B alliua,164.77,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,10,B almain,174.51,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,11,B alranald,183.96,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,12,B ankstown,194.35,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,13,B arra ba,204.74,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,14,B athurst,213.96,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,15,B ega,224.42,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,16,Be rry,234.51,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,18,B mgara,254.42,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,19,B lackheath,264.27,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,20,B laYlley,274.59,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,21,Bo mbala,284.42,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,23,Bo urke,304.34,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,24,Eo wral,314.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,25,Br aid wood,324.28,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,26,B 'rewaIT in1l,334.34,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,21,B Token Hill,344.42,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,28,B roughton Vale,354.27,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,30,B urwood,374.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,31,C abra matta and Canley Val~,384.26,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,32,C amden,394.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,33,Ca mpbelltown,404.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,35,C arcoar,424.35,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,36,C arrington,434.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,37,Ca Bino,444.26,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,38,C astlereagh,454.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,311,C obar,463.85,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,40,C oncord,474.02,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,41,C ondobolin (Condoublin),484.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,42,C ooma,493.95,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,43,"Co , onamMe",504.02,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,44,C ootamul'ldra,513.86,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,47,C owra,543.86,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,48,"C udgegong ],22',880",553.95,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,51,Dr ummo-yne,583.95,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,53,Du ndas,603.86,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,55,E astwood,624.02,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,56,E nfielJd I,632.91,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,51,E rmingtoll and Rydalmere,643.7,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,59,F orbes,663.63,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,60,Gfl rringong,673.7,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,63,Go ulburn,703.46,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,61,G renfell,743.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,68,G reta,753.4,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,69,G ulg()ng,762.75,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,70,G undagai,773.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,72,H amilt&n,793.23,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,367,73,H ay,803.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,74,Hillgrove,126.88,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,75,Hillston,136.97,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,76,Homebush,146.8,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,77,Hunter's Hill,156.88,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,78,HurstviIle,166.73,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,79,Illawarra Central,176.8,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,80,Illawarra North,186.64,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,81,Ingleburn,196.73,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,82,Inverell,206.8,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,83,Jamberoo,216.64,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,84,Junee,226.97,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,85,Katoomba,236.56,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,86,Kempsey,246.88,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,87,Kiama,256.73,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,88,Kogarah,266.8,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,89,Lambton,276.64,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,90,"Lambton, New",286.73,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,91,Lane Cove,296.56,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,92,Leichhardt,306.64,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,93,Lidcombe,316.49,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,94,Lismore,326.8,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,95,Lithgow,336.64,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,96,Liverpool,346.73,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,97,Maclean,356.8,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,98,Maitland East,366.41,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,99,Maitland West,376.48,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,100,Manilla,386.56,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,101,Manly,396.64,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,102,Marrickville,406.48,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,103,Mascot,416.56,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,104,Merewether,426.41,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,105,Mittagong,436.48,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,106,Moama,446.56,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,107,Molong,456.64,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,108,Moree,466.48,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,109,Morpeth,476.56,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,110,Mosman,486.62,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,111,Moss Vale,496.0,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,112,Mudgee,506.32,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,113,Mullumbimby,516.16,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,114,Murrumburrah,526.0,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,115,Murrurundi,536.08,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,116,Murwillumbah,545.92,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,117,Muswellbrook (Musclebrook),555.52,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,118,Narrabri,565.85,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,119,Narrabri West,575.92,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,120,Narrandera,586.0,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,121,Narromine,595.85,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,122,Newcastle,605.69,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,123,Newtown,615.76,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,124,"Nowra ""I",625.84,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,125,Nyngan,635.68,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,126,Orange,645.53,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,127,Paddington,655.36,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,128,Parkes,665.45,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,129,Parramatt;1,675.28,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,130,Peak Hill,685.36,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,131,Penrith,695.45,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,132,Petersham,705.28,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,133,Picton,715.6,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,134,Port Macquarie,725.45,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,135,Prospect and Sherwood,735.28,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,136,Queanbeyan,745.37,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,137,Quirindi,755.21,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,138,Randwick,765.04,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,139,Raymond Terrace,774.89,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,140,Redfern,784.97,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,141,Richmond,794.81,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,368,142,Rockdale,805.13,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,143,Ryde I,121.46,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,144,St Mary's,131.54,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,145,"St Peters , I",141.63,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,146,Scone,151.46,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,147,Shellharbour I,161.54,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,148,Shoalhaven South,171.63,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,149,Singleton,181.72,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,150,Smithfield and Fairfield I,191.54,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,151,Stockton,201.63,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,152,Strathfield,211.72,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,153,Sydney I,221.54,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,154,Sydney North I,231.63,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,155,Tamworth,241.46,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,157,Temora,261.4,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,158,"Tenterfield , I",271.47,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,160,Ulladulla I,291.39,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,161,UImarra,301.22,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,162,Uralla,311.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,163,Vaucluse,321.4,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,164,Wagga Wagga,331.47,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,165,WaIcha,341.32,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,166,Wallendbeen,351.64,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,167,Wallsend,361.46,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,168,Waratah,371.32,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,169,Warialda,381.38,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,170,Warren,391.24,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,171,Waterloo,401.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,172,Waverley,411.14,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,173,Wellington,421.23,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,174,Wentworth,431.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,175,Wickham,441.14,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,176,Wilcannia,451.23,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,177,Willoughby,461.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,178,Windsor,471.14,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,179,Wingham,481.23,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,180,Wollongong,491.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,181,Woollahra,501.14,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,182,Wright ville,511.23,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,183,Wyalong I I,521.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,184,Yass,531.14,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,185,Young,540.98,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,186,Abercrombie,621.38,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,187,Adjungbilly,631.23,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,188,Amaroo,641.32,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,189,Apsley I,651.39,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,190,Ashford,661.22,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,191,Bannockburn,671.31,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,192,Barraba,681.14,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,193,Baulkham Hills,690.98,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,194,Bellingen,701.07,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,195,Berrigan,710.92,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,196,Bibbenluke,720.99,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,197,Blacktown,730.59,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,198,Bland,740.67,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,199,"Blaxland J,3H",750.76,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,200,Blue Mountaim:,760.59,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,201,Bogan,770.67,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,202,Bolw3rra,780.5,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,203,BooIooroo,790.59,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,369,204,Boomi,800.66,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,205,Boree,123.19,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,206,Bulli I,133.04,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,207,Burrangong I,143.11,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,208,Byron,153.19,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,209,Cambewarra i,163.04,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,210,Canobolas I,173.37,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,211,Carrathool i,182.8,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,212,Cessnock I,193.28,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,213,Clyde,203.11,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,214,Cobbora,213.43,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,215,Cockburn,223.28,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,216,Colo,233.36,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,217,Conargo,243.43,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,218,Coolah,253.28,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,219,Coolamon,263.36,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,220,Coonabarabran,273.43,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,221,Copmanhurst,283.52,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,222,Coreen,293.35,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,223,Crookwell,303.42,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,224,Culcairn,313.27,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,225,Dalgety,323.35,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,226,Demondrille,333.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,227,Dorrigo,343.27,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,228,Dumaresq,353.34,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,229,Erina,363.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,230,Eurobodalla,373.26,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,231,Gadara,383.34,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,232,Gilgandra,393.17,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,233,Gloucester,403.03,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,234,Goobang,413.12,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,235,Goodradigbee,422.95,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,236,Gostwyck,433.28,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,237,Gundurimba,443.35,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,238,Gunning,453.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,239,Guyra,463.27,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,240,Gwydir,473.34,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,241,Harwood,483.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,242,Hastings,493.02,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,243,Holbrook,503.11,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,244,Hornsby,512.93,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,245,Hume,522.72,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,246,Hunter Upper,533.12,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,247,Illabo,542.95,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,248,Imlay,553.03,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,249,Jemalong,563.12,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,250,Jerilderie,572.95,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,252,Ku-ring-gai,593.35,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,253,Kyeamba,603.19,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,254,Kyogle,613.27,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,255,Lachlan,622.81,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,256,Lake Macquarie,632.95,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,257,Liverpool Plains,643.03,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,258,Lockhart,652.87,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,259,Lyndhurst,662.95,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,260,Macintyre,673.03,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,261,Macleay,682.87,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,262,Macquarie,693.19,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,263,Mandowa,703.03,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,264,Manning,713.12,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,265,Marthaguy,723.19,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,266,Meroo,733.28,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,267,Merriwa,743.11,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,268,Mitchell,753.19,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,269,Monaro,763.02,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,270,Mulwaree,772.63,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,271,Mumbulla,782.47,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,272,Murray,792.55,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,370,273,Murrumbidgee,802.62,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,274,Murrungal,115.33,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,275,Muswellbrook,125.65,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,276,Nambucca,135.01,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,277,Namoi,145.33,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,278,Narraburra,155.42,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,279,Nattai,165.01,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,280,Nepean,175.33,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,281,Nundle,185.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,282,Nymboida,195.25,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,283,Oberon,205.33,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,284,Orara,215.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,285,Patrick Plains,225.25,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,286,Peel,235.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,287,Port Stephens,245.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,288,Rylstone,255.01,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,289,Severn,265.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,290,Stroud,275.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,291,Sutherland,285.01,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,292,Talbragar,295.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,294,Tamarang,315.01,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,293,Tallaganda,305.65,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,295,Tarro,325.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,296,Tenterfield,335.18,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,297,Terania I,345.25,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,298,Timbrebongie,355.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,299,Tintenbar,365.17,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,300,Tomki,375.25,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,301,Tumbarumba,385.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,302,Turon,394.93,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,303,Tweed,405.02,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,304,Urana,415.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,305,Wakool,425.17,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,306,Walgett,435.25,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,307,Wallarobba,445.1,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,308,Waradgery,455.17,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,309,Warrah,465.25,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,310,Warringah,474.86,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,311,Waugoola,484.93,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,312,Weddin,495.02,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,313,Windouran I,505.33,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,314,Wingadee,514.93,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,315,Wingecarribee,525.25,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,316,Wollondilly,534.86,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,317,Woodburn,545.17,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,318,"Wyaldra , I",554.77,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,319,Yallaroi,565.33,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,320,Yanko I',575.17,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,321,Yarrowlumla I,585.25,unreviewed
+1921,abs_1921_statisticians_report_nsw_sydney_lga_maps,371,128,persons or more per square,777.96,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,1,Aberdeen,88.03,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,2,Adamstown,97.93,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,3,Albury,108.08,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,4,Alexandria Al,117.74,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,5,Annandale,127.65,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,6,Armidale,137.8,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,7,Ashfield,147.94,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,8,Auburn,157.84,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,9,Ballina,167.52,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,10,Balmain,177.65,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,11,Balranald,187.32,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,12,BankstilWn,196.98,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,13,Barraba,206.9,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,14,Bathurst,217.04,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,15,Bega,226.95,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,16,Berry,236.86,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,17,Bexley,246.76,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,18,Bingara,256.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,19,Blackheath,266.58,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,20,Blayney,276.48,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,21,Bombala,286.39,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,22,Botany,296.54,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,23,Bourke,306.44,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,24,Bowral,316.35,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,25,Braidwood,326.01,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,26,Brewarrina,335.91,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,27,Broken Hill,346.07,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,28,Broughton Vale,355.73,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,29,Burrowa,365.88,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,30,Burwood,376.03,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,31,Cabramatta and Canley Vale,385.44,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,32,Camden,395.84,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,33,Campbelltown,405.74,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,34,Canterbury,415.65,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,35,Carcoar,425.56,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,36,Carrington,435.46,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,37,Casino,445.37,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,38,Casdereagh,455.26,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,39,Cessnock,465.18,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,40,Cobar,475.32,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,41,Concord,484.99,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,42,Condobolin,494.89,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,43,Cooma,505.05,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,44,Coonamble,514.95,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,45,Cootamundra,524.62,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,46,Coraki,534.76,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,47,Corowa,544.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,48,Cowra,554.81,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,49,Darlington,564.48,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,50,DeniIiquin,574.63,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,51,Drummoyne,584.54,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,52,Dubbo,594.68,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,53,Dundas II-l,604.58,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,54,Dungog,614.5,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,55,Eastwood II-!,624.4,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,56,Enfield II-!,634.31,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,57,Ermington and Rydalmere,643.97,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,58,Erskineville,654.12,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,59,Fairfield,664.03,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,60,Forbes,674.16,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,61,Gerringong,683.84,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,62,Glebe,693.99,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,63,Glen rnnes,703.89,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,64,Goulburn,714.04,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,65,Grafton,723.95,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,444,66,Grafton South,733.85,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,67,Granville,65.44,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,68,Grenfell,75.56,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,69,Greta,85.43,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,70,Gulgong P,95.54,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,71,Gunnedah,105.42,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,72,"Hamilton """,115.77,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,73,Hay,125.64,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,74,Hillston,135.51,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,75,Holroyd,150.45,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,76,Homebush :rtI,165.62,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,77,Hunter's Hill !l-l,175.49,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,78,Hurstville,185.36,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,79,"Illawarra, Central",195.48,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,80,"Illawarra, North",205.35,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,81,Ingleburn,215.46,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,82,Inverell,225.34,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,83,Jamberoo,235.21,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,84,Junee,245.08,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,86,Kempsey,265.31,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,87,Kiama,275.18,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,88,Kogarah,285.3,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,89,Ku-ring-gai,295.17,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,90,Lambton,305.04,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,92,Lane Cove :rtl,325.03,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,93,Leichhardt,335.13,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,94,Lidcombe,345.02,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,95,Lismore,354.41,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,96,Lithgow,364.52,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,97,Liverpool,374.15,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,98,Maclean,384.27,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,99,Maitland East,394.14,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,100,Maitland West,404.01,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,101,ManiIla,414.13,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,102,Manly,424.24,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,103,Marrickville,434.11,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,104,Mascot,443.98,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,105,Merewether,453.86,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,106,Mittagong,463.97,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,107,Moama,473.84,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,108,Molong,483.96,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,109,Moree,493.59,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,111,l\losman,513.58,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,112,Moss Vale (a),523.45,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,114,Mullumbimby,543.44,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,115,Murrumburrah,553.31,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,116,Mnrrurundi,563.18,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,117,Murwillumbah,573.3,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,118,Muswellbrook,583.41,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,119,N arra bri,593.52,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,120,Narrabri 'West,603.16,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,121,Narrandera,613.27,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,122,Narromine,623.14,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,123,Newcastle,633.26,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,124,Newtown,643.13,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,125,Nowra,653.0,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,126,Nyngan,663.12,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,127,Orange,672.99,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,128,Paddingt on,682.86,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,129,Parkes,692.73,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,130,Parramatta,702.61,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,445,131,Peak Hill,712.96,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,132,Penrith,72.59,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,133,Petersham,82.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,134,Picton,92.76,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,135,Port Macquarie,102.59,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,136,Queanbeyan,112.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,137,Quirindi,122.52,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,138,Randwick,132.59,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,139,Raymond Terrace,142.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,140,Redfern,152.76,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,141,Richmond,162.59,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,142,Rockdale,172.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,143,Ryde,182.28,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,144,St Mary's,192.11,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,145,St Peters,201.71,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,146,Scone,211.79,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,147,Shell Harbour,221.64,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,148,"Shoalhaven, South",231.71,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,149,Singleton,241.79,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,150,Stockton,251.64,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,151,Strathfield,261.71,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,152,Sydney,271.55,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,153,"Sydney, North",281.64,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,154,Tamworth,291.23,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,155,Taree,301.55,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,156,Temora,311.4,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,157,Tenterfield,321.22,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,158,Ulladulla,331.32,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,159,Ulmarra,340.91,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,160,Uralla,351.23,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,161,Vaucluse,360.84,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,162,Wagga Wagga,370.91,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,163,Walcha,380.76,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,164,Wallendbeen,390.84,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,165,Walls end,400.91,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,166,Waratah,410.76,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,167,Warren,420.83,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,168,Waterloo,430.92,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,169,Waverley,440.76,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,170,Wellington,450.83,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,171,Wentworth,460.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,172,"Wickham """,470.76,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,173,Wilcannia,480.35,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,174,Willoughby l\t,490.43,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,175,Windsor,500.27,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,176,Wingham,510.11,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,177,W ollongong,520.2,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,178,W oollahra,530.03,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,179,Wyalong,540.11,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,180,Yass,550.2,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,181,Young,560.04,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,182,Abercrombie,629.87,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,183,Amaroo,639.71,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,184,Apsley,649.79,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,185,Ashford,659.63,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,186,Bannockburn,669.47,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,187,Barraba,679.55,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,188,Baulkham Hills,689.63,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,189,Bellingen,699.71,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,190,Berrigan,709.55,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,191,Bibbenluke,719.39,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,446,192,Blacktown,729.47,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,193,Bland,89.24,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,194,Bla:x:land,99.61,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,195,Blue Mountains,109.48,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,196,Bogan,119.59,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,197,Bolwarra,129.47,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,198,Boolooroo,139.58,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,199,Boomi,149.45,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,200,Boree,159.57,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,201,Bulli,169.44,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,202,Burrangong,179.31,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,203,Byron,189.43,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,204,Cambewarra,199.3,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,205,Canobolas,209.16,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,206,Carrathool,219.04,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,207,Clyde,229.16,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,208,Cobbora,239.03,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,209,Cockburn,249.14,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,210,Colo,259.26,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,211,Conargo,269.13,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,212,Coolah,279.0,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,213,Coolamon,289.12,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,214,Coonabarabran,298.99,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,215,COI)manhurst,309.1,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,216,Coreen,318.97,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,217,Crookwell,329.09,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,218,Cudgegong,339.21,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,219,Culcairn,348.84,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,220,Dalgety,357.99,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,221,Demondrille,368.1,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,222,Dorrigo,377.96,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,223,Dumaresq,387.85,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,224,Erina,397.96,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,225,Eurobodalla,407.83,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,226,Gilgandra,417.95,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,227,Gloucester,428.06,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,228,Goobang,437.93,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,229,Goodradigbee,447.81,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,230,Gostwyck,457.92,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,231,Gundagai,467.79,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,232,Gundurimba,477.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,233,Gunning,487.78,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,234,Guyra,497.65,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,235,Gwydir,507.77,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,236,Harwood,517.64,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,237,Hastings,527.51,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,238,Holbrook,537.56,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,239,Hornsby,547.5,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,240,Hume,557.61,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,241,"Hunter, V'pper",567.49,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,212,Illabo,578.17,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,243,Imlay,588.28,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,244,Jemalong,598.16,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,245,Jerilderie,607.7,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,246,Jindalee,617.33,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,247,Kearsley,626.95,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,248,Kyeamba,637.56,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,249,Kyogle,647.35,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,250,Lachlan,657.48,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,251,Lake 'Macquarie,667.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,252,Liverpool Plains,677.3,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,253,Lockhart,687.65,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,254,Lyndhurst,697.45,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,255,Macintyre,707.32,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,256,l-Icleay,717.52,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,257,Macquarie,727.62,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,447,258,Mandowa,737.73,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,259,Manning,97.92,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,260,Marthaguy,107.79,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,261,Merriwa,117.91,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,262,Mitchell,127.54,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,263,Monaro,137.89,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,264,l'I1ulwaree,147.53,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,265,Mumbulla,157.64,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,266,Murray,167.51,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,267,Murrumbidgee,177.63,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,268,Murrungal,186.78,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,269,Muswellbrook,196.89,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,270,Nambucca,206.76,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,271,Namoi,216.4,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,272,Narrabnrra,226.51,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,273,Na ttai,236.38,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,274,Nepean,246.5,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,275,Nundle,256.37,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,276,Nymboida,266.48,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,277,Oberon,276.36,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,278,Orara,286.23,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,279,Pa trick Plains,296.34,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,280,Peel,305.97,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,281,Port Stephens,316.09,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,282,Rylstone,325.96,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,283,Severn,336.07,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,284,Stroud,345.95,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,285,Sutherland,355.82,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,286,Talbragar,365.93,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,287,Tallaganda,375.81,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,288,Tamarang,385.92,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,289,Tarro,395.79,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,290,Tenterfield,405.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,291,Tera nia,415.78,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,292,Timbrebongie,425.41,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,293,Tintenbar,435.29,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,294,Tomki,445.4,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,295,Tumbarumba,455.27,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,296,Tumut,465.14,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,297,Turon,475.02,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,298,Tweed,485.13,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,299,Urana,495.25,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,300,Wade,505.12,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,301,Wakool,515.23,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,302,Walgett,525.1,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,303,Walla robba,535.22,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,304,Waradgery,545.09,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,305,Warrah,555.21,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,306,Warringah,565.08,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,307,Wangoola,574.95,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,308,Weddin,585.06,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,309,Willimbong,594.94,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,310,Windonran,604.81,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,311,Wingadee,614.92,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,312,wingecarribee (b),624.8,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,313,Wollondilly,634.67,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,314,Woodburn,644.54,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,315,Woy Woy,654.66,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,316,Wyaldra,664.29,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,317,Yallaroi,674.4,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,318,Yanko,684.28,unreviewed
+1933,abs_1933_statisticians_report_nsw_sydney_lga_maps,448,319,Yarrowlumla,694.39,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,1,Albury,298.33,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,2,Alexandria,308.42,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,3,Annandale,318.5,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,4,Armidale,328.33,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,5,Ashfield,338.42,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,6,Auburn,348.25,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,7,Ballina,358.1,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,81,Balmain,368.42,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,9,Balranald,378.02,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,10,Bankstown,388.1,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,11,Barraba,397.93,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,12,Bathurst,408.02,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,13,Bega,418.1,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,14,Berry,427.93,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,15,Bexley,438.02,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,16,Blackheath,448.1,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,17,Bombala,458.17,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,18,Botany,468.25,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,19,Bourke,478.33,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,20,Bowral,488.17,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,21,Brewarrina,498.02,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,22,Broken Hill,508.1,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,23,Broughton Vale,517.93,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,24,Burwood,527.77,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,25,Cabramatta and Canley Vale,537.86,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,26,Camden,547.7,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,27,Campbelltown,557.53,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,28,Canterbury,567.61,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,29,Casino,577.7,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,30,Castlereagh,587.77,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,31,Cessnock,597.86,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,32,Cobar,607.7,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,33,Concord,617.77,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,34,Condobolin,627.61,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,35,Cooma,637.7,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,36,Coonamble,647.53,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,37,Cootamundra,657.37,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,38,Corowa,667.45,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,39,Cowra,677.29,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,40,Darlington,687.13,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,41,Deniliquin,697.21,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,42,Drummoyne,707.29,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,43,Dubbo,717.37,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,44,Dundas,727.45,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,45,Dungog,737.53,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,46,Eastwood I,747.85,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,47,Enfield,757.46,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,48,Ermington and Rydalmere,767.29,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,49,Erskineville,777.14,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,50,Fairfield,787.22,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,51,"Forbes ""1",800.42,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,52,Gerringong,807.14,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,368,53,Glebe,817.21,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,64,Glen Innes,156.36,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,55,Gosford,166.21,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,56,Goulburn,176.29,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,57,Grafton,186.36,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,58,Grafton South,196.44,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,59,Granville,206.29,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,60,Grenfell,216.36,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,61,Gunnedah,226.21,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,62,Hay,236.29,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,63,Holroyd,251.17,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,64,Homebush,266.29,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,65,Hunter's Hill,276.36,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,66,Hurstville,285.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,67,Illawarra North,296.05,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,68,Ingleburn,306.12,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,69,Inverell,316.21,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,70,Jamberoo,326.29,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,71,Junee,336.36,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,72,Katoomba,346.21,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,73,Kempsey,356.05,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,74,Kiama,366.12,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,75,Kogarah,375.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,76,Ku-ring-gai,386.04,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,77,Lane Cove,396.13,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,78,Leichhardt,405.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,79,Lidcombe,416.04,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,80,Lismore,425.88,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,81,Lithgow,435.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,82,Liverpool,446.04,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,83,Maclean,456.13,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,84,Maitland,465.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,85,Manilla,476.04,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,87,Marrickville,495.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,88,Mascot,506.04,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,89,Moama,515.88,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,90,Molong,525.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,91,Moree,535.81,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,92,Mosman,545.88,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,93,Mudgee,556.21,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,94,Mullumbimby,565.81,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,95,Murrumburrah,575.88,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,96,Murrurundi,585.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,97,Murwillumbah,596.04,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,98,Muswellbrook,605.88,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,99,Narrabri,615.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,100,Narrandera,625.81,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,101,Narromine,635.64,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,102,"Newcastle, Greater",645.96,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,103,Newtown,656.04,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,104,North Sydney,665.88,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,105,Nowra,675.96,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,106,Nyngan,685.81,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,107,Orange,695.88,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,108,Paddington,705.72,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,109,Parkes,715.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,110,Parramatta,725.64,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,111,Peak Hill,735.72,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,112,Penrith,745.81,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,113,Petersham,755.65,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,114,Port Macquarie,765.72,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,115,Queanbeyan,775.57,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,116,Quirindi,785.65,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,369,117,Randwick,795.49,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,119,Richmond,158.85,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,120,Rockdale,168.92,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,121,Ryde,178.76,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,122,St Mary's,188.61,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,123,St Peters,198.68,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,124,Scone,208.75,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,125,Shellharbour,218.61,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,126,Shoalhaven South,228.68,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,127,Singleton,238.53,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,128,Strathfield,248.61,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,129,Sydney,258.68,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,130,Tamworth,268.76,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,131,Taree,278.85,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,132,Temora,288.92,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,133,Tenterfield,298.75,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,134,Ulladulla,308.61,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,135,Ulmarra,318.68,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,136,Uralla,328.76,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,137,Vaucluse,338.61,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,138,Wagga Wagga,348.68,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,139,Walcha,358.52,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,140,Warren,368.85,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,141,Waterloo,378.69,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,142,Waverley,388.53,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,143,Wellington,398.6,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,144,Wentworth,408.69,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,145,Wilcannia,418.53,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,146,Willoughby,428.6,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,147,Windsor,438.69,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,148,Wingham,448.53,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,149,Wollongong,458.35,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,150,Woollahra,468.44,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,151,Yass,478.28,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,152,Young,488.36,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,153,Abercrombie 'R,568.04,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,154,Amaroo,578.13,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,155,Apsley,587.97,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,156,Ashford,598.04,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,157,BalTaba,608.13,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,158,Baulkham Hills,617.72,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,159,Bellingen,627.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,160,Berrigan,637.4,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,161,Bibbenluke,647.48,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,162,Bingara,657.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,163,Blacktown,667.64,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,164,Bland,677.72,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,165,Blaxland,687.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,166,Blue Mountains,697.64,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,167,Bogan,707.48,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,168,Boolooroo,717.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,169,Boomi,727.4,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,170,Boorowa,737.48,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,171,Boree,747.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,172,Bulli R,757.4,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,173,Burrangong,767.25,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,174,Byron,777.08,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,175,"Cambewarra "" I",787.17,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,176,Canobolas,797.25,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,370,177,Carrathool,807.33,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,178,Clyde,147.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,179,Cobb ora,157.64,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,180,Cockburn,167.49,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,181,"Colo """,177.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,182,Conargo,187.64,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,183,Coolah,197.73,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,184,Coolamon,207.8,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,185,Coona bara bran,217.64,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,186,Copmanhurst,227.49,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,187,Coreen,237.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,188,Crookwell,247.41,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,189,Cudgegong,257.49,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,190,Culcairn,267.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,191,Demondrille,277.64,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,192,Dorrigo,287.49,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,193,Dumaresq,297.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,194,Erina,307.41,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,195,Eurobodalla,317.49,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,196,Gilgandra,327.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,197,Gloucester,337.64,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,198,Goobang,347.49,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,199,Goodradigbee,357.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,200,Gostwyck,367.63,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,201,Gulgong,378.43,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,202,Gundagai,387.32,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,203,Gundurimba,398.36,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,204,Gunning,407.48,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,205,"Guyra """,417.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,206,"Harwood """,428.59,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,207,Hastings,437.48,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,208,Holbrook,448.51,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,209,Hornsby,458.59,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,210,Hume,467.48,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,211,Illaho,477.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,212,Illawarra Central,487.41,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,213,Imlay,497.48,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,214,Jemalong _,507.56,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,215,J erilderie,517.41,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,216,Jindalee,527.48,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,217,Kearsley,537.32,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,218,Kyeamba,547.41,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,219,Kyogle,557.25,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,220,Lachlan,567.32,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,221,Lake Macquarie,577.41,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,222,Leeton,587.25,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,223,Liverpool Plains,597.32,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,224,Lockhart,607.41,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,225,Lower Hunter,617.25,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,226,Lyndhurst,627.32,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,227,Macintyre,637.17,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,228,Macleay,647.24,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,229,Macquarie,657.08,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,230,Mandowa,667.17,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,231,Manning,677.24,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,232,Marthaguy,687.08,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,233,Merriwa,697.17,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,234,Mitchell,707.24,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,235,Monaro,717.08,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,236,Mulwaree,727.17,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,237,Mumbulla,737.24,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,238,Murray,747.08,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,239,"Murrumbidgee """,757.17,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,240,Muswellbrook,767.96,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,241,Nambucca,777.08,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,242,Namoi,786.93,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,371,243,Narraburra,797.25,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,244,Nattai,155.23,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,245,Nepean,165.31,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,246,Nundle,175.39,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,247,Nymboida,185.23,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,248,Oberon,195.07,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,249,Orara,205.16,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,250,Patrick Plains,215.23,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,251,Peel,225.07,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,252,Port Stephens,235.16,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,253,Rylstone,245.23,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,254,Severn,255.07,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,255,Snowy River,265.16,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,256,Stroud,275.23,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,257,Sutherland,285.31,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,258,Talbragar,295.16,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,259,Tallaganda,304.99,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,260,Tamarang,315.07,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,261,Tenterfield,324.92,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,262,Terania,334.99,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,263,Timbrebongie,344.84,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,264,Tintenbar,354.92,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,265,Tomki,364.99,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,266,Tumbarumba,374.84,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,267,Tumut,384.91,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,268,Turon,395.0,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,269,Tweed,404.84,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,270,Upper Hunter,414.91,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,271,"Urana """,425.0,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,272,"Wade """,434.84,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,273,Wakool,444.91,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,274,Walgett,454.75,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,275,Wallarobba,464.84,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,276,Waradgery,474.67,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,277,Warrah,484.75,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,278,Warringah,494.84,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,279,Waugoola,504.67,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,280,Weddin,514.75,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,281,Windouran,524.59,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,282,Wingadee,534.44,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,283,Wingecarribee,544.23,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,284,W ollondilly,554.84,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,285,Woodburn,564.67,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,286,WoyWoy,575.0,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,287,Yallaroi,584.6,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,288,Yanko,594.37,unreviewed
+1947,abs_1947_statisticians_report_nsw_sydney_lga_maps,372,289,Yarrowlumla,604.52,unreviewed

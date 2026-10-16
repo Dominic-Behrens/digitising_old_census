@@ -1,0 +1,16 @@
+{
+  "timestamp_utc": "2026-10-16T03:09:03.016621+00:00",
+  "state": "finished",
+  "unit": "per-state LGA census volume",
+  "completed": 61,
+  "total": 61,
+  "failed": 0,
+  "skipped": 61,
+  "new_successes": 7,
+  "remaining": 0,
+  "elapsed_seconds": 0.6,
+  "last_successful_output": "explore/output/2026-10-16_download-other-states-lga-census-maps/manifest.csv",
+  "checkpoint": "explore/output/2026-10-16_download-other-states-lga-census-maps/status.json",
+  "resume_command": "python3 explore/2026-10-16_download-other-states-lga-census-maps.py",
+  "historical_source_note": "1911-1947 statewide maps come from the national Statistician's Report volumes already saved for NSW; 1971 maps come from the national Bulletin 13 set already saved."
+}

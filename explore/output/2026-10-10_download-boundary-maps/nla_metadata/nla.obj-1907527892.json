@@ -1,0 +1,461 @@
+{
+  "id": "190752789",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "bibLevel": "Item",
+  "bibId": "4232251",
+  "holdingNumber": "MAP G8974.W6G46 [1933?] (Copy 1)",
+  "pid": "nla.obj-1907527892",
+  "title": "Robinson's 5th subdivision [cartographic material] : right at North Wollongong Station - only 10 minutes walk to the North Beach and town centre ; auction sale on the estate Saturday, 30th October, at 2.30 p.m.",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1933",
+  "creator": "J. N. King & Sons.",
+  "extent": "1 map ; 42 x 55 cm.",
+  "sheetCreationDate": "1933",
+  "publisherName": "Printed by W.E. Smith Ltd.",
+  "constraints": [
+    "Copyright"
+  ],
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 116000330,
+      "filename": "190761922.jp2",
+      "filesize": 9266936,
+      "technicalmetadata": {
+        "width": 13797,
+        "height": 10740
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 444563532
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01914cem a2200373 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 960
+              },
+              {
+                "code": "d",
+                "content": "E1 505300"
+              },
+              {
+                "code": "e",
+                "content": "E1505300"
+              },
+              {
+                "code": "f",
+                "content": "S0342400"
+              },
+              {
+                "code": "g",
+                "content": "S0342400"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1933"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.G46 1933"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "J. N. King & Sons."
+            },
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Robinson's 5th subdivision"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "right at North Wollongong Station - only 10 minutes walk to the North Beach and town centre ; auction sale on the estate Saturday, 30th October, at 2.30 p.m. /"
+              },
+              {
+                "code": "c",
+                "content": "J. N. King & Sons, Wollongong & Kiama, P. Healy & Co., Wollongong, auctioneers in conjunction."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": 3,
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Robinson's fifth subdivision"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": 3,
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "Plan of Mr. W. J. Robinson's subdivision at North Wollongong, Municipality of North Illawarra"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:960]. 80' - 1\""
+              },
+              {
+                "code": "c",
+                "content": "(E 150\u00b053'/S 34\u00b024')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Printed by W.E. Smith Ltd.,"
+              },
+              {
+                "code": "c",
+                "content": "[1933?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map ;"
+              },
+              {
+                "code": "c",
+                "content": "42 x 55 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Sales plan for land in North Wollongong in New South Wales."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Terms: 10% deposit; balance in 12 equal quarterly instalments.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "In lower right: H.K. Wright, Registered surveyor, 57/59 York St., Sydney."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"All dimensions & easements are subject to deposited plan.\""
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP G8974.W6G46 [1933?] (Copy 1) copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1907527892"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "North Wollongong"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "North Wollongong (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": "Wright, H. K."
+            },
+            "tag": 700
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "W. E. Smith Ltd."
+            },
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "P. Healy & Co."
+            },
+            "tag": 710
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP G8974.W6G46 [1933?] (Copy 1) copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1907527892"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "3dc15828-9af7-58a5-90e3-6a47362c1759"
+              },
+              {
+                "code": "i",
+                "content": "d7134e3c-561c-52a4-a3d2-67f97e1504c9"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4232251
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "071026s1933    xna       a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230706091009.7
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8974.W6G46 [1933?]"
+              },
+              {
+                "code": "m",
+                "content": "(Copy 1)"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4739865
+          },
+          {
+            "tag": "004",
+            "content": 4232251
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-1907527892"
+}

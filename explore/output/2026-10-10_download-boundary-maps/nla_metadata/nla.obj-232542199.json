@@ -1,0 +1,497 @@
+{
+  "id": "23254219",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subUnitNo": "Tooley/77",
+  "bibLevel": "Item",
+  "bibId": "87594",
+  "holdingNumber": "MAP T 77",
+  "pid": "nla.obj-232542199",
+  "title": "New South Wales [cartographic material].",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1825",
+  "creator": "",
+  "extent": "1 map : col., 21.5 x 28.6 cm.",
+  "isMissingPage": "false",
+  "publisherName": "Published by A & S Arrowsmith, No. 10 Soho Square",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7696203,
+      "filename": "23254224.jp2",
+      "filesize": 932063,
+      "technicalmetadata": {
+        "width": 4377,
+        "height": 3396
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 44610300
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01465cem a2200349 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 10692957
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 3001000
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)2129861"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 87594
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL:AM"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "ANL:AM"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1825"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Scale [ca. 1:3 001 000]"
+            },
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "London :"
+              },
+              {
+                "code": "b",
+                "content": "Published by A & S Arrowsmith, No. 10 Soho Square,"
+              },
+              {
+                "code": "c",
+                "content": "Jan. 4 1825."
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col.,"
+              },
+              {
+                "code": "c",
+                "content": "21.5 x 28.6 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of New South Wales with relief shown by hachures and spot heights. Explorers routes, description of topography and 3 County boundaries shown on map."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Plate 29."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Tooley"
+              },
+              {
+                "code": "c",
+                "content": 77
+              }
+            ],
+            "tag": 510
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP T 77 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-232542199"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Arrowsmith, Aaron,"
+              },
+              {
+                "code": "c",
+                "content": "Jr.,"
+              },
+              {
+                "code": "d",
+                "content": "1802-1854."
+              },
+              {
+                "code": 0,
+                "content": 911708
+              },
+              {
+                "code": 9,
+                "content": "07e51d4d-7ad9-5732-8832-2708a787fd3e"
+              }
+            ],
+            "tag": 700
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Arrowsmith, Samuel,"
+              },
+              {
+                "code": "d",
+                "content": -1839
+              }
+            ],
+            "tag": 700
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "R.V. Tooley map collection"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)8535306"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "R.V. Tooley map collection."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Tooley Collection ;"
+              },
+              {
+                "code": "v",
+                "content": "Map T 77."
+              },
+              {
+                "code": 5,
+                "content": "ANL"
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP T 77 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-232542199"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "d52ecfe0-0ff3-5ed4-a6c5-29610d22f1f9"
+              },
+              {
+                "code": "s",
+                "content": "ef1b82c7-ba13-5c2c-988a-a94eb10620ff"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 87594
+          },
+          {
+            "tag": "005",
+            "content": 20240420015758.3
+          },
+          {
+            "tag": "008",
+            "content": "940211s1825    enkdg     a         eng d"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP T 77"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1450851
+          },
+          {
+            "tag": "004",
+            "content": 87594
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "285747909",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Set",
+    "bibId": "8535306",
+    "pid": "nla.obj-2857479095",
+    "title": "R.V. Tooley map collection.",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "commentsExternal": "For Tooley/15 see version in Nan Kivell collection at nla.obj-230643561. For Tooley/39 see version in Nan Kivell collection at nla.obj-230598101. For Tooley/40 see version in rare map collection at nla.obj-232536349. For Tooley/41 see version in rare map collection at nla.obj-231200961. For Tooley/59 and Tooley/710 see version in Nan Kivell collection at nla.obj-230731286. For Tooley/62 see version in rare map collection at nla.obj-231281917. For Tooley/63 see version in rare map collection at nla.obj-232540419. For Tooley/65 see version in rare map collection at nla.obj-231299708. For Tooley/66 see version in rare map collection at nla.obj-231298147. For Tooley/82 see version in Nan Kivell collection at nla.obj-230631043. For Tooley/96 see version in Nan Kivell collection at nla.obj-230630599. For Tooley/110 see version in Nan Kivell collection at nla.obj-230641284. For Tooley/117 see version in Nan Kivell collection at nla.obj-230643911.For Tooley/120 see version in rare map collection at nla.obj-231353328. For Tooley/128 see version in Nan Kivell collection at nla.obj-230642590.",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1572",
+    "creator": "Tooley, R. V. (Ronald Vere), 1898-1986.",
+    "extent": "1,221 maps : some colour.",
+    "isMissingPage": "false",
+    "publisherName": "",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": [
+      505,
+      24844
+    ]
+  },
+  "topLevelCollection": "nla.obj-2857479095"
+}

@@ -1,0 +1,447 @@
+{
+  "id": "23243515",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "4360894",
+  "holdingNumber": "MAP RM 4193",
+  "pid": "nla.obj-232435155",
+  "title": "Homestead and garden land within a few minutes ride of the city [cartographic material] : plan of rich alluvial garden lands in one acre, quarter acre and large building allotments situated in Upper Footscray : adjoing the proposed railway station for that part of the municipality",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1859",
+  "creator": "Ladd & Carr.",
+  "extent": "1 map : mounted on board ; 27 x 43 cm.",
+  "publisherName": "s.n.",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7692455,
+      "filename": "23243520.jp2",
+      "filesize": 1118320,
+      "technicalmetadata": {
+        "width": 5213,
+        "height": 3388
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 53017184
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "02066cem a2200313 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "d",
+                "content": "E1445200"
+              },
+              {
+                "code": "e",
+                "content": "E1445200"
+              },
+              {
+                "code": "f",
+                "content": "S0374800"
+              },
+              {
+                "code": "g",
+                "content": "S0374800"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-vi"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1859"
+              },
+              {
+                "code": "b",
+                "content": "d1860"
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": {
+              "code": "a",
+              "content": "Ladd & Carr."
+            },
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Homestead and garden land within a few minutes ride of the city"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] :"
+              },
+              {
+                "code": "b",
+                "content": "plan of rich alluvial garden lands in one acre, quarter acre and large building allotments situated in Upper Footscray : adjoing the proposed railway station for that part of the municipality /"
+              },
+              {
+                "code": "c",
+                "content": "Ladd & Carr, lith., 102 Collins St. East."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": 3,
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": "Upper Footscray"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale not given"
+              },
+              {
+                "code": "c",
+                "content": "(E 144\u00b052'/S 37\u00b048')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Melbourne :"
+              },
+              {
+                "code": "b",
+                "content": "s.n.,"
+              },
+              {
+                "code": "c",
+                "content": "ca. 1859]"
+              },
+              {
+                "code": "e",
+                "content": "([Melbourne]:"
+              },
+              {
+                "code": "f",
+                "content": "Ladd & Carr, lithographers)"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "mounted on board ;"
+              },
+              {
+                "code": "c",
+                "content": "27 x 43 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Sales plan for land bounded by Ashley Street to the west and Geelong Road to the east then alongside Footscray Railway Station [i.e. possibly now Footscray West Station] with Suffolk Street to the north and Long Street to the south in the suburb of Upper Footscray [i.e. now West Footscray] in the city of Melbourne, Victoria."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Caption title."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Blocks 4, 5, 8 & 9, frontage 49 feet 6 in., depth 220 ft. ; blocks 6, 7, frontage 49 ft. 6in., [???] depth ; blocks 2 & 3, No. 1 - 24 & 37 to 60, frontage 36 ft. 6 in., depth 297 ft. ; block 0, frontage 30 ft., depth 107 ft.\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232435141"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Real property"
+              },
+              {
+                "code": "z",
+                "content": "Victoria"
+              },
+              {
+                "code": "z",
+                "content": "West Footscray"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "West Footscray (Vic.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232435141"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "National Library of Australia's copy has paper darkened with age and includes areas blackened due to paper deterioration or glue."
+            },
+            "tag": 900
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "a91bddbb-e814-5d70-a9d9-9e640d7c6ef6"
+              },
+              {
+                "code": "i",
+                "content": "7b21053f-656d-5df5-bfd2-1447b3828365"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4360894
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "080422q18591860vra       a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20230706092309.6
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RM 4193"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4886109
+          },
+          {
+            "tag": "004",
+            "content": 4360894
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "23243514",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "bibLevel": "Item",
+    "bibId": "4360894",
+    "holdingNumber": "MAP RM 4193",
+    "pid": "nla.obj-232435141",
+    "title": "Homestead and garden land within a few minutes ride of the city [cartographic material] : plan of rich alluvial garden lands in one acre, quarter acre and large building allotments situated in Upper Footscray : adjoing the proposed railway station for that part of the municipality",
+    "accessConditions": "Unrestricted",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1859",
+    "creator": "Ladd & Carr.",
+    "extent": "1 map : mounted on board ; 27 x 43 cm.",
+    "publisherName": "s.n.",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-232435141"
+}

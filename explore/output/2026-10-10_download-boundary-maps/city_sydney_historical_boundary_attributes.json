@@ -1,0 +1,210 @@
+{
+  "objectIdFieldName": "OBJECTID",
+  "uniqueIdField": {
+    "name": "OBJECTID",
+    "isSystemMaintained": true
+  },
+  "globalIdFieldName": "",
+  "geometryProperties": {
+    "shapeAreaFieldName": "Shape__Area",
+    "shapeLengthFieldName": "Shape__Length",
+    "units": "esriMeters"
+  },
+  "geometryType": "esriGeometryPolygon",
+  "spatialReference": {
+    "wkid": 28356,
+    "latestWkid": 28356
+  },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "DateOrder",
+      "type": "esriFieldTypeSmallInteger",
+      "alias": "DateOrder",
+      "sqlType": "sqlTypeOther",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "StartDate",
+      "type": "esriFieldTypeString",
+      "alias": "StartDate",
+      "sqlType": "sqlTypeOther",
+      "length": 50,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "EndDate",
+      "type": "esriFieldTypeString",
+      "alias": "EndDate",
+      "sqlType": "sqlTypeOther",
+      "length": 50,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "CouncilName",
+      "type": "esriFieldTypeString",
+      "alias": "CouncilName",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Details",
+      "type": "esriFieldTypeString",
+      "alias": "Details",
+      "sqlType": "sqlTypeOther",
+      "length": 255,
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Shape__Area",
+      "type": "esriFieldTypeDouble",
+      "alias": "Shape__Area",
+      "sqlType": "sqlTypeDouble",
+      "domain": null,
+      "defaultValue": null
+    },
+    {
+      "name": "Shape__Length",
+      "type": "esriFieldTypeDouble",
+      "alias": "Shape__Length",
+      "sqlType": "sqlTypeDouble",
+      "domain": null,
+      "defaultValue": null
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 9,
+        "DateOrder": 9,
+        "StartDate": "2004",
+        "EndDate": "present",
+        "CouncilName": "City of Sydney",
+        "Details": "On 6 February 2004, the remaining South Sydney City Council (SSCC) was amalgamated back into the City of Sydney. This created a new local government area (LGA) boundary for the City that has remained unchanged until the present day.",
+        "Shape__Area": 26733680.137451172,
+        "Shape__Length": 43766.595742913945
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "DateOrder": 7,
+        "StartDate": "1989",
+        "EndDate": "2003",
+        "CouncilName": "South Sydney City Council",
+        "Details": "On 1 January 1989, a new South Sydney City Council (SSCC) was created. The City of Sydney was reduced in size to only the Central Business District, and some immediately adjacent neighbourhoods such as The Rocks, Haymarket, Pyrmont, and part of Ultimo. In",
+        "Shape__Area": 17803516.203979492,
+        "Shape__Length": 27552.570055470263
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "DateOrder": 1,
+        "StartDate": "1842",
+        "EndDate": "1870",
+        "CouncilName": "City of Sydney",
+        "Details": "On 20 July 1842, the Sydney Corporation Act brought into being the Sydney Corporation, later known as the Council of the City of Sydney.",
+        "Shape__Area": 9171765.773925781,
+        "Shape__Length": 22465.442785025614
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 21,
+        "DateOrder": 2,
+        "StartDate": "1870",
+        "EndDate": "1908",
+        "CouncilName": "City of Sydney",
+        "Details": "On 20 April 1870, the City of Sydney (known as the Municipal Council of Sydney until 1949) took over responsibility for the Moore Park area, initially by the device of making the Town Clerk the Trustee of Moore Park.",
+        "Shape__Area": 11622933.795898438,
+        "Shape__Length": 29970.458189375495
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 24,
+        "DateOrder": 3,
+        "StartDate": "1908",
+        "EndDate": "1948",
+        "CouncilName": "City of Sydney",
+        "Details": "On 22 December 1908, the City of Sydney absorbed the Municipality of Camperdown.",
+        "Shape__Area": 13048505.659667969,
+        "Shape__Length": 33441.54547493826
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 27,
+        "DateOrder": 4,
+        "StartDate": "1949",
+        "EndDate": "1968",
+        "CouncilName": "City of Sydney",
+        "Details": "On 1 January 1949, following the passing of the Local Government (Areas) Act 1948, the City of Sydney absorbed the surrounding municipalities of Alexandria, Darlington, Erskineville, The Glebe, Newtown, Paddington, Redfern and Waterloo.",
+        "Shape__Area": 29058621.921020508,
+        "Shape__Length": 36093.28944558167
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 34,
+        "DateOrder": 5,
+        "StartDate": "1968",
+        "EndDate": "1981",
+        "CouncilName": "City of Sydney",
+        "Details": "On 1 August 1968, the City of Sydney lost most of the areas it had previously absorbed. Paddington (north of Oxford Street) was transferred to Woollahra Council and Glebe was transferred to Leichhardt Council. Part of Camperdown (west of Church Street/Mal",
+        "Shape__Area": 13426361.253540039,
+        "Shape__Length": 34398.223209429525
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 38,
+        "DateOrder": 6,
+        "StartDate": "1982",
+        "EndDate": "1988",
+        "CouncilName": "City of Sydney",
+        "Details": "On 1 January 1982, South Sydney Municipal Council (SSMC) was abolished and all the areas lost to it in 1968 returned to the City of Sydney. The areas lost to Woollahra, Marrickville, and Leichhardt did not return. The City of Sydney also gained responsibi",
+        "Shape__Area": 24072471.83984375,
+        "Shape__Length": 37654.47501019773
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 46,
+        "DateOrder": 7,
+        "StartDate": "1989",
+        "EndDate": "2003",
+        "CouncilName": "City of Sydney",
+        "Details": "On 1 January 1989, a new South Sydney City Council (SSCC) was created. The City of Sydney was reduced in size to only the Central Business District, and some immediately adjacent neighbourhoods such as The Rocks, Haymarket, Pyrmont, and part of Ultimo. In",
+        "Shape__Area": 6236933.993530273,
+        "Shape__Length": 24501.373348427143
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 47,
+        "DateOrder": 8,
+        "StartDate": "2003",
+        "EndDate": "2004",
+        "CouncilName": "City of Sydney",
+        "Details": "On 8 May 2003, approximately 40% of the South Sydney City Council (SSCC) area was merged back into the City of Sydney. This approximated Camperdown, Chippendale, Darlington, East Sydney, Kings Cross and Woolloomooloo. Glebe was transferred back from Leich",
+        "Shape__Area": 12432578.810668945,
+        "Shape__Length": 36245.38667421097
+      }
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "id": "55696305",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "bibLevel": "Item",
+  "bibId": "7467804",
+  "holdingNumber": "MAP G8971.K2 s125",
+  "pid": "nla.obj-556963051",
+  "title": "[New South Wales forestry project maps and regional state forest maps]",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Not Captured",
+  "startDate": "01 January 1961",
+  "creator": "Forestry Commission of New South Wales, cartographer, issuing body.",
+  "extent": "maps : colour ; 100 x 77 cm or smaller, sheets 105 x 80 cm or smaller",
+  "isMissingPage": "false",
+  "publisherName": "Forestry Commission of New South Wales",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 17305297,
+      "filename": "55696335.jp2",
+      "filesize": 1103452,
+      "technicalmetadata": {
+        "width": 5043,
+        "height": 3501
+      }
+    },
+    {
+      "copyrole": "i",
+      "access": "true",
+      "filesize": 17678646
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "04789ced a2200529 i 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 75000
+              },
+              {
+                "code": "b",
+                "content": 126720
+              },
+              {
+                "code": "d",
+                "content": "E1405900"
+              },
+              {
+                "code": "e",
+                "content": "E1590600"
+              },
+              {
+                "code": "f",
+                "content": "S0280900"
+              },
+              {
+                "code": "g",
+                "content": "S0373000"
+              },
+              {
+                "code": 2,
+                "content": "bound"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNL)7467804"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "e",
+                "content": "rda"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "d1961"
+              },
+              {
+                "code": "b",
+                "content": 2009
+              }
+            ],
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.K2 s125"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forestry Commission of New South Wales,"
+              },
+              {
+                "code": "e",
+                "content": "cartographer,"
+              },
+              {
+                "code": "e",
+                "content": "issuing body."
+              },
+              {
+                "code": 0,
+                "content": 40303
+              },
+              {
+                "code": 9,
+                "content": "d88c072f-2711-553d-8d69-5298347f3ff9"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[New South Wales forestry project maps and regional state forest maps] /"
+              },
+              {
+                "code": "c",
+                "content": "produced by the Forestry Commission of New South Wales ; compiled by Mapping Branch Forestry Commission of New South Wales."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": 3,
+            "subfield": {
+              "code": "a",
+              "content": "[NSW forestry project maps and regional state forest maps]"
+            },
+            "tag": 246
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Various editions."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scales differ"
+              },
+              {
+                "code": "c",
+                "content": "(E 140\u00b059\u02b900\u02ba--E 159\u00b006\u02b900\u02ba/S 28\u00b009\u02b900\u02ba--S 37\u00b030\u02b900\u02ba)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": 1,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Forestry Commission of New South Wales,"
+              },
+              {
+                "code": "c",
+                "content": "1961?-2009?"
+              }
+            ],
+            "tag": 264
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "maps :"
+              },
+              {
+                "code": "b",
+                "content": "colour ;"
+              },
+              {
+                "code": "c",
+                "content": "100 x 77 cm or smaller, sheets 105 x 80 cm or smaller"
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "cartographic image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "text"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "still image"
+              },
+              {
+                "code": 2,
+                "content": "rdacontent"
+              }
+            ],
+            "tag": 336
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "unmediated"
+              },
+              {
+                "code": 2,
+                "content": "rdamedia"
+              }
+            ],
+            "tag": 337
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "sheet"
+              },
+              {
+                "code": 2,
+                "content": "rdacarrier"
+              }
+            ],
+            "tag": 338
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Forestry map series of New South Wales showing state forests, leased and crown land, boundaries, roads and tracks, railways, and some tourist information. Relief shown by spot heights."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Semi-formal map series, including its predecessor sheets. Maps at various scales: 1:75,000, 1:125,000, 1:126,720 and 1:150,000."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Panel title on some sheets."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Later sheets prepared by State Forests of NSW, GIS Operations Unit from State Forests of NSW digital database and Department of Information Technology and Management (LIC Division) digital topographic database (DTDB)."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Compilation date determined by field revision."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Earlier sheets are dyeline prints."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Each sheet has individual title."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Each map is also catalogued individually."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes legend."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes ancillary maps, locality map, index to adjoining sheets, text and illustrations on verso of some sheets."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "a",
+              "content": "Tenterfield State Forests : Coffs Harbour and Glen Innes forestry regions -- Barrington Tops State Forests, Newcastle and Port Macquarie forestry regions -- Batemans Bay and Nowra in part : forestry boundaries as at August 1978 -- Batemans Bay project map : proposed state forest additions and revocations -- Batemans Bay State Forests  within south coast and south east forestry districts -- Bathurst State Forests, Bathurst and Bateman's Bay forestry regions -- Bega project map : within South East & South Coast forestry districts -- Bulahdelah State Forests  -- Casino State Forests  : Coffs Harbour forestry region --  Central Murray Valley : State Forests, Western forestry region -- Central West forest map -- Coffs Harbour State Forests : Coffs Harbour, Glen Innes and Port Macquarie forestry regions -- Eden State Forests, Batemans Bay and Eden forestry regions -- Green Hills Bago project area within forestry districts of Tumut and Riverina -- Kempsey State Forests : Coffs Harbour, Glen Innes and Port Macquarie forestry regions -- Lower North Coast forest map -- Mid North Coast forest map -- Newcastle state forests -- Nowra State Forests, Batemans Bay forestry region -- Nulla-five day project area -- Nundle Nowendoc project area -- Pilliga State Forests : Dubbo and Glen Innes forestry regions -- Pilliga State Forests, Baradine forestry district -- Port Macquarie State Forests, with Glen Innes, Newcastle and Port Macquarie forestry regions -- Royal Milli Project map within Newcastle and Taree forestry districts -- South Coast forest map -- Tumbarumba Project map within Tumut and Riverina forestry districts --Tumut State Forests -- Tumut State Forests, Albury and Bateman's Bay forestry regions  -- Walcha State Forests : Glen Innes, Newcastle and Port Macquarie forestry regions -- Washpool project map and far north coast forest areas."
+            },
+            "tag": 505
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forests and forestry"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forest reserves"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 7,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Thematic maps."
+              },
+              {
+                "code": 2,
+                "content": "lcgft"
+              }
+            ],
+            "tag": 655
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forestry Commission of New South Wales."
+              },
+              {
+                "code": "b",
+                "content": "Mapping Branch,"
+              },
+              {
+                "code": "e",
+                "content": "compiler."
+              },
+              {
+                "code": 0,
+                "content": 40303
+              },
+              {
+                "code": 9,
+                "content": "d88c072f-2711-553d-8d69-5298347f3ff9"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "State Forests of New South Wales."
+              },
+              {
+                "code": 0,
+                "content": 28095
+              },
+              {
+                "code": 9,
+                "content": "d890ce5f-01bd-55da-af39-b397fcda6023"
+              }
+            ],
+            "tag": 710
+          },
+          {
+            "ind2": 2,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "Map index at National Library of Australia"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-556963051/mapindex"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "89dd556b-10b0-56fa-b4e7-120992a41e9d"
+              },
+              {
+                "code": "i",
+                "content": "87bb124b-0a2c-54b4-a5fd-a098bd173108"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 7467804
+          },
+          {
+            "tag": "007",
+            "content": "aj canzn"
+          },
+          {
+            "tag": "008",
+            "content": "171012m19612009xnag      a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240129010635.3
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.K2 s125"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 8173631
+          },
+          {
+            "tag": "004",
+            "content": 7467804
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-556963051"
+}

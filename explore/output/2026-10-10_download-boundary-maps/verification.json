@@ -1,0 +1,1103 @@
+{
+  "verified_utc": "2026-10-13T22:35:16.789084+00:00",
+  "files": 1607,
+  "bytes": 15541560800,
+  "kinds": {
+    "atlas_cover": 13,
+    "municipal_boundary_map": 536,
+    "historical_map_compilation": 1,
+    "atlas_title_page": 3,
+    "atlas_statistics_page": 1,
+    "map_index_statistics_page": 3,
+    "library_holding_index_map": 5,
+    "proposed_local_government_boundary_map": 29,
+    "map_with_shire_boundaries": 72,
+    "boundary_map_index": 12,
+    "petitioned_and_proclaimed_boundary_map": 3,
+    "parish_map_with_lga_boundaries": 263,
+    "planning_map_with_lga_boundaries": 170,
+    "atlas_index_page": 5,
+    "cadastral_companion_map": 5,
+    "map_reference_sheet": 25,
+    "municipal_ward_boundary_map": 106,
+    "historical_boundary_vector_set": 1,
+    "base_map_with_lga_boundaries": 116,
+    "report_with_lga_boundary_maps": 188,
+    "historical_lga_comparison_map": 7,
+    "atlas_companion_document": 4,
+    "map_companion_document": 16,
+    "report_with_suburb_boundary_maps": 4,
+    "report_with_lga_sla_boundary_maps": 1,
+    "report_with_shire_boundary_map": 18
+  },
+  "checks": [
+    "existence",
+    "bytes",
+    "sha256",
+    "image_readability_and_dimensions",
+    "pdf_readability_and_page_count",
+    "nla_placeholder_exclusion",
+    "geojson_source_count_attributes_and_location",
+    "state_library_original_dimensions_match_catalogue"
+  ],
+  "vectors": [
+    {
+      "path": "data/raw/historical_boundary_maps/city_of_sydney/city_sydney_historical_boundaries_city_of_sydney_historical_atlas_historic_council_boundaries.geojson",
+      "features": 10,
+      "valid_geometries": 9,
+      "invalid_geometries": [
+        {
+          "object_id": 10,
+          "council": "South Sydney City Council",
+          "start": "1989",
+          "end": "2003",
+          "issue": "Ring Self-intersection[151.214270179029 -33.9038218737633]"
+        }
+      ],
+      "source_count": 10,
+      "crs": "EPSG:4326",
+      "source_date_and_council_attributes_match": true
+    }
+  ],
+  "failed": 0,
+  "source_geometry_issues": 1,
+  "boundary_jpeg_count": 993,
+  "boundary_jpeg_count_includes_boundary_map_indexes": 12,
+  "full_manifest_hash_check": "Previous 1142 files checked in earlier batches. Three new originals pass fetch/copy SHA-256, catalogue dimensions and RGB duplicate checks against registered JPEGs of matching dimensions. All 1145 registered paths/sizes pass. Six estate/river source images visually reviewed: three accepted, three review-only. Rothbury shire boundary explicitly labelled; Camden council division identified from opposite council names and marked line without standalone key. Uncertain catalogue and layer dates preserved. Seven Gloucester review-only source entries (five unique byte hashes) pass fetch hashes and catalogue dimensions; all registered paths/sizes rechecked unchanged. Eight final shire-search review-only originals pass fetch hashes and catalogue dimensions; all registered paths/sizes unchanged. All 290 unique online shire-search catalogue records now resolved; visual review and metadata routing distinguished. Four municipality-audit review-only originals pass fetch hashes and catalogue dimensions; all registered paths/sizes unchanged. Six council-plan originals pass fetch hashes and catalogue dimensions; one accepted unchanged after SHA/RGB duplicate checks. All 1146 registered paths/sizes pass. Five interstate records routed from catalogue subjects without original visual review. Five final municipality-search originals pass fetch hashes and catalogue dimensions; no additional LGA originals accepted. All 1146 registered paths/sizes unchanged. Bowral catalogue/imprint date discrepancy recorded. Western Suburbs sewerage: all 33 fetch hashes and catalogue dimensions pass; remaining 30 native originals downloaded and reviewed at whole-sheet scale with enlarged selected geographic details. No LGA outline accepted. Both saved Randwick reference scans rehashed unchanged; line identity remains unresolved. All 1146 registered paths/sizes unchanged. One new City of Sydney original PDF passes fetch/copy SHA-256, five-page readability and embedded map dimensions (3103 \u00d7 4360). All five pages visually reviewed; existing boundary and proposed blue transfer tint distinguished. All 1147 registered paths/sizes pass; viewer derivatives not registered. Five City boundary-correspondence PDFs pass fetch SHA-256, readability and page counts (34 pages). One 27-page original accepted unchanged after registered-hash duplicate check; two map pages checked at native resolution, proposed lines distinguished from land-use fills. All 1148 registered paths/sizes pass. Other four PDFs contain correspondence only; five metadata records expose no PDF. No claim of full archive coverage. Five further City archive PDFs pass fetch hashes and page counts (45 pages); 33-page Boundary Marks report accepted unchanged, 1928 overview and 24 numbered sketches identified. Overview native boundary key distinguished from proposed marker positions. All 1149 registered paths/sizes pass. Four other PDFs expose correspondence only. Two further City archive PDFs pass fetch SHA-256 and readability/page count (four pages); one letter only and one street-extension tracing without identified LGA line. Six metadata records resolved for this batch. Four small focused catalogue queries have complete card coverage, independently checked by unique ID totals 32/21/34/2. All 1149 registered paths/sizes unchanged. Three originals added: two explicit Newtown\u2013Camperdown boundary plan PDFs and one native ward-map TIFF. Fetch/copy hashes, PDF page counts, TIFF dimensions/readability pass. Paired PDF routes byte-identical, registered once each. TIFF RGB duplicate check against matching-dimension registered images passes. Publisher-letter PDF two pages reviewed without enclosed map. All 1152 registered paths/sizes pass. One property-claim lead remains unreviewed. Six further City search pages retrieved: 144 cards, bringing each of two queries to 96 unique cards on four pages. Six selected metadata records expose no original asset. Cooper grant-claim PDF passes SHA-256 and 28-page readability; its one native map screened enlarged without identified LGA outline. Previously unresolved lead now reviewed. All 1152 registered paths/sizes unchanged. Two originals added from pages 5\u20137: Newtown 1885 borough-boundary TIFF and Liberty Street partial Petersham\u2013Camperdown boundary PDF. Native keys/labels reviewed; original SHA-256, dimensions/readability and raw-copy match pass. All 1154 registered paths/sizes pass. Six new search pages retrieved; duplicate cards across adjacent pages recorded, complete unique-query coverage not claimed. Five other metadata records have no exposed original. All nominal City boundary-plans/municipal-map pages retrieved (13/19); unique ID audit records overlaps and missing unique coverage, no complete-query claim. Six selected metadata records reviewed; Camperdown map-offer original PDF passes SHA-256 and seven-page readability, correspondence only. All 1154 registered paths/sizes unchanged. City archive supported node_id ascending sort proves complete unique card coverage for two submitted queries (299/440), strict increasing IDs and no duplicates; five missing IDs recovered and title-screened. One City planning-scheme original TIFF accepted, native Council adoption 1958 and imprint 1959, not prescribed scheme caveat preserved. TIFF fetch/copy hash, 6504\u00d78131 readability and same-dimension registered RGB check pass. PDF companion source hash/readability passes, not separately registered. All 1155 registered paths/sizes pass; full archive or all-original review not claimed. Twelve remaining City ward/map records inspected: eleven not-digitised/no-download metadata records; 1939 Chief Warden PDF passes SHA-256 and six-page readability, visually screened without map. Erskineville agency attachment not exposed. Stable-sort card audit reconciled to registered originals and saved discovery checkpoints, remaining card-only states explicit. All 1155 registered paths/sizes unchanged. New council-archive discovery: six Ryde metadata records expose no originals; five thumbnails match two visually confirmed generic placeholders, excluded from raw collection. North Sydney public catalogue discovered but filtered search/original availability unverified; Bankstown catalogue lead not yet inspected. All 1155 registered paths/sizes unchanged. One Willoughby 1988 council-history PDF accepted: fetch/copy SHA-256, whole-file duplicate exclusion and 146-page readability pass; maps located on PDF pages 12/18. All 1156 paths/sizes pass. Reproduction dates unresolved; older originals not freshly rehashed. Three further Willoughby council-history PDFs accepted: native title/copyright 1988; map pages 10/161/173 located. New originals pass hash/copy and PDF checks; all 1159 registered paths/sizes pass. Artarmon retained separately as suburb/locality evidence. Castle Cove shared base-map design not counted as distinct edition. Full page-by-page visual review not claimed. One Liverpool Council Gazette 1975 original PDF added: native map page 11 inspected, three wards/32 districts, issue-year caveat retained; 156-page readability and hash/copy pass. All 1160 registered paths/sizes pass. 1978/1980\u201381 original reviews remain open. Liverpool 1980\u201381 issue accepted: 113-page original hash/copy, duplicate exclusion, page111 visual inspection pass; 31-area map not inferred legal change. All 1161 paths/sizes pass. 1978 all thumbnails screened and Bent\u2019s Basin page24 enlarged, no labelled LGA map. Liverpool 1971 original passes fetch/copy SHA-256, duplicate exclusion and 79-page readability. All 1971\u201373 thumbnails screened; 1971 map enlarged. All 1162 registered paths/sizes pass; older hashes not freshly recalculated. Liverpool 1987\u201388 original passes fetch/copy SHA-256, registered-hash duplicate exclusion and 84-page readability. All late-issue thumbnails screened, selected maps enlarged. All 13 exposed public Gazette issues now thumbnail-screened; four source documents registered. All 1163 registered paths/sizes pass; older hashes not freshly recalculated. Hills and Hornsby original PDFs pass fetch/copy SHA-256, registered-hash duplicate exclusion and one/212-page readability. Hills full sheet and Hornsby selected pages 16/26/52 visually inspected; mixed Hills production/geography dates preserved. All 1165 registered paths/sizes pass; older hashes not freshly recalculated. Hills 2012\u201313 plan passes source/copy SHA-256, registered-hash duplicate exclusion and 70-page readability. Native PDF page 6 map inspected; 2008 ward-layer date distinguished from report date. Smaller same-design 2007\u201308 annual-report raster reviewed but not separately registered. All 1166 registered paths/sizes pass; older hashes not freshly recalculated. Hills October 2015 agenda passes fetch/copy SHA-256, registered-hash duplicate exclusion and 512-page readability. Selected ward map pages 408\u2013411 inspected enlarged; proposal/current key and map date verified. West map duplicated in source instead of listed North attachment; map-area RGB render hashes match. All 1167 registered paths/sizes pass; older hashes not freshly recalculated. Hills December 2015 section-3 agenda passes fetch/copy SHA-256, registered-hash duplicate exclusion and 402-page readability. Selected report pages 270\u2013271 text-reviewed and all four map attachments 272\u2013275 visually inspected enlarged. Missing North plate recovered. All 1168 registered paths/sizes pass; older hashes not freshly recalculated. Hornsby pre-2016/2017 ward comparison original passes fetch/copy SHA-256, registered-hash duplicate exclusion and one-page A0 PDF readability. Whole sheet and enlarged legend/southern detail inspected. All 1169 registered paths/sizes pass; older hashes not freshly recalculated. Three Ryde December 2014 ward originals pass fetch/copy SHA-256, registered-hash duplicate exclusion and one-page PDF readability; all three sheets visually inspected. All 1172 registered paths/sizes pass; older hashes not freshly recalculated. Five older Ryde archive metadata records reviewed in native browser without exposed original asset IDs. Ryde adopted 2012 open-space plan passes source/copy SHA-256, registered-hash duplicate exclusion and 233-page readability. Selected maps on PDF pages 46/48 visually reviewed and page45 aggregated-suburb footnote text checked. Two annual-report originals reviewed without acceptance; selected 2011 schematic and all 2008 section thumbnails inspected. All 1173 registered paths/sizes pass; older hashes not freshly recalculated. Ryde boundary keyword search native pagination pages 1\u20133 yields 55 unique IDs matching reported total, no duplicates. Seven new selected records browser HTTP 200 and Download asset ID 0; no originals or thumbnails visually reviewed this batch. All 1173 registered paths/sizes unchanged and pass; no new hash check of older files. Two Parramatta 2011 original embedded PNG ward-change maps pass fetch/copy SHA-256, registered-hash and matching-dimension RGB duplicate exclusion, 3507x2480 readability. Whole sheets and enlarged legends inspected; lower-resolution GIF derivatives excluded. Proposal status and elector-date caveat retained. All 1175 registered paths/sizes pass; older hashes not freshly recalculated. Four Parramatta final-review original PNGs pass fetch/copy SHA-256, registered-hash and matching-dimension RGB duplicate exclusion, 2481x3508 readability. All four sheets visually reviewed; native printed dates and current/proposed keys preserved. Minutes resolution12970 adoption linked to final revised maps, not earlier agenda proposals. JPG derivatives excluded. All 1179 registered paths/sizes pass; older hashes not freshly recalculated. Auburn 2015 strategy original passes fetch/copy SHA-256, registered-hash duplicate exclusion and 161-page readability. Selected PDF page15 printed9 whole LGA map visually reviewed, red dashed native boundary key distinguished from land-use fills. Parramatta Smart City selected map page49 reviewed but not accepted; annual-report visual review pending. All 1180 registered paths/sizes pass; older hashes not freshly recalculated. Three historical Parramatta/Holroyd LAP originals pass fetch/copy SHA-256, registered-hash duplicate exclusion and one-page PDF readability. All whole sheets visually reviewed; LGA/LEP application keys and planning-map dates distinguished. Fetched Parramatta annual-report all 133 thumbnails screened without boundary map; pending review resolved. All 1183 registered paths/sizes pass; older hashes not freshly recalculated. Four Auburn/Bankstown historical LAP originals pass fetch/copy SHA-256, registered-hash duplicate exclusion and one-page readability. All four whole-sheet renderings reviewed. Two native Auburn MGA55 labels flagged without correction. All 1187 registered paths/sizes pass; older hashes not freshly recalculated. Eight southern-Sydney historical LAP originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, printed-map-ID and one-page readability checks. All eight whole-sheet renderings reviewed. Hurstville 2015 missing independent LGA key recorded. All 1195 registered paths/sizes pass; older hashes not freshly recalculated. Five Inner West/Botany Bay historical LAP originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, printed-map-ID and one-page readability checks. All five whole-sheet renderings reviewed, explicit boundary keys distinguished from planning exclusions. Marrickville 2020 former extent explicitly labelled. All 1200 registered paths/sizes pass; older hashes not freshly recalculated. Eight Northern Beaches historical LAP originals pass fetch/copy SHA-256, registered-hash duplicate exclusion and one-page readability checks. All eight whole-sheet renderings and native keys reviewed. Printed map IDs checked in native text for five, visually for three image-only Manly PDFs. Native Manly addendum-date difference recorded. All 1208 registered paths/sizes pass; older hashes not freshly recalculated. Fourteen Gosford/Wyong historical LAP originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, native printed-map-ID and one-page readability checks. All fourteen whole-sheet renderings reviewed. Native IDs differ from portal/file IDs on three sheets; differences recorded. All 1222 registered paths/sizes pass; older hashes not freshly recalculated. Ten western Sydney historical LAP originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, printed-map-ID and one-page readability checks. All ten whole-sheet renderings reviewed. Blacktown printed scale/map-ID discrepancy flagged without correction. All 1232 registered paths/sizes pass; older hashes not freshly recalculated. Eight northwest Sydney historical/comparison LAP originals pass fetch/copy SHA-256, registered-hash duplicate exclusion and one-page readability checks. All eight whole-sheet renderings reviewed. Seven printed IDs checked in native text; Ku-ring-gai 2015 ID/scale/cadastre numerals checked visually because extraction omits them. Hornsby 2022 has Included only, no separate LGA key; limitation recorded. All 1240 registered paths/sizes pass; older hashes not freshly recalculated. Nine Ryde/North Shore originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, one-page readability and whole-sheet visual inspection. Eight explicit LGA keys; North Sydney comparison-only limitation recorded. All 1249 registered paths/sizes pass; older hashes not freshly recalculated. Six eastern Sydney/Canada Bay originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, one-page readability and whole-sheet inspection; all six explicit LGA keys. All 1255 registered paths/sizes pass; older hashes not freshly recalculated. Seven southwest Sydney originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, one-page readability and whole-sheet inspection; all seven explicit LGA keys. Heathcote Ridge main map only Subject Land, excluded after visual review. All 1262 registered paths/sizes pass; older hashes not freshly recalculated. Nine southwest comparison originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, one-page readability and whole-sheet inspection; all explicit LGA keys. All 1271 registered paths/sizes pass; older hashes not freshly recalculated. Seven Blue Mountains/Sutherland/Burwood/Strathfield originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, one-page readability and whole-sheet inspection; all explicit LGA keys. All 1278 registered paths/sizes pass; older hashes not freshly recalculated. One Sutherland proposal original passes fetch/copy SHA-256, registered-hash duplicate exclusion and 200-page readability; two whole-LGA map pages138\u2013139 visually inspected, explicit keys/proposal limits recorded. All1279 registered paths/sizes pass; older hashes not freshly recalculated. Two Sutherland 2015 ward-review originals pass fetch/copy SHA-256, registered-hash duplicate exclusion and PDF readability (1 and 7 pages). Detailed sheet and report map pages6\u20137 visually reviewed. All1281 registered paths/sizes pass; older hashes not freshly recalculated. Two Blacktown historical comparison originals pass fetch/copy SHA-256, registered-hash duplicate exclusion, printed-ID and one-page readability checks. Both whole sheets visually inspected; explicit LGA keys. All1283 registered paths/sizes pass; older hashes not freshly recalculated. Three Fairfield/Blacktown published historical map files pass fetch/copy SHA-256 and registered-hash duplicate exclusion. Two Fairfield JPEGs pass RGB duplicate exclusion at matching dimensions and image readability; Blacktown PDF passes one-page readability. All three whole sheets visually reviewed; low-resolution published-derivative limits recorded. All1286 registered paths/sizes pass; older hashes not freshly recalculated. Three NSWEC/NorthSydney/CBCity reports pass fetch/copy SHA-256, registered-hash duplicate exclusion and PDF readability (196/9/149pages).45 NSWEC map thumbnails screened and3 detailed whole maps reviewed; NorthSydney2019 map8 and CBCity2019 local panels90 inspected. All1289 registered paths/sizes pass; older hashes not freshly recalculated. One2016 NSWEC original passes fetch/copy SHA-256, registered-hash duplicate exclusion and259page readability;76 map thumbnails screened,4 enlarged whole pages reviewed. Two older review-only PDFs pass fetch/copy hashes and readability, outside raw map collection. All1290 registered paths/sizes pass; older hashes not freshly recalculated. Three Blacktown2013/Bankstown2012\u201313/Canterbury2008\u201309 originals pass fetch/copy SHA-256, PDF page counts and manifest hash-duplicate exclusion. All 1293 registered paths/sizes pass. Canterbury2003\u201304 review-only copy hash verified; older hashes not recalculated this batch. Three Canterbury2004\u201305/2006\u201307/2007\u201308 originals pass fetch/copy hashes, PDF page counts and hash-duplicate exclusion. Two Holroyd review-only copies pass hashes. All1296 registered paths/sizes pass; older hashes not recalculated this batch. Two IPART2015 originals pass fetch/copy hashes, PDF page counts and hash-duplicate exclusion. All1298 registered paths/sizes pass; older hashes not recalculated. Two Holroyd2013/Fairfield2010 originals pass fetch/copy hashes, PDF page counts and duplicate exclusion. All1300 paths/sizes pass; older hashes not recalculated. Fairfield zlib rendering warning recorded; map PDF15 visually inspected, full-document integrity unproven. Four Sydney2010 SEPP originals pass fetch/copy hashes, PDF page counts and duplicate exclusion. All1304 paths/sizes pass; older hashes not recalculated. Allfour whole pages visually reviewed with boundary-evidence limits recorded. Six remaining Marrickville/BotanyBay2010 SEPP originals pass fetch/copy hashes, PDF page counts and duplicate exclusion. All1310 paths/sizes pass; older hashes not recalculated. Allsix whole sheets visually inspected. Four archived Leichhardt LEP2000 PDFs (three boundary-context sheets, one foreshore companion) pass fetch/copy hashes, PDF page counts and duplicate exclusion. All1314 paths/sizes pass; older hashes not recalculated. Four whole sheets visually reviewed. Six Leichhardt DCP suburb-profile originals pass fetch/copy hashes, PDF counts and duplicate exclusion; two explicit suburb maps/four neighbourhood companions. General65page review-only copy hash passes. All1320 paths/sizes pass; older hashes not recalculated. Six first map pages visually inspected. Two Rockdale council-paper originals pass fetch/copy hashes, page counts and duplicate exclusion. All1322 paths/sizes pass; older hashes not recalculated. Three whole map pages visually inspected, plus selected thumbnails; full volumes not visually reviewed. NSWDLG2004\u201305 original passes fetch/copy hash, PDFpagecount and duplicate exclusion; 2003\u201304 review-only copy hash passes. All1323 paths/sizes pass; older hashes not recalculated. PDF4/5 whole map pages visually inspected. NSWDLG2005\u201306 original passes fetch/copy hash, PDFpagecount and duplicate exclusion; 2002\u201303 review-only copy hash passes. All1324 paths/sizes pass; older hashes not recalculated. Whole mapPDF168/169 visually inspected. Manly draftDCP original passes fetch/copy hash, pagecount and duplicate exclusion; annual-report review-only copy hash passes. All1325 paths/sizes pass; older hashes not recalculated. Whole mapPDF159 visually inspected. GeorgesRiverApril1999 map-set original passes fetch/copy hash, pagecount and duplicate exclusion; four council annual-report review-only copy hashes pass. All1326 paths/sizes pass; older hashes not recalculated. Eight pages thumbnail screened; wholePDF3/5 map pages visually inspected. Kogarah2015 map report and resolution companion pass fetch/copy hashes, pagecounts and duplicate exclusion; agenda review-only copy hash passes. All1328 paths/sizes pass; older hashes not recalculated. Whole current/proposed mapPDF11/13 visually inspected. NSWEC2014Hurstville report passes fetch/copy hash, pagecount and duplicate exclusion; three Kogarah2011 review-only copy hashes pass. All1329 paths/sizes pass; older hashes not recalculated. All23 electionreport pages thumbnail-screened and mapPDF5 whole inspected. Five NSWEC2014 Sydney report originals pass fetch/copy hashes, pagecounts and duplicate exclusion. All1334 paths/sizes pass; older hashes not recalculated. Five map pages visually inspected whole, first8 pages each thumbnail-screened. Three NSWEC Ryde/Blacktown/Campbelltown originals pass new fetch/copy SHA-256, PDF page counts and registered-hash duplicate exclusion. All 1337 registered paths/sizes pass; earlier collection hashes not recalculated. First eight pages of each screened and map pages 7/7/5 wholly reviewed. Ryde LGA native date distinguished from election/polling dates. Hurstville 2012 contributions plan passes fetch/copy SHA-256, 87-page readability and registered-hash duplicate exclusion. PDF79 whole map visually reviewed. Six annual reports pass copied hashes and PDF readability; retained review-only and excluded collection totals. All 1338 registered paths/sizes pass; old hashes not recalculated. MuPDF stitching warnings preserved in checkpoint. Two new 2008 Kogarah/Hurstville map originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusion. Both whole sheets visually reviewed; clipped Hurstville northern edge recorded. All 1340 registered paths/sizes pass; earlier hashes not recalculated. Three public 2012 routes return 200 but no map asset links identified. Eight new Sydney 2008 NSWEC map PDFs pass fetch/copy SHA-256, one-page readability and registered-hash duplicate exclusions. All eight whole sheets visually reviewed; Marrickville western frame clipping and Leichhardt offshore extent limits recorded. All 1348 registered paths/sizes pass; earlier collection hashes not recalculated. Five new 2008 Manly/Pittwater/Warringah/Parramatta/Ryde map originals pass fetch/copy SHA-256, one-page readability and registered-hash duplicate exclusions. All five whole sheets visually reviewed; clipped Warringah/Parramatta edges recorded. All 1353 registered paths/sizes pass; earlier hashes not recalculated. Botany Bay published route resolved without map link; official council index saved. Six new 2008 Sydney/Waverley/Woollahra/Randwick/Burwood/Strathfield originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. All six whole sheets visually reviewed; coastal/offshore limits recorded. All 1359 registered paths/sizes pass; older hashes not recalculated. Six new 2008 Canada Bay/Lane Cove/Hunters Hill/Mosman/North Sydney/Willoughby map originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. All six whole sheets visually reviewed; harbour/island extent limits recorded. All 1365 registered paths/sizes pass; older hashes not recalculated. Six outer Sydney 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1371 registered paths/sizes pass; older hashes not recalculated. Seven western Sydney 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1378 registered paths/sizes pass; older hashes not recalculated. Four Sydney fringe/coastal 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1382 registered paths/sizes pass; older hashes not recalculated. Two 2011 Shellharbour/Wollongong originals pass fetch/copy SHA-256, PDF page counts and registered-hash duplicate exclusions. All 64 pages thumbnail-screened and three whole map-bearing pages inspected; embedded raster dimensions confirmed. All 1384 registered paths/sizes pass; older hashes not recalculated. Six Hunter/Shoalhaven 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1390 registered paths/sizes pass; older hashes not recalculated. Six Hunter/Mid North Coast 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1396 registered paths/sizes pass; older hashes not recalculated. Six western regional NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1402 registered paths/sizes pass; older hashes not recalculated. Six NSW tablelands 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1408 registered paths/sizes pass; older hashes not recalculated. Seven central/southwestern NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1415 registered paths/sizes pass; older hashes not recalculated. Six Riverina/southwestern NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1421 registered paths/sizes pass; older hashes not recalculated. Four central/Riverina NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1425 registered paths/sizes pass; older hashes not recalculated. Four central/western NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1429 registered paths/sizes pass; older hashes not recalculated. Five Murray-region NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1434 registered paths/sizes pass; older hashes not recalculated. Six lower-Murray/western NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1440 registered paths/sizes pass; older hashes not recalculated. Six far-western NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1446 registered paths/sizes pass; older hashes not recalculated. Four western-slopes NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1450 registered paths/sizes pass; older hashes not recalculated. Six northwestern NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1456 registered paths/sizes pass; older hashes not recalculated. Five New England NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1461 registered paths/sizes pass; older hashes not recalculated. Six Northern Rivers NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1467 registered paths/sizes pass; older hashes not recalculated. Five north-coast NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1472 registered paths/sizes pass; older hashes not recalculated. Six southern tablelands/coast and Tenterfield NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1478 registered paths/sizes pass; older hashes not recalculated. Two final-entry NSW 2008 originals pass fetch/copy SHA-256, one-page PDF readability and registered-hash duplicate exclusions. Whole sheets visually inspected; frame/inset coverage limits recorded. All 1480 registered paths/sizes pass; older hashes not recalculated. Nine Canterbury/Bankstown annual report originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Selected map pages visually inspected; all 1489 registered paths/sizes pass; older hashes not recalculated. Three Sydney/Cumberland originals pass fetch/copy SHA-256, image/PDF readability and registered-hash duplicate exclusion. Whole selected maps inspected; all 1492 registered paths/sizes pass. Older hashes not recalculated. Three ANU report/thesis originals pass fetch/copy SHA-256, image/PDF readability and registered-hash duplicate exclusion. Whole selected maps inspected; all 1495 registered paths/sizes pass. Older hashes not recalculated. Two ABS regional-statistics originals pass fetch/copy SHA-256, image/PDF readability and registered-hash duplicate exclusion. Whole selected maps inspected; all 1497 registered paths/sizes pass. Older hashes not recalculated. 1971 Bulletin13 and 1984 Births originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Selected whole NSW maps inspected; all 1499 registered paths/sizes pass. Older hashes not recalculated. NSW Year Book1976 original passes fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Four whole LGA end plates inspected; all 1500 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books1971/1979 originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Five whole LGA plates and1971 council index inspected; all 1502 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books1961/1964/1969 originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Six selected whole map plates and1966 council index inspected; all 1505 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books 1955/1957/1959 originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Four selected whole map plates inspected; first 50/last 30 page thumbnails screened per book, bodies unreviewed; all 1508 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books 1947-48/1948-49/1950-51 originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Three selected whole map plates and legend/footer crops inspected; first 50/last 30 page thumbnails screened per book, bodies unreviewed; all 1511 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books 1940-41/1941-43/1945-46 originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Three selected whole map plates and legend/footer crops inspected; first 50/last 30 page thumbnails screened per book, bodies unreviewed; all 1514 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books 1937-38/1938-39/1939-40 originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Three selected whole map plates and legend/footer crops inspected; first 50/last 30 page thumbnails screened per book, bodies unreviewed; all 1517 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books 1934-35/1936-37 originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Two selected whole map plates and legend/footer crops inspected; first 50/last 30 page thumbnails screened per book, bodies unreviewed; all 1519 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books 1931-32/1932-33/1933-34 originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Three selected whole map plates and legend/footer crops inspected; first 50/last 30 page thumbnails screened per book, bodies unreviewed; all 1522 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books 1930-31 original pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. One selected whole map plate and legend/footer crops inspected; first 50/last 30 page thumbnails screened per book, bodies unreviewed; all 1523 registered paths/sizes pass. Older hashes not recalculated. NSW Year Books 1927-28 original pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. One selected whole map plate and legend/footer crops inspected; first 50/last 30 page thumbnails screened per book, bodies unreviewed; all 1524 registered paths/sizes pass. Older hashes not recalculated. Rent and Sales Report 118 original pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. One selected whole map plate inspected; all 16 report pages thumbnail screened and native geography notes read; all 1525 registered paths/sizes pass. Older hashes not recalculated. NSW Rent and Sales issues 83/97/104 originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Whole PDF page 10 maps viewed, cover and PDF page 16 notes read, all 16 thumbnails screened per report; all 1528 registered paths/sizes pass. Older hashes not recalculated. Independent reread of all three newly stored Rent and Sales originals confirms SHA-256, 16 readable PDF pages and native 2005-framework notes. Issue 104 map is raster (zero native map text), inspected visually; issues 83/97 have native map text. Manifest count 1528 and bytes 13409125038 verified. Census 1933/1947 Statistician report originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. All pages thumbnail-screened; NSW and Sydney whole maps, keys, cover/preface and geography notes inspected; all 1530 registered paths/sizes pass. Older hashes not recalculated. Independent stored-original SHA-256 reread confirms both new Census reports, readable PDF page counts and map image renders; native notes explicitly identify LGA boundaries. All 1530 registered paths/sizes checked by registrar; historical hashes not rerun. Census 1911/1921 Statistician report originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Selected first/body thumbnail ranges, whole Sydney maps and NSW plates, cover/preface and native geography notes inspected; remaining body/appendices unreviewed; all 1532 registered paths/sizes pass. Older hashes not recalculated. 1891 NSW report passes fetch/copy SHA-256 and PDF readability; all 384 thumbnails screened and selected plates reviewed. Sydney folded map partially clipped. All 1533 manifest paths/sizes pass; older hashes not recalculated. SMCMA2005/06 and2007/08 report originals pass fetch/copy SHA-256, PDF readability and registered-hash duplicate exclusion. Selected native cover/publication/area notes and whole PDF8 Sydney LGA plates inspected; remaining body/appendices unreviewed; all 1535 registered paths/sizes pass. Older hashes not recalculated. SMCMA2008\u201309 original passes fetch/copy SHA-256 and readable84-page PDF; selected first20 thumbnails and whole PDF7 reviewed. All1536 registered paths/sizes pass; older hashes not recalculated.",
+  "north_sydney_bankstown_review": {
+    "timestamp_utc": "2026-10-10T21:01:03.590136+00:00",
+    "selected_records": 4,
+    "previews_visually_reviewed": 3,
+    "bankstown_scan_visually_reviewed": true,
+    "new_originals": 0,
+    "manifest_paths_and_sizes_checked": 1155,
+    "manifest_path_or_size_errors": 0,
+    "checkpoint": "explore/output/2026-10-10_download-boundary-maps/north_sydney_bankstown_lga_map_review.json"
+  },
+  "willoughby_publication_list_audit": {
+    "timestamp_utc": "2026-10-10T21:09:43.684340+00:00",
+    "unique_articles": 24,
+    "reported_articles": 24,
+    "list_coverage_complete": true,
+    "all_pdf_content_reviewed": false,
+    "selected_additional_histories_reviewed": 4,
+    "accepted_originals": 0,
+    "all_registered_paths_sizes_checked": 1159
+  },
+  "liverpool_gazette_series_audit": {
+    "completed": 13,
+    "total": 13,
+    "accepted_originals": 4,
+    "page_thumbnails_reviewed": 1216,
+    "all_exposed_issues_thumbnail_screened": true,
+    "full_archive_coverage": false
+  },
+  "independent_1911_1921_saved_original_check": {
+    "records": [
+      {
+        "record_id": "abs_1921_statisticians_report_nsw_sydney_lga_maps",
+        "sha256": "ca03703ca95d44cd9548aef54a702323e4b2affde6fce1ef05484d7199c23dbb",
+        "pdf_pages": 421
+      },
+      {
+        "record_id": "abs_1911_statisticians_report_nsw_sydney_lga_maps",
+        "sha256": "c92718c9acad955dcfbae5393727a0791da36b021fbc357e11203b5c4828a1a4",
+        "pdf_pages": 1032
+      }
+    ],
+    "all_manifest_paths_and_sizes_match": true,
+    "manifest_files": 1532,
+    "manifest_bytes": 13497730072,
+    "scope": "New saved PDFs independently rehashed and reopened; earlier files checked for path and size only."
+  },
+  "independent_1891_saved_original_check": {
+    "sha256": "09491e3bf51f9d67497ba1c1ef7b1ccc7717a6137983032b91bcc2bd591b322f",
+    "pdf_pages": 384,
+    "all_manifest_paths_and_sizes_match": true,
+    "manifest_files": 1533,
+    "scope": "Saved new PDF independently rehashed and reopened; prior originals checked for path and size only."
+  },
+  "independent_smcma_saved_original_check": {
+    "verified_utc": "2026-10-11T01:49:31.447406+00:00",
+    "records": [
+      {
+        "record_id": "smcma2007_08_sydney_lga_map",
+        "sha256": "35e1f509adcb560705cbba0f59346b8b4bd7e097fe7a565ec6be89dd5c5c5072",
+        "pdf_pages": 80,
+        "map_pdf_page": 8
+      },
+      {
+        "record_id": "smcma2005_06_sydney_lga_map",
+        "sha256": "1ae6b5c86f3d81dd44825e312a6aa63fd300538f2ea601769ecd9060c4a617fd",
+        "pdf_pages": 62,
+        "map_pdf_page": 8
+      }
+    ],
+    "all_manifest_paths_and_sizes_match": true,
+    "manifest_files": 1535,
+    "scope": "New saved reports independently rehashed and reopened; older files checked by path and size only."
+  },
+  "independent_smcma2008_saved_original_check": {
+    "sha256": "1ce483a882d11cbf4ef2f34391e831c7e7fd45312752c15cf7b2eefbaba99613",
+    "pdf_pages": 84,
+    "map_pdf_page": 7,
+    "manifest_files": 1536,
+    "all_manifest_paths_and_sizes_match": true,
+    "scope": "New stored PDF independently rehashed and reopened; older files checked for path and size only."
+  },
+  "independent_uts2014_saved_original_check": {
+    "state": "passed",
+    "verified_utc": "2026-10-11T01:57:24.058128+00:00",
+    "sha256": "90ec3c97b94959d9d0d0e06ac4f33b0735b842728f8dd22f4eb334af998e0552",
+    "pdf_pages": 43,
+    "map_pdf_page": 28,
+    "native_title_date_and_source_text": "passed",
+    "registered_originals": 1537,
+    "all_registered_paths_and_sizes": "passed",
+    "unique_record_ids": "passed",
+    "batch_counts": "passed",
+    "older_manifest_hashes": "not recalculated"
+  },
+  "independent_bitre132_saved_original_check": {
+    "state": "passed",
+    "verified_utc": "2026-10-11T02:01:33.388087+00:00",
+    "sha256": "fda2d5ccaa8cb29933f75f95f9204271ddfe287d5a9de61539f3f93ae56d4849",
+    "pdf_pages": 408,
+    "map_pdf_page": 84,
+    "native_2006_ASGC_note_and_October2012_publication": "passed",
+    "olg_duplicate_image_hash_comparison": "passed",
+    "all_registered_paths_and_sizes": "passed",
+    "unique_ids_and_batch_counts": "passed",
+    "older_manifest_hashes": "not recalculated"
+  },
+  "independent_cooksriver1999_saved_original_check": {
+    "state": "passed",
+    "verified_utc": "2026-10-11T02:04:00.609953+00:00",
+    "sha256": "d4542a4118afb72da5ab771f809feca13d0ab6c931c21db8e682c3f4df7283b1",
+    "pdf_pages": 262,
+    "native_September1999_RevC_date": "passed",
+    "map_pdf_pages": [
+      22,
+      24,
+      35
+    ],
+    "visual_lga_versus_catchment_key_review": "passed",
+    "all_registered_paths_and_sizes": "passed",
+    "unique_ids_and_batch_counts": "passed",
+    "older_manifest_hashes": "not recalculated"
+  },
+  "independent_upperparramatta2003_saved_original_check": {
+    "state": "passed",
+    "verified_utc": "2026-10-11T02:07:51.467532+00:00",
+    "sha256": "e12553ff94513a5a35d32999699fd952f0c6a5ca8d4c5b48907f276ea3691f34",
+    "pdf_pages": 124,
+    "selected_pages_renderable": [
+      2,
+      18,
+      31,
+      54,
+      101
+    ],
+    "native_exhibition_title_date_and_lga_key": "visually verified; scan lacks useful native text",
+    "all_registered_paths_and_sizes": "passed",
+    "unique_ids_and_batch_counts": "passed",
+    "older_manifest_hashes": "not recalculated"
+  },
+  "independent_parramatta_six_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "lower_parramatta2005_vol1_lga_map",
+        "sha256": "644c04e58c7674e6d2433ac34c9672f061844cd3ea3ef859edf2a469d8da65f8",
+        "pdf_pages": 135,
+        "rendered_map_pages": [
+          32
+        ],
+        "state": "pass"
+      },
+      {
+        "record_id": "duck_river2012_plan_2011_lga_map",
+        "sha256": "7aa4f31503ab34cf78c2497494eb8b262e3a211e1e89ae08fa4cfb0427c85438",
+        "pdf_pages": 21,
+        "rendered_map_pages": [
+          10
+        ],
+        "state": "pass"
+      }
+    ],
+    "all_registered_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_wattle_callan_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "npws_downy_wattle2003_sydney_lga_map",
+        "state": "pass",
+        "sha256": "29e46569505a918724ecf47f91fbd4e9823e605c335e011606a4662491f5ac97",
+        "pdf_pages": 78,
+        "rendered_map_pages": [
+          23
+        ]
+      },
+      {
+        "record_id": "callan_park2011_part1_1990_lga_maps",
+        "state": "pass",
+        "sha256": "762f18817714922a9516376d3917ed8aa0e122d026d336375bf27912bb348739",
+        "pdf_pages": 74,
+        "rendered_map_pages": [
+          24
+        ]
+      }
+    ],
+    "all_registered_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_nutans_pimelea_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "dec_nutans2006_2005_sydney_lga_maps",
+        "state": "pass",
+        "sha256": "f965307acbb21c5a810bb943eed8c485ea0f1969a7802bfc0e3ff933da7201da",
+        "pdf_pages": 50,
+        "rendered_map_pages": [
+          15,
+          16,
+          40,
+          45,
+          46
+        ]
+      },
+      {
+        "record_id": "dec_pimelea2006_2005_sydney_lga_map",
+        "state": "pass",
+        "sha256": "0b56430e9e1c203a40441d3a60e4ee7f49a86f54cd02c786ed6ff3dcaa058dde",
+        "pdf_pages": 51,
+        "rendered_map_pages": [
+          43
+        ]
+      }
+    ],
+    "all_registered_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_zieria_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "dec_zieria2006_sydney_lga_map",
+        "state": "pass",
+        "sha256": "1cc97699d50bc95f46d7e9022efb52cdaee2496d08090a2298710df867493f2b",
+        "pdf_pages": 52,
+        "rendered_map_pages": [
+          12
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_olg_obtusiflora_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "npws_obtusiflora2001_1999_lga_map",
+        "state": "pass",
+        "sha256": "e95c6cf64eb02f0533140f1f4e5a730a278b17ca6cb877141d723d0671609a8b",
+        "pdf_pages": 67,
+        "rendered_map_pages": [
+          20
+        ]
+      },
+      {
+        "record_id": "olg2012_2013_council_profile_lga_maps",
+        "state": "pass",
+        "sha256": "fa66046191d485bbd2b929357aa9a3d028953e10724d009b10a561eb48070789",
+        "pdf_pages": 353,
+        "rendered_map_pages": [
+          44,
+          46
+        ]
+      },
+      {
+        "record_id": "olg2011_2012_council_profile_lga_maps",
+        "state": "pass",
+        "sha256": "63a4e5db36dc0d9cc189e4cf293c6d51d3a21ec46aba525bbfc91317935f7f8b",
+        "pdf_pages": 338,
+        "rendered_map_pages": [
+          32,
+          34
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_planning_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "leichhardt2011_2007_location_lga_maps",
+        "state": "pass",
+        "sha256": "87854ad491e772d7e37011a661ac50f07defd2149f9829bd642142e69aa4ed1d",
+        "pdf_pages": 184,
+        "rendered_map_pages": [
+          10
+        ]
+      },
+      {
+        "record_id": "canterbury2013_2011_2010_lga_maps",
+        "state": "pass",
+        "sha256": "718f3b9ef9005d4ddf85acff53fe2b46d6741df0e0b6fd2e91a2425031b646ec",
+        "pdf_pages": 144,
+        "rendered_map_pages": [
+          11,
+          43
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_biomap_nsroc_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "oeh2015_biomap_lga_bankstown",
+        "state": "pass",
+        "sha256": "559e2d965845317c6cffa6b6956fba7f922a50ccb7e4fcc583902e338a8bf691",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_blacktown",
+        "state": "pass",
+        "sha256": "6d306f05bbaecbed5784367393e2adedce7453dfaa19c2ae3893051f9082f6bf",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_camden",
+        "state": "pass",
+        "sha256": "13589ff88f95383684d023f8acf0d48b0c134cc6fd4a8cada78e434e8bcaa7b8",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_campbelltown",
+        "state": "pass",
+        "sha256": "eb4383d71e5ce2ae7b6ef3084d30cd00e87cf2f49f7b3324a632062165edae56",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_canterbury",
+        "state": "pass",
+        "sha256": "479bcec3d7f4b0834b9735ae39466163583895db783d8ee39fdd71f4c54ddfa4",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_fairfield",
+        "state": "pass",
+        "sha256": "8139443c056eefc5210df5354c8e5a31aac3a59993271ece4141c9f5b5721a28",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_hawkesbury",
+        "state": "pass",
+        "sha256": "cc0d02c36e68a06399bf0248b772592299b36a9eb294db622e8baa81660c8676",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_hornsby",
+        "state": "pass",
+        "sha256": "4df75156dc90965e5950ae6488ad735e8bc31a963dcb2408f906fb5ff36248b7",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_hurstville",
+        "state": "pass",
+        "sha256": "486828603a1670c4d940e1607443619e142a05a234f129145e54860080a60e5d",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_ku_ring_gai",
+        "state": "pass",
+        "sha256": "1c6ebf1e354f85efc863385db40bd49b86109bc288a3d0224251346e300f53ab",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_liverpool",
+        "state": "pass",
+        "sha256": "580b05a6ee80e9248699a9d9c0e9f96e904ec0b8f92f021c63fd63b90fae83bb",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_parramatta",
+        "state": "pass",
+        "sha256": "1f7515ad48cf06f43b4a37375711e7759f23bb5cf43621d11818355218040279",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_penrith",
+        "state": "pass",
+        "sha256": "8b5f3ebb31d656435d2c3a302ec10a1e655ef6a243619ac8953c6dc059d15c19",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_ryde",
+        "state": "pass",
+        "sha256": "d7321a0a190c310d908f82ea88fdeeda5a980721bb6a6fdf8c9294c51cdd39c8",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_hills",
+        "state": "pass",
+        "sha256": "0bde6b464e85eecfa6f5a8219b29c8d7e6047cc9f7f58d0a6d2e801915cef521",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "oeh2015_biomap_lga_wollondilly",
+        "state": "pass",
+        "sha256": "d50f7e0523153cb873af8cfc8e116971331564733bf7614cd60dc7ec3ef54251",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      },
+      {
+        "record_id": "nsroc2009_2010_lga_map",
+        "state": "pass",
+        "sha256": "a1fa7249730fb9a4eb3e6232713a822bb236a98ecb70d17b6892820d16d98cbd",
+        "pdf_pages": 68,
+        "rendered_map_pages": [
+          2
+        ]
+      }
+    ],
+    "all_registered_ids_paths_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_nsroc2009_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "nsroc2008_2009_lga_map",
+        "state": "pass",
+        "sha256": "de231b412edea6bd7c3663e434fbdcf9f52c57363b541f8af46549876cc59862",
+        "pdf_pages": 108,
+        "rendered_map_pages": [
+          2
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_nsroc_strategy_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "nsroc_strategy2007_lga_maps",
+        "state": "pass",
+        "sha256": "aae6362cbd34c75c5a1bc0e5d70469413c1a93909666a67b9707751703014b62",
+        "pdf_pages": 27,
+        "rendered_map_pages": [
+          12,
+          13,
+          24,
+          27
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_bocsar_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "bocsar1984_intoxicated1981_sydney_lga_map",
+        "state": "pass",
+        "sha256": "cb295bfacc96e2dbf48506478e29dac2920601c8b0e401e4e89fde6530090b20",
+        "pdf_pages": 60,
+        "rendered_map_pages": [
+          13
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_bocsar_pair_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "bocsar1992_waverley_lga_maps",
+        "state": "pass",
+        "sha256": "85cc28bba717efd7614c9d3cc49f86c2bb001d657f3c1ee058b33ecfe1c91b55",
+        "pdf_pages": 40,
+        "rendered_map_pages": [
+          13,
+          17
+        ]
+      },
+      {
+        "record_id": "bocsar1982_intoxicated1980_sydney_lga_map",
+        "state": "pass",
+        "sha256": "911c9f31778a3b02cb952f30d93475837bd13ecd3ae4f4390965b08fa1ad2726",
+        "pdf_pages": 58,
+        "rendered_map_pages": [
+          10
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_bocsar_r24_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "bocsar1991_disadvantage_sydney_nsw_lga_maps",
+        "state": "pass",
+        "sha256": "3c676e81952abbd7ddb03f673c7fa8f9b262e4f9c246016d6b9b054270649b62",
+        "pdf_pages": 89,
+        "rendered_map_pages": [
+          38,
+          56,
+          62
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_bocsar_cjb114_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "bocsar2008_cjb114_nsw_sydney_lga_maps",
+        "state": "pass",
+        "sha256": "42ea08a5f2302c8ea57a03bbd33d853507d56753fb61df70fab3184a5088358f",
+        "pdf_pages": 8,
+        "rendered_map_pages": [
+          2,
+          3
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_bocsar_bb60_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "bocsar2011_bb60_canterbury_lga_suburb_maps",
+        "state": "pass",
+        "sha256": "48b8b70e62647e90c18730de9d246debfc3cd63c18a8bbdc50854f39a141176c",
+        "pdf_pages": 8,
+        "rendered_map_pages": [
+          4,
+          8
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_sydney_academic_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "sydneyjournal2008_gwyther_western_lga_map",
+        "state": "pass",
+        "sha256": "1aece8c19027ecbc83931b19e87d1b767db630309147f44692711196265b56f6",
+        "pdf_pages": 24,
+        "rendered_map_pages": [
+          5
+        ]
+      },
+      {
+        "record_id": "liu2009_sydney_planning_lga_maps",
+        "state": "pass",
+        "sha256": "13e69c486743c6596625009b55574f77289617f5698c2cea0112107943d2af75",
+        "pdf_pages": 204,
+        "rendered_map_pages": [
+          101,
+          109,
+          111
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_sydney1968_outline_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "city_sydney1968_region_outline_plan_lga_maps",
+        "state": "pass",
+        "sha256": "e16055c5fa0046064a784c0dbc6ff3d63184769520efddc6472a1cf05a12ea5d",
+        "pdf_pages": 123,
+        "rendered_map_pages": [
+          116,
+          117,
+          120
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_sydney1968_tiff_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "city_sydney1968_tiff_116",
+        "state": "pass",
+        "width_px": 6980,
+        "height_px": 9246,
+        "frames": 2,
+        "sha256": "648d0c06a6486ac39863a239e9a80e19e6592677b98f2402206ac156280ca32f"
+      },
+      {
+        "record_id": "city_sydney1968_tiff_117",
+        "state": "pass",
+        "width_px": 7069,
+        "height_px": 9353,
+        "frames": 2,
+        "sha256": "9ac058be59ce4410f751b828037f25f6caec6a0ee23236fd144b1029460bcc79"
+      },
+      {
+        "record_id": "city_sydney1968_tiff_120",
+        "state": "pass",
+        "width_px": 7068,
+        "height_px": 9333,
+        "frames": 2,
+        "sha256": "9d51c8496fb9cd75dbe305e6da19c200b578bcc98648908936b073dee8197bdc"
+      }
+    ],
+    "all_registered_ids_paths_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_wsu_fingland_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "wsu2014_fingland_sydney_fairfield_lga_maps",
+        "state": "pass",
+        "sha256": "cd6445b78cca0a4b83450f82fbeffd6e393c672c421afa1a09e3e02f34bb2a75",
+        "pdf_pages": 384,
+        "rendered_map_pages": [
+          17,
+          246
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_epping2013_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "epping2013_structure_plan_former_lga_boundary",
+        "state": "pass",
+        "sha256": "5fa3ca630985f444b4a2930525705a88c0d728ee6d79f9af1be3c3dc541be137",
+        "pdf_pages": 29,
+        "rendered_map_pages": [
+          7,
+          25
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_epping2011_extract_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "epping2011_jba_study_area_lga_boundary_map",
+        "state": "pass",
+        "sha256": "e5cbf411495fa5e9ab005aea9cceaf9bb0cde57fd035b128925155c980992312",
+        "pdf_pages": 1,
+        "rendered_map_pages": [
+          1
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_anu1976_preliminary_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "anu1976_nsw_preliminary_lga_boundary_maps",
+        "state": "pass",
+        "sha256": "d4ece0940a6810964cedfa8b38016b2c1e40d9aab734478518d7ebf6cec3e3ba",
+        "pdf_pages": 64,
+        "rendered_map_pages": [
+          60,
+          61,
+          62,
+          63
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_nsw_yearbooks_eighties_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "abs_nsw_yearbook_1981_lga_maps",
+        "state": "pass",
+        "sha256": "2f78c5009a4ba5f4f9f638a9dbb532dfa4d53f3840ec74ecd81f910175911619",
+        "pdf_pages": 791,
+        "rendered_map_pages": [
+          778,
+          779
+        ]
+      },
+      {
+        "record_id": "abs_nsw_yearbook_1983_lga_maps",
+        "state": "pass",
+        "sha256": "45770d7a2910eebf2d5f41c0020f36a8f38521c5ab11b4ad8f17e88149f5efb0",
+        "pdf_pages": 788,
+        "rendered_map_pages": [
+          785,
+          786
+        ]
+      },
+      {
+        "record_id": "abs_nsw_yearbook_1985_lga_maps",
+        "state": "pass",
+        "sha256": "87639679ab149b73b3111a132f241bf74ab1f76510819f82e613febbf1fc303d",
+        "pdf_pages": 755,
+        "rendered_map_pages": [
+          752,
+          753
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_nsw_yearbook1982_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "abs_nsw_yearbook_1982_lga_maps",
+        "state": "pass",
+        "sha256": "0fc7050bd81f721a5a12cabf7ff37b9b4d3be5c112d2321b53e38aff2b70df15",
+        "pdf_pages": 786,
+        "rendered_map_pages": [
+          783,
+          784
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_nsw_yearbooks1973_1974_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "abs_nsw_yearbook_1973_lga_maps",
+        "state": "pass",
+        "sha256": "b849156c8243dc6865b921a24cc973fe0402750d57ad490a7c1f9bc50c4879f1",
+        "pdf_pages": 1209,
+        "rendered_map_pages": [
+          1207,
+          1208
+        ]
+      },
+      {
+        "record_id": "abs_nsw_yearbook_1974_lga_maps",
+        "state": "pass",
+        "sha256": "51e8f3e4f63e427e2f8ce45142f1bea1eb304ebd8436233a1004b1d177812a87",
+        "pdf_pages": 1203,
+        "rendered_map_pages": [
+          1200,
+          1201,
+          1202,
+          1203
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_anu_nsw_yearbook1986_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "anu_nsw_yearbook_1986_lga_maps",
+        "state": "pass",
+        "sha256": "8eb312a6c0e235ca8494d54ca6880c91c76db683218dc6d8fa466c480616839c",
+        "pdf_pages": 755,
+        "rendered_map_pages": [
+          752,
+          753,
+          754,
+          755
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_anu_nsw_yearbook1985_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "anu_nsw_yearbook_1985_lga_maps",
+        "state": "pass",
+        "sha256": "ca89dffbea8f8d37cc381150a1a70b151429fcc6feaa98fc15abf91cc3a9d93a",
+        "pdf_pages": 739,
+        "rendered_map_pages": [
+          736,
+          737,
+          738,
+          739
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_anu_births1987_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "anu_abs_births_1987_lga_maps",
+        "state": "pass",
+        "sha256": "898fb878909b89aa897babf45346f32a95b8507871e3087a756f89e10f76759c",
+        "pdf_pages": 42,
+        "rendered_map_pages": [
+          37,
+          38,
+          39,
+          40
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_anu_births1988_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "anu_abs_births_1988_lga_maps",
+        "state": "pass",
+        "sha256": "117541892c887c12246511df032b5fee73b368c6dcf5b19c297d4ae68e8aeb4b",
+        "pdf_pages": 43,
+        "rendered_map_pages": [
+          6,
+          7,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_anu_births1985_1986_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "anu_abs_births_1985_lga_maps",
+        "state": "pass",
+        "sha256": "17f9835aef1f3b049509ee82f2e376c9d5ee76cdd8e4b821543ce342464e6301",
+        "pdf_pages": 43,
+        "rendered_map_pages": [
+          39,
+          40,
+          41
+        ]
+      },
+      {
+        "record_id": "anu_abs_births_1986_lga_maps",
+        "state": "pass",
+        "sha256": "2d91478acf1a1fbb352be07534b7ea6a132d827da0e6cbecfd815992e89ed8dc",
+        "pdf_pages": 32,
+        "rendered_map_pages": [
+          29,
+          30
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_anu_regional1987_1988_1989_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "anu_abs_regional_statistics_1987_lga_maps",
+        "state": "pass",
+        "sha256": "0588908c3c6d5e153b0641ddf4eca77d327138c76237457b5c2af03b0e4be84e",
+        "pdf_pages": 97,
+        "rendered_map_pages": [
+          94,
+          95,
+          96,
+          97
+        ]
+      },
+      {
+        "record_id": "anu_abs_regional_statistics_1988_lga_maps",
+        "state": "pass",
+        "sha256": "f1daf4085f5212982f795cf795b234d55b7f058f64dfd4f3712dbbccfb38427d",
+        "pdf_pages": 87,
+        "rendered_map_pages": [
+          80,
+          81,
+          86,
+          87
+        ]
+      },
+      {
+        "record_id": "anu_abs_regional_statistics_1989_lga_maps",
+        "state": "pass",
+        "sha256": "a29b7bae039738c852af73fe1667e071da5e8e6d58fed03b32eaf699456abee8",
+        "pdf_pages": 85,
+        "rendered_map_pages": [
+          80,
+          81,
+          82,
+          83,
+          84
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_anu_deaths1984_1985_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "anu_abs_deaths_1984_lga_maps",
+        "state": "pass",
+        "sha256": "c7424354acfba42263d54145d4ed9f032cea45a98ff1e3bc4032337be38dd9d8",
+        "pdf_pages": 36,
+        "rendered_map_pages": [
+          32,
+          33,
+          34
+        ]
+      },
+      {
+        "record_id": "anu_abs_deaths_1985_lga_maps",
+        "state": "pass",
+        "sha256": "213677d42156b7fcd4632eda25a76d465938b8779496fac657a857388a92f50b",
+        "pdf_pages": 47,
+        "rendered_map_pages": [
+          43,
+          44,
+          45
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  },
+  "independent_anu_deaths1983_1986_1988_saved_original_check": {
+    "state": "pass",
+    "records": [
+      {
+        "record_id": "anu_abs_deaths_1983_lga_maps",
+        "state": "pass",
+        "sha256": "2f3db8568a7c22777bad4c95ab14c6ab5088d8a9ebe813878df6aa4cfc838502",
+        "pdf_pages": 38,
+        "rendered_map_pages": [
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      {
+        "record_id": "anu_abs_deaths_1986_lga_maps",
+        "state": "pass",
+        "sha256": "021bbee18711e125c1c90b392a8b1d8d32ef6cfdb617ee1a5f494e038daeb8b9",
+        "pdf_pages": 35,
+        "rendered_map_pages": [
+          32,
+          33
+        ]
+      },
+      {
+        "record_id": "anu_abs_deaths_1988_lga_maps",
+        "state": "pass",
+        "sha256": "51203d57512b3bec4a722586f6dd8adf34bcd83932ddaef646c2891fc3249d00",
+        "pdf_pages": 39,
+        "rendered_map_pages": [
+          7,
+          8,
+          34,
+          35,
+          36,
+          37
+        ]
+      }
+    ],
+    "all_registered_ids_paths_and_sizes": "pass",
+    "older_hashes_recalculated": false
+  }
+}

@@ -1,0 +1,11 @@
+census_year,published_region,council_rows,council_parts,digital_features,full_outlines_verified,outline_audit_status,map_source_id,map_pdf_pages
+1911,Metropolitan Area of Sydney,42,0,0,,not_audited,abs_1911_statisticians_report_nsw_sydney_lga_maps,457
+1921,Metropolitan Area of Sydney,42,0,0,,not_audited,abs_1921_statisticians_report_nsw_sydney_lga_maps,407
+1933,Metropolitan Area of Sydney,50,1,0,,not_audited,abs_1933_statisticians_report_nsw_sydney_lga_maps,476
+1947,Metropolitan Area of Sydney,50,1,0,,not_audited,abs_1947_statisticians_report_nsw_sydney_lga_maps,399
+1954,Metropolitan Area of Sydney,35,4,0,,not_audited,abs_1954_nsw_population_lga_maps,196
+1961,Metropolitan Area of Sydney,35,4,0,,not_audited,abs_1961_nsw_population_lga_maps,131
+1966,Sydney Statistical Division,40,1,0,,not_audited,abs_1966_nsw_population_dwellings_lga_maps,509
+1971,Sydney Statistical Division,41,1,0,,not_audited,abs_1971_bulletin13_colour_lga_maps,21
+1976,Sydney Statistical Division,45,0,0,,not_audited,anu1976_nsw_preliminary_lga_boundary_maps,61;62
+1981,Sydney Statistical Division,44,0,44,,not_audited,abs_1981_nsw_lga_maps,64

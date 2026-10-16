@@ -1,0 +1,17 @@
+{
+  "source_manifest_sha256": "ccc03fb1dca525ccee492de0b0598880d5607800d9c6d5a799b7f19daac81cfc",
+  "script_sha256": "b5476fb27e7c47d868ff3e56fd7c145a4977159886b52a30fafef57eb08404a3",
+  "python": "3.14.4",
+  "pillow": "12.3.0",
+  "pymupdf": "1.28.2",
+  "target": "1911 NSW local government areas",
+  "target_feature_type": "lga_boundary",
+  "source_files": 148,
+  "source_pages": 153,
+  "pilot_cases": 12,
+  "calibration_cases": 8,
+  "evaluation_cases": 4,
+  "georeferenced_cases": 0,
+  "accepted_features": 0,
+  "note": "Preparation only; evaluation scenes inspected for selection, no method tuned on them"
+}

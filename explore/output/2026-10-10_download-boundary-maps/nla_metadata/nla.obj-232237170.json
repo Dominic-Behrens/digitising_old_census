@@ -1,0 +1,454 @@
+{
+  "id": "23223717",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "bibLevel": "Item",
+  "bibId": "1323906",
+  "holdingNumber": "MAP RM 3353",
+  "pid": "nla.obj-232237170",
+  "title": "Plan shewing produced Victorian boundary and part of boundary between South Australia and New South Wales as fixed by observations of May 1868 [cartographic material].",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1874",
+  "creator": "",
+  "extent": "1 map : mounted on linen ; 32.8 x 30.6 cm.",
+  "publisherName": "Photo-lithographed at the Dept. of Lands and Survey ... by J. Noone",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 7685443,
+      "filename": "23223722.jp2",
+      "filesize": 1067309,
+      "technicalmetadata": {
+        "width": 3944,
+        "height": 4331
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 51265292
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01548cem a2200337 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 20044844
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": 55440
+              },
+              {
+                "code": "d",
+                "content": "E1475622"
+              },
+              {
+                "code": "e",
+                "content": "E1500733"
+              },
+              {
+                "code": "f",
+                "content": "S0363504"
+              },
+              {
+                "code": "g",
+                "content": "S0375142"
+              },
+              {
+                "code": 2,
+                "content": "ngmdbeh"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)2775003"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "u-at-vi"
+              },
+              {
+                "code": "a",
+                "content": "u-at-ne"
+              },
+              {
+                "code": "a",
+                "content": "u-at-sa"
+              }
+            ],
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1868"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 0,
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Plan shewing produced Victorian boundary and part of boundary between South Australia and New South Wales as fixed by observations of May 1868"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale [ca. 1:55,440]"
+              },
+              {
+                "code": "c",
+                "content": "(E 147\u00b056'22\"--E 150\u00b007'33\"/S 36\u00b035'04\"--S 37\u00b051'42\")."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Melbourne :"
+              },
+              {
+                "code": "b",
+                "content": "Photo-lithographed at the Dept. of Lands and Survey ... by J. Noone,"
+              },
+              {
+                "code": "c",
+                "content": "[1874]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "mounted on linen ;"
+              },
+              {
+                "code": "c",
+                "content": "32.8 x 30.6 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"19.11.74\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Relief shown by hachures."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "\"Charles Todd, Observer & Supt. of Telegraphs, Arthur B. Cooper, Deputy Sur. Gen.\"."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232237170"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "New South Wales"
+              },
+              {
+                "code": "x",
+                "content": "Boundaries"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "South Australia"
+              },
+              {
+                "code": "x",
+                "content": "Boundaries"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Victoria"
+              },
+              {
+                "code": "x",
+                "content": "Boundaries"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Australian"
+            },
+            "tag": 653
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Noone, John,"
+              },
+              {
+                "code": "d",
+                "content": "active 1858-1888."
+              },
+              {
+                "code": 0,
+                "content": 34607
+              },
+              {
+                "code": 9,
+                "content": "c20c3c4c-b6d7-5d35-916d-a7e28e65f1d3"
+              }
+            ],
+            "tag": 700
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-232237170"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "5862a162-dfe7-5c2f-be3f-a53ecc9b43be"
+              },
+              {
+                "code": "i",
+                "content": "4998071d-c9da-5156-aa24-ddc0795f0f48"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1323906
+          },
+          {
+            "tag": "007",
+            "content": "aj aanzn"
+          },
+          {
+            "tag": "008",
+            "content": "990511s1874    vrad      a     0   eng"
+          },
+          {
+            "tag": "005",
+            "content": 20240127222701.1
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RM 3353"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 2026300
+          },
+          {
+            "tag": "004",
+            "content": 1323906
+          }
+        ]
+      }
+    ]
+  },
+  "topLevelCollection": "nla.obj-232237170"
+}

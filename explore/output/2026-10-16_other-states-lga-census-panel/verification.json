@@ -1,0 +1,12 @@
+{
+  "timestamp_utc": "2026-10-16T03:17:39.522404+00:00",
+  "panel_rows": 6650,
+  "unique_keys": 6650,
+  "all_rows_have_map_source": true,
+  "state_year_pairs": 59,
+  "sources_with_pages": 113,
+  "sources_without_pages": [
+    "1911-act",
+    "1921-act"
+  ]
+}

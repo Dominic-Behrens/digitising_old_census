@@ -1,0 +1,441 @@
+{
+  "id": "59355091",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "subUnitNo": "4",
+  "bibLevel": "Part",
+  "bibId": "647950",
+  "holdingNumber": "MAP G9060 s250",
+  "pid": "nla.obj-593550914",
+  "title": "Tasmania 1:250,000 state map [cartographic material].",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "Out of Copyright",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1961",
+  "creator": "Tasmania. Department of Lands and Surveys.",
+  "extent": "1 map on 8 sheets : col. ; 58 x 90 cm. or smaller.",
+  "publisherName": "The Departmernt",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 18444511,
+      "filename": "59355539.jp2",
+      "filesize": 17555835,
+      "technicalmetadata": {
+        "width": 20549,
+        "height": 13788
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 850010240
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01292cem a2200301 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 9421109
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 250000
+              },
+              {
+                "code": "d",
+                "content": "E1443000"
+              },
+              {
+                "code": "e",
+                "content": "E1483000"
+              },
+              {
+                "code": "f",
+                "content": "S0414500"
+              },
+              {
+                "code": "g",
+                "content": "S0433000"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)2257595"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "NMQU"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "NMQU"
+              },
+              {
+                "code": "d",
+                "content": "ANL:AM"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-tm"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Tasmania."
+              },
+              {
+                "code": "b",
+                "content": "Department of Lands and Surveys."
+              },
+              {
+                "code": 0,
+                "content": 57262
+              },
+              {
+                "code": 9,
+                "content": "1fff8207-b18e-51c6-aef5-3ce28d7d22b2"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Tasmania 1:250,000 state map"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "1st ed."
+            },
+            "tag": 250
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:250 000 ;"
+              },
+              {
+                "code": "b",
+                "content": "transverse Mercator proj."
+              },
+              {
+                "code": "c",
+                "content": "(E 144\u00b030'--E 148\u00b030'/S 41\u00b045'--S 43\u00b030')."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Hobart :"
+              },
+              {
+                "code": "b",
+                "content": "The Departmernt,"
+              },
+              {
+                "code": "c",
+                "content": 1961
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map on 8 sheets :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "58 x 90 cm. or smaller."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Includes municipal boundaries, communications, postal towns. Relief by shading and spot heights."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-591002248"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Tasmania"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-591002248"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Library holds sheet 4, Launceston, only."
+            },
+            "tag": 900
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "c",
+                "content": "MAP G9060 s250"
+              }
+            ],
+            "tag": 984
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "9f209554-8b3c-5dd9-b721-399a58285059"
+              },
+              {
+                "code": "i",
+                "content": "14497c86-daf2-5cd3-ae40-c1a1d081bf0d"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 647950
+          },
+          {
+            "tag": "007",
+            "content": "aj cauun"
+          },
+          {
+            "tag": "008",
+            "content": "810929s1961    tmabg  bh a  s      eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20230919081609.9
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G9060 s250"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1587550
+          },
+          {
+            "tag": "004",
+            "content": 647950
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "59100224",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "subUnitType": "Sheet",
+    "subUnitNo": "4",
+    "bibLevel": "Item",
+    "bibId": "647950",
+    "holdingNumber": "MAP G9060 s250",
+    "pid": "nla.obj-591002248",
+    "title": "Tasmania 1:250,000 state map [cartographic material].",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1961",
+    "creator": "Tasmania. Department of Lands and Surveys.",
+    "extent": "1 map on 8 sheets : col. ; 58 x 90 cm. or smaller.",
+    "isMissingPage": "false",
+    "publisherName": "The Departmernt",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-591002248"
+}

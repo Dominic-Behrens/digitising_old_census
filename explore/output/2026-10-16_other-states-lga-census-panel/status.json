@@ -1,0 +1,39 @@
+{
+  "timestamp_utc": "2026-10-16T03:17:39.522404+00:00",
+  "state": "panel_built",
+  "unit": "LGA census year",
+  "completed": 6650,
+  "total": 6650,
+  "failed": 0,
+  "skipped": 0,
+  "remaining": 0,
+  "states": [
+    "vic",
+    "qld",
+    "sa",
+    "wa",
+    "tas",
+    "nt",
+    "act"
+  ],
+  "census_years": [
+    1911,
+    1921,
+    1933,
+    1947,
+    1954,
+    1961,
+    1966,
+    1971,
+    1976,
+    1981
+  ],
+  "last_successful_output": "explore/output/2026-10-16_other-states-lga-census-panel/lga_census_panel.csv",
+  "checkpoint": "explore/output/2026-10-16_other-states-lga-census-panel/status.json",
+  "resume_command": "python3 explore/2026-10-16_other-states-lga-census-panel.py",
+  "live_job": false,
+  "next_action": "Review the OCR name queue, then audit individual map outlines.",
+  "blocker": null,
+  "full_panel_complete": false,
+  "candidate_map_for_every_row": true
+}

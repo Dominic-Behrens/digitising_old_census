@@ -1,0 +1,375 @@
+{
+  "id": "23113259",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "displayTitlePage": "false",
+  "subType": "page",
+  "bibLevel": "Part",
+  "bibId": "4317220",
+  "holdingNumber": "MAP RaA 48 Plate 27",
+  "pid": "nla.obj-231132599",
+  "title": "Camperdown, Parish of Petersham [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1886",
+  "creator": "Higinbotham, Robinson & Harrison.",
+  "extent": "1 map : col. ; 22.0 x 34.2 cm.",
+  "isMissingPage": "false",
+  "publisherName": "Published by Higinbotham, Robinson & Harrison, draughtsmen, lithographers & map publishers",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 11443728,
+      "filename": "35847876.jp2",
+      "filesize": 2192688,
+      "technicalmetadata": {
+        "width": 5139,
+        "height": 6894
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 106307800
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01405cea a22002651a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "Atlas of the suburbs of Sydney"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": 4317220
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1886"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Higinbotham, Robinson & Harrison."
+              },
+              {
+                "code": 0,
+                "content": 873164
+              },
+              {
+                "code": 9,
+                "content": "b66d9bbe-19b3-5877-ab26-9c2deb25b86e"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Camperdown, Parish of Petersham"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material]"
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Sydney :"
+              },
+              {
+                "code": "b",
+                "content": "Published by Higinbotham, Robinson & Harrison, draughtsmen, lithographers & map publishers,"
+              },
+              {
+                "code": "c",
+                "content": "[1886?]"
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "b",
+                "content": "col. ;"
+              },
+              {
+                "code": "c",
+                "content": "22.0 x 34.2 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Map of the Parish of Petersham in Sydney, encompassing the suburb of Camperdown. Shows streets, tramways and ward and municipal boundaries."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Plate 27 from: Higinbotham, Robinson & Harrison. Atlas of the suburbs of Sydney. Sydney :  Published by Higinbotham, Robinson & Harrison, draughtsmen, lithographers & map publishers,  [1886?]"
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-231132599"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "From:"
+              },
+              {
+                "code": "a",
+                "content": "Higinbotham, Robinson & Harrison."
+              },
+              {
+                "code": "t",
+                "content": "Atlas of the suburbs of Sydney"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)3108791"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item"
+              },
+              {
+                "code": "u",
+                "content": "http://nla.gov.au/nla.obj-231132599"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "i",
+                "content": "5d5a2d56-627f-5c9c-8e80-0bc48f17c3b3"
+              },
+              {
+                "code": "s",
+                "content": "d8c5d768-43c5-50ab-8674-52cbca89308b"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 4317220
+          },
+          {
+            "tag": "005",
+            "content": 20230925143740.4
+          },
+          {
+            "tag": "007",
+            "content": "ad canzn"
+          },
+          {
+            "tag": "008",
+            "content": "080229s1886    xna             0   eng"
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAPR"
+              },
+              {
+                "code": "h",
+                "content": "MAP RaA 48"
+              },
+              {
+                "code": "m",
+                "content": "Plate 27"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 5099306
+          },
+          {
+            "tag": "004",
+            "content": 4317220
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "23112794",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "bibLevel": "Item",
+    "bibId": "3108791",
+    "holdingNumber": "MAP RaA 48",
+    "pid": "nla.obj-231127940",
+    "title": "Atlas of the suburbs of Sydney. Part 1 [cartographic material]",
+    "accessConditions": "Unrestricted",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1886",
+    "creator": "Higinbotham, Robinson & Harrison.",
+    "extent": "1 atlas ([30] leaves) : 30 col. maps ; 38 cm.",
+    "publisherName": "Published by Higinbotham, Robinson & Harrison, draughtsmen, lithographers & map publishers",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-231127940"
+}

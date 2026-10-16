@@ -1,0 +1,6 @@
+census_year,state_code,reference_whole_lga_names,panel_rows,matched,matched_percent
+1981,vic,210,210,202,96
+1981,qld,134,139,133,99
+1981,sa,128,134,123,96
+1981,wa,138,144,135,98
+1981,tas,49,47,47,96

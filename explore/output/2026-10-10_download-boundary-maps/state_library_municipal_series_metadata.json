@@ -1,0 +1,1934 @@
+{
+  "props": {
+    "pageProps": {
+      "item": {
+        "id": "74VKPlWXQkwd",
+        "title": "[Municipality maps series, Sydney Metropolitan Area] [cartographic material] / Department of Lands.",
+        "description": "",
+        "objectNumber": [
+          {
+            "id": "qa52kenlz5nnV",
+            "type": "identifierSystem",
+            "value": "(AuSN)b22392981-61slnsw_inst"
+          },
+          {
+            "id": "g0mPqVOaRjYP5",
+            "type": "identifierSystem",
+            "value": "(OCoLC)224087932"
+          }
+        ],
+        "sourceCatalogue": "published",
+        "levelOfDescription": "",
+        "arrangement": null,
+        "authors": [
+          {
+            "id": "1NpNDR0Z0RaRw",
+            "type": "creator",
+            "value": "New South Wales. Department of Lands",
+            "display": "New South Wales. Department of Lands."
+          }
+        ],
+        "systemDates": {
+          "updated": "2023-06-06T14:00:00+00:00",
+          "ingested": "2025-10-27T16:59:53+00:00",
+          "created": "2019-11-27T00:20:39+00:00"
+        },
+        "subjects": [
+          {
+            "id": "wLJyOZ20kgBY2",
+            "type": "published.subject",
+            "display": "Real property--New South Wales--Sydney--Maps",
+            "value": "Real property--New South Wales--Sydney--Maps",
+            "provenance": ""
+          },
+          {
+            "id": "rVDjbYB0PkKQP",
+            "type": "published.subject_place",
+            "display": "Sydney (N.S.W.)--Maps",
+            "value": "Sydney (N.S.W.)--Maps",
+            "provenance": ""
+          },
+          {
+            "id": "GZyabJGEeQ7k0",
+            "type": "published.subject_place",
+            "display": "Sydney (N.S.W.)--Surveys",
+            "value": "Sydney (N.S.W.)--Surveys",
+            "provenance": ""
+          },
+          {
+            "id": "LjrB9vKpZ8gVY",
+            "type": "published.genre",
+            "display": "Cadastral maps",
+            "value": "Cadastral maps",
+            "provenance": ""
+          }
+        ],
+        "subjectKeywords": [],
+        "accessFormat": [],
+        "formatGroups": [
+          {
+            "type": "maps",
+            "value": "Maps",
+            "formats": [
+              {
+                "type": "maps",
+                "value": "Maps"
+              }
+            ]
+          }
+        ],
+        "languages": [
+          {
+            "type": "eng",
+            "value": "English"
+          }
+        ],
+        "otherLanguages": [],
+        "austLanguages": [],
+        "relatedItems": [],
+        "callNumbers": [
+          {
+            "value": "M Ser 4 811.12/1"
+          }
+        ],
+        "otherTitles": [
+          {
+            "type": "simple",
+            "value": "[Municipality maps series, Sydney Metropolitan Area] [cartographic material]"
+          },
+          {
+            "type": "alternative",
+            "value": "Also used for: Sydney series maps and plans 1917-"
+          }
+        ],
+        "vernacularTitles": null,
+        "identifiers": [
+          {
+            "id": "74VKPlWXQkwd",
+            "type": "sourceId",
+            "value": "991019792779702626"
+          },
+          {
+            "id": "qa52kenlz5nnV",
+            "type": "identifierSystem",
+            "value": "(AuSN)b22392981-61slnsw_inst"
+          },
+          {
+            "id": "g0mPqVOaRjYP5",
+            "type": "identifierSystem",
+            "value": "(OCoLC)224087932"
+          },
+          {
+            "id": "RooWxnK7boL",
+            "type": "secondaryId",
+            "value": "22127523770002626"
+          },
+          {
+            "id": "D4M2YD1ldZ1k1",
+            "type": "secondaryId",
+            "value": "M Ser 4 811.12/1"
+          },
+          {
+            "id": "POr8XD7Q9d70y",
+            "type": "iePid",
+            "value": "IE3738875"
+          }
+        ],
+        "editions": [],
+        "versions": [],
+        "accessHoldings": [
+          {
+            "type": "onlineDigital",
+            "value": "State Library Digital Collections: freely accessible",
+            "url": ""
+          },
+          {
+            "type": "onsiteEnquire",
+            "value": "Enquire for access",
+            "url": ""
+          }
+        ],
+        "accessConditions": [],
+        "physicalAccessConditions": [],
+        "physicalDescriptions": [
+          {
+            "type": "cartographic",
+            "value": "Scale 1:3 960.",
+            "provenance": ""
+          },
+          {
+            "type": "physicalContent",
+            "value": "73 maps : col. ; 76 x 115 cm.",
+            "provenance": ""
+          }
+        ],
+        "otherDescriptions": [],
+        "classifications": [],
+        "issueCopies": [],
+        "publishers": [
+          {
+            "value": "Sydney : Dept. of Lands, 1917-."
+          }
+        ],
+        "publishedPlace": [],
+        "frequency": [],
+        "publisherSeries": [],
+        "series": [],
+        "findingAids": [],
+        "futureAdditions": [],
+        "biographicalHistory": [],
+        "sources": [],
+        "appraisalNotes": [],
+        "collectionHistories": [],
+        "originalsHeldBy": [],
+        "rights": [],
+        "meetings": [],
+        "notes": [
+          {
+            "type": "timePeriod",
+            "value": "d1917",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "datePublished",
+            "value": "1917-.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "dateCreation",
+            "value": "1917-.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "general",
+            "value": "Copious explanatory notes on each sheet.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "general",
+            "value": "One or more editions from these municipalities: Annandale, Ashfield, Balmain, Botany, Canterbury, Darlington, The Glebe, Hurstville, Kogarah, Lane Cove, Leichhardt, Marrickville, Mascot, Mosman, Newtown, North Sydney, Petersham, Randwick, Rockdale, Willoughby.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "general",
+            "value": "Show reclamations, special leases, resumptions and acquisitions by the Crown, volume & folio or date of Crown grant of portions as insets. Trig. stations, railways, schools.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "additionalPhysicalAvailable",
+            "value": "Online at the State Library of NSW.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "general",
+            "value": "Mitchell Library copy at M Ser 4 811.12/1: Accompanied by checklist; 1917-1957; Annandale-Willoughby (66 sheets).",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          }
+        ],
+        "inscriptions": [],
+        "summaries": [],
+        "publishedInfo": [],
+        "numericalData": [],
+        "exhibitions": [],
+        "relatedMaterials": [],
+        "onlineRelated": [],
+        "onlineVersion": [],
+        "onlineResource": [],
+        "publicationPlace": [
+          {
+            "id": "8na6dOzN4l8De",
+            "type": null,
+            "place": "New South Wales",
+            "region": "Australasia"
+          }
+        ],
+        "links": [
+          {
+            "type": "published.link",
+            "value": "Online at the State Library of NSW",
+            "url": "http://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&toolbar=false&dps_pid=IE3738875",
+            "accessHoldingTypes": [],
+            "note": null
+          },
+          {
+            "type": "published.link",
+            "value": "Request in current catalogue",
+            "url": "https://search.sl.nsw.gov.au/primo-explore/search?query=any,contains,991019792779702626&tab=default_tab&search_scope=E&vid=SLNSW",
+            "accessHoldingTypes": [
+              {
+                "type": "onsiteEnquire"
+              }
+            ],
+            "note": null
+          },
+          {
+            "type": "published.link",
+            "value": "Go to current catalogue",
+            "url": "https://search.sl.nsw.gov.au/primo-explore/search?query=any,contains,991019792779702626&tab=default_tab&search_scope=E&vid=SLNSW",
+            "accessHoldingTypes": [],
+            "note": null
+          }
+        ],
+        "portfolios": [],
+        "locations": [
+          {
+            "id": "D7G0xrmlvx5ep",
+            "value": "Mitchell Collection Onsite",
+            "display": "Ask staff about this Mitchell Map Collection item"
+          }
+        ],
+        "parentItem": null,
+        "groupItemId": "74VKPlWXQkwd",
+        "partOfItemId": "74VKPlWXQkwd",
+        "filesTotal": 65,
+        "files": [
+          {
+            "id": "p7jdQyG3QDLAA",
+            "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+            "description": "",
+            "isTranscriptAvailable": false,
+            "documents": [],
+            "formatGroups": [
+              {
+                "type": "maps",
+                "value": "Maps",
+                "formats": [
+                  {
+                    "type": "maps",
+                    "value": "Maps"
+                  }
+                ]
+              }
+            ],
+            "fileType": "image",
+            "identifiers": [
+              {
+                "id": "p7jdQyG3QDLAA",
+                "type": "sourceId",
+                "value": "3738/37388750.jpg"
+              },
+              {
+                "id": "24wZabXZ64MP",
+                "type": "sourceId",
+                "value": "/fotoweb/archives/5000-Assets/DigitalCollectionsIndex/3738/37388750.jpg.info"
+              },
+              {
+                "id": "y3KnMjP5xgPoW",
+                "type": "iePid",
+                "value": "IE3738875"
+              },
+              {
+                "id": "REljKoBkXPgAl",
+                "type": "presMasterPid",
+                "value": "FL3738877"
+              },
+              {
+                "id": "ba89RorReYdzN",
+                "type": "flPid",
+                "value": "FL3739079"
+              },
+              {
+                "id": "74VKPlWXQkwd",
+                "type": "sourceId",
+                "value": "991019792779702626"
+              },
+              {
+                "id": "woOOeOMw",
+                "type": "secondaryId",
+                "value": "26877805"
+              }
+            ],
+            "dates": [],
+            "item": {
+              "itemType": "cartographic",
+              "itemTypeValue": "Cartographic"
+            },
+            "subjects": [],
+            "groupResultsTotal": 0,
+            "image": {
+              "fileName": "37388750.jpg",
+              "fileSize": 14573568,
+              "width": 5332,
+              "height": 5878,
+              "variants": {
+                "0_0": {
+                  "width": 5332,
+                  "height": 5878,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388750.jpg"
+                },
+                "150_150": {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388750.jpg"
+                },
+                "300_0": {
+                  "width": 300,
+                  "height": 332,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388750.jpg"
+                },
+                "300_300": {
+                  "width": 300,
+                  "height": 300,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388750.jpg"
+                },
+                "3600_0": {
+                  "width": 3600,
+                  "height": 3970,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/3600_0/3738/37388750.jpg"
+                }
+              },
+              "iiifImageUrl": "https://files-collection.sl.nsw.gov.au/iiif/2/3738%2F37388750.jpg",
+              "focalPoint": {
+                "x": 100,
+                "y": 100
+              },
+              "boundingBox": {
+                "x": 100,
+                "y": 150,
+                "width": 800,
+                "height": 1000
+              }
+            },
+            "value": "Municipality maps series, Sydney Metropolitan Area [Album view]"
+          },
+          {
+            "id": "6NbPPyvyvR0gd",
+            "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+            "description": "",
+            "isTranscriptAvailable": false,
+            "documents": [],
+            "formatGroups": [
+              {
+                "type": "maps",
+                "value": "Maps",
+                "formats": [
+                  {
+                    "type": "maps",
+                    "value": "Maps"
+                  }
+                ]
+              }
+            ],
+            "fileType": "image",
+            "identifiers": [
+              {
+                "id": "6NbPPyvyvR0gd",
+                "type": "sourceId",
+                "value": "3738/37388751.jpg"
+              },
+              {
+                "id": "7J2qWkLzmL7EA",
+                "type": "sourceId",
+                "value": "/fotoweb/archives/5000-Assets/DigitalCollectionsIndex/3738/37388751.jpg.info"
+              },
+              {
+                "id": "y3KnMjP5xgPoW",
+                "type": "iePid",
+                "value": "IE3738875"
+              },
+              {
+                "id": "xEQNAWBynwvXV",
+                "type": "presMasterPid",
+                "value": "FL3738878"
+              },
+              {
+                "id": "wzzvxk0x7OkkW",
+                "type": "flPid",
+                "value": "FL3739080"
+              },
+              {
+                "id": "74VKPlWXQkwd",
+                "type": "sourceId",
+                "value": "991019792779702626"
+              },
+              {
+                "id": "woOOeOMw",
+                "type": "secondaryId",
+                "value": "26877805"
+              }
+            ],
+            "dates": [],
+            "item": {
+              "itemType": "cartographic",
+              "itemTypeValue": "Cartographic"
+            },
+            "subjects": [],
+            "groupResultsTotal": 0,
+            "image": {
+              "fileName": "37388751.jpg",
+              "fileSize": 10459136,
+              "width": 5005,
+              "height": 6976,
+              "variants": {
+                "0_0": {
+                  "width": 5005,
+                  "height": 6976,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388751.jpg"
+                },
+                "150_150": {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388751.jpg"
+                },
+                "300_0": {
+                  "width": 300,
+                  "height": 419,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388751.jpg"
+                },
+                "300_300": {
+                  "width": 300,
+                  "height": 300,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388751.jpg"
+                },
+                "3600_0": {
+                  "width": 3600,
+                  "height": 5019,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/3600_0/3738/37388751.jpg"
+                }
+              },
+              "iiifImageUrl": "https://files-collection.sl.nsw.gov.au/iiif/2/3738%2F37388751.jpg",
+              "focalPoint": {
+                "x": 100,
+                "y": 100
+              },
+              "boundingBox": {
+                "x": 100,
+                "y": 150,
+                "width": 800,
+                "height": 1000
+              }
+            },
+            "value": "Municipality maps series, Sydney Metropolitan Area [Album view]"
+          },
+          {
+            "id": "yDqeppwWbgA5p",
+            "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+            "description": "",
+            "isTranscriptAvailable": false,
+            "documents": [],
+            "formatGroups": [
+              {
+                "type": "maps",
+                "value": "Maps",
+                "formats": [
+                  {
+                    "type": "maps",
+                    "value": "Maps"
+                  }
+                ]
+              }
+            ],
+            "fileType": "image",
+            "identifiers": [
+              {
+                "id": "yDqeppwWbgA5p",
+                "type": "sourceId",
+                "value": "3738/37388752.jpg"
+              },
+              {
+                "id": "5NK0WGxoDJ8x7",
+                "type": "sourceId",
+                "value": "/fotoweb/archives/5000-Assets/DigitalCollectionsIndex/3738/37388752.jpg.info"
+              },
+              {
+                "id": "y3KnMjP5xgPoW",
+                "type": "iePid",
+                "value": "IE3738875"
+              },
+              {
+                "id": "XXr83DebVRlq3",
+                "type": "presMasterPid",
+                "value": "FL3738879"
+              },
+              {
+                "id": "YxLeVARdqWLlQ",
+                "type": "flPid",
+                "value": "FL3739081"
+              },
+              {
+                "id": "74VKPlWXQkwd",
+                "type": "sourceId",
+                "value": "991019792779702626"
+              },
+              {
+                "id": "woOOeOMw",
+                "type": "secondaryId",
+                "value": "26877805"
+              }
+            ],
+            "dates": [],
+            "item": {
+              "itemType": "cartographic",
+              "itemTypeValue": "Cartographic"
+            },
+            "subjects": [],
+            "groupResultsTotal": 0,
+            "image": {
+              "fileName": "37388752.jpg",
+              "fileSize": 10337280,
+              "width": 6675,
+              "height": 5234,
+              "variants": {
+                "0_0": {
+                  "width": 6675,
+                  "height": 5234,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388752.jpg"
+                },
+                "150_150": {
+                  "width": 150,
+                  "height": 150,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388752.jpg"
+                },
+                "300_0": {
+                  "width": 300,
+                  "height": 236,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388752.jpg"
+                },
+                "300_300": {
+                  "width": 300,
+                  "height": 300,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388752.jpg"
+                },
+                "3600_0": {
+                  "width": 3600,
+                  "height": 2824,
+                  "url": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/3600_0/3738/37388752.jpg"
+                }
+              },
+              "iiifImageUrl": "https://files-collection.sl.nsw.gov.au/iiif/2/3738%2F37388752.jpg",
+              "focalPoint": {
+                "x": 100,
+                "y": 100
+              },
+              "boundingBox": {
+                "x": 100,
+                "y": 150,
+                "width": 800,
+                "height": 1000
+              }
+            },
+            "value": "Municipality maps series, Sydney Metropolitan Area [Album view]"
+          }
+        ],
+        "itemType": "cartographic",
+        "isFullTextAvailable": false,
+        "isTranscriptAvailable": false,
+        "hierarchyPosition": "top",
+        "hierarchyLevel": "1",
+        "documents": [],
+        "holdings": [
+          {
+            "id": "22127523770002626",
+            "callNumber": "M Ser 4 811.12/1",
+            "copyNumber": null,
+            "location": {
+              "id": "D7G0xrmlvx5ep",
+              "value": "Mitchell Collection Onsite",
+              "display": "Ask staff about this Mitchell Map Collection item"
+            },
+            "publicNotes": [],
+            "textualHoldings": [],
+            "accessHoldingTypes": [
+              {
+                "type": "onsiteEnquire"
+              }
+            ]
+          }
+        ],
+        "isGroup": false,
+        "copyright": null,
+        "creators": [
+          {
+            "id": "1NpNDR0Z0RaRw",
+            "type": "creator",
+            "value": "New South Wales. Department of Lands",
+            "display": "New South Wales. Department of Lands."
+          }
+        ],
+        "formats": [
+          {
+            "value": "Maps",
+            "type": "maps",
+            "parentValue": "Maps",
+            "parentType": "maps"
+          }
+        ],
+        "simple": [
+          {
+            "type": "simple",
+            "value": "[Municipality maps series, Sydney Metropolitan Area] [cartographic material]"
+          }
+        ],
+        "alternative": [
+          {
+            "type": "alternative",
+            "value": "Also used for: Sydney series maps and plans 1917-"
+          }
+        ],
+        "sourceId": "991019792779702626",
+        "identifierSystem": "(OCoLC)224087932",
+        "secondaryId": "M Ser 4 811.12/1",
+        "iePid": "IE3738875",
+        "timePeriod": [
+          {
+            "type": "timePeriod",
+            "value": "d1917",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          }
+        ],
+        "datePublished": [
+          {
+            "type": "datePublished",
+            "value": "1917-.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          }
+        ],
+        "dateCreation": [
+          {
+            "type": "dateCreation",
+            "value": "1917-.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          }
+        ],
+        "general": [
+          {
+            "type": "general",
+            "value": "Copious explanatory notes on each sheet.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "general",
+            "value": "One or more editions from these municipalities: Annandale, Ashfield, Balmain, Botany, Canterbury, Darlington, The Glebe, Hurstville, Kogarah, Lane Cove, Leichhardt, Marrickville, Mascot, Mosman, Newtown, North Sydney, Petersham, Randwick, Rockdale, Willoughby.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "general",
+            "value": "Show reclamations, special leases, resumptions and acquisitions by the Crown, volume & folio or date of Crown grant of portions as insets. Trig. stations, railways, schools.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          },
+          {
+            "type": "general",
+            "value": "Mitchell Library copy at M Ser 4 811.12/1: Accompanied by checklist; 1917-1957; Annandale-Willoughby (66 sheets).",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          }
+        ],
+        "additionalPhysicalAvailable": [
+          {
+            "type": "additionalPhysicalAvailable",
+            "value": "Online at the State Library of NSW.",
+            "itemSearchQuery": null,
+            "fileSearchQuery": null,
+            "provenance": ""
+          }
+        ]
+      },
+      "images": [
+        {
+          "id": "p7jdQyG3QDLAA",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388750.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388750.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388750.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388750.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738877",
+          "flPid": "FL3739079",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5332,
+          "height": 5878
+        },
+        {
+          "id": "6NbPPyvyvR0gd",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388751.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388751.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388751.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388751.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738878",
+          "flPid": "FL3739080",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5005,
+          "height": 6976
+        },
+        {
+          "id": "yDqeppwWbgA5p",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388752.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388752.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388752.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388752.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738879",
+          "flPid": "FL3739081",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6675,
+          "height": 5234
+        },
+        {
+          "id": "BjElpJDrWEWwL",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388753.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388753.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388753.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388753.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738880",
+          "flPid": "FL3739082",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6700,
+          "height": 5212
+        },
+        {
+          "id": "8ByNqP6o8ZW2R",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388754.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388754.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388754.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388754.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738884",
+          "flPid": "FL3739083",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5048,
+          "height": 6925
+        },
+        {
+          "id": "lQ2Q4EWovRgbz",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388755.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388755.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388755.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388755.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738885",
+          "flPid": "FL3739087",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5112,
+          "height": 6835
+        },
+        {
+          "id": "apkN7V33BMvA",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388756.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388756.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388756.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388756.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738886",
+          "flPid": "FL3739088",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4906,
+          "height": 7120
+        },
+        {
+          "id": "oDmEvxjdGB5GQ",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388757.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388757.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388757.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388757.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738887",
+          "flPid": "FL3739091",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4908,
+          "height": 7125
+        },
+        {
+          "id": "8Ob5gbZro0aBL",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388758.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388758.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388758.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388758.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738889",
+          "flPid": "FL3739092",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6795,
+          "height": 5141
+        },
+        {
+          "id": "8e77jkW6mN24d",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/37388759.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/37388759.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/37388759.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/37388759.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738891",
+          "flPid": "FL3739095",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6815,
+          "height": 5124
+        },
+        {
+          "id": "yOLdlmKxxWgaD",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887510.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887510.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887510.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887510.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738892",
+          "flPid": "FL3739096",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6865,
+          "height": 5087
+        },
+        {
+          "id": "PABgoaR6QaekX",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887511.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887511.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887511.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887511.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738895",
+          "flPid": "FL3739097",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6840,
+          "height": 5107
+        },
+        {
+          "id": "6e4gkQLbKENXo",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887512.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887512.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887512.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887512.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738896",
+          "flPid": "FL3739098",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5615,
+          "height": 6224
+        },
+        {
+          "id": "4Jgep5DB2aLrg",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887513.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887513.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887513.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887513.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738897",
+          "flPid": "FL3739099",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4827,
+          "height": 7235
+        },
+        {
+          "id": "zl4ZOaEBZ2NmG",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887514.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887514.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887514.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887514.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738898",
+          "flPid": "FL3739100",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6855,
+          "height": 5095
+        },
+        {
+          "id": "dxjkmRVm87MyR",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887515.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887515.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887515.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887515.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738899",
+          "flPid": "FL3739101",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6500,
+          "height": 4845
+        },
+        {
+          "id": "d3lQrjKz7Xymj",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887516.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887516.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887516.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887516.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738900",
+          "flPid": "FL3739102",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6840,
+          "height": 5107
+        },
+        {
+          "id": "k5EZvOw5jvxVk",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887517.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887517.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887517.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887517.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738901",
+          "flPid": "FL3739103",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6915,
+          "height": 5053
+        },
+        {
+          "id": "EyBWbZNz65jwV",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887518.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887518.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887518.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887518.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738905",
+          "flPid": "FL3739104",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6925,
+          "height": 5046
+        },
+        {
+          "id": "2lWExd8Xloepd",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887519.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887519.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887519.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887519.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738908",
+          "flPid": "FL3739108",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6910,
+          "height": 5055
+        },
+        {
+          "id": "EwaXryBO7dOrK",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887520.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887520.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887520.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887520.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738911",
+          "flPid": "FL3739109",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5458,
+          "height": 6405
+        },
+        {
+          "id": "x5Lgz8vkLLRGG",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887521.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887521.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887521.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887521.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738912",
+          "flPid": "FL3739111",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5685,
+          "height": 6144
+        },
+        {
+          "id": "M5j23PXv64dA",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887522.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887522.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887522.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887522.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738913",
+          "flPid": "FL3739113",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5639,
+          "height": 6195
+        },
+        {
+          "id": "GDyVypeqpRLAj",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887523.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887523.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887523.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887523.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738914",
+          "flPid": "FL3739114",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 7830,
+          "height": 4464
+        },
+        {
+          "id": "XVM4QolXGalj8",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887524.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887524.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887524.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887524.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738915",
+          "flPid": "FL3739116",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 7760,
+          "height": 4501
+        },
+        {
+          "id": "LVwO6byrgaKb",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887525.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887525.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887525.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887525.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738919",
+          "flPid": "FL3739117",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5098,
+          "height": 6347
+        },
+        {
+          "id": "B0dNOzb2gLqlm",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887526.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887526.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887526.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887526.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738920",
+          "flPid": "FL3739118",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5177,
+          "height": 6750
+        },
+        {
+          "id": "M6dpM00XWwPZD",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887527.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887527.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887527.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887527.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738923",
+          "flPid": "FL3739120",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4851,
+          "height": 7205
+        },
+        {
+          "id": "XqLEL5wgQEEVv",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887528.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887528.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887528.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887528.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738924",
+          "flPid": "FL3739121",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5184,
+          "height": 6740
+        },
+        {
+          "id": "5ea76Aylpdjkg",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887529.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887529.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887529.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887529.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738927",
+          "flPid": "FL3739123",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5158,
+          "height": 6770
+        },
+        {
+          "id": "R66e6pjDDMJKq",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887530.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887530.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887530.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887530.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738928",
+          "flPid": "FL3739124",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4569,
+          "height": 7640
+        },
+        {
+          "id": "oja8WRG7m2vjG",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887531.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887531.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887531.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887531.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738932",
+          "flPid": "FL3739125",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4571,
+          "height": 7648
+        },
+        {
+          "id": "rxq0eRLpDVKzX",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887532.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887532.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887532.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887532.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738933",
+          "flPid": "FL3739126",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4547,
+          "height": 7674
+        },
+        {
+          "id": "8Mqm77Vk0vZgd",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887533.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887533.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887533.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887533.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738936",
+          "flPid": "FL3739128",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4571,
+          "height": 7644
+        },
+        {
+          "id": "eOwNLoMEZkgW",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887534.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887534.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887534.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887534.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738939",
+          "flPid": "FL3739129",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4559,
+          "height": 7714
+        },
+        {
+          "id": "WPywlVR8ABBOq",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887535.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887535.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887535.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887535.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738940",
+          "flPid": "FL3739131",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4866,
+          "height": 7201
+        },
+        {
+          "id": "4M0v6bjBMrDLk",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887536.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887536.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887536.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887536.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738941",
+          "flPid": "FL3739132",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4854,
+          "height": 7212
+        },
+        {
+          "id": "EwQO5qV6e5LmK",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887537.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887537.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887537.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887537.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738945",
+          "flPid": "FL3739135",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4854,
+          "height": 7206
+        },
+        {
+          "id": "7JOzay7N2VZvd",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887538.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887538.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887538.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887538.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738946",
+          "flPid": "FL3739136",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 4902,
+          "height": 7175
+        },
+        {
+          "id": "VDGjD0yrg763E",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887539.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887539.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887539.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887539.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738949",
+          "flPid": "FL3739137",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 7559,
+          "height": 4633
+        },
+        {
+          "id": "5zwaArwqEwP6",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887540.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887540.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887540.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887540.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738952",
+          "flPid": "FL3739138",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 7169,
+          "height": 4879
+        },
+        {
+          "id": "OBBLyDm7b3mRM",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887541.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887541.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887541.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887541.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738953",
+          "flPid": "FL3739140",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6898,
+          "height": 5078
+        },
+        {
+          "id": "Aez8QBpzGezW5",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887542.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887542.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887542.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887542.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738954",
+          "flPid": "FL3739141",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6992,
+          "height": 4998
+        },
+        {
+          "id": "r3BdqLpyJqrmK",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887543.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887543.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887543.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887543.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738955",
+          "flPid": "FL3739142",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6780,
+          "height": 5159
+        },
+        {
+          "id": "rKo3g0KeVmeg8",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887544.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887544.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887544.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887544.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738956",
+          "flPid": "FL3739144",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 8349,
+          "height": 6168
+        },
+        {
+          "id": "vbeljLVAgp2r8",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887545.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887545.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887545.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887545.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738957",
+          "flPid": "FL3739145",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6614,
+          "height": 5316
+        },
+        {
+          "id": "BGmppmQZLJd30",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887546.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887546.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887546.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887546.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738958",
+          "flPid": "FL3739146",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6614,
+          "height": 5281
+        },
+        {
+          "id": "qwabXabw7Zdv0",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887547.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887547.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887547.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887547.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738962",
+          "flPid": "FL3739147",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 5551,
+          "height": 6336
+        },
+        {
+          "id": "bgZOkGvoPPK7x",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887548.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887548.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887548.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887548.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738963",
+          "flPid": "FL3739149",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6756,
+          "height": 5201
+        },
+        {
+          "id": "AzKZPL8Wzx5jj",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887549.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887549.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887549.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887549.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738964",
+          "flPid": "FL3739151",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6874,
+          "height": 5079
+        },
+        {
+          "id": "yja0P3m826ZMA",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887550.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887550.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887550.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887550.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738967",
+          "flPid": "FL3739152",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6880,
+          "height": 5081
+        },
+        {
+          "id": "ba4ZAxKAq54rw",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887551.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887551.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887551.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887551.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738968",
+          "flPid": "FL3739153",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6885,
+          "height": 5074
+        },
+        {
+          "id": "PAMVvNA7zg6be",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887552.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887552.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887552.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887552.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738971",
+          "flPid": "FL3739155",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6800,
+          "height": 5136
+        },
+        {
+          "id": "l3ZKGEOmz5QWK",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887553.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887553.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887553.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887553.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738972",
+          "flPid": "FL3739156",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6810,
+          "height": 5130
+        },
+        {
+          "id": "DVLjdpzk2pOyb",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887554.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887554.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887554.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887554.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738973",
+          "flPid": "FL3739157",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6840,
+          "height": 5105
+        },
+        {
+          "id": "8PlOjjgXGym",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887555.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887555.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887555.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887555.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738974",
+          "flPid": "FL3739158",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6830,
+          "height": 5110
+        },
+        {
+          "id": "zXbgMEJLkwM7K",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887556.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887556.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887556.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887556.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738975",
+          "flPid": "FL3739159",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6920,
+          "height": 5043
+        },
+        {
+          "id": "eqVPZAxz7lWmW",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887557.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887557.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887557.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887557.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738976",
+          "flPid": "FL3739161",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6940,
+          "height": 5033
+        },
+        {
+          "id": "xMO7rBovZL00w",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887558.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887558.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887558.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887558.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738977",
+          "flPid": "FL3739162",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6930,
+          "height": 5041
+        },
+        {
+          "id": "vKaw0g3Vy5gQz",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887559.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887559.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887559.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887559.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738978",
+          "flPid": "FL3739164",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6890,
+          "height": 5065
+        },
+        {
+          "id": "kbeOJexpEed3O",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887560.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887560.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887560.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887560.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738979",
+          "flPid": "FL3739165",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6880,
+          "height": 5081
+        },
+        {
+          "id": "7pD5X2q6GOBlO",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887561.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887561.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887561.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887561.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738980",
+          "flPid": "FL3739166",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6895,
+          "height": 5065
+        },
+        {
+          "id": "dNMxopLpKgvXP",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887562.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887562.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887562.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887562.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738981",
+          "flPid": "FL3739167",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6860,
+          "height": 5088
+        },
+        {
+          "id": "eEBlALKqPk3ZM",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887563.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887563.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887563.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887563.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738985",
+          "flPid": "FL3739170",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 6985,
+          "height": 5000
+        },
+        {
+          "id": "zQ5OQx02q6vB8",
+          "thumbnailUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/150_150/3738/373887564.jpg",
+          "url": "https://files-collection.sl.nsw.gov.au/fotoweb/public_archive/3738/373887564.jpg",
+          "iiifImageUrl": null,
+          "albumViewUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_0/3738/373887564.jpg",
+          "bookGalleryUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/thumbnails/300_300/3738/373887564.jpg",
+          "title": "Municipality maps series, Sydney Metropolitan Area [Album view]",
+          "fileType": "image",
+          "itemId": "74VKPlWXQkwd",
+          "presMasterPid": "FL3738986",
+          "flPid": "FL3739171",
+          "iePid": "IE3738875",
+          "barcode": "26877805",
+          "width": 7140,
+          "height": 4892
+        }
+      ],
+      "query": {
+        "id": [
+          "74VKPlWXQkwd"
+        ]
+      },
+      "loadFilesClientSide": false,
+      "fullUrl": "https://collection.sl.nsw.gov.au/record/74VKPlWXQkwd",
+      "groupfilesTotal": 65
+    },
+    "ua": "",
+    "userAccessToken": "",
+    "isBot": false,
+    "__N_SSP": true
+  },
+  "page": "/record/[...id]",
+  "query": {
+    "id": [
+      "74VKPlWXQkwd"
+    ]
+  },
+  "buildId": "1e1oBxxu1jVyjTkCms6TU",
+  "runtimeConfig": {
+    "assetPrefix": "https://collection.sl.nsw.gov.au/",
+    "appVersion": "3.4.34",
+    "gtmTrackingId": "GTM-K2NFHS9",
+    "userbackID": "7598|45508|Vx7odb3X8vDrmfRYdFJzQUQZgAwnP7PI6lGQ6qZEyoV9zYXlpG",
+    "apiUrl": "https://apiv2.sl.nsw.gov.au/",
+    "apiKey": "iEK8u1iYs3sFWY5sPisBdIDVCZEZQHSd",
+    "frontendUrl": "https://collection.sl.nsw.gov.au",
+    "s3AssetUrl": "https://files-collection.sl.nsw.gov.au/",
+    "fontAssetUrl": "https://files-collection.sl.nsw.gov.au/",
+    "fotowareUrl": "https://files-collection.sl.nsw.gov.au/fotoweb/",
+    "iiifUrl": "https://files-collection.sl.nsw.gov.au/iiif/",
+    "memberSsoFrontendUrl": "https://member.sl.nsw.gov.au",
+    "maintenanceMode": false,
+    "passwordProtected": false,
+    "pageAlertPrefix": "",
+    "pageAlertText": "",
+    "pageAlertStatus": "warning",
+    "pageAlertId": "",
+    "syndeticsUnboundFeatures": [
+      "thumbnails"
+    ],
+    "syndeticsUnboundConnector": {
+      "a_id": "320",
+      "i_id": "2196"
+    },
+    "syndeticsUnboundThumbnailClient": "walesp",
+    "releaseModalRequired": false,
+    "covidAlertRequired": false,
+    "itemLevelRequesting": true,
+    "almaMaintenanceMode": false,
+    "recaptchaApi": {
+      "key": "6Lc4FCAtAAAAAGFtfQ5loqOfPW9u6qa4oi18T7Il"
+    },
+    "almaMaintenanceLoginNotice": "MyCatalogue will be temporarily unavailable between Saturday 2 July 5pm to Sunday 3 July 2022 5pm. We apologise for any inconvenience.",
+    "externalLinks": {
+      "ezProxy": {
+        "transformLinkParamHostnames": [
+          "ezproxy.sl.nsw.gov.au",
+          "login.ezproxy.sl.nsw.gov.au"
+        ],
+        "transformSchemaToHttps": true
+      }
+    },
+    "uiReadonly": false,
+    "uiDisableEmail": false
+  },
+  "isFallback": false,
+  "gssp": true,
+  "customServer": true,
+  "appGip": true
+}

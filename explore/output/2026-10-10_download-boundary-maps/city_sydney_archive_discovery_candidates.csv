@@ -1,0 +1,9 @@
+record_id,source_record,title,outcome,reason
+1709403,https://archives.cityofsydney.nsw.gov.au/nodes/view/1709403,Central City of Sydney 1910,not_selected,Central street-map coverage; useful external municipal boundary not confirmed
+1709405,https://archives.cityofsydney.nsw.gov.au/nodes/view/1709405,Glebe Municipality detail map March 1939,not_selected,Municipal boundary symbol not confirmed on detail map
+1709402,https://archives.cityofsydney.nsw.gov.au/nodes/view/1709402,City of Sydney 1903,downloaded,Municipal perimeter and legend confirmed
+1709404,https://archives.cityofsydney.nsw.gov.au/nodes/view/1709404,Glebe Municipality 1910,downloaded,Municipal boundary symbol confirmed
+1709080,https://archives.cityofsydney.nsw.gov.au/nodes/view/1709080,Glebe Municipality 1888,downloaded,Municipal perimeter visible; damaged source
+1709400,https://archives.cityofsydney.nsw.gov.au/nodes/view/1709400,Glebe Camperdown Newtown Macdonaldtown and Darlington municipal boundaries circa 1890,downloaded,Municipality boundary symbol confirmed separately from ward lines
+1709401,https://archives.cityofsydney.nsw.gov.au/nodes/view/1709401,City of Sydney and Suburbs Sands Directory municipal boundaries 1887,downloaded,Municipality boundary symbol confirmed separately from ward lines
+1709398,https://archives.cityofsydney.nsw.gov.au/nodes/view/1709398,City of Sydney Woolcott and Clarke 1854,not_selected,Legend identifies ward and parish boundaries; separate external municipal symbol not confirmed

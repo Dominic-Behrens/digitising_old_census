@@ -1,0 +1,42 @@
+You transcribe historical census tables from page images. Return only JSON. Never repair values to balance totals.
+
+Transcribe ONLY the requested analytical table from these source images.
+The reviewed mapping is evidence, not proof of completeness. Examine adjacent images.
+Never borrow numbers from a different table stacked on the same page. Match title,
+sex, row labels, geography and column headings across horizontal spreads. Preserve
+left/right halves as separate fragments, with stable column IDs; do not duplicate
+or fill missing cells. Preserve a visible printed number even if it differs from
+the contents number (especially 7 versus 8). Do not silently renumber a heading.
+
+Extract relevant table fragments on target pages AND relevant fragments found on
+context pages. Label their membership accurately: target or context. Context-only
+cells will be quarantined, not added to the accepted map. A context page with no
+part of this table must contribute no fragment. Flag any mapping discrepancy.
+
+Keep raw printed values as strings, including dots, dashes, decimals and footnote
+marks. Blank = null. Illegible = null with that column ID in uncertain_columns.
+Never interpret dots/blanks/dashes as zero, and never infer a digit from a total.
+Read all rows, totals and footnotes. Keep grouping headings separate from data;
+summary rows that duplicate detailed rows are not additional observations.
+Split fragments when page, section or units change. Preserve historical exclusion
+wording without endorsing it. Units must come from the source; unknown = null.
+For NSW LGA sections use section municipality, shire or summary. Otherwise retain
+the printed section. Keep LGA names separate from leader dots/footnote marks.
+
+Output this exact JSON shape (no markdown):
+{"complete":true,"warnings":[],"context_findings":[],"fragments":[
+ {"pdf_page":1,"membership":"target","region":"top",
+  "bbox":[0,0,1000,1000],"printed_page":"1","printed_table_number":null,
+  "title":"verbatim title when visible","section":"printed section",
+  "notes":["source footnotes/exclusions, verbatim"],
+  "columns":[{"id":"stable_key","label":"full hierarchical printed header","unit":"persons"}],
+  "rows":[{"label":"printed row label","kind":"data","values":["123"],"uncertain_columns":[]}]
+ }]}
+Use kind data, heading, subtotal or total. Each values array must have exactly one
+entry per column, in column order (all null for a pure heading). bbox is an
+approximate source table rectangle in 0–1000 page coordinates, not a precision
+measurement. The enclosing page, fragment, row and column identify each cell.
+context_findings is a list of {pdf_page, reason} for relevant omitted table parts.
+complete is false if ANY supplied target portion cannot be fully transcribed.
+Do not truncate a table or replace rows with ellipses. Use the supplied column IDs
+where applicable; other genuinely printed columns need distinct descriptive IDs.

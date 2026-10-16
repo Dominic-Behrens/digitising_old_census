@@ -1,0 +1,509 @@
+{
+  "id": "110541048",
+  "collection": "nla.map",
+  "type": "work",
+  "form": "Picture",
+  "subUnitType": "Sheet",
+  "subUnitNo": "9335-I-SW",
+  "bibLevel": "Part",
+  "bibId": "215805",
+  "holdingNumber": "MAP G8971.K1 s25",
+  "pid": "nla.obj-1105410488",
+  "title": "Banda Banda West [cartographic material]",
+  "accessConditions": "Unrestricted",
+  "copyrightPolicy": "No known copyright restrictions",
+  "recordSource": "NLACat",
+  "sensitiveMaterial": "No",
+  "digitalStatus": "Captured",
+  "startDate": "01 January 1975",
+  "creator": "Forestry Commission of New South Wales.",
+  "extent": "1 map : 56 x 49 cm.",
+  "sheetName": "Banda Banda West",
+  "sheetCreationDate": "1977",
+  "additionalSeriesStatement": "First Edition",
+  "publisherName": "Forestry Commission",
+  "allowSearchEngineIndexing": "false",
+  "findingAidAvailable": "No",
+  "copies": [
+    {
+      "copyrole": "access",
+      "blobId": 102494355,
+      "filename": "110543403.jp2",
+      "filesize": 13627004,
+      "technicalmetadata": {
+        "width": 12323,
+        "height": 17668
+      }
+    },
+    {
+      "copyrole": "m",
+      "access": "true",
+      "filesize": 653188692
+    }
+  ],
+  "isOriginalCopyAvaliable": "false",
+  "ocrMetsCopyAvaliable": "false",
+  "partnerNucs": [],
+  "parentProjectIds": [],
+  "projectIds": [],
+  "marcData": {
+    "record": [
+      {
+        "leader": {
+          "type": "Bibliographic",
+          "content": "01652cem a2200349 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": {
+              "code": "a",
+              "content": 8954124
+            },
+            "tag": "019"
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "a"
+              },
+              {
+                "code": "b",
+                "content": 25000
+              },
+              {
+                "code": "d",
+                "content": "E1521500"
+              },
+              {
+                "code": "e",
+                "content": "E1522230"
+              },
+              {
+                "code": "f",
+                "content": "S0310730"
+              },
+              {
+                "code": "g",
+                "content": "S0311500"
+              }
+            ],
+            "tag": "034"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": 9,
+              "content": "(AuCNLDY)2159979"
+            },
+            "tag": "035"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "ANL:AM"
+              },
+              {
+                "code": "b",
+                "content": "eng"
+              },
+              {
+                "code": "c",
+                "content": "ANL:AM"
+              },
+              {
+                "code": "d",
+                "content": "ANL"
+              }
+            ],
+            "tag": "040"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "anuc"
+            },
+            "tag": "042"
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "u-at-ne"
+            },
+            "tag": "043"
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": {
+              "code": "b",
+              "content": "d1975"
+            },
+            "tag": "045"
+          },
+          {
+            "ind2": 4,
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "G8971.K1 s25"
+            },
+            "tag": "050"
+          },
+          {
+            "ind2": " ",
+            "ind1": 2,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forestry Commission of New South Wales."
+              },
+              {
+                "code": 0,
+                "content": 40303
+              },
+              {
+                "code": 9,
+                "content": "d88c072f-2711-553d-8d69-5298347f3ff9"
+              }
+            ],
+            "tag": 110
+          },
+          {
+            "ind2": 0,
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Banda Banda West"
+              },
+              {
+                "code": "h",
+                "content": "[cartographic material] /"
+              },
+              {
+                "code": "c",
+                "content": "Forestry Commission of New South Wales."
+              }
+            ],
+            "tag": 245
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Scale 1:25,000"
+              },
+              {
+                "code": "b",
+                "content": "transverse Mercator proj."
+              },
+              {
+                "code": "c",
+                "content": "(E 152\u00b015\u02b900\u02ba--E 152\u00b022\u02b930\u02ba/S 31\u00b007\u02b930\u02ba--S 31\u00b015\u02b900\u02ba)."
+              }
+            ],
+            "tag": 255
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Sydney] :"
+              },
+              {
+                "code": "b",
+                "content": "Forestry Commission,"
+              },
+              {
+                "code": "c",
+                "content": 1975
+              }
+            ],
+            "tag": 260
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "1 map :"
+              },
+              {
+                "code": "c",
+                "content": "56 x 49 cm."
+              }
+            ],
+            "tag": 300
+          },
+          {
+            "ind2": " ",
+            "ind1": 1,
+            "subfield": [
+              {
+                "code": "a",
+                "content": "[Forestry management maps of New South Wales] ;"
+              },
+              {
+                "code": "v",
+                "content": "9335-I-SW"
+              }
+            ],
+            "tag": 490
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Dyeline print."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "Shows forest areas and boundaries with size in hectares, on topographic base. Relief by contour."
+            },
+            "tag": 500
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": 3,
+                "content": "MAP G8971.K1 s25 copy"
+              },
+              {
+                "code": "a",
+                "content": "Also available online"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1105410488"
+              }
+            ],
+            "tag": 530
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forest management"
+              },
+              {
+                "code": "z",
+                "content": "New South Wales"
+              },
+              {
+                "code": "z",
+                "content": "Banda Banda West"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 650
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Banda Banda West (N.S.W.)"
+              },
+              {
+                "code": "v",
+                "content": "Maps."
+              }
+            ],
+            "tag": 651
+          },
+          {
+            "ind2": " ",
+            "ind1": 0,
+            "subfield": [
+              {
+                "code": "i",
+                "content": "In collection:"
+              },
+              {
+                "code": "t",
+                "content": "[Forestry management maps of New South Wales]"
+              },
+              {
+                "code": "w",
+                "content": "(AuCNL)7427385"
+              }
+            ],
+            "tag": 773
+          },
+          {
+            "ind2": 0,
+            "ind1": " ",
+            "subfield": [
+              {
+                "code": "a",
+                "content": "Forestry management maps of New South Wales ;"
+              },
+              {
+                "code": "v",
+                "content": "9335-I-SW."
+              }
+            ],
+            "tag": 830
+          },
+          {
+            "ind2": 1,
+            "ind1": 4,
+            "subfield": [
+              {
+                "code": "z",
+                "content": "National Library of Australia digitised item. MAP G8971.K1 s25 copy"
+              },
+              {
+                "code": "u",
+                "content": "https://nla.gov.au/nla.obj-1105410488"
+              },
+              {
+                "code": "x",
+                "content": "fulltext"
+              }
+            ],
+            "tag": 856
+          },
+          {
+            "ind2": "f",
+            "ind1": "f",
+            "subfield": [
+              {
+                "code": "s",
+                "content": "b4031a0c-8ed9-5f4b-a2c7-090fb945aaae"
+              },
+              {
+                "code": "i",
+                "content": "fce0df5a-6d24-5af3-b757-fed9799188a1"
+              }
+            ],
+            "tag": 999
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 215805
+          },
+          {
+            "tag": "007",
+            "content": "az cuuun"
+          },
+          {
+            "tag": "008",
+            "content": "920424s1975    xna       a  s      eng d"
+          },
+          {
+            "tag": "005",
+            "content": 20230919012456.2
+          }
+        ]
+      },
+      {
+        "leader": {
+          "type": "Holdings",
+          "content": "00000nam a2200000 a 4500"
+        },
+        "datafield": [
+          {
+            "ind2": " ",
+            "ind1": 8,
+            "subfield": [
+              {
+                "code": "b",
+                "content": "MAP"
+              },
+              {
+                "code": "h",
+                "content": "MAP G8971.K1 s25"
+              }
+            ],
+            "tag": 852
+          },
+          {
+            "ind2": " ",
+            "ind1": " ",
+            "subfield": {
+              "code": "a",
+              "content": "NLA"
+            },
+            "tag": 954
+          }
+        ],
+        "controlfield": [
+          {
+            "tag": "001",
+            "content": 1483023
+          },
+          {
+            "tag": "004",
+            "content": 215805
+          }
+        ]
+      }
+    ]
+  },
+  "parent": {
+    "id": "55219649",
+    "collection": "nla.map",
+    "type": "work",
+    "form": "Picture",
+    "displayTitlePage": "false",
+    "bibLevel": "Item",
+    "bibId": "7427385",
+    "holdingNumber": "MAP G8971.K1 s25",
+    "pid": "nla.obj-552196499",
+    "title": "[Forestry management maps of New South Wales] : 1:25,000",
+    "accessConditions": "Unrestricted",
+    "copyrightPolicy": "No known copyright restrictions",
+    "recordSource": "NLACat",
+    "sensitiveMaterial": "No",
+    "digitalStatus": "Captured",
+    "startDate": "01 January 1966",
+    "creator": "Forestry Commission of New South Wales, cartographer, issuing body.",
+    "extent": "maps : some colour ; 66 x 64 cm or smaller, sheets 92 x 68 cm or smaller",
+    "isMissingPage": "false",
+    "interactiveIndexAvailable": "true",
+    "publisherName": "Forestry Commission of New South Wales",
+    "allowSearchEngineIndexing": "false",
+    "findingAidAvailable": "No",
+    "isOriginalCopyAvaliable": "false",
+    "ocrMetsCopyAvaliable": "false",
+    "partnerNucs": [],
+    "parentProjectIds": [],
+    "projectIds": []
+  },
+  "topLevelCollection": "nla.obj-552196499"
+}

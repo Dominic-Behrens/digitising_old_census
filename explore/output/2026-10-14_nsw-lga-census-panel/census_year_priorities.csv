@@ -1,0 +1,11 @@
+census_year,census_date,roster_state,council_rows,map_outline_audit_state,priority,next_action
+1911,1911-04-03,indexed,324,not_audited,1,review_names_and_audit_municipal_outlines
+1921,1921-04-04,extracted_name_review_pending,321,not_audited,1,review_names_and_audit_municipal_outlines
+1933,1933-06-30,extracted_name_review_pending,319,not_audited,1,review_names_and_audit_municipal_outlines
+1947,1947-06-30,extracted_name_review_pending,289,not_audited,1,review_names_and_audit_municipal_outlines
+1954,1954-06-30,extracted_name_review_pending,241,not_audited,1,review_names_and_audit_municipal_outlines
+1961,1961-06-30,indexed,225,not_audited,2,audit_council_outline_coverage
+1966,1966-06-30,extracted_name_review_pending,224,not_audited,2,audit_council_outline_coverage
+1971,1971-06-30,indexed,225,not_audited,2,audit_council_outline_coverage
+1976,1976-06-30,indexed,214,not_audited,2,audit_council_outline_coverage
+1981,1981-06-30,indexed,176,not_audited,3,reconcile_digital_labels_and_verify_geometry

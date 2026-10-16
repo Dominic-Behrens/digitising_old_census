@@ -1,0 +1,14 @@
+census_year,lga_code,published_name,digital_name,action
+1981,017,Blayney (S),Blayney (S) (Part B),verify_geometry_and_label
+1981,028,Cabonne (S),Cabonne (S) (Part C),verify_geometry_and_label
+1981,035,"Cessnock, Greater (C)","Cessnock, Greater (C) (Part A)",verify_geometry_and_label
+1981,041,Coolamon (S),Jerrabomberra,verify_geometry_and_label
+1981,051,Deniliquin (M),Deniliouin (M),verify_geometry_and_label
+1981,053,Dubbo (C),Dubbo (c),verify_geometry_and_label
+1981,057,Evans (S),Evans (S) (Part A),verify_geometry_and_label
+1981,063,Gosford (C),Cosford (C),verify_geometry_and_label
+1981,081,Inverell (S),Inverell (S) (Part A),verify_geometry_and_label
+1981,090,Lake Macquarie (M),Lake Macouarie (C),verify_geometry_and_label
+1981,127,Queanbeyan (C),Oueanbeyan (C),verify_geometry_and_label
+1981,133,Rylstone (S),Rylestone (S),verify_geometry_and_label
+1981,151,Tweed (S),Tweed (S) (Part B),verify_geometry_and_label
